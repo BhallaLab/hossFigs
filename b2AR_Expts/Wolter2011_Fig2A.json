@@ -1,0 +1,151 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Surbhit Wagle, Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "surbhitw@instem.res.in, nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 22074826,
+            "authors": "Wolter S et al.",
+            "journal": "Biochem Biophys Res Commun, ",
+            "year": 2011,
+            "figure": "Fig 2a"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "in-vitro",
+        "cellType": "",
+        "temperature": 30,
+        "notes": "PKA activation by cAMP"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "M",
+            "entity": "cAMP",
+            "field": "conc"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "min",
+        "settleTime": 10,
+        "quantityUnits": "ratio",
+        "entities": [
+            "PKA_active"
+        ],
+        "field": "conc",
+        "normalization": {
+            "time": 10,
+            "entities": [
+                "PKA_active"
+            ],
+            "dose": 1e-05,
+            "sampling": "dose"
+        },
+        "display": {
+            "useXlog": true,
+            "useYlog": false
+        },
+        "data": [
+            [
+                3.0e-10,
+                0.048,
+                0
+            ],
+            [
+                1.0e-09,
+                0.044,
+                0
+            ],
+            [
+                3.0e-09,
+                0.04,
+                0
+            ],
+            [
+                1.0e-08,
+                0.04,
+                0
+            ],
+            [
+                2.6e-08,
+                0.108,
+                0
+            ],
+            [
+                3.2e-08,
+                0.161,
+                0
+            ],
+            [
+                5.0e-08,
+                0.289,
+                0
+            ],
+            [
+                7.0e-08,
+                0.47,
+                0
+            ],
+            [
+                1.0e-07,
+                0.735,
+                0
+            ],
+            [
+                2.5e-07,
+                0.968,
+                0
+            ],
+            [
+                3.5e-07,
+                0.988,
+                0
+            ],
+            [
+                1.0e-06,
+                1.0,
+                0
+            ],
+            [
+                3.0e-06,
+                1.0,
+                0
+            ],
+            [
+                5.0e-06,
+                1.0,
+                0
+            ],
+            [
+                1e-05,
+                1.0,
+                0
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ],
+        "parameterChange": [
+            {
+                "entity": "PKA_inhibitor",
+                "field": "concInit",
+                "value": 0,
+                "units": "mM"
+            },
+            {
+                "entity": "R2C2",
+                "field": "concInit",
+                "value": 1e-06,
+                "units": "mM"
+            }
+        ]
+    }
+}

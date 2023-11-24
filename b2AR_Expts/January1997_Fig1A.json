@@ -1,0 +1,103 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 9295336,
+            "authors": "January B et al.",
+            "journal": "J Biol Chem. ",
+            "year": 1997,
+            "figure": "Fig 1A"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "in-vitro",
+        "cellType": "membrane prepared from transfected HEK-293 cells",
+        "temperature": 30,
+        "notes": ""
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "entity": "Epinephrine",
+            "field": "conc",
+            "quantityUnits": "nM"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "settleTime": 600,
+        "quantityUnits": "ratio",
+        "entities": [
+            "cAMP"
+        ],
+        "field": "conc",
+        "normalization": {
+            "sampling": "dose",
+            "entities": [
+                "cAMP"
+            ],
+            "dose": 23,
+            "time": 600
+        },
+        "display": {
+            "useXlog": true, 
+            "useYlog": false
+        }, 
+        "data": [
+            [
+                0.01,
+                0.086,
+                0.0
+            ],
+            [
+                0.1,
+                0.156,
+                0.0
+            ],
+            [
+                0.4,
+                0.289,
+                0.0
+            ],
+            [
+                1.0,
+                0.5,
+                0.015
+	    ],
+            [
+                3.3,
+                0.75,
+                0.015
+            ],
+            [
+                10.0,
+                0.886,
+                0.015
+            ],
+            [
+                23.0,
+                1.0,
+                0.034
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "Epinephrine",
+            "b2AR_g",
+            "Gs_g",
+            "BetaGamma",
+            "AC_g",
+            "Ca_g",
+            "CaM_g"
+        ]
+    }
+}

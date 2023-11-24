@@ -1,0 +1,183 @@
+{
+	"FileType": "Hoss",
+	"Version": "2.0",
+	"author": "Nisha Ann Viswan",
+	"model": "Models/b2AR_PKA_v5.g",
+	"map": "Maps/D4_map_b2AR.json",
+	"exptDir": "./b2AR_Expts",
+	"outputDir": "./OPTIMIZED",
+	"scoreFunc": "NRMS",
+	"tolerance": 0.001,
+	"timeout": 600,
+	"algorithm": "COBYLA",
+	"comment": "Testing hossMC optimization.",
+	"hossMethod": {
+		"method": "hossMC",
+		"numProcesses": 24,
+		"numInitScramble": 200,
+		"numScramble": 200,
+		"numTopModels": 5,
+		"scrambleRange": 2.0,
+		"scramDir": "SCRAM",
+		"freezeParams": [
+				"AC1.concInit", "AC2.concInit", "CaM.concInit"
+		]
+	},
+	"HOSS": [
+		{
+			"name": "Input Layer", 
+			"hierarchyLevel": 1,
+			"b2AR": {
+				"comment": "L1. Currently just one expt: Tran2007 is a TimeSeries. Hence removing b2AR.concInit and GsGDP.concInit from the list of params.",
+				"expt": {
+					"Tran2007_Fig2B.json": {"weight": 100}
+					},
+				"params": [ 
+						"Iso_bind_b2AR.Kd", "Iso_bind_b2AR.Kd", 
+						"Iso_bind_RGs.tau" , "Iso_bind_RGs.tau",
+						"LR_bind_GsGDP.Kf", "LR_bind_GsGDP.Kb",
+						"R_bind_GsGDP.Kf", "R_bind_GsGDP.Kb"
+				],
+				"resultFile": "b2AR_L1_opt.txt",
+				"optModelFile": "b2AR_L1_opt.g"
+				},
+			"CaM": {
+				"comment": "L1. I don't currently have a ref for [CaM], so excluding this param. Similarly for aCaM.tau.",
+				"expt": {
+					"Crouch1980_Fig1.json": {"weight": 100},
+					"Crouch1980_Table1.json": {"weight": 30},
+					"Peersen1997_Fig1.json": {"weight": 100},
+					"Porumb1994_Table3.json": {"weight": 30},
+					"Shifman2006_Table2.json": {"weight": 30},
+					"Stemmer1994_Table3.json": {"weight": 30}
+					},
+				"params": [
+						"CaM.concInit",
+						"ng.concInit",
+						"CaM_bind_Ca.Kd", "CaM_bind_Ca.tau",
+						"CaMCa_bind_Ca.Kd", "CaMCa_bind_Ca.tau",
+						"CaMCa2_bind_Ca.Kd", "CaMCa2_bind_Ca.tau",
+						"CaMCa3_bind_Ca.Kd", "CaMCa3_bind_Ca.tau",
+						"CaM_ng_deph.Kf",
+						"ng_bind_CaM.Kd", "ng_bind_CaM.tau"
+				],
+				"resultFile": "b2AR_L1_CaM.txt",
+				"optModelFile": "b2AR_L1_CaM.g"
+				}
+		},
+		{
+			"name": "cAMP",
+			"hierarchyLevel": 2,
+
+			"Gs": {
+				"comment": "Each block can be optimized independently in ||",
+				"expt": {
+					"Ransnas1992_Fig1A.json": {"weight": 34},
+					"Ransnas1992_Fig1B.json": {"weight": 34}
+					},
+				"params": [ 
+						"Act_Gs.Kf", "basalAct_Gs.Kf", 
+						"Inact_Gs.Kf", "Trimerize_Gs.Kf" 
+				],
+				"resultFile": "b2AR_L2_Gs.txt",
+				"optModelFile": "b2AR_L2_Gs.g"
+			}
+		},
+		{
+			"name": "cAMP",
+			"hierarchyLevel": 3,
+			"AC": {
+				"comment": "Each block can be optimized independently in ||",
+				"expt": {
+					"Feinstein1991_Fig4_AC1.json": {"weight": 100},
+					"Feinstein1991_Fig5.json": {"weight": 100},
+					"January1997_Fig1A.json": {"weight": 100},
+					"Sette1994_Fig4BwithInhibitor.json": {"weight": 45},
+					"Sette1994_Fig4BwoInhibitor.json": {"weight": 45},
+					"Smigel1986_Fig3_with_bg.json": {"weight": 34},
+					"Smigel1986_Fig7_with_bg.json": {"weight": 100},
+					"Suzuki1991_Fig2.json": {"weight": 100},
+					"Tang1991_Fig3A.json": {"weight": 100},
+					"Tang1991_Fig3B.json": {"weight": 100},
+					"Yuan1994_Fig2.json": {"weight": 100}
+					},
+				"params": [ 
+						"AC1CaM_form_cAMP.Km", "AC1CaM_form_cAMP.kcat", 
+						"AC2p_form_cAMP.Km", "AC2p_form_cAMP.kcat", 
+						"AC2Gs_form_cAMP.Km", "AC2Gs_form_cAMP.kcat", 
+						"AC1Gs_form_cAMP.Km", "AC1Gs_form_cAMP.kcat", 
+						"AC2pGs_form_cAMP.Km", "AC2pGs_form_cAMP.kcat", 
+						"CaM_bind_AC1.Kd", "CaM_bind_AC1.tau",  
+						"Gs_bind_AC2.Kd", "Gs_bind_AC2.tau", 
+						"Gs_bind_AC1.Kd", "Gs_bind_AC1.tau", 
+						"Gs_bind_AC2p.Kd", "Gs_bind_AC2p.tau" ],
+				"resultFile": "b2AR_L3_AC.txt",
+				"optModelFile": "b2AR_L3_AC.g"
+			},
+			"PDE1": {
+				"comment": "Level 2. Rather short on expts. Klee just does CaM binding to PDE. Sette is a time-series from culture. I'm removing from ParamList: PDE1.concInit since neither of the expts will help. Also removing CaM_PDE1.tau.",
+				"expt": {
+					"Klee1978.json": {"weight": 30},
+					"Laliberte2002_Fig1.json": {"weight": 30},
+					"Sette1996_Fig2B.json": {"weight": 100}
+					},
+				"params": [ 
+						"CaM_bind_PDE1.Kd", 
+						"CaM_PDE1_enz.Km", "CaM_PDE1_enz.kcat", 
+						"cAMP_PDE1_enz.Km", "cAMP_PDE1_enz.kcat", 
+						"cAMP_PDE_p_enz.Km", "cAMP_PDE_p_enz.kcat", 
+						"phosph_PDE.Km", "phosph_PDE.kcat",
+						"dephosph_PDE.Kf"
+						],
+				"resultFile": "b2AR_L3_PDE.txt",
+				"optModelFile": "b2AR_L3_PDE.g"
+			}
+		},
+
+		{
+			"name": "PKA",
+			"hierarchyLevel": 4,
+
+			"PKA": {
+				"comment": "Each block can be optimized independently in ||",
+				"expt": {
+					"Hasler1992_Fig4C.json": {"weight": 67},
+					"Heubach2004_Table1.json": {"weight": 67},
+					"Solberg1994_Fig7.json": {"weight": 43},
+					"Wolter2011_Fig2A.json": {"weight": 37}
+				},
+				"params": [
+						"cAMP_bind_site_B1.Kd", "cAMP_bind_site_B1.tau", 
+						"cAMP_bind_site_B2.Kd", "cAMP_bind_site_B2.tau", 
+						"cAMP_bind_site_A1.Kd", "cAMP_bind_site_A1.tau", 
+						"cAMP_bind_site_A2.Kd", "cAMP_bind_site_A2.tau", 
+						"Release_C1.Kd", "Release_C1.tau", 
+						"Release_C2.Kd", "Release_C2.tau"],
+				"resultFile": "b2AR_L4_PKA.txt",
+				"optModelFile": "b2AR_L4_PKA.g"
+			}
+		},
+
+		{
+			"name": "Entire",
+			"hierarchyLevel": 5,
+
+			"b2ARtoPKA": {
+				"comment": "Experiments for whole pathway, from ligand to PKA.",
+				"expt": {
+					"Heubach2004_Table1.json": {"weight": 34},
+					"January1997_Fig1A.json": {"weight": 34},
+					"Suzuki1991_Fig2.json": {"weight": 34},
+					"Yuan1994_Fig2.json": {"weight": 34}
+					},
+				"params": [ "LR_bind_GsGDP.Kd", "LR_bind_GsGDP.tau", 
+						"R_bind_GsGDP.Kd", "R_bind_GsGDP.tau", 
+						"Iso_bind_RGs.Kd", "Iso_bind_RGs.tau", 
+						"Epi_bind_RGs.Kd", "Epi_bind_RGs.tau"
+				],
+				"resultFile": "b2AR_L5_entire.txt",
+				"optModelFile": "b2AR_L5_entire.g"
+			}
+		}
+	]
+}

@@ -1,0 +1,118 @@
+{
+    "FileType": "HillTau",
+    "Version": "1.0",
+    "Author": "US Bhalla, mapping to D4 model adapted from Nisha Viswan",
+    "Description": "EGF stimulation of MAPK",
+    "QuantityUnits": "uM",
+    "Comment": "Time units are seconds",
+    "Groups": {
+        "EGFR_g": {
+            "Species": {
+                "EGFR": 0.1667,
+                "egf": 1e-05
+            },
+            "Reacs": {
+                "intEGFR": {
+                    "tau": 822.9218696778216,
+                    "KA": 0.062027947007900854,
+                    "subs": [
+                        "aEGFR"
+                    ]
+                },
+                "aEGFR": {
+                    "tau": 95.10404232171796,
+                    "KA": 0.006307,
+                    "baseline": 0.001,
+                    "Kmod": 0.02,
+                    "Nmod": 1,
+                    "Amod": 1e-07,
+                    "subs": [
+                        "EGFR",
+                        "intEGFR",
+                        "egf"
+                    ]
+                }
+            }
+        },
+        "SHC_g": {
+            "Species": {
+                "SHC": 0.5
+            },
+            "Reacs": {
+                "aSHC": {
+                    "tau2": 3.190213562227043,
+                    "tau": 29.016018522649524,
+                    "KA": 0.02089,
+                    "subs": [
+                        "SHC",
+                        "aEGFR",
+                        "aEGFR"
+                    ]
+                }
+            }
+        },
+        "Ras_g": {
+            "Species": {
+                "Ras": 0.5,
+                "Sos": 0.2
+            },
+            "Reacs": {
+                "aSos": {
+                    "tau": 14.995933298886204,
+                    "KA": 0.07652,
+                    "baseline": 0.001,
+                    "subs": [
+                        "Sos",
+                        "aMAPK",
+                        "aSHC",
+                        "aSHC"
+                    ],
+                    "Kmod": 0.002914,
+                    "Nmod": 2.0,
+                    "Amod": 0.01723973025015327
+                },
+                "aRas": {
+                    "tau": 24.693753815770812,
+                    "KA": 0.1342,
+                    "baseline": 0.003596,
+                    "subs": [
+                        "Ras",
+                        "aSos"
+                    ]
+                }
+            }
+        },
+        "MAPK_g": {
+            "Species": {
+                "MAPK": 0.36,
+                "craf1": 0.2
+            },
+            "Reacs": {
+                "aMAPK": {
+                    "tau": 36.77635354646959,
+                    "KA": 0.1036,
+                    "baseline": 0.0013,
+                    "subs": [
+                        "MAPK",
+                        "acraf1",
+                        "acraf1"
+                    ]
+                },
+                "acraf1": {
+                    "tau": 41.249640830253924,
+                    "KA": 0.2436,
+                    "baseline": 0.003545,
+                    "subs": [
+                        "craf1",
+                        "aRas",
+                        "aRas"
+                    ]
+                }
+            }
+        }
+    },
+    "Constants": {
+        "PRas": 0.125,
+        "PSHC": 0.3
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 7864622,
+            "authors": "Seki K et al.",
+            "journal": "Arch Biochem Biophys., ",
+            "year": 1995,
+            "figure": ""
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DirectParameter",
+        "species": "in-vitro",
+        "cellType": "rat brain PP2B1,CaM,neurogranin",
+        "temperature": 30,
+        "notes": ""
+    },
+    "Readouts": {
+        "paramdata": [
+            {
+                "entity": "CaN_ng_deph",
+                "field": "Km",
+                "units": "uM",
+                "value": 13.4,
+                "stderr": 3.1
+            },
+            {
+                "entity": "CaN_ng_deph",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 1.73,
+                "stderr": 0.356
+            }
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}

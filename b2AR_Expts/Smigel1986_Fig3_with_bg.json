@@ -1,0 +1,124 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 3080431,
+            "authors": "Smigel MD.",
+            "journal": "J Biol Chem. ",
+            "year": 1986,
+            "figure": "Fig 3"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "in-vitro",
+        "cellType": "AC was extracted from cow brain membranes",
+        "temperature": 30,
+        "notes": ""
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "entity": "Gs_GDP",
+            "field": "conc",
+            "quantityUnits": "uM"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "settleTime": 1800,
+        "quantityUnits": "ratio",
+        "entities": [
+            "cAMP"
+        ],
+        "field": "conc",
+        "normalization": {
+            "sampling": "dose",
+            "entities": [
+                "cAMP"
+            ],
+            "dose": 0.125,
+            "time": 1800
+        },
+        "display": {
+            "useXlog": true, 
+            "useYlog": false
+        }, 
+        "data": [
+            [
+                0.0000125,
+                0.26,
+                0.0
+            ],
+            [
+                0.000037,
+                0.280,
+                0.0
+            ],
+            [
+                0.000125,
+                0.328,
+                0.0
+            ],
+            [
+                0.00037,
+                0.443,
+                0.0
+	    ],
+            [
+                0.00125,
+                0.706,
+                0.0
+            ],
+            [
+                0.0037,
+                0.903,
+                0.0
+            ],
+            [
+                0.0125,
+                1.015,
+                0.0
+            ],
+            [
+                0.037,
+                0.984,
+                0.0
+            ],
+            [
+                0.125,
+                1.0,
+                0.0
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "b2AR_g",
+            "Gs_g",
+            "BetaGamma",
+            "AC_g"
+        ],
+        "parameterChange": [
+            {
+                "entity": "AC1",
+                "field": "concInit",
+                "value": 0.067,
+                "units": "nM"
+            },
+            {
+                "entity": "BetaGamma",
+                "field": "concInit",
+                "value": 0.0,
+                "units": "uM"
+            }
+        ]
+    }
+}

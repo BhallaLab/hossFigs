@@ -1,0 +1,103 @@
+{
+    "FileType": "FindSim",
+    "Version": "1.0",
+    "Metadata": {
+        "transcriber": "bhalla",
+        "organization": "OpenSource",
+        "source": {
+            "sourceType": "other",
+            "doi": "dummy",
+            "year": 2023
+        }
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "",
+        "cellType": "",
+        "notes": "Generated from mousse.py"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "uM",
+            "entity": "aRas",
+            "field": "conc"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "quantityUnits": "uM",
+        "settleTime": 380.42,
+        "entities": [
+            "acraf1"
+        ],
+        "field": "conc",
+        "data": [
+            [
+                0.0125,
+                0.004070184056193638,
+                0.0
+            ],
+            [
+                0.025,
+                0.005629365558264659,
+                0.0
+            ],
+            [
+                0.05,
+                0.011629677356511678,
+                0.0
+            ],
+            [
+                0.1,
+                0.03238597907449402,
+                0.0
+            ],
+            [
+                0.2,
+                0.08407074448041747,
+                0.0
+            ],
+            [
+                0.25,
+                0.10613562872145953,
+                0.0
+            ],
+            [
+                0.3125,
+                0.12794797310335942,
+                0.0
+            ],
+            [
+                0.625,
+                0.17716449765345194,
+                0.0
+            ],
+            [
+                1.25,
+                0.1962254328686179,
+                0.0
+            ],
+            [
+                2.5,
+                0.20166342449927774,
+                0.0
+            ],
+            [
+                5.0,
+                0.20307126069101583,
+                0.0
+            ]
+        ]
+    },
+    "Modifications": {
+        "parameterChange": [
+            {
+                "entity": "aRas",
+                "field": "isBuffered",
+                "value": 1,
+                "units": "none"
+            }
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Surbhit Wagle, Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "surbhitw@instem.res.in, nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 7925653,
+            "authors": "Solberg et al.",
+            "journal": "Expt. Cell Research, ",
+            "year": 1994,
+            "figure": ""
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "in-vitro",
+        "cellType": "purified human R1b subunit, bovine R1a subunit and mouse Ca subunit to form holoenzyme.",
+        "temperature": 37,
+        "notes": ""
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "nM",
+            "entity": "cAMP",
+            "field": "conc"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "min",
+        "settleTime": 30,
+        "quantityUnits": "ratio",
+        "entities": [
+            "PKA_active"
+        ],
+        "field": "conc",
+        "normalization": {
+            "time": 30,
+            "entities": [
+                "PKA_active"
+            ],
+            "dose": 1000,
+            "sampling": "dose"
+        },
+        "display": {
+            "useXlog": true,
+            "useYlog": false
+        },
+        "data": [
+            [
+                1.0,
+                0.094,
+                0
+            ],
+            [
+                2.0,
+                0.1,
+                0
+            ],
+            [
+                5.0,
+                0.106,
+                0
+            ],
+            [
+                10.0,
+                0.124,
+                0
+            ],
+            [
+                20.0,
+                0.176,
+                0
+            ],
+            [
+                50.0,
+                0.375,
+                0
+            ],
+            [
+                100,
+                0.624,
+                0
+            ],
+            [
+                200.0,
+                0.843,
+                0
+            ],
+            [
+                500.0,
+                0.969,
+                0
+            ],
+            [
+                1000,
+                1.0,
+                0
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}

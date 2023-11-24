@@ -1,0 +1,173 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 9098889,
+            "authors": "Peersen OB et al.",
+            "journal": "Protein Science, ",
+            "year": 1997,
+            "figure": "Fig1"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "in-vitro",
+        "cellType": "drosophila CaM",
+        "temperature": 25,
+        "notes": ""
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "M",
+            "entity": "Ca",
+            "field": "conc"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "settleTime": 270,
+        "quantityUnits": "ratio",
+        "entities": [
+            "tot_Ca_on_CaM"
+        ],
+        "field": "conc",
+        "normalization": {
+            "time": 270,
+            "entities": [
+                "tot_Ca_on_CaM"
+            ],
+            "dose": 0.000159,
+            "sampling": "dose"
+        },
+        "display": {
+            "useXlog": true,
+            "useYlog": false
+        },
+        "data": [
+            [
+                8.32e-08,
+                0.012,
+                0
+            ],
+            [
+                1.23e-07,
+                0.0145,
+                0
+            ],
+            [
+                3.88e-07,
+                0.0058,
+                0
+            ],
+            [
+                5.27e-07,
+                0.08,
+                0
+            ],
+            [
+                7.08e-07,
+                0.1093,
+                0
+            ],
+            [
+                1.33e-06,
+                0.2,
+                0
+            ],
+            [
+                2.09e-06,
+                0.2857,
+                0
+            ],
+            [
+                3.72e-06,
+                0.41,
+                0
+            ],
+            [
+                6.03e-06,
+                0.522,
+                0
+            ],
+            [
+                1.03e-05,
+                0.661,
+                0
+            ],
+            [
+                3.03e-05,
+                0.904,
+                0
+            ],
+            [
+                4.79e-05,
+                0.954,
+                0
+            ],
+            [
+                6.75e-05,
+                0.979,
+                0
+            ],
+            [
+                9.19e-05,
+                0.99,
+                0
+            ],
+            [
+                0.000135,
+                0.998,
+                0
+            ],
+            [
+                0.000159,
+                1.000,
+                0
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "CaM_g",
+            "Ca_g"
+        ],
+        "itemsToDelete": [
+            "tCaM_CaN",
+            "CaN_Ca4",
+            "ng_CaM",
+            "ngp",
+            "ng",
+            "CaM_ng_deph",
+            "ng_bind_CaM",
+            "CaMKIII_bind_CaMCa4"
+        ],
+        "parameterChange": [
+            {
+                "entity": "CaM",
+                "field": "concInit",
+                "value": 1e-05,
+                "units": "mM"
+            },
+            {
+                "entity": "Ca",
+                "field": "isBuffered",
+                "value": 0.0,
+                "units": "none"
+            },
+            {
+                "entity": "CaM",
+                "field": "isBuffered",
+                "value": 0.0,
+                "units": "none"
+            }
+        ]
+    }
+}

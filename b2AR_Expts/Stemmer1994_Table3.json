@@ -1,0 +1,63 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 8204620,
+            "authors": "Stemmer PM and Klee CB",
+            "journal": "Biochemistry, ",
+            "year": 1994,
+            "figure": "Table3"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DirectParameter",
+        "species": "in-vitro",
+        "cellType": "bovine brain CaN, ram testis CaM",
+        "temperature": 30,
+        "notes": ""
+    },
+    "Readouts": {
+        "paramdata": [
+            {
+                "entity": "CaM_bind_Ca",
+                "field": "Kd",
+                "units": "uM",
+                "value": 0.9,
+                "stderr": 0.2
+            },
+            {
+                "entity": "CaMCa_bind_Ca",
+                "field": "Kd",
+                "units": "uM",
+                "value": 1.1,
+                "stderr": 0.04
+            },
+            {
+                "entity": "CaMCa2_bind_Ca",
+                "field": "Kd",
+                "units": "uM",
+                "value": 21.5,
+                "stderr": 0.5
+            },
+            {
+                "entity": "CaMCa3_bind_Ca",
+                "field": "Kd",
+                "units": "uM",
+                "value": 2.8,
+                "stderr": 0.5
+            }
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Surbhit Wagle",
+        "organization": "NCBS",
+        "email": "surbhitw@instem.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 11852080,
+            "authors": "Laliberte et al.",
+            "journal": "FEBS letters, ",
+            "year": 2002,
+            "figure": ""
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DirectParameter",
+        "species": "",
+        "cellType": "",
+        "notes": ""
+    },
+    "Readouts": {
+        "paramdata": [
+            {
+                "entity": "cAMP_PDE1_enz",
+                "field": "Km",
+                "units": "uM",
+                "value": 3.2,
+                "stderr": 0.2
+            },
+            {
+                "entity": "cAMP_PDE_p_enz",
+                "field": "Km",
+                "units": "uM",
+                "value": 2.2,
+                "stderr": 0.2
+            },
+            {
+                "entity": "cAMP_PDE1_enz",
+                "field": "kcat",
+                "units": "mM",
+                "value": 0.0011,
+                "stderr": 0
+            },
+            {
+                "entity": "cAMP_PDE_p_enz",
+                "field": "kcat",
+                "units": "mM",
+                "value": 0.00438,
+                "stderr": 0
+            }
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 9295336,
+            "authors": "Feinstein PG et al.",
+            "journal": "PNAS",
+            "year": 1991,
+            "figure": "Fig 5"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "in-vitro",
+        "cellType": "",
+        "temperature": 30,
+        "notes": "Homologs of bovine brain AC against the rat olfactory library was synthesized and expressed in Sf9 cells"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "entity": "GsGTP",
+            "field": "conc",
+            "quantityUnits": "nM"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "settleTime": 600,
+        "quantityUnits": "ratio",
+        "entities": [
+            "cAMP"
+        ],
+        "field": "conc",
+        "normalization": {
+            "sampling": "dose",
+            "entities": [
+                "cAMP"
+            ],
+            "dose": 100.0,
+            "time": 600
+        },
+        "display": {
+            "useXlog": true, 
+            "useYlog": false
+        }, 
+        "data": [
+            [
+                0.0,
+                0.03,
+                0.0
+            ],
+            [
+                0.08,
+                0.074,
+                0.0
+            ],
+            [
+                0.38,
+                0.188,
+                0.0
+            ],
+            [
+                1.57,
+                0.39,
+                0.0
+	    ],
+            [
+                6.24,
+                0.66,
+                0.045
+	    ],
+            [
+                25.39,
+                0.907,
+                0.0
+	    ],
+            [
+                100.0,
+                1.0,
+                0.0
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "Gs_g",
+            "BetaGamma",
+            "AC_g"
+        ]
+    }
+}

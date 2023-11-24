@@ -1,0 +1,92 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 9295336,
+            "authors": "Feinstein PG et al.",
+            "journal": "PNAS",
+            "year": 1991,
+            "figure": "Fig 4"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "in-vitro",
+        "cellType": "",
+        "temperature": 30,
+        "notes": "Homologs of bovine brain ACI against the rat olfactory library was synthesized and expressed in Sf9 cells"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "entity": "Ca",
+            "field": "conc",
+            "quantityUnits": "mM"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "settleTime": 1800,
+        "quantityUnits": "ratio",
+        "entities": [
+            "cAMP"
+        ],
+        "field": "conc",
+        "normalization": {
+            "sampling": "dose",
+            "entities": [
+                "cAMP"
+            ],
+            "dose": 0.01,
+            "time": 1800
+        },
+        "display": {
+            "useXlog": true, 
+            "useYlog": false
+        }, 
+        "data": [
+            [
+                0.00001,
+                0.0973,
+                0.0
+            ],
+            [
+                0.0001,
+                0.3869,
+                0.0
+            ],
+            [
+                0.01,
+                1.0,
+                0.025
+            ],
+            [
+                0.1,
+                0.74,
+                0.0
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "AC_g",
+            "Ca_g",
+            "CaM_g"
+        ],
+        "parameterChange": [
+            {
+                "entity": "CaM",
+                "field": "concInit",
+                "value": 3.0,
+                "units": "uM"
+            }
+        ]
+    }
+}

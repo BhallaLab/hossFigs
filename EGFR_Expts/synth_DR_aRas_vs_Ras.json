@@ -1,0 +1,115 @@
+{
+    "FileType": "FindSim",
+    "Version": "1.0",
+    "Metadata": {
+        "transcriber": "bhalla",
+        "organization": "OpenSource",
+        "source": {
+            "sourceType": "other",
+            "doi": "dummy",
+            "year": 2023
+        }
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "",
+        "cellType": "",
+        "notes": "Generated from mousse.py"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "uM",
+            "entity": "Ras",
+            "field": "conc"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "quantityUnits": "uM",
+        "settleTime": 380.42,
+        "entities": [
+            "aRas"
+        ],
+        "field": "conc",
+        "data": [
+            [
+                0.0125,
+                0.0036948794935302,
+                0.0
+            ],
+            [
+                0.025,
+                0.003792500598834783,
+                0.0
+            ],
+            [
+                0.05,
+                0.0039876843723765515,
+                0.0
+            ],
+            [
+                0.1,
+                0.004378033339918815,
+                0.0
+            ],
+            [
+                0.2,
+                0.005158505359843565,
+                0.0
+            ],
+            [
+                0.25,
+                0.005548022568842349,
+                0.0
+            ],
+            [
+                0.3125,
+                0.0060351171684509585,
+                0.0
+            ],
+            [
+                0.625,
+                0.008471136182387307,
+                0.0
+            ],
+            [
+                1.25,
+                0.013331159633204087,
+                0.0
+            ],
+            [
+                2.5,
+                0.022958701608643637,
+                0.0
+            ],
+            [
+                5.0,
+                0.04152770814399415,
+                0.0
+            ]
+        ]
+    },
+    "Modifications": {
+        "parameterChange": [
+            {
+                "entity": "Ras",
+                "field": "isBuffered",
+                "value": 1,
+                "units": "none"
+            },
+            {
+                "entity": "aSos",
+                "field": "isBuffered",
+                "value": 1,
+                "units": "none"
+            },
+            {
+                "entity": "aSos",
+                "field": "concInit",
+                "value": 1e-06,
+                "units": "mM"
+            }
+        ]
+    }
+}

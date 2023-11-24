@@ -1,0 +1,94 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 1315517,
+            "authors": "Ransnas LA et al.",
+            "journal": "Biochem. J ",
+            "year": 1992,
+            "figure": "Fig 1B"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "in-vitro",
+        "cellType": "plasma membrane from S49 lymphoma cells",
+        "temperature": 37,
+        "notes": "100uM Mg2+ was used"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "entity": "Isoproterenol",
+            "field": "conc",
+            "quantityUnits": "uM"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "settleTime": 600,
+        "quantityUnits": "ratio",
+        "entities": [
+            "Gs_alpha_GTP"
+        ],
+        "field": "conc",
+        "normalization": {
+            "sampling": "dose",
+            "entities": [
+                "Gs_alpha_GTP"
+            ],
+            "dose": 0.1,
+            "time": 600
+        },
+        "display": {
+            "useXlog": true, 
+            "useYlog": false
+        }, 
+        "data": [
+            [
+                0.001,
+                0.691,
+                0.049
+            ],
+            [
+                0.005,
+                0.818,
+                0.065
+            ],
+            [
+                0.01,
+                0.924,
+                0.023
+            ],
+            [
+                0.05,
+                0.946,
+                0.0371
+            ],
+            [
+                0.1,
+                1.0,
+                0.0371
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "Isoproterenol",
+            "b2AR_g",
+            "Gs_g",
+            "BetaGamma",
+            "AC_g",
+            "Ca_g",
+            "CaM_g",
+            "PKA_g"
+        ]
+    }
+}

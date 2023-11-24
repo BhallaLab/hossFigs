@@ -1,0 +1,63 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 7407067,
+            "authors": "Crouch TH and Klee CB",
+            "journal": "Biochem, ",
+            "year": 1980,
+            "figure": "Table1"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DirectParameter",
+        "species": "in-vitro",
+        "cellType": "",
+        "temperature": 30,
+        "notes": "bovine brain CaM"
+    },
+    "Readouts": {
+        "paramdata": [
+            {
+                "entity": "CaM_bind_Ca",
+                "field": "Kd",
+                "units": "M",
+                "value": 3.3e-06,
+                "stderr": 0
+            },
+            {
+                "entity": "CaMCa_bind_Ca",
+                "field": "Kd",
+                "units": "M",
+                "value": 1.16e-06,
+                "stderr": 0
+            },
+            {
+                "entity": "CaMCa2_bind_Ca",
+                "field": "Kd",
+                "units": "M",
+                "value": 8.3e-06,
+                "stderr": 0
+            },
+            {
+                "entity": "CaMCa3_bind_Ca",
+                "field": "Kd",
+                "units": "M",
+                "value": 2.22e-05,
+                "stderr": 0
+            }
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}

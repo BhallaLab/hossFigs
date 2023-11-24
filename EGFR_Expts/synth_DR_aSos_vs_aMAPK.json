@@ -1,0 +1,103 @@
+{
+    "FileType": "FindSim",
+    "Version": "1.0",
+    "Metadata": {
+        "transcriber": "bhalla",
+        "organization": "OpenSource",
+        "source": {
+            "sourceType": "other",
+            "doi": "dummy",
+            "year": 2023
+        }
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "",
+        "cellType": "",
+        "notes": "Generated from mousse.py"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "uM",
+            "entity": "aMAPK",
+            "field": "conc"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "quantityUnits": "uM",
+        "settleTime": 380.42,
+        "entities": [
+            "aSos"
+        ],
+        "field": "conc",
+        "data": [
+            [
+                0.009000000000000001,
+                0.001010365138905893,
+                0.0
+            ],
+            [
+                0.018000000000000002,
+                0.0010035830531336528,
+                0.0
+            ],
+            [
+                0.036000000000000004,
+                0.0010018915829871442,
+                0.0
+            ],
+            [
+                0.07200000000000001,
+                0.0010014648232184512,
+                0.0
+            ],
+            [
+                0.14400000000000002,
+                0.0010013490313944935,
+                0.0
+            ],
+            [
+                0.18000000000000002,
+                0.001001325409176759,
+                0.0
+            ],
+            [
+                0.22500000000000003,
+                0.0010013110611061607,
+                0.0
+            ],
+            [
+                0.45000000000000007,
+                0.0010012974132857905,
+                0.0
+            ],
+            [
+                0.9000000000000001,
+                0.0010012924883673001,
+                0.0
+            ],
+            [
+                1.8000000000000003,
+                0.0010012903344459485,
+                0.0
+            ],
+            [
+                3.6000000000000005,
+                0.0010012892340002172,
+                0.0
+            ]
+        ]
+    },
+    "Modifications": {
+        "parameterChange": [
+            {
+                "entity": "aMAPK",
+                "field": "isBuffered",
+                "value": 1,
+                "units": "none"
+            }
+        ]
+    }
+}

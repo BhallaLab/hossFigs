@@ -1,0 +1,149 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Surbhit Wagle",
+        "organization": "NCBS",
+        "email": "surbhitw@instem.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 8034568,
+            "authors": "Sette C., Vicini E. & Conti M.",
+            "journal": "J Biol Chem, ",
+            "year": 1994,
+            "figure": ""
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "TimeSeries",
+        "species": "in-vitro", 
+        "cellType": "Soluble extracts from MA-10 cells transfected with rat PDE cDNAs.", 
+        "temperature": 34, 
+        "notes": ""
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "min",
+            "quantityUnits": "uM",
+            "entity": "PKA_active",
+            "field": "conc",
+            "data": [
+                [
+                    6,
+                    0.01
+                ]
+            ]
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "min",
+        "settleTime": 16,
+        "quantityUnits": "ratio",
+        "entities": [
+            "AMP"
+        ],
+        "field": "conc",
+        "normalization": {
+            "time": 16,
+            "entities": [
+                "AMP"
+            ],
+            "sampling": "presetTime"
+        },
+        "data": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                2.0,
+                0.087,
+                0
+            ],
+            [
+                4.0,
+                0.159,
+                0
+            ],
+            [
+                6.0,
+                0.246,
+                0
+            ],
+            [
+                8.0,
+                0.346,
+                0
+            ],
+            [
+                10.0,
+                0.467,
+                0
+            ],
+            [
+                12.0,
+                0.598,
+                0
+            ],
+            [
+                14.0,
+                0.776,
+                0
+            ],
+            [
+                16,
+                1.0,
+                0
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "PKA_g",
+            "b2AR_g",
+            "PDE_g",
+            "AC_g"
+        ],
+        "parameterChange": [
+            {
+                "entity": "ATP",
+                "field": "concInit",
+                "value": 0.2,
+                "units": "mM"
+            },
+            {
+                "entity": "AMP",
+                "field": "concInit",
+                "value": 0,
+                "units": "mM"
+            },
+            {
+                "entity": "PKA_active",
+                "field": "isBuffered",
+                "value": 1,
+                "units": "none"
+            },
+            {
+                "entity": "cAMP",
+                "field": "isBuffered",
+                "value": 1,
+                "units": "none"
+            },
+            {
+                "entity": "cAMP",
+                "field": "concInit",
+                "value": 0.001,
+                "units": "mM"
+            },
+            {
+                "entity": "PKA_inhibitor",
+                "field": "concInit",
+                "value": 0,
+                "units": "mM"
+            }
+        ]
+    }
+}

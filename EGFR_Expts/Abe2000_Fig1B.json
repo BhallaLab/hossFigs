@@ -1,0 +1,100 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "National Centre for Biological Sciences",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 10713403,
+            "authors": "Abe K et al.",
+            "journal": "Neuroscience Letters, ",
+            "year": 2000,
+            "figure": "Fig 1B"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "TimeSeries",
+        "species": "Rat",
+        "cellType": "primary cultures of hippocampal neurons from p18 Wistar rats",
+        "temperature": 37,
+        "notes": "5ng/ml EGF"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "nM",
+            "entity": "EGF",
+            "field": "conc",
+            "data": [
+                [
+                    4000,
+                    0.78125
+                ]
+            ]
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "quantityUnits": "ratio",
+        "entities": [
+            "aMAPK"
+        ],
+        "field": "conc",
+        "normalization": {
+            "time": 4000,
+            "entities": [
+                "aMAPK"
+            ],
+            "sampling": "start"
+        },
+        "data": [
+            [
+                4000,
+                1,
+                0
+            ],
+            [
+                4300,
+                2.4,
+                0.2
+            ],
+            [
+                4900,
+                3,
+                0.2
+            ],
+            [
+                5800,
+                3.5,
+                0.6
+            ],
+            [
+                7600,
+                3.7,
+                0.4
+            ],
+            [
+                14800,
+                3.4,
+                0.6
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ],
+        "parameterChange": [
+            {
+                "units": "nM",
+                "field": "concInit",
+                "value": 0.001,
+                "entity": "EGF"
+            }
+        ]
+    }
+}

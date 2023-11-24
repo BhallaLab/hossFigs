@@ -1,0 +1,131 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 3080431,
+            "authors": "Smigel MD.",
+            "journal": "J Biol Chem. ",
+            "year": 1986,
+            "figure": "Fig 7"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "in-vitro",
+        "cellType": "AC was extracted from cow brain membranes",
+        "temperature": 30,
+        "notes": "BetaGamma inhibits AC activity"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "entity": "CaM",
+            "field": "conc",
+            "quantityUnits": "uM"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "settleTime": 1800,
+        "quantityUnits": "ratio",
+        "entities": [
+            "cAMP"
+        ],
+        "field": "conc",
+        "normalization": {
+            "sampling": "dose",
+            "entities": [
+                "cAMP"
+            ],
+            "dose": 15.0,
+            "time": 1800
+        },
+        "display": {
+            "useXlog": true, 
+            "useYlog": false
+        }, 
+        "data": [
+            [
+                0.005,
+                0.4,
+                0.0
+            ],
+            [
+                0.016,
+                0.453,
+                0.0
+            ],
+            [
+                0.05,
+                0.564,
+                0.0
+            ],
+            [
+                0.16,
+                0.558,
+                0.0
+	    ],
+            [
+                0.5,
+                0.654,
+                0.0
+            ],
+            [
+                1.6,
+                0.754,
+                0.0
+            ],
+            [
+                5.0,
+                0.885,
+                0.0
+            ],
+            [
+                16.0,
+                1.00,
+                0.0
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "AC_g",
+            "Gs_g",
+            "Ca_g",
+            "CaM_g"
+        ],
+        "parameterChange": [
+            {
+                "entity": "AC1",
+                "field": "concInit",
+                "value": 0.067,
+                "units": "nM"
+            },
+            {
+                "entity": "BetaGamma",
+                "field": "concInit",
+                "value": 0.015,
+                "units": "uM"
+            },
+            {
+                "entity": "Ca",
+                "field": "concInit",
+                "value": 50.0,
+                "units": "uM"
+            },
+            {
+                "entity": "Ca",
+                "field": "isBuffered",
+                "value": 0.0,
+                "units": "none"
+            }
+        ]
+    }
+}

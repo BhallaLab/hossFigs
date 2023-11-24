@@ -1,0 +1,82 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "National Centre for Biological Sciences",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 14576170,
+            "authors": "Gu J et al.",
+            "journal": "Glycobiology ",
+            "year": 2004,
+            "figure": "Fig 3B"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "TimeSeries",
+        "species": "Cell-line",
+        "cellType": "rat Pheochromocytoma cell line (PC12)",
+        "temperature": 37,
+        "notes": "5ng/ml EGF"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "nM",
+            "entity": "EGF",
+            "field": "conc",
+            "data": [
+                [
+                    4000,
+                    0.78125
+                ]
+            ]
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "quantityUnits": "ratio",
+        "entities": [
+            "aMAPK"
+        ],
+        "field": "conc",
+        "normalization": {
+            "time": 4000,
+            "entities": [
+                "aMAPK"
+            ],
+            "sampling": "start"
+        },
+        "data": [
+            [
+                4000,
+                1,
+                0
+            ],
+            [
+                4300,
+                2.5,
+                1
+            ],
+            [
+                5800,
+                1.5,
+                0.3
+            ],
+            [
+                7600,
+                1.3,
+                0.6
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}

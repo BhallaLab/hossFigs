@@ -1,0 +1,116 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 17012621,
+            "authors": "Tran_TM et al.",
+            "journal": "Mol Pharm, ",
+            "year": 2007,
+            "figure": "Fig2B"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "TimeSeries",
+        "species": "cell-lines",
+        "cellType": "HEK293 cells",
+        "temperature": 37,
+        "notes": "Adrenergic receptors and its agonist were used. Considering mGluR and Glutamate here. Deleting the rest of the model for convenience"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "uM",
+            "entity": "Isoproterenol",
+            "field": "conc",
+            "data": [
+                [
+                    0,
+                    100.0
+                ],
+                [
+                    300,
+                    0.0
+                ]
+            ]
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "quantityUnits": "ratio",
+        "entities": [
+            "ab2AR"
+        ],
+        "field": "conc",
+        "normalization": {
+            "time": 300,
+            "entities": [
+                "ab2AR"
+            ],
+            "sampling": "presetTime"
+        },
+        "data": [
+            [
+                300,
+                1,
+                0
+            ],
+            [
+                600,
+                0.95,
+                0
+            ],
+            [
+                900,
+                0.82,
+                0
+            ],
+            [
+                1200,
+                0.65,
+                0
+            ],
+            [
+                1500,
+                0.52,
+                0
+            ],
+            [
+                2100,
+                0.32,
+                0
+            ],
+            [
+                3900,
+                0.09,
+                0
+            ],
+            [
+                5700,
+                0.01,
+                0
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "Isoproterenol",
+            "b2AR_g",
+            "Gs_g"
+        ],
+        "parameterChange": [
+            {
+                "entity": "Isoproterenol",
+                "field": "isBuffered",
+                "value": 1.0,
+                "units": "none"
+            }
+        ]
+    }
+}

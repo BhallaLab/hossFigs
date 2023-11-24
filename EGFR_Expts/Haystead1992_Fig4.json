@@ -1,0 +1,63 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 1628739,
+            "authors": "Hastead TAJ et al.",
+            "journal": "FEBS, ",
+            "year": 1992,
+            "figure": "Fig 4"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DirectParameter",
+        "species": "in-vitro",
+        "cellType": "Recombinant p42MAPK isolated from Ecoli, MAPKK from rabbit skeletal muscles",
+        "temperature": 30,
+        "notes": ""
+    },
+    "Readouts": {
+        "paramdata": [
+            {
+                "entity": "MAPKKthr",
+                "field": "Km",
+                "units": "nM",
+                "value": 476.0,
+                "stderr": 0
+            },
+            {
+                "entity": "MAPKKtyr",
+                "field": "Km",
+                "units": "nM",
+                "value": 46.6,
+                "stderr": 6.6
+            },
+            {
+                "entity": "MAPKKthr",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.0215,
+                "stderr": 0
+            },
+            {
+                "entity": "MAPKKtyr",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.0404,
+                "stderr": 0.0
+            }
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}

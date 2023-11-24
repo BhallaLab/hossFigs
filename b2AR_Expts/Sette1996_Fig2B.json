@@ -1,0 +1,132 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Surbhit Wagle, Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "surbhitw@instem.res.in, nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 8663227,
+            "authors": "Sette C. & Conti M.",
+            "journal": "J Biol Chem, ",
+            "year": 1996,
+            "figure": "Figure 2B"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "TimeSeries",
+        "species": "cell-line",
+        "cellType": "partially purified rat PDE expressed in SF9 insect cells",
+        "temperature": 30,
+        "notes": " time course activation of PDE in presence/absence of .1uM PKA catalytic subunit., Recombinant Rat PDE was studied  "
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "uM",
+            "entity": "PKA_active",
+            "field": "conc",
+            "data": [
+                [
+                    0,
+                    0.1
+                ]
+            ]
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "min",
+        "settleTime": 14,
+        "quantityUnits": "ratio",
+        "entities": [
+            "cAMP_PDEp"
+        ],
+        "field": "conc",
+        "normalization": {
+            "time": 14.0,
+            "entities": [
+                "cAMP_PDEp"
+            ],
+            "sampling": "presetTime"
+        },
+        "data": [
+            [
+                0,
+                0.0779,
+                0.0
+            ],
+            [
+                2.0,
+                0.483,
+                0.0
+            ],
+            [
+                4.0,
+                0.707,
+                0.0
+            ],
+            [
+                6.0,
+                0.836,
+                0.0
+            ],
+            [
+                8.0,
+                0.909,
+                0.0
+            ],
+            [
+                10.0,
+                0.958,
+                0.0
+            ],
+            [
+                12.0,
+                0.966,
+                0.0
+            ],
+            [
+                14.0,
+                1.0,
+                0.0
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "b2AR_g",
+            "AC_g",
+            "PDE_g",
+            "PKA_g"
+        ],
+        "parameterChange": [
+            {
+                "entity": "ATP",
+                "field": "concInit",
+                "value": 0.1,
+                "units": "mM"
+            },
+            {
+                "entity": "PKA_active",
+                "field": "isBuffered",
+                "value": 1,
+                "units": "none"
+            },
+            {
+                "entity": "cAMP",
+                "field": "concInit",
+                "value": 0.001,
+                "units": "mM"
+            },
+            {
+                "entity": "AMP",
+                "field": "concInit",
+                "value": 0,
+                "units": "mM"
+            }
+        ]
+    }
+}

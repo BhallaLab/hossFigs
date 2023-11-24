@@ -1,0 +1,141 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 7407067,
+            "authors": "Crouch TH and Klee CB",
+            "journal": "Biochem, ",
+            "year": 1980,
+            "figure": "Fig1"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "in-vitro",
+        "cellType": "bovine brain CaM",
+        "temperature": 4,
+        "notes": ""
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "M",
+            "entity": "Ca",
+            "field": "conc"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "settleTime": 300,
+        "quantityUnits": "ratio",
+        "entities": [
+            "tot_Ca_on_CaM"
+        ],
+        "field": "conc",
+        "normalization": {
+            "time": 0,
+            "entities": [
+                "CaM"
+            ],
+            "dose": 0,
+            "sampling": "dose"
+        },
+        "display": {
+            "useXlog": true,
+            "useYlog": false
+        },
+        "data": [
+            [
+                1.84e-07,
+                0.069,
+                0
+            ],
+            [
+                2.96e-07,
+                0.0804,
+                0
+            ],
+            [
+                3.42e-07,
+                0.161,
+                0
+            ],
+            [
+                7.41e-07,
+                0.3966,
+                0
+            ],
+            [
+                1.21e-06,
+                0.747,
+                0
+            ],
+            [
+                1.89e-06,
+                1.138,
+                0
+            ],
+            [
+                6.11e-06,
+                2.31,
+                0
+            ],
+            [
+                8.16e-06,
+                2.558,
+                0
+            ],
+            [
+                1.1e-05,
+                2.7816,
+                0
+            ],
+            [
+                3.84e-05,
+                3.569,
+                0
+            ],
+            [
+                8.73e-05,
+                3.82,
+                0
+            ],
+            [
+                0.000162,
+                3.91,
+                0
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "CaM_g",
+            "Ca_g"
+        ],
+        "itemsToDelete": [
+            "tCaM_CaN",
+            "CaN_Ca4",
+            "ng_CaM",
+            "ngp",
+            "ng",
+            "CaM_ng_deph",
+            "ng_bind_CaM",
+            "CaMKIII_bind_CaMCa4"
+        ],
+        "parameterChange": [
+            {
+                "entity": "CaM",
+                "field": "concInit",
+                "value": 3e-05,
+                "units": "mM"
+            }
+        ]
+    }
+}

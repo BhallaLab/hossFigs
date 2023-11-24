@@ -1,0 +1,92 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 10514507,
+            "authors": "Kholodenko BN et al.",
+            "journal": "J Biol Chem, ",
+            "year": 1999,
+            "figure": "Fig2B"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "TimeSeries",
+        "species": "Rat",
+        "cellType": "Sprague-Dawley Rat hepatocytes",
+        "temperature": 30,
+        "notes": "Deleting the rest of the model for convenience"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "nM",
+            "entity": "EGF",
+            "field": "conc",
+            "data": [
+                [
+                    0,
+                    20
+                ]
+            ]
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "quantityUnits": "ratio",
+        "entities": [
+            "aEGFR"
+        ],
+        "field": "conc",
+        "normalization": {
+            "time": 15,
+            "entities": [
+                "aEGFR"
+            ],
+            "sampling": "presetTime"
+        },
+        "data": [
+            [
+                0,
+                0.014,
+                0
+            ],
+            [
+                15,
+                1.0,
+                0.114
+            ],
+            [
+                30,
+                0.986,
+                0.07
+            ],
+            [
+                45,
+                0.33,
+                0.014
+            ],
+            [
+                60,
+                0.286,
+                0.057
+            ],
+            [
+                120,
+                0.157,
+                0.029
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "EGFR_g"
+        ]
+    }
+}

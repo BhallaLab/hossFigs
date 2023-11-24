@@ -1,0 +1,63 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 7978263,
+            "authors": "Stemmer PM and Klee CB",
+            "journal": "Biochemistry, ",
+            "year": 1994,
+            "figure": "Table3"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DirectParameter",
+        "species": "in-vitro",
+        "cellType": "Xenopus CaM",
+        "temperature": 25,
+        "notes": ""
+    },
+    "Readouts": {
+        "paramdata": [
+            {
+                "entity": "CaM_bind_Ca",
+                "field": "Kd",
+                "units": "uM",
+                "value": 5.0,
+                "stderr": 0.4
+            },
+            {
+                "entity": "CaMCa_bind_Ca",
+                "field": "Kd",
+                "units": "uM",
+                "value": 1.12,
+                "stderr": 2
+            },
+            {
+                "entity": "CaMCa2_bind_Ca",
+                "field": "Kd",
+                "units": "uM",
+                "value": 31.6,
+                "stderr": 0.7
+            },
+            {
+                "entity": "CaMCa3_bind_Ca",
+                "field": "Kd",
+                "units": "uM",
+                "value": 10.0,
+                "stderr": 0.3
+            }
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}

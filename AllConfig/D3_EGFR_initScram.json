@@ -1,0 +1,95 @@
+{
+	"FileType": "HOSS",
+	"Version": "2.0",
+	"author": "U.S. Bhalla",
+	"model": "Models/D3_model_MAPK_v7.json",
+	"map": "Maps/D3_map_EGFR.json",
+	"exptDir": "./EGFR_Expts",
+	"outputDir": "./OPTIMIZED",
+	"scoreFunc": "NRMS",
+	"tolerance": 0.001,
+	"timeout": 600,
+	"algorithm": "COBYLA",
+	"comment": "Optimizing HT EGFR-MAPK model using flat method.",
+	"hossMethod": {
+		"method": "initScram",
+		"numProcesses": 24,
+		"numInitScramble": 200,
+		"scrambleRange": 2.0,
+		"scramDir": "SCRAM"
+	},
+	"HOSS": [
+		{
+			"name": "Receptors", 
+			"hierarchyLevel": 1,
+
+			"EGFR": {
+				"comment": "Each block can be optimized independently in ||",
+				"expt": {
+					"CapuaniF2015_Fig1C.json": {"weight": 41},
+					"Kholodenko1999_Fig2B_slow.json": {"weight": 400},
+					"Martin2006_Fig1B.json": {"weight": 52},
+					"Mukhin2003_Fig9B_inset.json": {"weight": 200},
+					"Mukhin2003_Fig9B.json": {"weight": 79},
+					"Pinilla-Macua2016_Fig3A_internal.json": {"weight": 70},
+					"Pinilla-Macua2016_Fig3A_surface.json": {"weight": 70},
+					"Saito2004_Fig2C.json": {"weight": 52}
+					},
+				"params": [ 
+						"aEGFR.KA", "aEGFR.tau", 
+						"aEGFR.Kmod", "aEGFR.Amod", 
+						"aEGFR.baseline",
+						"intEGFR.KA", "intEGFR.tau"
+				],
+                "resultFile": "L1.txt",
+                "optModelFile": "L1.json"
+			}
+		},
+
+
+		{
+			"name": "MAPK",
+			"hierarchyLevel": 2,
+
+			"MAPK": {
+				"comment": "Merged blocks for SHC and Ras and MAPKas they interdepend",
+				"expt": {
+					"Kholodenko1999_Fig3B.json": {"weight": 50},
+					"Tang2015_Fig4C.json":	{"weight":50},
+					"SynthHennigA2016_Fig1A.json": {"weight": 50},
+					"ZhouY2010_Fig3D.json": {"weight": 70},
+					"Abe2000_Fig1A.json": {"weight": 200},
+					"Abe2000_Fig1B.json": {"weight": 50}, 
+					"Teng1995_Fig9A.json": {"weight": 64},
+					"Gu2004_Fig3B.json": {"weight": 70},
+					"Queipo2018_Fig2_pkScale.json": {"weight": 100},
+					"Shah2003_Fig1B_pkScale.json": {"weight": 400},
+					"Tang2015_Fig4D.json": {"weight": 50},
+					"Tucker1993_Fig7_pkScale.json": {"weight": 100},
+					"ZhouY2010_Fig3C_pkScale.json": {"weight": 400}
+					},
+				"params": [ 
+						"MAPK.concInit",
+						"Ras.concInit",
+						"SHC.concInit",
+						"Sos.concInit",
+						"craf1.concInit",
+						"aSHC.KA", "aSHC.tau", 
+						"aSHC.tau2",
+						"aRas.KA", "aRas.tau", 
+						"aRas.baseline", 
+						"aSos.KA", "aSos.tau", 
+						"aSos.Kmod", "aSos.Amod",
+						"aSos.baseline",
+						"acraf1.KA", "acraf1.tau", 
+						"acraf1.baseline", 
+						"aMAPK.KA", "aMAPK.tau", 
+						"aMAPK.baseline"
+				],
+				"paramBounds": { "aMAPK.KA":[0.05e-3,1.0e-3,0] },
+				"resultFile": "L2.txt",
+				"optModelFile": "L2.json"
+			}
+		}
+	]
+}

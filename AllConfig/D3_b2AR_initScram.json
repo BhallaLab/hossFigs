@@ -1,0 +1,125 @@
+{
+	"FileType":"Hoss",
+	"Version":"2.0", 
+	"author": "U.S. Bhalla",
+	"model": "./Models/D3_model_b2AR_v5.json",
+	"map":"./Maps/D3_map_b2AR.json",
+	"exptDir": "./b2AR_Expts",
+	"outputDir": "./OPTIMIZED",
+	"scoreFunc": "NRMS",
+	"tolerance": 0.001,
+	"algorithm": "COBYLA",
+	"comment": "Optimizing b2AR pathway using initScram method.",
+	"hossMethod": {
+		"method": "initScram",
+		"numProcesses": 24,
+		"numInitScramble": 200,
+		"scrambleRange": 2.0,
+		"scramDir": "SCRAM",
+		"freezeParams": [
+				"AC1.concInit", "AC2.concInit", "CaM.concInit"
+		]
+	},
+	"HOSS": [
+		{
+			"name": "Input Layer", 
+			"hierarchyLevel": 1,
+			"b2AR": {
+				"comment": "L1. Currently just one expt: Tran2007 is a TimeSeries. Hence removing b2AR.concInit and GsGDP.concInit from the list of params.",
+				"expt": {
+					"Tran2007_Fig2B.json": {"weight": 64}
+					},
+				"params": [ 
+						"ab2AR.tau", "ab2AR.KA", 
+						"ab2AR.Kmod", "ab2AR.Amod", 
+						"intb2AR.tau", "intb2AR.KA", 
+						"Gs_alpha.tau", "Gs_alpha.KA" ],
+				"paramBounds": { 
+						"ab2AR.tau":[1.0,1000,0], 
+						"ab2AR.Amod":[0.0000001,0.05,1], 
+						"intb2AR.tau":[1.0,1000,0], 
+						"Gs_alpha.tau":[1.0,1000,0] 
+				},
+				"resultFile": "b2AR_L1_opt.txt",
+				"optModelFile": "b2AR_L1_opt.json"
+				},
+			"CaM": {
+				"comment": "L1. I don't currently have a ref for [CaM], so excluding this param. Similarly for aCaM.tau.",
+				"expt": {
+					"Crouch1980_Fig1.json": {"weight": 100},
+					"Porumb1994_Table3.json": {"weight": 30},
+					"Shifman2006_Table2.json": {"weight": 30},
+					"Stemmer1994_Table3.json": {"weight": 30}
+					},
+				"params": [
+						"aCaM.KA"
+				],
+				"resultFile": "b2AR_L1_CaM.txt",
+				"optModelFile": "b2AR_L1_CaM.json"
+				}
+		},
+		{
+			"name": "cAMP", 
+			"hierarchyLevel": 2,
+			"AC": {
+				"comment": "Level 2. ",
+				"expt": {
+					"Feinstein1991_Fig4_AC1.json": {"weight": 100},
+					"Feinstein1991_Fig5.json": {"weight": 100},
+					"January1997_Fig1A.json": {"weight": 100},
+					"Sette1994_Fig4BwithInhibitor.json": {"weight": 45},
+					"Sette1994_Fig4BwoInhibitor.json": {"weight": 45},
+					"Smigel1986_Fig7_with_bg.json": {"weight": 100},
+					"Suzuki1991_Fig2.json": {"weight": 100},
+					"Tang1991_Fig3A.json": {"weight": 100},
+					"Tang1991_Fig3B.json": {"weight": 100}
+					},
+				"params": [ 
+						"AC1.concInit", "AC2.concInit",
+						"CaM_AC1.tau", "CaM_AC1.KA", 
+						"Gs_AC1.tau", "Gs_AC1.KA", 
+						"Gs_AC2.tau", "Gs_AC2.KA", 
+						"cAMP.tau", "cAMP.KA", "cAMP.gain", 
+						"AMP.tau", "AMP.KA" ],
+				"paramBounds": { "cAMP.tau":[1.0,1000.0,0], 
+						"AMP.tau":[1.0,1000.0,0] },
+				"resultFile": "b2AR_L2_AC.txt",
+				"optModelFile": "b2AR_L2_AC.json"
+				},
+			"PDE1": {
+				"comment": "Level 2. Rather short on expts. Klee just does CaM binding to PDE. Sette is a time-series from culture. I'm removing from ParamList: PDE1.concInit since neither of the expts will help. Also removing CaM_PDE1.tau.",
+				"expt": {
+					"Klee1978.json": {"weight": 30},
+					"Sette1996_Fig2B.json": {"weight": 100}
+					},
+				"params": [ 
+						"CaM_PDE1.KA", 
+						"PKA_PDE1.tau", "PKA_PDE1.KA"
+						],
+				"resultFile": "b2AR_L2_PDE1.txt",
+				"optModelFile": "b2AR_L2_PDE1.json"
+				}
+		},
+		{
+			"name": "PKA", 
+			"hierarchyLevel": 3,
+			"PKA": {
+				"comment": "Level 3. This has expts starting from ligand. But nothing for the PKAinhib. I'll remove it and params from model.",
+				"expt": {
+					"Hasler1992_Fig4C.json": {"weight": 67},
+					"Heubach2004_Table1.json": {"weight": 67},
+					"Solberg1994_Fig7.json": {"weight": 43},
+					"Wolter2011_Fig2A.json": {"weight": 37}
+					},
+				"params": [ 
+						"aPKA.tau", "aPKA.KA"
+						],
+				"paramBounds": { 
+						"aPKA.tau":[1.0,1000.0,0] 
+				},
+				"resultFile": "b2AR_L3_PKA.txt",
+				"optModelFile": "b2AR_L3_PKA.json"
+				}
+		}
+	]
+}

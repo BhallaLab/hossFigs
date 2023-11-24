@@ -1,0 +1,91 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID":  26264748,
+            "authors": "Capuani F et al.",
+            "journal": "Nat Commun., ",
+            "year": 2015,
+            "figure": "Fig 1C"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "in-vitro",
+        "cellType": "Human EGFR expressed in mouse NR6 fibroblast cells",
+        "temperature": 37,
+        "notes": ""
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "entity": "EGF",
+            "field": "conc",
+            "quantityUnits": "nM"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "settleTime": 120,
+        "quantityUnits": "ratio",
+        "entities": [
+            "aEGFR"
+        ],
+        "field": "conc",
+        "normalization": {
+            "sampling": "dose",
+            "entities": [
+                "aEGFR"
+            ],
+            "dose": 13.484375,
+            "time": 120
+        },
+        "data": [
+            [
+                0.15625,
+                0.082,
+                0.045
+            ],
+            [
+                0.453125,
+                0.253,
+                0.0
+            ],
+            [
+                1.45625,
+                0.507,
+                0.056
+            ],
+            [
+                4.2265625,
+                0.826,
+                0.065
+            ],
+            [
+                13.484375,
+                1.0,
+                0.05
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "EGFR_g"
+        ],
+        "parameterChange": [
+            {
+                "units": "nM",
+                "field": "concInit",
+                "value": 0.001,
+                "entity": "EGF"
+            }
+        ]
+    }
+}

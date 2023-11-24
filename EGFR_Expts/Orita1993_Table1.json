@@ -1,0 +1,49 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 8244990,
+            "authors": "Orita S et al.",
+            "journal": "J Biol Chem. ",
+            "year": 1993,
+            "figure": "Table1"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DirectParameter",
+        "species": "in-vitro",
+        "cellType": "Ras extracted from membranes of bovine brain, Ras-GRF expressed using cDNA from rat brain",
+        "temperature": 25,
+        "notes": ""
+    },
+    "Readouts": {
+        "paramdata": [
+            {
+                "entity": "GEFbg_act_Ras",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.02,
+                "stderr": 0.0
+            },
+            {
+                "entity": "GEFbg_act_Ras",
+                "field": "Km",
+                "units": "uM",
+                "value": 0.68,
+                "stderr": 0
+            }
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}

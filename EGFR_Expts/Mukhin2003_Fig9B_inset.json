@@ -1,0 +1,99 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan, Upi Bhalla", 
+        "organization": "NCBS", 
+        "email": "nishaav@ncbs.res.in", 
+        "source": {
+            "sourceType": "paper", 
+            "PMID": 12604671, 
+            "authors": "Mukhin YV et al.", 
+            "journal": "J Pharmacol Exp Ther.", 
+            "year": 2003, 
+            "figure": "Fig 9B inset"
+        }, 
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g", 
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    }, 
+    "Experiment": {
+        "design": "TimeSeries", 
+        "species": "cell-lines", 
+        "cellType": "mIMCD-3 cells", 
+        "temperature": 37, 
+        "notes": "10ng/ml EGF. The control cells seem to have a high baseline, indicated in parameterChange and Stimuli."
+    }, 
+    "Stimuli": [
+        {
+            "timeUnits": "sec", 
+            "quantityUnits": "nM", 
+            "entity": "EGF", 
+            "field": "conc", 
+            "data": [
+                [
+                    0, 
+                    0.5
+                ],
+                [
+                    4000, 
+                    1.5625
+                ]
+            ]
+        }
+    ], 
+    "Readouts": {
+        "timeUnits": "sec", 
+        "quantityUnits": "ratio", 
+        "entities": [
+            "aEGFR"
+        ], 
+        "field": "conc", 
+        "normalization": {
+            "sampling": "presetTime", 
+            "entities": [
+                "aEGFR"
+            ], 
+            "time": 4000
+        }, 
+        "data": [
+            [
+                4000.0, 
+                1.00, 
+                0.13
+            ], 
+            [
+                4060.0, 
+                1.454, 
+                0.155
+            ], 
+            [
+                4150.0, 
+                2.12, 
+                0.5
+            ], 
+            [
+                4300.0, 
+                1.95, 
+                0.11
+            ], 
+            [
+                4600.0, 
+                1.8, 
+                0.4
+            ]
+        ]
+    }, 
+    "Modifications": {
+        "subset": [
+            "EGFR_g"
+        ],
+		"parameterChange": [
+				{
+						"entity": "EGF",
+						"field": "concInit",
+						"value": 0.5,
+						"units": "nM"
+				}
+		]
+    }
+}

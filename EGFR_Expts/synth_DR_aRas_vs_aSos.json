@@ -1,0 +1,103 @@
+{
+    "FileType": "FindSim",
+    "Version": "1.0",
+    "Metadata": {
+        "transcriber": "bhalla",
+        "organization": "OpenSource",
+        "source": {
+            "sourceType": "other",
+            "doi": "dummy",
+            "year": 2023
+        }
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "",
+        "cellType": "",
+        "notes": "Generated from mousse.py"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "uM",
+            "entity": "aSos",
+            "field": "conc"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "quantityUnits": "uM",
+        "settleTime": 380.42,
+        "entities": [
+            "aRas"
+        ],
+        "field": "conc",
+        "data": [
+            [
+                0.005,
+                0.021555766597308297,
+                0.0
+            ],
+            [
+                0.01,
+                0.03827006052658382,
+                0.0
+            ],
+            [
+                0.02,
+                0.06844683715047863,
+                0.0
+            ],
+            [
+                0.04,
+                0.11840655278655116,
+                0.0
+            ],
+            [
+                0.08,
+                0.19033734912344816,
+                0.0
+            ],
+            [
+                0.1,
+                0.21708873600721984,
+                0.0
+            ],
+            [
+                0.125,
+                0.24472253779746728,
+                0.0
+            ],
+            [
+                0.25,
+                0.32894736299341376,
+                0.0
+            ],
+            [
+                0.5,
+                0.3977934005806471,
+                0.0
+            ],
+            [
+                1.0,
+                0.4444353490025133,
+                0.0
+            ],
+            [
+                2.0,
+                0.4721556422137953,
+                0.0
+            ]
+        ]
+    },
+    "Modifications": {
+        "parameterChange": [
+            {
+                "entity": "aSos",
+                "field": "isBuffered",
+                "value": 1,
+                "units": "none"
+            }
+        ]
+    }
+}

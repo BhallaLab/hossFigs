@@ -1,0 +1,132 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 26861207,
+            "authors": "Hennig A et al.",
+            "journal": "Cell Commun Signal., ",
+            "year": 2016,
+            "figure": "Fig1A"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "TimeSeries",
+        "species": "cell-line",
+        "cellType": "HeLa cells",
+        "temperature": 30,
+        "notes": "."
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "nM",
+            "entity": "EGF",
+            "field": "conc",
+            "data": [
+                [
+                    4000,
+                    1.5625
+                ]
+            ]
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "quantityUnits": "ratio",
+        "entities": [
+            "RasGTP"
+        ],
+        "field": "conc",
+        "normalization": {
+            "time": 4240,
+            "entities": [
+                "RasGTP"
+            ],
+            "sampling": "max"
+        },
+        "data": [
+            [
+                4003.0,
+                0.023,
+                0
+            ],
+            [
+                4120,
+                0.932,
+                0
+            ],
+            [
+                4240,
+                1.000,
+                0
+            ],
+            [
+                4360,
+                0.919,
+                0
+            ],
+            [
+                4480,
+                0.715,
+                0
+            ],
+            [
+                4600,
+                0.520,
+                0
+            ],
+            [
+                4720,
+                0.359,
+                0
+            ],
+            [
+                4840,
+                0.282,
+                0
+            ],
+            [
+                4960,
+                0.197,
+                0
+            ],
+            [
+                5080,
+                0.134,
+                0
+            ],
+            [
+               5200,
+               0.0828,
+                0
+            ],
+            [
+                5320,
+                0.04,
+                0
+            ],
+            [
+                5440,
+                0.015,
+                0
+            ],
+            [
+                5560,
+                0.011,
+                0
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}
