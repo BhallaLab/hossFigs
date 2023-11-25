@@ -3,7 +3,7 @@
     "Version": "1.0",
     "Comment": "Conc units are uM, time units are seconds, Zhang Q et al., 2011(PMID:22146375), Fig2 seems to show additive effect for AKT activation via BDNF and EGF.",
     "Description": "Synaptic activity-driven protein synthesis",
-    "Author": "Nisha Ann Viswan, mapping to model by Jan and Bhalla 2009",
+    "Author": "Nisha Ann Viswan, mapping to model by Jain and Bhalla 2009",
     "QuantityUnits": "uM",
     "Groups": {
 
