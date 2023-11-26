@@ -12,10 +12,7 @@
 	"comment": "HOSS1 is individual pathway opts.",
 	"hossMethod": {
 		"method": "flat",
-		"numProcesses": 1,
-		"freezeParams": [
-				"AC1.concInit", "AC2.concInit", "CaM.concInit"
-		]
+		"numProcesses": 1
 	},
 	"HOSS": [
 		{
