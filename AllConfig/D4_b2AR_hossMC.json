@@ -156,28 +156,6 @@
 				"resultFile": "b2AR_L4_PKA.txt",
 				"optModelFile": "b2AR_L4_PKA.g"
 			}
-		},
-
-		{
-			"name": "Entire",
-			"hierarchyLevel": 5,
-
-			"b2ARtoPKA": {
-				"comment": "Experiments for whole pathway, from ligand to PKA.",
-				"expt": {
-					"Heubach2004_Table1.json": {"weight": 34},
-					"January1997_Fig1A.json": {"weight": 34},
-					"Suzuki1991_Fig2.json": {"weight": 34},
-					"Yuan1994_Fig2.json": {"weight": 34}
-					},
-				"params": [ "LR_bind_GsGDP.Kd", "LR_bind_GsGDP.tau", 
-						"R_bind_GsGDP.Kd", "R_bind_GsGDP.tau", 
-						"Iso_bind_RGs.Kd", "Iso_bind_RGs.tau", 
-						"Epi_bind_RGs.Kd", "Epi_bind_RGs.tau"
-				],
-				"resultFile": "b2AR_L5_entire.txt",
-				"optModelFile": "b2AR_L5_entire.g"
-			}
 		}
 	]
 }
