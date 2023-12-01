@@ -1,5 +1,5 @@
 #!/bin/tcsh
 
-egrep Init Log*/*.txt > scores.txt
+egrep flat Log*/*.txt > scores.txt
 
 python plotFig4.py

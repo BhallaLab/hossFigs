@@ -1,0 +1,2 @@
+Level 1 --- Init Score: 0.250   OptimizedScore 0.238       Time: 106.437 s
+OPT_D3_EGFR_BFGS/opt.json: flat: Init Score 0.250, Final = 0.239, Time = 107.150s

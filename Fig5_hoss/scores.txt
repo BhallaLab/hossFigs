@@ -1,36 +1,36 @@
-Log1/log_D3_b2AR_BFGS.txt:Final Score for 3 levels in OPT_D3_b2AR_BFGS/b2AR_L3_PKA.json = 0.315, Time=139.04s
-Log1/log_D3_b2AR_COBYLA.txt:Final Score for 3 levels in OPT_D3_b2AR_COBYLA/b2AR_L3_PKA.json = 0.278, Time=20.02s
-Log1/log_D3_b2AR_SLSQP.txt:Final Score for 3 levels in OPT_D3_b2AR_SLSQP/b2AR_L3_PKA.json = 0.316, Time=13.51s
-Log1/log_D3_EGFR_BFGS.txt:Final Score for 2 levels in OPT_D3_EGFR_BFGS/L2.json = 0.212, Time=131.85s
-Log1/log_D3_EGFR_COBYLA.txt:Final Score for 2 levels in OPT_D3_EGFR_COBYLA/L2.json = 0.216, Time=50.89s
-Log1/log_D3_EGFR_SLSQP.txt:Final Score for 2 levels in OPT_D3_EGFR_SLSQP/L2.json = 0.219, Time=1.50s
-Log1/log_D4_b2AR_BFGS.txt:Final Score for 5 levels in OPT_D4_b2AR_BFGS/b2AR_L5_entire.g = 0.285, Time=2631.55s
-Log1/log_D4_b2AR_COBYLA.txt:Final Score for 5 levels in OPT_D4_b2AR_COBYLA/b2AR_L5_entire.g = 0.174, Time=441.18s
-Log1/log_D4_b2AR_SLSQP.txt:Final Score for 5 levels in OPT_D4_b2AR_SLSQP/b2AR_L5_entire.g = 0.353, Time=41.25s
-Log1/log_D4_EGFR_BFGS.txt:Final Score for 5 levels in OPT_D4_EGFR_BFGS/L5.g = 0.527, Time=380.89s
-Log1/log_D4_EGFR_COBYLA.txt:Final Score for 5 levels in OPT_D4_EGFR_COBYLA/L5.g = 0.525, Time=67.80s
-Log1/log_D4_EGFR_SLSQP.txt:Final Score for 5 levels in OPT_D4_EGFR_SLSQP/L5.g = 0.507, Time=5.06s
-Log2/log_D3_b2AR_BFGS.txt:Final Score for 3 levels in OPT_D3_b2AR_BFGS/b2AR_L3_PKA.json = 0.315, Time=142.16s
-Log2/log_D3_b2AR_COBYLA.txt:Final Score for 3 levels in OPT_D3_b2AR_COBYLA/b2AR_L3_PKA.json = 0.278, Time=20.02s
-Log2/log_D3_b2AR_SLSQP.txt:Final Score for 3 levels in OPT_D3_b2AR_SLSQP/b2AR_L3_PKA.json = 0.316, Time=13.81s
-Log2/log_D3_EGFR_BFGS.txt:Final Score for 2 levels in OPT_D3_EGFR_BFGS/L2.json = 0.212, Time=130.51s
-Log2/log_D3_EGFR_COBYLA.txt:Final Score for 2 levels in OPT_D3_EGFR_COBYLA/L2.json = 0.216, Time=50.14s
-Log2/log_D3_EGFR_SLSQP.txt:Final Score for 2 levels in OPT_D3_EGFR_SLSQP/L2.json = 0.219, Time=1.52s
-Log2/log_D4_b2AR_BFGS.txt:Final Score for 5 levels in OPT_D4_b2AR_BFGS/b2AR_L5_entire.g = 0.285, Time=2622.20s
-Log2/log_D4_b2AR_COBYLA.txt:Final Score for 5 levels in OPT_D4_b2AR_COBYLA/b2AR_L5_entire.g = 0.174, Time=445.60s
-Log2/log_D4_b2AR_SLSQP.txt:Final Score for 5 levels in OPT_D4_b2AR_SLSQP/b2AR_L5_entire.g = 0.353, Time=41.17s
-Log2/log_D4_EGFR_BFGS.txt:Final Score for 5 levels in OPT_D4_EGFR_BFGS/L5.g = 0.527, Time=372.51s
-Log2/log_D4_EGFR_COBYLA.txt:Final Score for 5 levels in OPT_D4_EGFR_COBYLA/L5.g = 0.525, Time=67.39s
-Log2/log_D4_EGFR_SLSQP.txt:Final Score for 5 levels in OPT_D4_EGFR_SLSQP/L5.g = 0.507, Time=4.96s
-Log3/log_D3_b2AR_BFGS.txt:Final Score for 3 levels in OPT_D3_b2AR_BFGS/b2AR_L3_PKA.json = 0.315, Time=141.12s
-Log3/log_D3_b2AR_COBYLA.txt:Final Score for 3 levels in OPT_D3_b2AR_COBYLA/b2AR_L3_PKA.json = 0.278, Time=20.29s
-Log3/log_D3_b2AR_SLSQP.txt:Final Score for 3 levels in OPT_D3_b2AR_SLSQP/b2AR_L3_PKA.json = 0.316, Time=13.62s
-Log3/log_D3_EGFR_BFGS.txt:Final Score for 2 levels in OPT_D3_EGFR_BFGS/L2.json = 0.212, Time=130.45s
-Log3/log_D3_EGFR_COBYLA.txt:Final Score for 2 levels in OPT_D3_EGFR_COBYLA/L2.json = 0.216, Time=50.69s
-Log3/log_D3_EGFR_SLSQP.txt:Final Score for 2 levels in OPT_D3_EGFR_SLSQP/L2.json = 0.219, Time=1.51s
-Log3/log_D4_b2AR_BFGS.txt:Final Score for 5 levels in OPT_D4_b2AR_BFGS/b2AR_L5_entire.g = 0.285, Time=2570.47s
-Log3/log_D4_b2AR_COBYLA.txt:Final Score for 5 levels in OPT_D4_b2AR_COBYLA/b2AR_L5_entire.g = 0.174, Time=461.04s
-Log3/log_D4_b2AR_SLSQP.txt:Final Score for 5 levels in OPT_D4_b2AR_SLSQP/b2AR_L5_entire.g = 0.353, Time=42.05s
-Log3/log_D4_EGFR_BFGS.txt:Final Score for 5 levels in OPT_D4_EGFR_BFGS/L5.g = 0.527, Time=385.65s
-Log3/log_D4_EGFR_COBYLA.txt:Final Score for 5 levels in OPT_D4_EGFR_COBYLA/L5.g = 0.525, Time=68.57s
-Log3/log_D4_EGFR_SLSQP.txt:Final Score for 5 levels in OPT_D4_EGFR_SLSQP/L5.g = 0.507, Time=5.07s
+Log1/log_D3_b2AR_BFGS.txt:OPT_D3_b2AR_BFGS/b2AR_L3_PKA.json: hoss: Init Score 0.416, Final = 0.315, Time = 145.948s
+Log1/log_D3_b2AR_COBYLA.txt:OPT_D3_b2AR_COBYLA/b2AR_L3_PKA.json: hoss: Init Score 0.416, Final = 0.278, Time = 21.825s
+Log1/log_D3_b2AR_SLSQP.txt:OPT_D3_b2AR_SLSQP/b2AR_L3_PKA.json: hoss: Init Score 0.416, Final = 0.316, Time = 14.978s
+Log1/log_D3_EGFR_BFGS.txt:OPT_D3_EGFR_BFGS/L2.json: hoss: Init Score 0.219, Final = 0.212, Time = 130.563s
+Log1/log_D3_EGFR_COBYLA.txt:OPT_D3_EGFR_COBYLA/L2.json: hoss: Init Score 0.219, Final = 0.216, Time = 50.993s
+Log1/log_D3_EGFR_SLSQP.txt:OPT_D3_EGFR_SLSQP/L2.json: hoss: Init Score 0.219, Final = 0.219, Time = 2.273s
+Log1/log_D4_b2AR_BFGS.txt:OPT_D4_b2AR_BFGS/b2AR_L4_PKA.g: hoss: Init Score 0.305, Final = 0.299, Time = 2575.973s
+Log1/log_D4_b2AR_COBYLA.txt:OPT_D4_b2AR_COBYLA/b2AR_L4_PKA.g: hoss: Init Score 0.305, Final = 0.172, Time = 438.711s
+Log1/log_D4_b2AR_SLSQP.txt:OPT_D4_b2AR_SLSQP/b2AR_L4_PKA.g: hoss: Init Score 0.305, Final = 0.305, Time = 41.204s
+Log1/log_D4_EGFR_BFGS.txt:OPT_D4_EGFR_BFGS/L5.g: hoss: Init Score 0.539, Final = 0.527, Time = 385.224s
+Log1/log_D4_EGFR_COBYLA.txt:OPT_D4_EGFR_COBYLA/L5.g: hoss: Init Score 0.539, Final = 0.525, Time = 67.427s
+Log1/log_D4_EGFR_SLSQP.txt:OPT_D4_EGFR_SLSQP/L5.g: hoss: Init Score 0.539, Final = 0.507, Time = 5.895s
+Log2/log_D3_b2AR_BFGS.txt:OPT_D3_b2AR_BFGS/b2AR_L3_PKA.json: hoss: Init Score 0.416, Final = 0.315, Time = 143.923s
+Log2/log_D3_b2AR_COBYLA.txt:OPT_D3_b2AR_COBYLA/b2AR_L3_PKA.json: hoss: Init Score 0.416, Final = 0.278, Time = 21.355s
+Log2/log_D3_b2AR_SLSQP.txt:OPT_D3_b2AR_SLSQP/b2AR_L3_PKA.json: hoss: Init Score 0.416, Final = 0.316, Time = 14.792s
+Log2/log_D3_EGFR_BFGS.txt:OPT_D3_EGFR_BFGS/L2.json: hoss: Init Score 0.219, Final = 0.212, Time = 131.557s
+Log2/log_D3_EGFR_COBYLA.txt:OPT_D3_EGFR_COBYLA/L2.json: hoss: Init Score 0.219, Final = 0.216, Time = 52.226s
+Log2/log_D3_EGFR_SLSQP.txt:OPT_D3_EGFR_SLSQP/L2.json: hoss: Init Score 0.219, Final = 0.219, Time = 2.357s
+Log2/log_D4_b2AR_BFGS.txt:OPT_D4_b2AR_BFGS/b2AR_L4_PKA.g: hoss: Init Score 0.305, Final = 0.299, Time = 2454.614s
+Log2/log_D4_b2AR_COBYLA.txt:OPT_D4_b2AR_COBYLA/b2AR_L4_PKA.g: hoss: Init Score 0.305, Final = 0.172, Time = 452.955s
+Log2/log_D4_b2AR_SLSQP.txt:OPT_D4_b2AR_SLSQP/b2AR_L4_PKA.g: hoss: Init Score 0.305, Final = 0.305, Time = 41.589s
+Log2/log_D4_EGFR_BFGS.txt:OPT_D4_EGFR_BFGS/L5.g: hoss: Init Score 0.539, Final = 0.527, Time = 388.889s
+Log2/log_D4_EGFR_COBYLA.txt:OPT_D4_EGFR_COBYLA/L5.g: hoss: Init Score 0.539, Final = 0.525, Time = 69.313s
+Log2/log_D4_EGFR_SLSQP.txt:OPT_D4_EGFR_SLSQP/L5.g: hoss: Init Score 0.539, Final = 0.507, Time = 5.985s
+Log3/log_D3_b2AR_BFGS.txt:OPT_D3_b2AR_BFGS/b2AR_L3_PKA.json: hoss: Init Score 0.416, Final = 0.315, Time = 145.548s
+Log3/log_D3_b2AR_COBYLA.txt:OPT_D3_b2AR_COBYLA/b2AR_L3_PKA.json: hoss: Init Score 0.416, Final = 0.278, Time = 21.854s
+Log3/log_D3_b2AR_SLSQP.txt:OPT_D3_b2AR_SLSQP/b2AR_L3_PKA.json: hoss: Init Score 0.416, Final = 0.316, Time = 14.986s
+Log3/log_D3_EGFR_BFGS.txt:OPT_D3_EGFR_BFGS/L2.json: hoss: Init Score 0.219, Final = 0.212, Time = 130.554s
+Log3/log_D3_EGFR_COBYLA.txt:OPT_D3_EGFR_COBYLA/L2.json: hoss: Init Score 0.219, Final = 0.216, Time = 51.835s
+Log3/log_D3_EGFR_SLSQP.txt:OPT_D3_EGFR_SLSQP/L2.json: hoss: Init Score 0.219, Final = 0.219, Time = 2.249s
+Log3/log_D4_b2AR_BFGS.txt:OPT_D4_b2AR_BFGS/b2AR_L4_PKA.g: hoss: Init Score 0.305, Final = 0.299, Time = 2539.977s
+Log3/log_D4_b2AR_COBYLA.txt:OPT_D4_b2AR_COBYLA/b2AR_L4_PKA.g: hoss: Init Score 0.305, Final = 0.172, Time = 461.073s
+Log3/log_D4_b2AR_SLSQP.txt:OPT_D4_b2AR_SLSQP/b2AR_L4_PKA.g: hoss: Init Score 0.305, Final = 0.305, Time = 40.872s
+Log3/log_D4_EGFR_BFGS.txt:OPT_D4_EGFR_BFGS/L5.g: hoss: Init Score 0.539, Final = 0.527, Time = 380.268s
+Log3/log_D4_EGFR_COBYLA.txt:OPT_D4_EGFR_COBYLA/L5.g: hoss: Init Score 0.539, Final = 0.525, Time = 68.814s
+Log3/log_D4_EGFR_SLSQP.txt:OPT_D4_EGFR_SLSQP/L5.g: hoss: Init Score 0.539, Final = 0.507, Time = 5.817s

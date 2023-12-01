@@ -18,14 +18,17 @@ def main():
     d_values = []
     
     # Define the pattern to extract information from each line
-    pattern = re.compile(r'Log\d*/log_(D[34])_(\w+)_(COBYLA|SLSQP|BFGS).txt:Level \d+ --- Init Score: (\d+\.\d+)   OptimizedScore (\d+\.\d+)       Time: (\d+\.\d+) s')
+    pattern = re.compile(r'Log\d*/log_(D[34])_(\w+)_(COBYLA|SLSQP|BFGS).txt:OPT_(D[34])_\w*_\w*\/opt\.\w*: flat: Init Score (\d+\.\d+), Final = (\d+\.\d+), Time = (\d+\.\d+)s')
+
+
+    #match = re.search(r'log_(\w+)_b2AR_(\w+)\.txt:OPT_(\w+)_b2AR_(\w+)/opt\.json: flat: Init Score (\d+\.\d+), Final = (\d+\.\d+)')
     
     # Read the file line by line and extract information
     with open( fname, 'r') as file:
         for line in file:
             match = pattern.search(line)
             if match:
-                d_value, target, method, init_score, optimized_score, time = match.groups()
+                d_value, target, method, dval2, init_score, optimized_score, time = match.groups()
                 targets.append(target)
                 optimization_methods.append(method)
                 init_scores.append(float(init_score))

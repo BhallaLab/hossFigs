@@ -1,0 +1,365 @@
+Level 1 --- Init Score: 0.458   OptimizedScore 0.391       Time: 13322.288 s
+Written to file OPT_D4_EGFR_BFGS/opt.g
+OPT_D4_EGFR_BFGS/opt.g: flat: Init Score 0.499, Final = 0.391, Time = 13323.127s
+runDoser: Normalization2 failed due to zero denominator: 5.0917900115251194e-27
+runDoser: Normalization2 failed due to zero denominator: 2.053627151725426e-27
+runDoser: Normalization2 failed due to zero denominator: 0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 7.350856081580206e-26
+runDoser: Normalization2 failed due to zero denominator: 1.0976475453174726e-25
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 4.680193762770565e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.2505772085355647e-31
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.35958003409168e-33
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 1.8159613469954503e-33
+runDoser: Normalization2 failed due to zero denominator: 4.797064687969743e-26
+runDoser: Normalization2 failed due to zero denominator: 3.7999286533668694e-26
+runDoser: Normalization2 failed due to zero denominator: 7.721776953058029e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.3668770088213087e-32
+runDoser: Normalization2 failed due to zero denominator: 1.5760645654178052e-27
+runDoser: Normalization2 failed due to zero denominator: 6.208996222069862e-27
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.481920907915639e-30
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.838990233227961e-33
+runDoser: Normalization2 failed due to zero denominator: 2.1530820324752563e-26
+runDoser: Normalization2 failed due to zero denominator: 1.3235816718794176e-29
+runDoser: Normalization2 failed due to zero denominator: 1.1691912830627878e-27
+runDoser: Normalization2 failed due to zero denominator: 2.677276358846973e-32
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.248314613157518e-33
+runDoser: Normalization2 failed due to zero denominator: 1.1581896236354694e-32
+runDoser: Normalization2 failed due to zero denominator: 7.182484949747359e-30
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 3.8919462644394064e-26
+runDoser: Normalization2 failed due to zero denominator: 1.2064031497086566e-25
+runDoser: Normalization2 failed due to zero denominator: 6.082606048843651e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.4863385731648036e-29
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 1.952264390869921e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.2798747931736804e-32
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 2.753746885197165e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.5289957063753124e-32
+runDoser: Normalization2 failed due to zero denominator: 4.312825928080502e-27
+runDoser: Normalization2 failed due to zero denominator: 4.224428912347477e-26
+runDoser: Normalization2 failed due to zero denominator: 2.232903140660547e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.8424705650883493e-32
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 1.2843736421608622e-29
+runDoser: Normalization2 failed due to zero denominator: 1.5013121151724299e-25
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 1.2152448143171496e-29
+runDoser: Normalization2 failed due to zero denominator: 1.8342091350367252e-30
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 1.5255751519478467e-29
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.364323147118138e-29
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 3.416358624902588e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.2612471137831607e-29
+runDoser: Normalization2 failed due to zero denominator: 2.3923403021853683e-32
+runDoser: Normalization2 failed due to zero denominator: 3.773583646055929e-27
+runDoser: Normalization2 failed due to zero denominator: 0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 4.074357418496328e-30
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.668593451248109e-32
+runDoser: Normalization2 failed due to zero denominator: 5.257713454847681e-26
+runDoser: Normalization2 failed due to zero denominator: 1.3975185114653273e-29
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 1.108934930659239e-25
+runDoser: Normalization2 failed due to zero denominator: 1.2400737063891087e-26
+runDoser: Normalization2 failed due to zero denominator: 4.5852786994855345e-26
+runDoser: Normalization2 failed due to zero denominator: 4.1217826556833336e-26
+runDoser: Normalization2 failed due to zero denominator: 2.5401703557869678e-30
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 1.2974880503892462e-25
+runDoser: Normalization2 failed due to zero denominator: 1.0320325539814163e-26
+runDoser: Normalization2 failed due to zero denominator: 1.199049895096482e-25
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.248314613157518e-33
+runDoser: Normalization2 failed due to zero denominator: 8.294660578939423e-33
+runDoser: Normalization2 failed due to zero denominator: 5.445789698881815e-26
+runDoser: Normalization2 failed due to zero denominator: 6.255508034798486e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.813905379971685e-29
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.0757633084397525e-32
+runDoser: Normalization2 failed due to zero denominator: 3.0333138750298005e-32
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.724383656800606e-30
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 4.181570609638229e-26
+runDoser: Normalization2 failed due to zero denominator: 1.6179004483847868e-27
+runDoser: Normalization2 failed due to zero denominator: 1.8613520692671326e-27
+runDoser: Normalization2 failed due to zero denominator: 2.465058454439074e-27
+runDoser: Normalization2 failed due to zero denominator: 3.903948686081945e-30
+runDoser: Normalization2 failed due to zero denominator: 1.1967082492115406e-26
+runDoser: Normalization2 failed due to zero denominator: 2.6404488716490736e-28
+runDoser: Normalization2 failed due to zero denominator: 1.7170702668937135e-26
+runDoser: Normalization2 failed due to zero denominator: 3.321346281466105e-26
+runDoser: Normalization2 failed due to zero denominator: 5.499428511700714e-28
+runDoser: Normalization2 failed due to zero denominator: 1.4445828771340707e-26
+runDoser: Normalization2 failed due to zero denominator: 1.698154412870292e-26
+runDoser: Normalization2 failed due to zero denominator: 2.1098219789592923e-27
+runDoser: Normalization2 failed due to zero denominator: 4.124316221683997e-28
+runDoser: Normalization2 failed due to zero denominator: 1.298276490369505e-27
+runDoser: Normalization2 failed due to zero denominator: 1.811417059430625e-32
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.7877346343028325e-29
+runDoser: Normalization2 failed due to zero denominator: 2.047602111255984e-26
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 4.090454305043166e-33
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 4.970470997970754e-32
+runDoser: Normalization2 failed due to zero denominator: 3.3911029687059066e-30
+runDoser: Normalization2 failed due to zero denominator: 1.2686112676618011e-26
+runDoser: Normalization2 failed due to zero denominator: 1.7688870019958145e-26
+runDoser: Normalization2 failed due to zero denominator: 4.104641537899316e-27
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1972227068846773e-32
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.205626771350112e-33
+runDoser: Normalization2 failed due to zero denominator: 7.991229501846677e-27
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 4.3919778252358293e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1185780891390303e-29
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 5.163110976201208e-26
+runDoser: Normalization2 failed due to zero denominator: 5.591019791359185e-32
+runDoser: Normalization2 failed due to zero denominator: 1.0089243523108644e-29
+runDoser: Normalization2 failed due to zero denominator: 1.849075220049138e-26
+runDoser: Normalization2 failed due to zero denominator: 2.1212113803383793e-32
+runDoser: Normalization2 failed due to zero denominator: 5.917073250926701e-33
+runDoser: Normalization2 failed due to zero denominator: 3.8018269543131067e-26
+runDoser: Normalization2 failed due to zero denominator: 3.388529404869739e-27
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.779855963475174e-30
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 3.95273687180701e-26
+runDoser: Normalization2 failed due to zero denominator: 6.992344775434751e-26
+runDoser: Normalization2 failed due to zero denominator: 3.637957964199549e-32
+runDoser: Normalization2 failed due to zero denominator: 1.670809872408978e-25
+runDoser: Normalization2 failed due to zero denominator: 1.4111336365157063e-32
+runDoser: Normalization2 failed due to zero denominator: 5.904527624716118e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 6.516359565244781e-30
+runDoser: Normalization2 failed due to zero denominator: 1.370080769827963e-30
+runDoser: Normalization2 failed due to zero denominator: 7.436427595043228e-27
+runDoser: Normalization2 failed due to zero denominator: 3.349801743682084e-26
+runDoser: Normalization2 failed due to zero denominator: 8.346449634745058e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 1.0138780360995142e-29
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.644565107738539e-29
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.856978457732079e-33
+runDoser: Normalization2 failed due to zero denominator: 6.869210634449891e-26
+runDoser: Normalization2 failed due to zero denominator: 3.105602526687924e-32
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.736970582937805e-29
+runDoser: Normalization2 failed due to zero denominator: 5.907607146832203e-27
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.752188105954816e-29
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.214643265047243e-34
+runDoser: Normalization2 failed due to zero denominator: 4.4941535276053576e-30
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.6023916693675078e-29
+runDoser: Normalization2 failed due to zero denominator: 3.8324130911577735e-32
+runDoser: Normalization2 failed due to zero denominator: 4.341505633618396e-27
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.0436608465936172e-29
+runDoser: Normalization2 failed due to zero denominator: 2.169691830344912e-30
+runDoser: Normalization2 failed due to zero denominator: 1.0310457375962865e-29
+runDoser: Normalization2 failed due to zero denominator: 7.685057992767317e-26
+runDoser: Normalization2 failed due to zero denominator: 5.337493896764263e-28
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 6.145354569176763e-26
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 6.849032280821414e-32
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 6.933539907627644e-31
+runDoser: Normalization2 failed due to zero denominator: 5.2001292336066376e-27
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.5210292763176923e-32
+runDoser: Normalization2 failed due to zero denominator: 8.743798899927713e-29
+runDoser: Normalization2 failed due to zero denominator: 1.301488376263518e-32
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.4937196506022735e-29
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 5.038145091014618e-26
+runDoser: Normalization2 failed due to zero denominator: 3.84596462037198e-30
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.1359098073653307e-29
+runDoser: Normalization2 failed due to zero denominator: 1.382284597307928e-25
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 7.159270210695773e-28
+runDoser: Normalization2 failed due to zero denominator: 1.5500399934664583e-26
+runDoser: Normalization2 failed due to zero denominator: 3.0981895295193192e-27
+runDoser: Normalization2 failed due to zero denominator: 3.038229593740113e-26
+runDoser: Normalization2 failed due to zero denominator: 9.839769148854918e-27
+runDoser: Normalization2 failed due to zero denominator: 7.048684233987907e-27
+runDoser: Normalization2 failed due to zero denominator: 3.1759315236846406e-27
+runDoser: Normalization2 failed due to zero denominator: 5.522528257143798e-30
+runDoser: Normalization2 failed due to zero denominator: 2.8131393322982723e-26
+runDoser: Normalization2 failed due to zero denominator: 2.6759504102559465e-28
+runDoser: Normalization2 failed due to zero denominator: 1.2118994373181008e-27
+runDoser: Normalization2 failed due to zero denominator: 5.91607906756007e-28
+runDoser: Normalization2 failed due to zero denominator: 8.543278751916237e-30
+runDoser: Normalization2 failed due to zero denominator: 1.3430284781422617e-27
+runDoser: Normalization2 failed due to zero denominator: 1.4364583098907625e-26
+runDoser: Normalization2 failed due to zero denominator: 2.3618022295810223e-27
+runDoser: Normalization2 failed due to zero denominator: 1.7108983278736864e-27
+runDoser: Normalization2 failed due to zero denominator: 3.1427804125382354e-32
+runDoser: Normalization2 failed due to zero denominator: 4.735479925036322e-28
+runDoser: Normalization2 failed due to zero denominator: 6.442601571032473e-28
+runDoser: Normalization2 failed due to zero denominator: 1.7929719191813424e-26
+runDoser: Normalization2 failed due to zero denominator: 7.913053456368779e-27
+runDoser: Normalization2 failed due to zero denominator: 1.5036456052348122e-26
+runDoser: Normalization2 failed due to zero denominator: 2.18130318758639e-26
+runDoser: Normalization2 failed due to zero denominator: 1.3339284630192686e-27
+runDoser: Normalization2 failed due to zero denominator: 4.14612311066364e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.239423643994932e-29
+runDoser: Normalization2 failed due to zero denominator: 6.3998295148803e-30
+runDoser: Normalization2 failed due to zero denominator: 8.266265967602846e-27
+runDoser: Normalization2 failed due to zero denominator: 5.136942700426674e-30
+runDoser: Normalization2 failed due to zero denominator: 0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.230262570544341e-32
+runDoser: Normalization2 failed due to zero denominator: 1.5415196437793808e-29
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.536075418502661e-29
+runDoser: Normalization2 failed due to zero denominator: 1.1911787417479609e-31
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 1.1907436101403035e-30
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.407982144959235e-30
+runDoser: Normalization2 failed due to zero denominator: 8.567549061400302e-27
+runDoser: Normalization2 failed due to zero denominator: 8.359305896086611e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.1982503836885677e-29
+runDoser: Normalization2 failed due to zero denominator: 3.98422742780173e-27
+runDoser: Normalization2 failed due to zero denominator: 1.1516083402959704e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.2435266324745697e-29
+runDoser: Normalization2 failed due to zero denominator: 5.388256505013462e-26
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 1.1863310562825462e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 7.299079055488425e-26
+runDoser: Normalization2 failed due to zero denominator: 1.0503213768040598e-26
+runDoser: Normalization2 failed due to zero denominator: 0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 1.562791321663751e-29
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.5733140902210257e-29
+runDoser: Normalization2 failed due to zero denominator: 3.6486356894148654e-32
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.007447778879519e-32
+runDoser: Normalization2 failed due to zero denominator: 2.3213180602553147e-27
+runDoser: Normalization2 failed due to zero denominator: 5.688459921510574e-27
+runDoser: Normalization2 failed due to zero denominator: 1.8000232707003335e-28
+runDoser: Normalization2 failed due to zero denominator: 1.530204394815206e-26
+runDoser: Normalization2 failed due to zero denominator: 2.2703463479669653e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.0392100110321735e-30
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 3.710993813262315e-30
+runDoser: Normalization2 failed due to zero denominator: 9.144822913585253e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.0254627248435122e-29
+runDoser: Normalization2 failed due to zero denominator: 0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.437785951618786e-33
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.862446429780589e-29
+runDoser: Normalization2 failed due to zero denominator: 4.6634479170281646e-32
+runDoser: Normalization2 failed due to zero denominator: 2.520152961298583e-26
+runDoser: Normalization2 failed due to zero denominator: 0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 1.008579084650232e-25
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 5.343608181456214e-26
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 9.189540343255491e-30
+runDoser: Normalization2 failed due to zero denominator: 4.049184672166124e-27
+runDoser: Normalization2 failed due to zero denominator: 6.563871780817012e-26
+runDoser: Normalization2 failed due to zero denominator: 5.367249806925203e-26
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 9.810946592229917e-26
+runDoser: Normalization2 failed due to zero denominator: 8.960370357434669e-27
+runDoser: Normalization2 failed due to zero denominator: 1.6200938368514462e-27
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 1.48189880196762e-29
+runDoser: Normalization2 failed due to zero denominator: 2.2177649464882967e-30
+runDoser: Normalization2 failed due to zero denominator: 4.5492269875456957e-26
+runDoser: Normalization2 failed due to zero denominator: 3.706828168263618e-27
+runDoser: Normalization2 failed due to zero denominator: 6.304835791974917e-26
+runDoser: Normalization2 failed due to zero denominator: 3.152242742690951e-26
+runDoser: Normalization2 failed due to zero denominator: 1.6944189394853444e-31
+runDoser: Normalization2 failed due to zero denominator: 5.958102179160004e-32
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 1.8999797987559049e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.9656035275426217e-33
+runDoser: Normalization2 failed due to zero denominator: 2.3596166071228754e-26
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 3.963986281189055e-30
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.555508233941299e-29
+runDoser: Normalization2 failed due to zero denominator: 5.268885385529407e-30
+runDoser: Normalization2 failed due to zero denominator: 1.2146782287355509e-29
+runDoser: Normalization2 failed due to zero denominator: 5.824192376730081e-32
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 7.408763562051113e-30
+runDoser: Normalization2 failed due to zero denominator: 2.0632691978516176e-27
+runDoser: Normalization2 failed due to zero denominator: 2.9826160976015437e-26
+runDoser: Normalization2 failed due to zero denominator: 3.8324130911577735e-32
+runDoser: Normalization2 failed due to zero denominator: 1.1016637346938038e-27
+runDoser: Normalization2 failed due to zero denominator: 5.8043544122273094e-27
+runDoser: Normalization2 failed due to zero denominator: 3.241155672474926e-26
+runDoser: Normalization2 failed due to zero denominator: 7.220003612514302e-33
+runDoser: Normalization2 failed due to zero denominator: 7.133368844742484e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 3.4751699282501376e-30
+runDoser: Normalization2 failed due to zero denominator: 0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.860827622215887e-29
+runDoser: Normalization2 failed due to zero denominator: 4.835775339872281e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 4.854154095248103e-26
+runDoser: Normalization2 failed due to zero denominator: 3.711227007925191e-26
+runDoser: Normalization2 failed due to zero denominator: 6.217832284920972e-26
+runDoser: Normalization2 failed due to zero denominator: 1.7536856196218312e-26
+runDoser: Normalization2 failed due to zero denominator: 3.429310391218351e-27
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.6475970786036577e-33
+runDoser: Normalization2 failed due to zero denominator: 6.205660402607942e-32
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.8011051040264594e-29
+runDoser: Normalization2 failed due to zero denominator: 6.634236782212132e-26
+runDoser: Normalization2 failed due to zero denominator: 1.8524322582005372e-26
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 8.073269082660386e-32
+runDoser: Normalization2 failed due to zero denominator: 8.056252996535401e-27
+runDoser: Normalization2 failed due to zero denominator: 8.185960509382425e-26
+runDoser: Normalization2 failed due to zero denominator: 9.163151077610467e-27
+runDoser: Normalization2 failed due to zero denominator: 1.4213832078081553e-28
+runDoser: Normalization2 failed due to zero denominator: 6.649949985087006e-30
+runDoser: Normalization2 failed due to zero denominator: 2.580621914484698e-26
+runDoser: Normalization2 failed due to zero denominator: 8.147235260671901e-30
+runDoser: Normalization2 failed due to zero denominator: 3.8954218446609403e-32
+runDoser: Normalization2 failed due to zero denominator: 1.1060440719722196e-25
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 4.372813022158763e-32
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 6.477592853075332e-28
+runDoser: Normalization2 failed due to zero denominator: 9.623313744783461e-26
+runDoser: Normalization2 failed due to zero denominator: 0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.6063567232291025e-29
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 7.467111948968618e-27
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.2724604832134547e-32
+runDoser: Normalization2 failed due to zero denominator: 0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 4.2005361349914253e-26
+runDoser: Normalization2 failed due to zero denominator: 1.5299831401874685e-26
+runDoser: Normalization2 failed due to zero denominator: 6.601212729604081e-30
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+runDoser: Normalization2 failed due to zero denominator: 5.0499939738454854e-26
+runDoser: Normalization2 failed due to zero denominator: 1.4036227612694158e-26
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 0.0
+runDoser: Normalization2 failed due to zero denominator: 1.8799589232963412e-26

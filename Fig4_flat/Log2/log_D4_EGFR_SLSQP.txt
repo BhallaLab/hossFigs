@@ -1,0 +1,4 @@
+Level 1 --- Init Score: 0.458   OptimizedScore 0.444       Time: 12.198 s
+Written to file OPT_D4_EGFR_SLSQP/opt.g
+OPT_D4_EGFR_SLSQP/opt.g: flat: Init Score 0.499, Final = 0.444, Time = 13.058s
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.248314613157518e-33

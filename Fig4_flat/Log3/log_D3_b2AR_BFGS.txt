@@ -1,0 +1,2 @@
+Level 1 --- Init Score: 0.356   OptimizedScore 0.335       Time: 353.556 s
+OPT_D3_b2AR_BFGS/opt.json: flat: Init Score 0.356, Final = 0.335, Time = 354.470s

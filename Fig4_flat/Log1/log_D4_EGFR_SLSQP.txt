@@ -1,0 +1,14 @@
+Level 1 --- Init Score: 0.458   OptimizedScore 0.444       Time: 11.938 s
+Written to file OPT_D4_EGFR_SLSQP/opt.g
+OPT_D4_EGFR_SLSQP/opt.g: flat: Init Score 0.499, Final = 0.444, Time = 12.780s
+runDoser: Normalization2 failed due to zero denominator: 4.835775339872281e-26
+Warning parseAndRun: normalizing to ratioReferenceValue which is zero. Using 1.0e12 instead so we compare expt to a near-zero output
+runDoser: Normalization2 failed due to zero denominator: 5.136942700426674e-30
+runDoser: Normalization2 failed due to zero denominator: 3.8324130911577735e-32
+runDoser: Normalization2 failed due to zero denominator: 1.8999797987559049e-26
+Warning parseAndRun: normalizing to ratioReferenceValue which is zero. Using 1.0e12 instead so we compare expt to a near-zero output
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.248314613157518e-33
+runDoser: Normalization2 failed due to zero denominator: 1.1967082492115406e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.9227050529087e-18
+runDoser: Normalization2 failed due to zero denominator: 5.257713454847681e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  0.0

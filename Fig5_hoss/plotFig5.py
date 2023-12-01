@@ -20,14 +20,15 @@ def readFig4Data():
     d_values = []
     
     # Define the pattern to extract information from each line
-    pattern = re.compile(r'Log\d*/log_(D[34])_(\w+)_(COBYLA|SLSQP|BFGS).txt:Level \d+ --- Init Score: (\d+\.\d+)   OptimizedScore (\d+\.\d+)       Time: (\d+\.\d+) s')
+    pattern = re.compile(r'Log\d*/log_(D[34])_(\w+)_(COBYLA|SLSQP|BFGS).txt:OPT_(D[34])_\w*_\w*\/opt\.\w*: flat: Init Score (\d+\.\d+), Final = (\d+\.\d+), Time = (\d+\.\d+)s')
+
     
     # Read the file line by line and extract information
     with open( fname4, 'r') as file:
         for line in file:
             match = pattern.search(line)
             if match:
-                d_value, target, method, init_score, optimized_score, time = match.groups()
+                d_value, target, method, dval2, init_score, optimized_score, time = match.groups()
                 targets.append(target)
                 optimization_methods.append(method)
                 init_scores.append(float(init_score))
@@ -60,13 +61,7 @@ def readFig5Data():
     # Initialize lists to store extracted data
     targets = []
     optimization_methods = []
-    #init_scores = []
-    # From the scores obtained in the flat run.
-    init_scores = [ 0.356,0.250,0.326,0.458,0.356,0.250,0.326,0.458,0.356,0.250,0.326,0.458 ]
-    init_scores2 = []
-    for ii in init_scores:
-        init_scores2.extend( [ ii, ii, ii ] )
-
+    init_scores = []
     optimized_scores = []
     times = []
     d_values = []
@@ -74,17 +69,18 @@ def readFig5Data():
     # Define the pattern to extract information from each line
     #pattern1 = re.compile(r'Log\d*/log_(D[34])_(\w+)_(COBYLA|SLSQP|BFGS).txt:Level \d+ --- Init Score: (\d+\.\d+)   OptimizedScore (\d+\.\d+)       Time: (\d+\.\d+) s')
     #pattern = re.compile(r'Log\d*/log_(D[34])_(\w+)_(COBYLA|SLSQP|BFGS).txt:Final  Score for \d+ levels in (\w+).json = (\d+\.\d+), Time=(\d+\.\d+)s')
-    pattern = re.compile(r'Log\d*/log_(D[34])_(\w+)_(COBYLA|SLSQP|BFGS).txt:Final Score for \d+ levels in (\w+)/\w*.\w* = (\d+\.\d+), Time=(\d+\.\d+)s')
+    pattern = re.compile(r'Log\d*/log_(D[34])_(\w+)_(COBYLA|SLSQP|BFGS).txt:OPT_(D[34])_\w*_\w*\/\w*\.\w*: hoss: Init Score (\d+\.\d+), Final = (\d+\.\d+), Time = (\d+\.\d+)s')
     
     # Read the file line by line and extract information
     with open( fname5, 'r') as file:
         for line in file:
             match = pattern.search(line)
             if match:
-                d_value, target, method, fx, optimized_score, time = match.groups()
+                d_value, target, method, dval2, init_score, optimized_score, time = match.groups()
                 d_values.append(d_value)
                 targets.append(target)
                 optimization_methods.append(method)
+                init_scores.append(float(init_score))
                 optimized_scores.append(float(optimized_score))
                 times.append(float(time))
     
@@ -93,7 +89,7 @@ def readFig5Data():
         'D_Value': d_values,
         'Target': targets,
         'Optimization_Method': optimization_methods,
-        'Init_Score': init_scores2,
+        'Init_Score': init_scores,
         'Optimized_Score': optimized_scores,
         'Time': times
     })
@@ -107,6 +103,8 @@ def readFig5Data():
     # Flatten the multi-level column index
     grouped_df.columns = ['_'.join(col).strip() for col in grouped_df.columns.values]
     grouped_df = grouped_df.drop(['Init_Score_std', 'Optimized_Score_std'], axis=1, errors='ignore')
+    print( "GROUPED DF" )
+    print( grouped_df )
     return grouped_df
 
 ############################################################
@@ -196,6 +194,8 @@ def plotTime( df, ax ):
 
 
 def plotHossVsFlatScore( df4, df5, ax ):
+    # Here we have to scale the flat scoring scheme to match the 
+    # hierarchical scoring. To do this we normalize to the initial value.
     # Plotting parameters
     bar_width = 0.2
     space_width = 0.3  # Adjust as needed
@@ -215,12 +215,12 @@ def plotHossVsFlatScore( df4, df5, ax ):
             subset5 = df5[(df5['D_Value_'] == d_value) & (df5['Target_'] == target) & (df5['Optimization_Method_'] == "COBYLA")]
             positions = grouped_positions[i*len( unique_d_values ) + j] + np.arange( len(colors) ) * bar_width
     
-            initScore = subset4["Init_Score_mean"]
-            initScore = initScore.values[0]
-            ax.bar(positions[0], initScore, bar_width, align='center', 
+            initScore4 = subset4["Init_Score_mean"].values[0]
+            initScore5 = subset5["Init_Score_mean"].values[0]
+            ax.bar(positions[0], initScore5, bar_width, align='center', 
                 alpha=0.7, ecolor='black', capsize=5, color=colors['Initial'],
                 label='Initial' if i == 0 and j == 0 else "")
-            flatScore = subset4["Optimized_Score_mean"].values[0]
+            flatScore = subset4["Optimized_Score_mean"].values[0] * initScore5 / initScore4
             ax.bar(positions[1], flatScore, bar_width, align='center', 
                 alpha=0.7, ecolor='black', capsize=5, color=colors['Flat'],
                 label='Flat' if i == 0 and j == 0 else "")
