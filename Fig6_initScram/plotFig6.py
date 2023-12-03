@@ -1,8 +1,9 @@
 import pandas as pd
+import seaborn as sns
 import re
 import numpy as np
-
 import matplotlib.pyplot as plt
+import simdiff
 
 resultDirTail = ["_1.2", "", "_5.0"]
 
@@ -39,12 +40,14 @@ def plotScramParam( ax, scr = [1.2, 2.0, 5.0] ):
         y = np.exp( np.random.normal(0.0, log, numSamples ) )
         bins = np.logspace(np.log10(min(y)), np.log10(max(y)), 40)
         ax.hist( y, bins = bins, alpha = 0.5, label = str(ss), histtype = "step", linewidth = 2, color = None )
-    ax.set_xlabel( 'Parameter scaling' )
+    ax.set_xlabel( 'Parameter scaling', fontsize = 16 )
     ax.set_xscale( 'log' )
-    ax.set_ylabel( 'Frequency' )
+    ax.set_ylabel( 'Frequency', fontsize = 16 )
+    ax.xaxis.set_tick_params(labelsize=14)
+    ax.yaxis.set_tick_params(labelsize=14)
     ax.text( -0.10, 1.05, label, fontsize = 22, weight = "bold", 
             transform=ax.transAxes )
-    ax.legend( title = "Scramble range", frameon = False)
+    ax.legend( title = "Scramble range", frameon = False, fontsize = 16)
 
 def plotResultHistos( ax, location, label ):
     # Iterate over each file
@@ -68,44 +71,50 @@ def plotResultHistos( ax, location, label ):
             print(f"Error reading {file_name}: {e}")
     
     # Set labels and title
-    ax.set_xlabel('Optimized model score')
-    ax.set_ylabel('Frequency')
+    ax.set_xlabel('Optimized model score', fontsize = 16)
+    ax.set_ylabel('Frequency', fontsize = 16)
+    ax.xaxis.set_tick_params(labelsize=14)
+    ax.yaxis.set_tick_params(labelsize=14)
     ax.text( -0.10, 1.05, label, fontsize = 22, weight = "bold", 
             transform=ax.transAxes )
     
     # Add legend
-    ax.legend( title = "Scramble range", frameon = False)
+    ax.legend( title = "Scramble range", frameon = False, fontsize = 16)
     
 
-def plotParamProximity( ax, location, label ):
+def plotParamProximity( ax, location, mapfile, label ):
     # Iterate over each file
-    sortedResults = [ location + tt + "/sortedResults.txt" for tt in resultDirTail ]
-    
-    for file_name in sortedResults:
-        try:
-            # Read the second entry from each line and store in a list
-            values = []
-            with open(file_name, 'r') as file:
-                for line in file:
-                    entry = line.strip().split()[1]
-                    values.append(float(entry))
-    
-            # Create a histogram for each file
-            ax.hist(values, bins=20, alpha=0.5, label=file_name)
-        except FileNotFoundError:
-            print(f"File {file_name} not found.")
-        except Exception as e:
-            print(f"Error reading {file_name}: {e}")
-    
-    # Set labels and title
-    ax.set_xlabel('Second Entry')
-    ax.set_ylabel('Frequency')
-    ax.text( -0.10, 1.05, label, fontsize = 22, weight = "bold", 
-            transform=ax.transAxes )
-    ax.set_title('scramble distribution')
-    
-    # Add legend
-    ax.legend()
+    sns.set(font_scale=1.4)
+    suffix = "json" if mapfile[6] == "3" else "g"
+    topN = [ location + "/topN_{:03d}.{}".format(ii, suffix ) for ii in range(10) ]
+    rowNames = [ "topN_{:03d}".format(ii) for ii in range(10) ]
+    scrams = []
+    pds = []
+    for modelfile in topN:
+        scr = simdiff.Scram( modelfile, mapfile )
+        scrams.append( scr )
+        pds.append( scr.getParamDict()[0] )
+        if modelfile != topN[-1]:
+            scr.model.clear()
+
+    #scrams = [ simdiff.Scram( modelfile, mapfile ) for modelfile in topN ]
+    #pds = [ ss.getParamDict()[0] for ss in scrams ]
+
+    matrix = []
+    for p1 in pds:
+        row = [ scrams[-1].compare( p1, p2 )[0] for p2 in pds ]
+        matrix.append( row )
+    df = pd.DataFrame( matrix, index = rowNames, columns = rowNames )
+    #clustergrid = sns.clustermap(df, cmap='coolwarm', ax=ax)
+    clustergrid = sns.clustermap(df, cmap='magma', figsize=(7, 6), annot_kws={"fontsize": 26})
+    # Adjust the position of the colorbar if needed
+    #clustergrid.ax_col_dendrogram.set_position([0.95, 0.1, 0.02, 0.6])
+    # Set labels and title for the main axis
+    #ax.set_xlabel('X Label')
+    #ax.set_ylabel('Y Label')
+    #ax.set_title('Clustermap Embedded in Matplotlib Axis')
+    #ax.text( -0.10, 1.05, label, fontsize = 22, weight = "bold", 
+    #        transform=ax.transAxes )
     
 
 def readFig6Data():
@@ -340,12 +349,14 @@ def plotHossVsFlatTime( df4, df5, ax ):
     
 
 def main():
-    fig, ax = plt.subplots( nrows = 5, ncols=1, figsize = (8, 20) )
+    fig, ax = plt.subplots( nrows = 3, ncols=1, figsize = (8, 15) )
+    # setting font sizeto 30
+    plt.rcParams.update({'font.size': 16})
     plotScramParam( ax[0] )
     plotResultHistos( ax[1], "OPT_D3_b2AR", "C" )
     plotResultHistos( ax[2], "OPT_D4_b2AR", "D" )
-    plotParamProximity( ax[3], "OPT_D3_b2AR", "E" )
-    plotParamProximity( ax[4], "OPT_D4_b2AR", "F" )
+    plotParamProximity( ax[0], "OPT_D3_b2AR", "Maps/D3_map_b2AR.json", "E" )
+    plotParamProximity( ax[1], "OPT_D4_b2AR", "Maps/D4_map_b2AR.json", "F" )
     '''
     df6 = readFig6Data()
     df4 = readFig4Data()
