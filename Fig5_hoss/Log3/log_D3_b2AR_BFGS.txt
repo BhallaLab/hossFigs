@@ -1,0 +1,4 @@
+Level 1 --- Init Score: 0.337   OptimizedScore 0.438       Time: 10.722 s
+Level 2 --- Init Score: 0.372   OptimizedScore 0.189       Time: 131.167 s
+Level 3 --- Init Score: 0.548   OptimizedScore 0.320       Time: 2.538 s
+OPT_D3_b2AR_BFGS/b2AR_L3_PKA.json: hoss: Init Score 0.416, Final = 0.315, Time = 145.548s

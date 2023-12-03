@@ -1,0 +1,32 @@
+lsoda -- warning..internal t = 3975 and h_ = 8.26477e-14 are
+         such that in the machine, t + h_ = t on the next step
+         solver will continue anyway.
+lsoda -- warning..internal t = 3975 and h_ = 8.26477e-14 are
+         such that in the machine, t + h_ = t on the next step
+         solver will continue anyway.
+lsoda -- warning..internal t = 3975 and h_ = 8.45031e-14 are
+         such that in the machine, t + h_ = t on the next step
+         solver will continue anyway.
+lsoda -- warning..internal t = 3975 and h_ = 8.45031e-14 are
+         such that in the machine, t + h_ = t on the next step
+         solver will continue anyway.
+Level 1 --- Init Score: 0.265   OptimizedScore 0.210       Time: 1.467 s
+Written to file OPT_D4_EGFR_SLSQP/L1.g
+Level 2 --- Init Score: 0.803   OptimizedScore 0.649       Time: 0.366 s
+Written to file OPT_D4_EGFR_SLSQP/L2.g
+Level 3 --- Init Score: 0.587   OptimizedScore 0.587       Time: 1.047 s
+Written to file OPT_D4_EGFR_SLSQP/L3.g
+Level 4 --- Init Score: 0.551   OptimizedScore 0.551       Time: 0.090 s
+Written to file OPT_D4_EGFR_SLSQP/L4.g
+Level 5 --- Init Score: 0.571   OptimizedScore 0.553       Time: 1.929 s
+Written to file OPT_D4_EGFR_SLSQP/L5.g
+OPT_D4_EGFR_SLSQP/L5.g: hoss: Init Score 0.539, Final = 0.507, Time = 5.985s
+runDoser: Normalization2 failed due to zero denominator: 3.667702505169636e-18
+runDoser: Normalization2 failed due to zero denominator: 6.610480136444182e-17
+runDoser: Normalization2 failed due to zero denominator: 3.674409466450379e-18
+runDoser: Normalization2 failed due to zero denominator: 3.681567575112733e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.350474566668613e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.229437059073268e-20
+runDoser: Normalization2 failed due to zero denominator: 3.554717577472596e-18
+runDoser: Normalization2 failed due to zero denominator: 2.37343959327276e-18
+runDoser: Normalization2 failed due to zero denominator: 2.883730094781667e-20

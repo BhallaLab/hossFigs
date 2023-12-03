@@ -1,0 +1,32 @@
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+Level 1 --- Init Score: 0.306   OptimizedScore 0.144       Time: 22.029 s
+Written to file OPT_D4_b2AR_SLSQP/b2AR_L1_CaM.g
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+Warning: Score mismatch in processIntermediateResults:  35.725352242622854 0.4902993688473082
+Level 2 --- Init Score: 0.398   OptimizedScore 0.490       Time: 9.828 s
+Written to file OPT_D4_b2AR_SLSQP/b2AR_L2_Gs.g
+Level 3 --- Init Score: 0.409   OptimizedScore 0.396       Time: 4.084 s
+Written to file OPT_D4_b2AR_SLSQP/b2AR_L3_PDE.g
+Level 4 --- Init Score: 0.359   OptimizedScore 0.257       Time: 4.114 s
+Written to file OPT_D4_b2AR_SLSQP/b2AR_L4_PKA.g
+Warning: hoss: init= 0.305 < final= 0.322, algo = SLSQP
+Known problem with SLSQP. Setting output = input
+OPT_D4_b2AR_SLSQP/b2AR_L4_PKA.g: hoss: Init Score 0.305, Final = 0.305, Time = 41.589s
