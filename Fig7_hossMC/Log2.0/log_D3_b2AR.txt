@@ -1,0 +1,176 @@
+Warning: Initial value 1447.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 2034.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1307.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 2961.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+........................Warning: Initial value 1135.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 2968.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+.....Warning: Initial value 1934.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1540.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+.Warning: Initial value 1753.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+........Warning: Initial value 2573.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+...........Warning: Initial value 1029.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+...Warning: Initial value 1071.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+.Warning: Initial value 1977.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+.Warning: Initial value 1223.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+....Warning: Initial value 1492.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+...Warning: Initial value 1247.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+...Warning: Initial value 1142.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+............Warning: Initial value 2894.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+.....Warning: Initial value 1374.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+..............Warning: Initial value 1001.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1429.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+..Warning: Initial value 2071.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1512.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1191.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+......Warning: Initial value 1150.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+.........Warning: Initial value 1855.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+.........Warning: Initial value 1220.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1257.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+........Warning: Initial value 2471.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+........Warning: Initial value 2239.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1483.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+......Warning: Initial value 1512.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+.....Warning: Initial value 1523.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+..Warning: Initial value 1012.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1733.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+...........Warning: Initial value 2617.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+..Warning: Initial value 1888.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+.....................................Warning: Initial value 1141.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1725.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1314.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1122.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1001.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1036.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+........................................................................................................................................................................................................Warning: Initial value 0.8786 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+.Warning: Initial value 0.6743 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.4508 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+.......................................Warning: Initial value 0.6054 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.7105 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.4613 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+........................................Warning: Initial value 0.5684 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.4733 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.6553 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.8247 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+........................................Warning: Initial value 0.6434 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.7321 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.5809 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.9051 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.6533 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.3925 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+........................................Warning: Initial value 0.3788 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.9963 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+........................................Warning: Initial value 0.7072 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.7754 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+.........................................................................................................................................................................................................Warning: runDoser: Normalization3 failed due to zero denominator:  1.3244102602155747e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.384588957038314e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.306665651994251e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.716142146934867e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.0923768219537991e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.363225416488758e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.654322301823896e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.3488935915416975e-17
+....Warning: runDoser: Normalization3 failed due to zero denominator:  2.664115640431351e-17
+...Warning: runDoser: Normalization3 failed due to zero denominator:  5.929250751355375e-17
+................................Warning: runDoser: Normalization3 failed due to zero denominator:  2.3564353632125464e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.7828630624613735e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.8216122916829036e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.0876648586664212e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.199426386098674e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.4059780454584047e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.9447109032218826e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.996051185801457e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.548733703660377e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.5429865085602602e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.0102205703472147e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.5271721830451546e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.013991159574117e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.6368546011204437e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.621880166236817e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.7884501731853e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.6494956556792982e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.574180782983369e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.182225705960997e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.40194374617432e-17
+...Warning: runDoser: Normalization3 failed due to zero denominator:  1.8100667589334868e-17
+.....................................Warning: runDoser: Normalization3 failed due to zero denominator:  5.326083867392123e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.3148861130140351e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.5042776617091484e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.78092692887427e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.3643881676759437e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.305771683801933e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.6387756708581993e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.228506072359915e-17
+.Warning: runDoser: Normalization3 failed due to zero denominator:  9.729310931721388e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.140640900535896e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.4774867087015683e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.815402994963809e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.4921405312045583e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.484963590096933e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.0231545865803665e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.812318731614734e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.053285049502228e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1273343157975092e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.4977216615120643e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.056189935779366e-18
+.......................................Warning: runDoser: Normalization3 failed due to zero denominator:  8.093221253482433e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.6219634214476316e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.309474768252045e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.506962688447375e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.5852106240915638e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.386164958691772e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.730899437042707e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.696297043067874e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.431023934760674e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.031166745393076e-19
+Warning: runDoser: Normalization3 failWarning: runDoser: Normalization3 failed due to zero denominator:  1.607987792989096e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.0655254190527683e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.104720410576575e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.081595296133909e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.7367247896783673e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.567227917178869e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.3998544513828543e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.7564239238246134e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.368079283542621e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.0961493398117615e-17
+........................................Warning: runDoser: Normalization3 failed due to zero denominator:  1.6366601542244378e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.756338544140092e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.141200906193959e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.73605986646473e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.0892288615150245e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.0080527939120514e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.805563769596984e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.470819317077374e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.714611029484488e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.505183513103752e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.5667812117139915e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.524643697007564e-17
+...Warning: runDoser: Normalization3 failed due to zero denominator:  1.1007460520591414e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.450020385496968e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.498503547117797e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.665775898031721e-17
+.....................................
+final Score for topN000 = 0.201
+final Score for topN001 = 0.201
+final Score for topN002 = 0.201
+final Score for topN003 = 0.201
+final Score for topN004 = 0.201
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.034329826452049e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.41307447308371e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.416472323676193e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.187897871785672e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.439426064352523e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.7291921800953405e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.904402615489612e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.3513619709711258e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.781973105823371e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.293552387744715e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.785884826997843e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.606358054945694e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.2752779559428311e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.479813676385159e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.926916647831745e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.6907107686568383e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.5386909964416796e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.839538066041667e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.711450756889666e-18
+b2AR_L3_PKA.json: hossMC: Init Score 0.416, Final = 0.201, Time = 257.231s
