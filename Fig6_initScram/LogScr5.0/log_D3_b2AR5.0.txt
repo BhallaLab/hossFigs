@@ -1,0 +1,2205 @@
+Launching wrapRunOptimizer 0 at time = 0.931 for SCRAM_D3_b2AR/scram_000.json 
+Launching wrapRunOptimizer 1 at time = 0.931 for SCRAM_D3_b2AR/scram_001.json 
+Launching wrapRunOptimizer 5 at time = 0.931 for SCRAM_D3_b2AR/scram_005.json 
+Launching wrapRunOptimizer 3 at time = 0.931 for SCRAM_D3_b2AR/scram_003.json 
+Launching wrapRunOptimizer 2 at time = 0.931 for SCRAM_D3_b2AR/scram_002.json 
+Launching wrapRunOptimizer 4 at time = 0.931 for SCRAM_D3_b2AR/scram_004.json 
+Launching wrapRunOptimizer 6 at time = 0.931 for SCRAM_D3_b2AR/scram_006.json 
+Launching wrapRunOptimizer 8 at time = 0.931 for SCRAM_D3_b2AR/scram_008.json 
+Launching wrapRunOptimizer 9 at time = 0.931 for SCRAM_D3_b2AR/scram_009.json 
+Launching wrapRunOptimizer 7 at time = 0.931 for SCRAM_D3_b2AR/scram_007.json 
+Launching wrapRunOptimizer 11 at time = 0.932 for SCRAM_D3_b2AR/scram_011.json 
+Launching wrapRunOptimizer 10 at time = 0.932 for SCRAM_D3_b2AR/scram_010.json 
+Launching wrapRunOptimizer 12 at time = 0.932 for SCRAM_D3_b2AR/scram_012.json 
+Launching wrapRunOptimizer 15 at time = 0.932 for SCRAM_D3_b2AR/scram_015.json 
+Launching wrapRunOptimizer 14 at time = 0.932 for SCRAM_D3_b2AR/scram_014.json 
+Launching wrapRunOptimizer 13 at time = 0.932 for SCRAM_D3_b2AR/scram_013.json 
+Launching wrapRunOptimizer 17 at time = 0.932 for SCRAM_D3_b2AR/scram_017.json 
+Launching wrapRunOptimizer 16 at time = 0.932 for SCRAM_D3_b2AR/scram_016.json 
+Launching wrapRunOptimizer 18 at time = 0.932 for SCRAM_D3_b2AR/scram_018.json 
+Launching wrapRunOptimizer 19 at time = 0.932 for SCRAM_D3_b2AR/scram_019.json 
+Launching wrapRunOptimizer 22 at time = 0.933 for SCRAM_D3_b2AR/scram_022.json 
+Launching wrapRunOptimizer 23 at time = 0.933 for SCRAM_D3_b2AR/scram_023.json 
+Launching wrapRunOptimizer 20 at time = 0.933 for SCRAM_D3_b2AR/scram_020.json 
+Launching wrapRunOptimizer 21 at time = 0.933 for SCRAM_D3_b2AR/scram_021.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.71039493830769e-23
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.704592636699938e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.610792094033096e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.604450641141112e-23
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.6773422376407712e-17
+Warning: Initial value 1683.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 5035.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1007.0 of parameter Gs_alpha.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 10390.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1256.0 of parameter Gs_alpha.tau is outside specified bounds 1.0 to 1000
+Level 003.1 --- Init Score: 0.379   OptimizedScore 0.378       Time: 1.069 s
+Level 022.1 --- Init Score: 0.325   OptimizedScore 0.460       Time: 1.192 s
+Level 008.1 --- Init Score: 0.433   OptimizedScore 0.451       Time: 1.077 s
+Warning: Initial value 1399.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 014.1 --- Init Score: 0.406   OptimizedScore 0.364       Time: 0.760 s
+Level 011.1 --- Init Score: 0.343   OptimizedScore 0.341       Time: 0.984 s
+Warning: Initial value 1580.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Score mismatch in processIntermediateResults:  0.7657010180784977 0.7649046579282217
+Level 017.1 --- Init Score: 0.459   OptimizedScore 0.382       Time: 0.799 s
+Warning: Initial value 4207.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 019.1 --- Init Score: 0.495   OptimizedScore 0.382       Time: 0.919 s
+Warning: Initial value 1436.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 5691.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 016.1 --- Init Score: 0.318   OptimizedScore 0.363       Time: 0.988 s
+Warning: Initial value 1086.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1012.0 of parameter intb2AR.tau is outside specified bounds 1.0 to 1000
+Level 012.1 --- Init Score: 0.497   OptimizedScore 0.375       Time: 0.985 s
+Warning: Initial value 1051.0 of parameter intb2AR.tau is outside specified bounds 1.0 to 1000
+Level 018.1 --- Init Score: 0.450   OptimizedScore 0.406       Time: 1.102 s
+Level 023.1 --- Init Score: 0.461   OptimizedScore 0.328       Time: 1.053 s
+Level 010.1 --- Init Score: 0.332   OptimizedScore 0.384       Time: 1.156 s
+Level 002.1 --- Init Score: 0.240   OptimizedScore 0.459       Time: 1.071 s
+Level 009.1 --- Init Score: 0.585   OptimizedScore 0.311       Time: 1.089 s
+Level 001.1 --- Init Score: 0.426   OptimizedScore 0.382       Time: 1.123 s
+Level 013.1 --- Init Score: 0.450   OptimizedScore 0.367       Time: 1.133 s
+Level 004.1 --- Init Score: 0.364   OptimizedScore 0.370       Time: 1.136 s
+Level 015.1 --- Init Score: 0.547   OptimizedScore 0.377       Time: 1.152 s
+Level 020.1 --- Init Score: 0.396   OptimizedScore 0.399       Time: 1.286 s
+Level 006.1 --- Init Score: 0.340   OptimizedScore 0.346       Time: 1.163 s
+Level 021.1 --- Init Score: 0.468   OptimizedScore 0.357       Time: 1.163 s
+Level 007.1 --- Init Score: 0.475   OptimizedScore 0.380       Time: 1.165 s
+Level 000.1 --- Init Score: 0.554   OptimizedScore 0.379       Time: 1.312 s
+Level 005.1 --- Init Score: 0.471   OptimizedScore 0.323       Time: 2.111 s
+Warning: Initial value 0.3519 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.2763 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.4925 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.2019 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.6266 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.5534 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.8847 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 021.2 --- Init Score: 0.425   OptimizedScore 0.383       Time: 14.658 s
+Warning: Initial value 0.8939 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Level 021.3 --- Init Score: 0.198   OptimizedScore 0.093       Time: 0.253 s
+Level 004.2 --- Init Score: 0.414   OptimizedScore 0.218       Time: 15.200 s
+Warning: Score mismatch in processIntermediateResults:  0.5178812096654852 0.5161959684555445
+Level 012.2 --- Init Score: 0.382   OptimizedScore 0.258       Time: 15.539 s
+Warning: Initial value 0.4268 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Launching wrapRunOptimizer 24 at time = 19.209 for SCRAM_D3_b2AR/scram_024.json 
+Level 004.3 --- Init Score: 0.405   OptimizedScore 0.257       Time: 0.389 s
+Warning: Score mismatch in processIntermediateResults:  0.45020383108933504 0.4490187953245489
+Level 006.2 --- Init Score: 0.400   OptimizedScore 0.225       Time: 15.601 s
+Level 012.3 --- Init Score: 0.511   OptimizedScore 0.511       Time: 0.289 s
+Level 019.2 --- Init Score: 0.383   OptimizedScore 0.197       Time: 15.965 s
+Level 001.2 --- Init Score: 0.383   OptimizedScore 0.336       Time: 15.812 s
+Warning: Initial value 0.2429 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Level 019.3 --- Init Score: 0.531   OptimizedScore 0.532       Time: 0.252 s
+Level 006.3 --- Init Score: 0.532   OptimizedScore 0.280       Time: 0.356 s
+Level 003.2 --- Init Score: 0.387   OptimizedScore 0.242       Time: 16.934 s
+Level 001.3 --- Init Score: 0.490   OptimizedScore 0.105       Time: 0.342 s
+Level 023.2 --- Init Score: 0.404   OptimizedScore 0.252       Time: 16.297 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.336580604184063e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.27818928269929e-19
+Level 005.2 --- Init Score: 0.403   OptimizedScore 0.245       Time: 15.379 s
+Warning: Score mismatch in processIntermediateResults:  0.5535710188988634 0.5525508134840305
+Level 018.2 --- Init Score: 0.428   OptimizedScore 0.276       Time: 16.498 s
+Launching wrapRunOptimizer 25 at time = 20.110 for SCRAM_D3_b2AR/scram_025.json 
+Level 003.3 --- Init Score: 0.554   OptimizedScore 0.313       Time: 0.418 s
+Level 023.3 --- Init Score: 0.563   OptimizedScore 0.277       Time: 0.355 s
+Launching wrapRunOptimizer 26 at time = 20.332 for SCRAM_D3_b2AR/scram_026.json 
+Level 018.3 --- Init Score: 0.699   OptimizedScore 0.462       Time: 0.341 s
+Level 005.3 --- Init Score: 0.514   OptimizedScore 0.346       Time: 0.351 s
+Launching wrapRunOptimizer 27 at time = 20.515 for SCRAM_D3_b2AR/scram_027.json 
+Level 000.2 --- Init Score: 0.360   OptimizedScore 0.181       Time: 16.752 s
+Launching wrapRunOptimizer 28 at time = 20.570 for SCRAM_D3_b2AR/scram_028.json 
+Warning: Score mismatch in processIntermediateResults:  0.3466548664845843 0.34630659358029986
+Level 010.2 --- Init Score: 0.255   OptimizedScore 0.173       Time: 16.989 s
+Launching wrapRunOptimizer 29 at time = 20.809 for SCRAM_D3_b2AR/scram_029.json 
+Level 017.2 --- Init Score: 0.404   OptimizedScore 0.222       Time: 17.511 s
+Level 010.3 --- Init Score: 0.574   OptimizedScore 0.119       Time: 0.298 s
+Warning: Score mismatch in processIntermediateResults:  0.4300125489979731 0.4291149347029134
+Level 000.3 --- Init Score: 0.557   OptimizedScore 0.429       Time: 0.393 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.987131244685917e-18
+Warning: Score mismatch in processIntermediateResults:  0.760150536639133 0.7591495366391331
+Level 024.1 --- Init Score: 0.550   OptimizedScore 0.380       Time: 1.047 s
+Warning: Initial value 0.05748 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Level 017.3 --- Init Score: 0.490   OptimizedScore 0.493       Time: 0.282 s
+Launching wrapRunOptimizer 30 at time = 21.174 for SCRAM_D3_b2AR/scram_030.json 
+Level 008.2 --- Init Score: 0.363   OptimizedScore 0.211       Time: 18.173 s
+Launching wrapRunOptimizer 31 at time = 21.235 for SCRAM_D3_b2AR/scram_031.json 
+Level 007.2 --- Init Score: 0.426   OptimizedScore 0.383       Time: 17.523 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.130601478368093e-19
+Launching wrapRunOptimizer 32 at time = 21.322 for SCRAM_D3_b2AR/scram_032.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.8040029782229173e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.259171738471735e-21
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.67971926874792e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.5044991013888225e-17
+Warning: Score mismatch in processIntermediateResults:  0.4228507987389193 0.4222994573843498
+Level 013.2 --- Init Score: 0.396   OptimizedScore 0.211       Time: 17.660 s
+Launching wrapRunOptimizer 33 at time = 21.473 for SCRAM_D3_b2AR/scram_033.json 
+Level 008.3 --- Init Score: 0.533   OptimizedScore 0.532       Time: 0.329 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.2878131481051204e-22
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.453201179446312e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.413111552643329e-22
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.017441993617452e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.771208476465077e-17
+Level 007.3 --- Init Score: 0.539   OptimizedScore 0.359       Time: 0.369 s
+Warning: Score mismatch in processIntermediateResults:  0.5572865835679521 0.5562876752202859
+Level 009.2 --- Init Score: 0.426   OptimizedScore 0.278       Time: 18.070 s
+Warning: Score mismatch in processIntermediateResults:  0.5182606512843403 0.5175058572750287
+Level 013.3 --- Init Score: 0.532   OptimizedScore 0.518       Time: 0.402 s
+Level 002.2 --- Init Score: 0.404   OptimizedScore 0.225       Time: 18.172 s
+Launching wrapRunOptimizer 34 at time = 21.814 for SCRAM_D3_b2AR/scram_034.json 
+Warning: Initial value 19240.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Launching wrapRunOptimizer 35 at time = 21.874 for SCRAM_D3_b2AR/scram_035.json 
+Level 022.2 --- Init Score: 0.395   OptimizedScore 0.198       Time: 18.911 s
+Warning: Initial value 0.65 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Level 009.3 --- Init Score: 0.536   OptimizedScore 0.536       Time: 0.295 s
+Level 025.1 --- Init Score: 0.581   OptimizedScore 0.346       Time: 1.094 s
+Launching wrapRunOptimizer 36 at time = 22.056 for SCRAM_D3_b2AR/scram_036.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.2031424013095395e-18
+Level 002.3 --- Init Score: 0.564   OptimizedScore 0.167       Time: 0.464 s
+Level 022.3 --- Init Score: 0.431   OptimizedScore 0.083       Time: 0.467 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.2398648214966684e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.296577604622315e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.584570346146005e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.4052138577917567e-25
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.2398650274093612e-17
+Launching wrapRunOptimizer 37 at time = 22.419 for SCRAM_D3_b2AR/scram_037.json 
+Level 014.2 --- Init Score: 0.427   OptimizedScore 0.322       Time: 19.194 s
+Launching wrapRunOptimizer 38 at time = 22.566 for SCRAM_D3_b2AR/scram_038.json 
+Warning: Initial value 1506.0 of parameter Gs_alpha.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 6662.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 026.1 --- Init Score: 0.516   OptimizedScore 0.369       Time: 1.303 s
+Warning: Initial value 0.4699 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 029.1 --- Init Score: 0.404   OptimizedScore 0.315       Time: 1.053 s
+Level 028.1 --- Init Score: 0.462   OptimizedScore 0.389       Time: 1.246 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.7250800460626464e-23
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.5839913149072603e-17
+Launching wrapRunOptimizer 39 at time = 22.841 for SCRAM_D3_b2AR/scram_039.json 
+Level 027.1 --- Init Score: 0.617   OptimizedScore 0.426       Time: 1.538 s
+Level 014.3 --- Init Score: 0.478   OptimizedScore 0.280       Time: 0.552 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1185470777237164e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.5340744342795215e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.138782330588343e-19
+Level 011.2 --- Init Score: 0.414   OptimizedScore 0.317       Time: 19.662 s
+Warning: Initial value 1354.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Launching wrapRunOptimizer 40 at time = 23.022 for SCRAM_D3_b2AR/scram_040.json 
+Launching wrapRunOptimizer 41 at time = 23.190 for SCRAM_D3_b2AR/scram_041.json 
+Level 032.1 --- Init Score: 0.321   OptimizedScore 0.378       Time: 0.974 s
+Level 031.1 --- Init Score: 0.546   OptimizedScore 0.453       Time: 1.102 s
+Launching wrapRunOptimizer 42 at time = 23.239 for SCRAM_D3_b2AR/scram_042.json 
+Warning: Initial value 1642.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.540211964049816e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.5426701476994812e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.1714586036887748e-20
+Level 030.1 --- Init Score: 0.556   OptimizedScore 0.376       Time: 1.043 s
+Level 011.3 --- Init Score: 0.489   OptimizedScore 0.489       Time: 0.299 s
+Warning: Score mismatch in processIntermediateResults:  0.7868701093295671 0.7858691093295672
+Level 033.1 --- Init Score: 0.403   OptimizedScore 0.393       Time: 1.038 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.741435577265963e-19
+Warning: Initial value 8077.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 034.1 --- Init Score: 0.504   OptimizedScore 0.366       Time: 0.891 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.5983003799211815e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.0265637614909196e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.007157565674587e-17
+Launching wrapRunOptimizer 43 at time = 23.903 for SCRAM_D3_b2AR/scram_043.json 
+Warning: Initial value 4204.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.858997204181986e-22
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.500958708763402e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.254478026861702e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.155644954909644e-18
+Level 016.2 --- Init Score: 0.372   OptimizedScore 0.199       Time: 20.427 s
+Warning: Score mismatch in processIntermediateResults:  0.9898959170394683 0.9883240262118134
+Level 036.1 --- Init Score: 0.514   OptimizedScore 0.494       Time: 1.082 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.0757618531493075e-18
+Level 015.2 --- Init Score: 0.400   OptimizedScore 0.211       Time: 20.402 s
+Level 037.1 --- Init Score: 0.414   OptimizedScore 0.382       Time: 0.936 s
+Launching wrapRunOptimizer 44 at time = 24.242 for SCRAM_D3_b2AR/scram_044.json 
+Level 016.3 --- Init Score: 0.512   OptimizedScore 0.502       Time: 0.359 s
+Level 035.1 --- Init Score: 0.469   OptimizedScore 0.393       Time: 1.561 s
+Warning: Score mismatch in processIntermediateResults:  0.09309595697597002 0.09297192745013329
+Level 015.3 --- Init Score: 0.533   OptimizedScore 0.093       Time: 0.308 s
+Warning: Initial value 1450.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1698.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 038.1 --- Init Score: 0.291   OptimizedScore 0.343       Time: 1.172 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.611648908170793e-20
+Level 039.1 --- Init Score: 0.221   OptimizedScore 0.376       Time: 1.014 s
+Warning: Initial value 2126.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 2949.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 040.1 --- Init Score: 0.481   OptimizedScore 0.378       Time: 1.118 s
+Level 020.2 --- Init Score: 0.233   OptimizedScore 0.195       Time: 21.330 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.8526638789162234e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.03214765500215e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.787266961373965e-17
+Level 042.1 --- Init Score: 0.482   OptimizedScore 0.383       Time: 1.095 s
+Level 041.1 --- Init Score: 0.320   OptimizedScore 0.373       Time: 1.126 s
+Launching wrapRunOptimizer 45 at time = 25.232 for SCRAM_D3_b2AR/scram_045.json 
+Launching wrapRunOptimizer 46 at time = 25.238 for SCRAM_D3_b2AR/scram_046.json 
+Warning: Initial value 2423.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 020.3 --- Init Score: 0.538   OptimizedScore 0.404       Time: 0.352 s
+Level 043.1 --- Init Score: 0.371   OptimizedScore 0.381       Time: 0.964 s
+Launching wrapRunOptimizer 47 at time = 26.119 for SCRAM_D3_b2AR/scram_047.json 
+Warning: Initial value 6030.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Score mismatch in processIntermediateResults:  0.7549650793418963 0.7541902201165404
+Level 044.1 --- Init Score: 0.418   OptimizedScore 0.377       Time: 1.167 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.9172894851655172e-21
+Level 045.1 --- Init Score: 0.449   OptimizedScore 0.309       Time: 0.854 s
+Level 046.1 --- Init Score: 0.654   OptimizedScore 0.382       Time: 1.299 s
+Warning: Score mismatch in processIntermediateResults:  0.6839578158696927 0.6830077940714946
+Level 047.1 --- Init Score: 0.456   OptimizedScore 0.342       Time: 1.249 s
+Warning: Initial value 0.1725 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.9752 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 024.2 --- Init Score: 0.370   OptimizedScore 0.190       Time: 16.444 s
+Level 024.3 --- Init Score: 0.587   OptimizedScore 0.578       Time: 0.265 s
+Warning: Initial value 0.7391 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Launching wrapRunOptimizer 48 at time = 38.335 for SCRAM_D3_b2AR/scram_048.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.027426472218066e-22
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.997926912094454e-23
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.131035574082112e-21
+Level 028.2 --- Init Score: 0.403   OptimizedScore 0.201       Time: 16.211 s
+Warning: Score mismatch in processIntermediateResults:  0.5133086130527895 0.5122767970837494
+Level 026.2 --- Init Score: 0.384   OptimizedScore 0.256       Time: 16.527 s
+Level 028.3 --- Init Score: 0.547   OptimizedScore 0.431       Time: 0.244 s
+Level 026.3 --- Init Score: 0.562   OptimizedScore 0.562       Time: 0.269 s
+Warning: Initial value 2520.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Launching wrapRunOptimizer 49 at time = 39.903 for SCRAM_D3_b2AR/scram_049.json 
+Level 048.1 --- Init Score: 0.264   OptimizedScore 0.371       Time: 1.086 s
+Launching wrapRunOptimizer 50 at time = 40.094 for SCRAM_D3_b2AR/scram_050.json 
+Warning: Initial value 0.2961 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.88761479314439e-23
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.5952650067924292e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.2696220081817153e-19
+Warning: Score mismatch in processIntermediateResults:  0.539154063729033 0.5385597109800491
+Level 035.2 --- Init Score: 0.374   OptimizedScore 0.269       Time: 16.311 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.170139092411821e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.9402388516722463e-20
+Warning: Initial value 0.8856 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 035.3 --- Init Score: 0.338   OptimizedScore 0.085       Time: 0.446 s
+Level 037.2 --- Init Score: 0.369   OptimizedScore 0.204       Time: 16.915 s
+Warning: Initial value 0.139 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 032.2 --- Init Score: 0.393   OptimizedScore 0.206       Time: 17.986 s
+Level 030.2 --- Init Score: 0.392   OptimizedScore 0.336       Time: 17.968 s
+Level 037.3 --- Init Score: 0.561   OptimizedScore 0.281       Time: 0.299 s
+Warning: Initial value 0.9378 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 036.2 --- Init Score: 0.399   OptimizedScore 0.204       Time: 17.449 s
+Level 049.1 --- Init Score: 0.433   OptimizedScore 0.365       Time: 1.035 s
+Warning: Initial value 0.2567 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Warning: Score mismatch in processIntermediateResults:  0.32172359447282517 0.3208742421070962
+Level 030.3 --- Init Score: 0.524   OptimizedScore 0.321       Time: 0.315 s
+Level 032.3 --- Init Score: 0.461   OptimizedScore 0.087       Time: 0.368 s
+Level 031.2 --- Init Score: 0.416   OptimizedScore 0.328       Time: 18.406 s
+Launching wrapRunOptimizer 51 at time = 41.735 for SCRAM_D3_b2AR/scram_051.json 
+Level 050.1 --- Init Score: 0.441   OptimizedScore 0.381       Time: 1.068 s
+Warning: Score mismatch in processIntermediateResults:  0.43708687410998653 0.43651391537906753
+Level 036.3 --- Init Score: 0.593   OptimizedScore 0.437       Time: 0.300 s
+Warning: Score mismatch in processIntermediateResults:  0.3742510725943338 0.3727737333459934
+Level 031.3 --- Init Score: 0.539   OptimizedScore 0.373       Time: 0.283 s
+Warning: Initial value 0.8929 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Launching wrapRunOptimizer 52 at time = 42.180 for SCRAM_D3_b2AR/scram_052.json 
+Warning: Initial value 0.4492 of parameter AMP.tau is outside specified bounds 1.0 to 1000.0
+Launching wrapRunOptimizer 53 at time = 42.442 for SCRAM_D3_b2AR/scram_053.json 
+Launching wrapRunOptimizer 54 at time = 42.446 for SCRAM_D3_b2AR/scram_054.json 
+Launching wrapRunOptimizer 55 at time = 42.675 for SCRAM_D3_b2AR/scram_055.json 
+Launching wrapRunOptimizer 56 at time = 42.759 for SCRAM_D3_b2AR/scram_056.json 
+Level 025.2 --- Init Score: 0.429   OptimizedScore 0.241       Time: 20.760 s
+Level 025.3 --- Init Score: 0.589   OptimizedScore 0.373       Time: 0.284 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.7738530285727264e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.3081209263287788e-21
+Warning: Initial value 14290.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.8352995241482263e-17
+Level 047.2 --- Init Score: 0.437   OptimizedScore 0.256       Time: 15.588 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.773592149717829e-18
+Warning: Score mismatch in processIntermediateResults:  0.7357295944980828 0.7345162030179828
+Level 051.1 --- Init Score: 0.470   OptimizedScore 0.367       Time: 1.080 s
+Launching wrapRunOptimizer 57 at time = 43.863 for SCRAM_D3_b2AR/scram_057.json 
+Level 044.2 --- Init Score: 0.370   OptimizedScore 0.246       Time: 17.505 s
+Level 042.2 --- Init Score: 0.389   OptimizedScore 0.220       Time: 18.662 s
+Level 039.2 --- Init Score: 0.347   OptimizedScore 0.189       Time: 19.144 s
+Warning: Score mismatch in processIntermediateResults:  0.41209280304471685 0.4111950941608935
+Level 043.2 --- Init Score: 0.379   OptimizedScore 0.206       Time: 18.422 s
+Level 041.2 --- Init Score: 0.399   OptimizedScore 0.262       Time: 18.786 s
+Warning: Initial value 8183.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Score mismatch in processIntermediateResults:  0.4685116232038534 0.4670166202220871
+Level 046.2 --- Init Score: 0.403   OptimizedScore 0.234       Time: 16.857 s
+Warning: Initial value 0.5966 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Warning: Score mismatch in processIntermediateResults:  0.2928585428932103 0.2921719200276609
+Level 042.3 --- Init Score: 0.520   OptimizedScore 0.292       Time: 0.330 s
+Level 039.3 --- Init Score: 0.474   OptimizedScore 0.088       Time: 0.327 s
+Warning: Score mismatch in processIntermediateResults:  0.7929046065086003 0.792034485758953
+Level 052.1 --- Init Score: 0.367   OptimizedScore 0.396       Time: 1.311 s
+Level 033.2 --- Init Score: 0.333   OptimizedScore 0.175       Time: 20.905 s
+Warning: Initial value 1267.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 041.3 --- Init Score: 0.610   OptimizedScore 0.498       Time: 0.383 s
+Level 047.3 --- Init Score: 0.466   OptimizedScore 0.084       Time: 0.859 s
+Level 043.3 --- Init Score: 0.691   OptimizedScore 0.547       Time: 0.408 s
+Warning: Initial value 1683.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 046.3 --- Init Score: 0.544   OptimizedScore 0.523       Time: 0.264 s
+Level 044.3 --- Init Score: 0.401   OptimizedScore 0.219       Time: 0.629 s
+Level 053.1 --- Init Score: 0.279   OptimizedScore 0.343       Time: 1.242 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.341575297608187e-21
+Level 054.1 --- Init Score: 0.413   OptimizedScore 0.379       Time: 1.306 s
+Level 055.1 --- Init Score: 0.242   OptimizedScore 0.376       Time: 1.185 s
+Warning: Score mismatch in processIntermediateResults:  0.42851245729069837 0.42746325532934165
+Level 033.3 --- Init Score: 0.560   OptimizedScore 0.427       Time: 0.282 s
+Level 056.1 --- Init Score: 0.383   OptimizedScore 0.356       Time: 1.196 s
+Warning: Score mismatch in processIntermediateResults:  0.44907974786839355 0.44740011388535283
+Level 038.2 --- Init Score: 0.399   OptimizedScore 0.224       Time: 20.323 s
+Launching wrapRunOptimizer 58 at time = 45.072 for SCRAM_D3_b2AR/scram_058.json 
+Launching wrapRunOptimizer 59 at time = 45.105 for SCRAM_D3_b2AR/scram_059.json 
+Launching wrapRunOptimizer 60 at time = 45.302 for SCRAM_D3_b2AR/scram_060.json 
+Launching wrapRunOptimizer 61 at time = 45.317 for SCRAM_D3_b2AR/scram_061.json 
+Level 034.2 --- Init Score: 0.425   OptimizedScore 0.239       Time: 21.701 s
+Launching wrapRunOptimizer 62 at time = 45.396 for SCRAM_D3_b2AR/scram_062.json 
+Launching wrapRunOptimizer 63 at time = 45.396 for SCRAM_D3_b2AR/scram_063.json 
+Launching wrapRunOptimizer 64 at time = 45.457 for SCRAM_D3_b2AR/scram_064.json 
+Launching wrapRunOptimizer 65 at time = 45.545 for SCRAM_D3_b2AR/scram_065.json 
+Level 057.1 --- Init Score: 0.376   OptimizedScore 0.381       Time: 1.047 s
+Warning: Score mismatch in processIntermediateResults:  0.31584409355523896 0.3153853215121395
+Level 034.3 --- Init Score: 0.502   OptimizedScore 0.315       Time: 0.321 s
+Level 038.3 --- Init Score: 0.441   OptimizedScore 0.124       Time: 0.867 s
+Level 027.2 --- Init Score: 0.421   OptimizedScore 0.369       Time: 23.230 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.58851529699893e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.7341922947998538e-21
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.296961901031878e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.535658544554462e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.391823250401773e-22
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.3107853531616873e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.622198473128063e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.161134316432823e-21
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.7288871993751354e-23
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.8222336437972848e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.125363133526258e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.805747184760133e-19
+Level 029.2 --- Init Score: 0.379   OptimizedScore 0.219       Time: 23.707 s
+Launching wrapRunOptimizer 66 at time = 46.580 for SCRAM_D3_b2AR/scram_066.json 
+Level 027.3 --- Init Score: 0.478   OptimizedScore 0.279       Time: 0.418 s
+Launching wrapRunOptimizer 67 at time = 46.697 for SCRAM_D3_b2AR/scram_067.json 
+Warning: Score mismatch in processIntermediateResults:  0.35998393268516626 0.35913754416611576
+Level 029.3 --- Init Score: 0.528   OptimizedScore 0.359       Time: 0.322 s
+Warning: Initial value 4687.0 of parameter intb2AR.tau is outside specified bounds 1.0 to 1000
+Level 059.1 --- Init Score: 0.526   OptimizedScore 0.379       Time: 1.063 s
+Level 064.1 --- Init Score: 0.378   OptimizedScore 0.383       Time: 0.878 s
+Level 060.1 --- Init Score: 0.459   OptimizedScore 0.378       Time: 1.064 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.311767352704694e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.3623802896039337e-17
+Level 063.1 --- Init Score: 0.341   OptimizedScore 0.361       Time: 1.066 s
+Level 061.1 --- Init Score: 0.501   OptimizedScore 0.345       Time: 1.168 s
+Level 062.1 --- Init Score: 0.526   OptimizedScore 0.379       Time: 1.087 s
+Level 058.1 --- Init Score: 0.407   OptimizedScore 0.387       Time: 1.526 s
+Launching wrapRunOptimizer 68 at time = 47.495 for SCRAM_D3_b2AR/scram_068.json 
+Launching wrapRunOptimizer 69 at time = 47.695 for SCRAM_D3_b2AR/scram_069.json 
+Level 065.1 --- Init Score: 0.454   OptimizedScore 0.387       Time: 1.319 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.2125840481167148e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.3350686599632457e-17
+Warning: Score mismatch in processIntermediateResults:  0.745013263963276 0.743766157701017
+Level 067.1 --- Init Score: 0.590   OptimizedScore 0.372       Time: 0.875 s
+Level 066.1 --- Init Score: 0.518   OptimizedScore 0.374       Time: 1.186 s
+Level 068.1 --- Init Score: 0.414   OptimizedScore 0.377       Time: 0.964 s
+Warning: Initial value 1361.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 3750.0 of parameter intb2AR.tau is outside specified bounds 1.0 to 1000
+Level 069.1 --- Init Score: 0.370   OptimizedScore 0.391       Time: 1.469 s
+Level 045.2 --- Init Score: 0.373   OptimizedScore 0.133       Time: 25.381 s
+Level 045.3 --- Init Score: 0.359   OptimizedScore 0.083       Time: 0.300 s
+Launching wrapRunOptimizer 70 at time = 53.206 for SCRAM_D3_b2AR/scram_070.json 
+Warning: Initial value 13360.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 070.1 --- Init Score: 0.617   OptimizedScore 0.376       Time: 1.281 s
+Level 048.2 --- Init Score: 0.364   OptimizedScore 0.210       Time: 17.443 s
+Level 048.3 --- Init Score: 0.487   OptimizedScore 0.212       Time: 0.308 s
+Warning: Initial value 0.8983 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Launching wrapRunOptimizer 71 at time = 58.313 for SCRAM_D3_b2AR/scram_071.json 
+Level 050.2 --- Init Score: 0.386   OptimizedScore 0.206       Time: 16.629 s
+Level 040.2 --- Init Score: 0.362   OptimizedScore 0.175       Time: 33.411 s
+Warning: Initial value 0.319 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Level 050.3 --- Init Score: 0.553   OptimizedScore 0.554       Time: 0.266 s
+Warning: Initial value 0.4042 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 040.3 --- Init Score: 0.521   OptimizedScore 0.195       Time: 0.348 s
+Level 052.2 --- Init Score: 0.354   OptimizedScore 0.185       Time: 14.780 s
+Launching wrapRunOptimizer 72 at time = 59.318 for SCRAM_D3_b2AR/scram_072.json 
+Level 052.3 --- Init Score: 0.473   OptimizedScore 0.221       Time: 0.309 s
+Launching wrapRunOptimizer 73 at time = 59.469 for SCRAM_D3_b2AR/scram_073.json 
+Level 071.1 --- Init Score: 0.597   OptimizedScore 0.386       Time: 1.069 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.2840273958689325e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.130337277827895e-20
+Launching wrapRunOptimizer 74 at time = 60.160 for SCRAM_D3_b2AR/scram_074.json 
+Level 049.2 --- Init Score: 0.369   OptimizedScore 0.225       Time: 18.988 s
+Warning: Score mismatch in processIntermediateResults:  0.6421533637128047 0.6412654006848816
+Level 055.2 --- Init Score: 0.412   OptimizedScore 0.321       Time: 16.160 s
+Warning: Initial value 0.716 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 049.3 --- Init Score: 0.718   OptimizedScore 0.691       Time: 0.372 s
+Warning: Initial value 0.5339 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 1083.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 051.2 --- Init Score: 0.420   OptimizedScore 0.371       Time: 17.373 s
+Warning: Initial value 0.3452 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Warning: Score mismatch in processIntermediateResults:  0.08995532630903778 0.08953891834274068
+Level 055.3 --- Init Score: 0.362   OptimizedScore 0.090       Time: 0.339 s
+Level 073.1 --- Init Score: 0.448   OptimizedScore 0.378       Time: 0.965 s
+Level 072.1 --- Init Score: 0.459   OptimizedScore 0.380       Time: 1.111 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1661509541630016e-17
+Level 051.3 --- Init Score: 0.560   OptimizedScore 0.411       Time: 0.569 s
+Launching wrapRunOptimizer 75 at time = 61.615 for SCRAM_D3_b2AR/scram_075.json 
+Warning: Initial value 0.4213 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Launching wrapRunOptimizer 76 at time = 61.766 for SCRAM_D3_b2AR/scram_076.json 
+Level 074.1 --- Init Score: 0.333   OptimizedScore 0.314       Time: 1.142 s
+Launching wrapRunOptimizer 77 at time = 62.429 for SCRAM_D3_b2AR/scram_077.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.433846923310893e-21
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.681775409488138e-22
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.0867811736147813e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.9684162404788e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.0710398992107628e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1653991566280878e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.711646975128101e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.711644321676503e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.406203060668115e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.237206408491754e-30
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.4427001840631488e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.822838800674893e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.136065380488423e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1800146750244205e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.1532586108240934e-22
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.1532585825289233e-22
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.126451967834293e-22
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.14011916379922e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.144072483583544e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.5220745079970197e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.760395528069689e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.217942008825631e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.2072260948110977e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1360551360884708e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.136152685532205e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.871128667274607e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.87113361974812e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.5631817529323404e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.3329312612345403e-24
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.632226645219014e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.5396036293717614e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1370751708452404e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.466853550715429e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.124063641656765e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.136207286170256e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.4743425015479502e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.9387563031717275e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1374217193514502e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1367681481746196e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1357643613158874e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1362554301973642e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1361083955669898e-17
+Level 053.2 --- Init Score: 0.357   OptimizedScore 0.222       Time: 18.228 s
+Level 063.2 --- Init Score: 0.433   OptimizedScore 0.379       Time: 15.498 s
+Warning: Initial value 3626.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 063.3 --- Init Score: 0.553   OptimizedScore 0.553       Time: 0.267 s
+Level 053.3 --- Init Score: 0.420   OptimizedScore 0.109       Time: 0.488 s
+Warning: Initial value 1820.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 076.1 --- Init Score: 0.291   OptimizedScore 0.379       Time: 0.877 s
+Warning: Score mismatch in processIntermediateResults:  0.40886295560276087 0.40787074354950403
+Level 059.2 --- Init Score: 0.362   OptimizedScore 0.204       Time: 16.446 s
+Level 075.1 --- Init Score: 0.530   OptimizedScore 0.308       Time: 1.114 s
+Level 056.2 --- Init Score: 0.331   OptimizedScore 0.211       Time: 18.957 s
+Warning: Initial value 0.1679 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 059.3 --- Init Score: 0.576   OptimizedScore 0.530       Time: 0.284 s
+Warning: Initial value 0.09858 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 066.2 --- Init Score: 0.411   OptimizedScore 0.354       Time: 15.288 s
+Warning: Score mismatch in processIntermediateResults:  0.4041226310642598 0.40342533097585925
+Level 062.2 --- Init Score: 0.380   OptimizedScore 0.202       Time: 16.470 s
+Warning: Initial value 0.08542 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Launching wrapRunOptimizer 78 at time = 64.109 for SCRAM_D3_b2AR/scram_078.json 
+Warning: Initial value 1218.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Launching wrapRunOptimizer 79 at time = 64.116 for SCRAM_D3_b2AR/scram_079.json 
+Level 056.3 --- Init Score: 0.469   OptimizedScore 0.206       Time: 0.451 s
+Level 062.3 --- Init Score: 0.536   OptimizedScore 0.444       Time: 0.330 s
+Warning: Initial value 0.3274 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Level 066.3 --- Init Score: 0.691   OptimizedScore 0.570       Time: 0.450 s
+Warning: Score mismatch in processIntermediateResults:  0.7583779829630825 0.7574313278729079
+Level 077.1 --- Init Score: 0.381   OptimizedScore 0.379       Time: 1.242 s
+Launching wrapRunOptimizer 80 at time = 64.537 for SCRAM_D3_b2AR/scram_080.json 
+Level 067.2 --- Init Score: 0.369   OptimizedScore 0.215       Time: 16.359 s
+Level 064.2 --- Init Score: 0.372   OptimizedScore 0.206       Time: 17.691 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.152127918474382e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.9433115990460333e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.69346064875201e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.8221779112529793e-21
+Launching wrapRunOptimizer 81 at time = 65.047 for SCRAM_D3_b2AR/scram_081.json 
+Launching wrapRunOptimizer 82 at time = 65.140 for SCRAM_D3_b2AR/scram_082.json 
+Launching wrapRunOptimizer 83 at time = 65.182 for SCRAM_D3_b2AR/scram_083.json 
+Level 064.3 --- Init Score: 0.571   OptimizedScore 0.445       Time: 0.375 s
+Level 061.2 --- Init Score: 0.405   OptimizedScore 0.241       Time: 17.886 s
+Level 067.3 --- Init Score: 0.467   OptimizedScore 0.136       Time: 0.510 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.2484590949610916e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.123986985195594e-22
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.6582183821447763e-20
+Level 061.3 --- Init Score: 0.433   OptimizedScore 0.257       Time: 0.299 s
+Warning: Initial value 16960.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.4877320751802486e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.84721047648772e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.00012900031592e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.000188878326071e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.9384917456328498e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.880166551175762e-26
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.1148730606091077e-22
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.8980798732093578e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.666058734752001e-19
+Level 079.1 --- Init Score: 0.584   OptimizedScore 0.312       Time: 1.079 s
+Launching wrapRunOptimizer 84 at time = 66.185 for SCRAM_D3_b2AR/scram_084.json 
+Launching wrapRunOptimizer 85 at time = 66.253 for SCRAM_D3_b2AR/scram_085.json 
+Level 065.2 --- Init Score: 0.368   OptimizedScore 0.180       Time: 18.563 s
+Level 080.1 --- Init Score: 0.412   OptimizedScore 0.351       Time: 0.994 s
+Launching wrapRunOptimizer 86 at time = 66.439 for SCRAM_D3_b2AR/scram_086.json 
+Level 078.1 --- Init Score: 0.659   OptimizedScore 0.392       Time: 1.577 s
+Warning: Initial value 0.4829 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Level 065.3 --- Init Score: 0.599   OptimizedScore 0.599       Time: 0.280 s
+Warning: Initial value 21400.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 10890.0 of parameter Gs_alpha.tau is outside specified bounds 1.0 to 1000
+Warning: Score mismatch in processIntermediateResults:  0.4805982244605813 0.47951962436544787
+Level 060.2 --- Init Score: 0.371   OptimizedScore 0.240       Time: 19.663 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.586880019104446e-22
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.5150587748003557e-17
+Level 083.1 --- Init Score: 0.616   OptimizedScore 0.378       Time: 0.929 s
+Level 054.2 --- Init Score: 0.376   OptimizedScore 0.238       Time: 22.423 s
+Level 082.1 --- Init Score: 0.387   OptimizedScore 0.452       Time: 1.030 s
+Level 057.2 --- Init Score: 0.403   OptimizedScore 0.310       Time: 21.609 s
+Level 081.1 --- Init Score: 0.340   OptimizedScore 0.311       Time: 1.271 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.803359699794423e-21
+Warning: Score mismatch in processIntermediateResults:  0.21246298304791778 0.16974515056174155
+Level 060.3 --- Init Score: 0.557   OptimizedScore 0.170       Time: 0.351 s
+Launching wrapRunOptimizer 87 at time = 67.425 for SCRAM_D3_b2AR/scram_087.json 
+Level 054.3 --- Init Score: 0.524   OptimizedScore 0.095       Time: 0.569 s
+Level 057.3 --- Init Score: 0.549   OptimizedScore 0.349       Time: 0.471 s
+Warning: Initial value 0.4204 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 1164.0 of parameter intb2AR.tau is outside specified bounds 1.0 to 1000
+Level 084.1 --- Init Score: 0.637   OptimizedScore 0.460       Time: 1.127 s
+Launching wrapRunOptimizer 88 at time = 68.149 for SCRAM_D3_b2AR/scram_088.json 
+Level 085.1 --- Init Score: 0.320   OptimizedScore 0.386       Time: 1.110 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.218677725996049e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.981634858348652e-20
+Level 068.2 --- Init Score: 0.412   OptimizedScore 0.243       Time: 19.030 s
+Level 086.1 --- Init Score: 0.490   OptimizedScore 0.381       Time: 1.050 s
+Launching wrapRunOptimizer 89 at time = 68.430 for SCRAM_D3_b2AR/scram_089.json 
+Launching wrapRunOptimizer 90 at time = 68.501 for SCRAM_D3_b2AR/scram_090.json 
+Warning: Score mismatch in processIntermediateResults:  0.4318444835106226 0.43087123073512573
+Level 068.3 --- Init Score: 0.482   OptimizedScore 0.431       Time: 0.356 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.8335242129182224e-17
+Level 087.1 --- Init Score: 0.391   OptimizedScore 0.308       Time: 1.071 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.177921610056912e-18
+Launching wrapRunOptimizer 91 at time = 69.417 for SCRAM_D3_b2AR/scram_091.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.733928029619766e-21
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.48221341525735e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.6104992353702168e-17
+Warning: Initial value 1473.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 089.1 --- Init Score: 0.376   OptimizedScore 0.373       Time: 1.009 s
+Level 090.1 --- Init Score: 0.379   OptimizedScore 0.372       Time: 1.055 s
+Level 069.2 --- Init Score: 0.407   OptimizedScore 0.245       Time: 20.616 s
+Level 088.1 --- Init Score: 0.510   OptimizedScore 0.381       Time: 1.968 s
+Warning: Initial value 9241.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Score mismatch in processIntermediateResults:  0.2642336656748651 0.26358763354371967
+Level 069.3 --- Init Score: 0.483   OptimizedScore 0.264       Time: 0.349 s
+Warning: Score mismatch in processIntermediateResults:  0.7636743341684253 0.7628641698706321
+Level 091.1 --- Init Score: 0.377   OptimizedScore 0.381       Time: 0.997 s
+Launching wrapRunOptimizer 92 at time = 71.411 for SCRAM_D3_b2AR/scram_092.json 
+Level 070.2 --- Init Score: 0.388   OptimizedScore 0.181       Time: 16.714 s
+Warning: Score mismatch in processIntermediateResults:  0.39764764682832854 0.39638675873809837
+Level 070.3 --- Init Score: 0.563   OptimizedScore 0.396       Time: 0.298 s
+Launching wrapRunOptimizer 93 at time = 72.659 for SCRAM_D3_b2AR/scram_093.json 
+Warning: Initial value 1512.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Score mismatch in processIntermediateResults:  0.750575444921481 0.74928095875566
+Level 092.1 --- Init Score: 0.235   OptimizedScore 0.375       Time: 0.926 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.548471936857975e-21
+Warning: Initial value 1132.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 0.0612 of parameter ab2AR.Amod is outside specified bounds 1e-07 to 0.05
+Level 093.1 --- Init Score: 0.250   OptimizedScore 0.361       Time: 1.048 s
+Level 071.2 --- Init Score: 0.267   OptimizedScore 0.177       Time: 16.498 s
+Level 073.2 --- Init Score: 0.370   OptimizedScore 0.179       Time: 15.377 s
+Level 071.3 --- Init Score: 0.537   OptimizedScore 0.308       Time: 0.307 s
+Level 073.3 --- Init Score: 0.528   OptimizedScore 0.363       Time: 0.411 s
+Launching wrapRunOptimizer 94 at time = 77.466 for SCRAM_D3_b2AR/scram_094.json 
+Launching wrapRunOptimizer 95 at time = 77.641 for SCRAM_D3_b2AR/scram_095.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.4240545195752987e-17
+Warning: Initial value 0.6944 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 2790.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 7303.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 094.1 --- Init Score: 0.254   OptimizedScore 0.379       Time: 1.242 s
+Level 095.1 --- Init Score: 0.491   OptimizedScore 0.315       Time: 1.165 s
+Level 058.2 --- Init Score: 0.390   OptimizedScore 0.237       Time: 31.947 s
+Level 058.3 --- Init Score: 0.515   OptimizedScore 0.118       Time: 0.314 s
+Warning: Initial value 0.6335 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.6354 of parameter AMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Score mismatch in processIntermediateResults:  0.6300709003550012 0.6293737163790272
+Level 075.2 --- Init Score: 0.407   OptimizedScore 0.315       Time: 16.441 s
+Launching wrapRunOptimizer 96 at time = 80.358 for SCRAM_D3_b2AR/scram_096.json 
+Level 075.3 --- Init Score: 0.532   OptimizedScore 0.441       Time: 0.377 s
+Launching wrapRunOptimizer 97 at time = 81.140 for SCRAM_D3_b2AR/scram_097.json 
+Warning: Initial value 0.08055 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.9467 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.087128774316128e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.470701309289429e-17
+Level 077.2 --- Init Score: 0.440   OptimizedScore 0.338       Time: 17.416 s
+Warning: Initial value 9687.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 078.2 --- Init Score: 0.396   OptimizedScore 0.208       Time: 15.359 s
+Level 096.1 --- Init Score: 0.533   OptimizedScore 0.377       Time: 0.994 s
+Warning: Score mismatch in processIntermediateResults:  0.18265431666883197 0.1816086394409835
+Level 077.3 --- Init Score: 0.497   OptimizedScore 0.182       Time: 0.396 s
+Warning: Initial value 0.2112 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Level 078.3 --- Init Score: 0.473   OptimizedScore 0.244       Time: 0.301 s
+Level 074.2 --- Init Score: 0.380   OptimizedScore 0.229       Time: 20.634 s
+Level 079.2 --- Init Score: 0.356   OptimizedScore 0.190       Time: 16.485 s
+Level 097.1 --- Init Score: 0.308   OptimizedScore 0.311       Time: 0.965 s
+Launching wrapRunOptimizer 98 at time = 82.871 for SCRAM_D3_b2AR/scram_098.json 
+Level 079.3 --- Init Score: 0.532   OptimizedScore 0.255       Time: 0.328 s
+Launching wrapRunOptimizer 99 at time = 83.041 for SCRAM_D3_b2AR/scram_099.json 
+Level 074.3 --- Init Score: 0.370   OptimizedScore 0.084       Time: 0.563 s
+Warning: Score mismatch in processIntermediateResults:  0.38122085878932194 0.3806248254734085
+Level 080.2 --- Init Score: 0.308   OptimizedScore 0.190       Time: 17.074 s
+Warning: Score mismatch in processIntermediateResults:  0.4034406170280197 0.4023277125629029
+Level 072.2 --- Init Score: 0.353   OptimizedScore 0.201       Time: 22.311 s
+Level 084.2 --- Init Score: 0.379   OptimizedScore 0.345       Time: 15.427 s
+Launching wrapRunOptimizer 100 at time = 83.797 for SCRAM_D3_b2AR/scram_100.json 
+Level 081.2 --- Init Score: 0.427   OptimizedScore 0.381       Time: 16.633 s
+Level 072.3 --- Init Score: 0.565   OptimizedScore 0.565       Time: 0.315 s
+Warning: Score mismatch in processIntermediateResults:  0.3370690378034762 0.33632329356984014
+Level 080.3 --- Init Score: 0.545   OptimizedScore 0.336       Time: 0.320 s
+Warning: Score mismatch in processIntermediateResults:  0.6749276673867579 0.6741309977720001
+Level 082.2 --- Init Score: 0.435   OptimizedScore 0.337       Time: 16.838 s
+Warning: Score mismatch in processIntermediateResults:  0.5038382757881406 0.5032357140183856
+Level 084.3 --- Init Score: 0.519   OptimizedScore 0.503       Time: 0.407 s
+Launching wrapRunOptimizer 101 at time = 83.966 for SCRAM_D3_b2AR/scram_101.json 
+Level 081.3 --- Init Score: 0.301   OptimizedScore 0.082       Time: 0.492 s
+Level 082.3 --- Init Score: 0.343   OptimizedScore 0.152       Time: 0.625 s
+Level 083.2 --- Init Score: 0.355   OptimizedScore 0.186       Time: 17.674 s
+Launching wrapRunOptimizer 102 at time = 84.712 for SCRAM_D3_b2AR/scram_102.json 
+Launching wrapRunOptimizer 103 at time = 84.746 for SCRAM_D3_b2AR/scram_103.json 
+Warning: Initial value 7363.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Launching wrapRunOptimizer 104 at time = 84.887 for SCRAM_D3_b2AR/scram_104.json 
+Level 098.1 --- Init Score: 0.519   OptimizedScore 0.396       Time: 1.262 s
+Level 099.1 --- Init Score: 0.437   OptimizedScore 0.357       Time: 1.110 s
+Launching wrapRunOptimizer 105 at time = 85.160 for SCRAM_D3_b2AR/scram_105.json 
+Warning: Score mismatch in processIntermediateResults:  0.13756716995806 0.13662375120233228
+Level 083.3 --- Init Score: 0.522   OptimizedScore 0.137       Time: 0.614 s
+Launching wrapRunOptimizer 106 at time = 85.417 for SCRAM_D3_b2AR/scram_106.json 
+Level 089.2 --- Init Score: 0.422   OptimizedScore 0.355       Time: 15.251 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.908306507231898e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.3222531216092166e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.69852869335586e-18
+Warning: Initial value 1721.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 086.2 --- Init Score: 0.323   OptimizedScore 0.185       Time: 17.344 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.9711222946991324e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.148881669804515e-19
+Warning: Initial value 0.491 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 101.1 --- Init Score: 0.241   OptimizedScore 0.368       Time: 0.981 s
+Level 100.1 --- Init Score: 0.480   OptimizedScore 0.391       Time: 1.142 s
+Level 090.2 --- Init Score: 0.391   OptimizedScore 0.231       Time: 15.528 s
+Warning: Initial value 0.9508 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Level 089.3 --- Init Score: 0.586   OptimizedScore 0.149       Time: 0.415 s
+Level 086.3 --- Init Score: 0.484   OptimizedScore 0.281       Time: 0.438 s
+Launching wrapRunOptimizer 107 at time = 86.160 for SCRAM_D3_b2AR/scram_107.json 
+Level 090.3 --- Init Score: 0.531   OptimizedScore 0.383       Time: 0.365 s
+Level 103.1 --- Init Score: 0.363   OptimizedScore 0.383       Time: 0.964 s
+Warning: Initial value 1044.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Launching wrapRunOptimizer 108 at time = 86.835 for SCRAM_D3_b2AR/scram_108.json 
+Level 102.1 --- Init Score: 0.554   OptimizedScore 0.358       Time: 1.286 s
+Level 105.1 --- Init Score: 0.430   OptimizedScore 0.325       Time: 0.885 s
+Level 104.1 --- Init Score: 0.471   OptimizedScore 0.376       Time: 1.203 s
+Launching wrapRunOptimizer 109 at time = 87.098 for SCRAM_D3_b2AR/scram_109.json 
+Launching wrapRunOptimizer 110 at time = 87.142 for SCRAM_D3_b2AR/scram_110.json 
+Level 087.2 --- Init Score: 0.418   OptimizedScore 0.378       Time: 18.005 s
+Level 106.1 --- Init Score: 0.315   OptimizedScore 0.356       Time: 1.171 s
+Level 087.3 --- Init Score: 0.348   OptimizedScore 0.083       Time: 0.429 s
+Warning: Initial value 3002.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.365426603084656e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.891409548690881e-21
+Level 092.2 --- Init Score: 0.425   OptimizedScore 0.255       Time: 15.025 s
+Level 107.1 --- Init Score: 0.487   OptimizedScore 0.362       Time: 0.928 s
+Level 085.2 --- Init Score: 0.414   OptimizedScore 0.235       Time: 20.116 s
+Level 092.3 --- Init Score: 0.459   OptimizedScore 0.217       Time: 0.313 s
+Launching wrapRunOptimizer 111 at time = 88.425 for SCRAM_D3_b2AR/scram_111.json 
+Warning: Score mismatch in processIntermediateResults:  0.33113282757446966 0.3304428762964473
+Level 085.3 --- Init Score: 0.516   OptimizedScore 0.330       Time: 0.323 s
+Level 108.1 --- Init Score: 0.502   OptimizedScore 0.390       Time: 1.200 s
+Level 091.2 --- Init Score: 0.351   OptimizedScore 0.191       Time: 17.852 s
+Level 109.1 --- Init Score: 0.362   OptimizedScore 0.356       Time: 1.021 s
+Level 088.2 --- Init Score: 0.322   OptimizedScore 0.177       Time: 18.216 s
+Launching wrapRunOptimizer 112 at time = 89.126 for SCRAM_D3_b2AR/scram_112.json 
+Level 110.1 --- Init Score: 0.397   OptimizedScore 0.353       Time: 1.210 s
+Level 091.3 --- Init Score: 0.572   OptimizedScore 0.473       Time: 0.319 s
+Level 088.3 --- Init Score: 0.550   OptimizedScore 0.234       Time: 0.339 s
+Launching wrapRunOptimizer 113 at time = 89.436 for SCRAM_D3_b2AR/scram_113.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.543648389591478e-22
+Launching wrapRunOptimizer 114 at time = 90.048 for SCRAM_D3_b2AR/scram_114.json 
+Launching wrapRunOptimizer 115 at time = 90.237 for SCRAM_D3_b2AR/scram_115.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.874700505747779e-23
+Level 111.1 --- Init Score: 0.296   OptimizedScore 0.331       Time: 1.033 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.292742848634432e-21
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.677491818358107e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.3208505043889912e-22
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1100612915338096e-17
+Level 112.1 --- Init Score: 0.482   OptimizedScore 0.375       Time: 1.143 s
+Level 113.1 --- Init Score: 0.366   OptimizedScore 0.319       Time: 1.018 s
+Level 114.1 --- Init Score: 0.536   OptimizedScore 0.455       Time: 1.064 s
+Warning: Score mismatch in processIntermediateResults:  0.7611070915822058 0.7602944634365671
+Level 115.1 --- Init Score: 0.428   OptimizedScore 0.380       Time: 1.023 s
+Level 095.2 --- Init Score: 0.420   OptimizedScore 0.376       Time: 17.255 s
+Level 095.3 --- Init Score: 0.480   OptimizedScore 0.321       Time: 0.297 s
+Level 096.2 --- Init Score: 0.293   OptimizedScore 0.185       Time: 14.932 s
+Level 096.3 --- Init Score: 0.502   OptimizedScore 0.275       Time: 0.352 s
+Launching wrapRunOptimizer 116 at time = 97.579 for SCRAM_D3_b2AR/scram_116.json 
+Launching wrapRunOptimizer 117 at time = 98.040 for SCRAM_D3_b2AR/scram_117.json 
+Warning: Initial value 0.2854 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Score mismatch in processIntermediateResults:  0.35717039334384565 0.35664923399502674
+Level 094.2 --- Init Score: 0.358   OptimizedScore 0.178       Time: 19.155 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.00723781301781e-17
+Warning: Score mismatch in processIntermediateResults:  0.43496471137141807 0.43442042704308453
+Level 094.3 --- Init Score: 0.551   OptimizedScore 0.434       Time: 0.375 s
+Warning: Initial value 0.3756 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 116.1 --- Init Score: 0.634   OptimizedScore 0.373       Time: 1.119 s
+Launching wrapRunOptimizer 118 at time = 99.553 for SCRAM_D3_b2AR/scram_118.json 
+Level 117.1 --- Init Score: 0.519   OptimizedScore 0.442       Time: 1.200 s
+Level 097.2 --- Init Score: 0.433   OptimizedScore 0.381       Time: 17.245 s
+Warning: Initial value 0.8572 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.158026683837808e-18
+Warning: Score mismatch in processIntermediateResults:  0.11152896693044566 0.11058372095637069
+Level 097.3 --- Init Score: 0.431   OptimizedScore 0.111       Time: 0.367 s
+Launching wrapRunOptimizer 119 at time = 100.885 for SCRAM_D3_b2AR/scram_119.json 
+Level 118.1 --- Init Score: 0.473   OptimizedScore 0.366       Time: 1.050 s
+Warning: Initial value 0.2965 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.3717022198827538e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.762532525402511e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.914880957283252e-22
+Warning: Score mismatch in processIntermediateResults:  0.39176576812684916 0.3909996836681784
+Level 099.2 --- Init Score: 0.356   OptimizedScore 0.195       Time: 16.537 s
+Level 098.2 --- Init Score: 0.416   OptimizedScore 0.206       Time: 16.876 s
+Warning: Score mismatch in processIntermediateResults:  0.5258444829130345 0.5249985838151501
+Level 099.3 --- Init Score: 0.529   OptimizedScore 0.525       Time: 0.303 s
+Level 098.3 --- Init Score: 0.357   OptimizedScore 0.085       Time: 0.497 s
+Warning: Initial value 0.3449 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Score mismatch in processIntermediateResults:  0.3525396509743781 0.35206209830903723
+Level 100.2 --- Init Score: 0.339   OptimizedScore 0.176       Time: 16.530 s
+Level 119.1 --- Init Score: 0.458   OptimizedScore 0.377       Time: 1.041 s
+Launching wrapRunOptimizer 120 at time = 102.523 for SCRAM_D3_b2AR/scram_120.json 
+Level 104.2 --- Init Score: 0.386   OptimizedScore 0.215       Time: 15.747 s
+Warning: Score mismatch in processIntermediateResults:  0.35659187316009433 0.3551549595987323
+Level 100.3 --- Init Score: 0.561   OptimizedScore 0.355       Time: 0.398 s
+Level 104.3 --- Init Score: 0.564   OptimizedScore 0.460       Time: 0.343 s
+Launching wrapRunOptimizer 121 at time = 103.124 for SCRAM_D3_b2AR/scram_121.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.729511412119181e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.8388104079915336e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.915274751821991e-17
+Launching wrapRunOptimizer 122 at time = 103.684 for SCRAM_D3_b2AR/scram_122.json 
+Launching wrapRunOptimizer 123 at time = 103.992 for SCRAM_D3_b2AR/scram_123.json 
+Level 102.2 --- Init Score: 0.427   OptimizedScore 0.252       Time: 17.281 s
+Level 107.2 --- Init Score: 0.342   OptimizedScore 0.222       Time: 16.199 s
+Warning: Initial value 1642.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 120.1 --- Init Score: 0.267   OptimizedScore 0.374       Time: 1.119 s
+Level 107.3 --- Init Score: 0.558   OptimizedScore 0.391       Time: 0.310 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.544518395390907e-19
+Warning: Score mismatch in processIntermediateResults:  0.2132980798412865 0.2129533035674833
+Level 102.3 --- Init Score: 0.476   OptimizedScore 0.213       Time: 0.528 s
+Warning: Initial value 4284.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 121.1 --- Init Score: 0.499   OptimizedScore 0.332       Time: 1.178 s
+Warning: Initial value 0.1815 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 1132.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Launching wrapRunOptimizer 124 at time = 105.336 for SCRAM_D3_b2AR/scram_124.json 
+Warning: Score mismatch in processIntermediateResults:  0.3670598201093409 0.36611813025158013
+Level 093.2 --- Init Score: 0.307   OptimizedScore 0.183       Time: 31.027 s
+Level 103.2 --- Init Score: 0.324   OptimizedScore 0.166       Time: 18.872 s
+Level 122.1 --- Init Score: 0.268   OptimizedScore 0.383       Time: 1.096 s
+Launching wrapRunOptimizer 125 at time = 105.460 for SCRAM_D3_b2AR/scram_125.json 
+Level 108.2 --- Init Score: 0.402   OptimizedScore 0.363       Time: 16.659 s
+Warning: Score mismatch in processIntermediateResults:  0.548497187473767 0.5476766716438408
+Level 093.3 --- Init Score: 0.570   OptimizedScore 0.548       Time: 0.329 s
+Level 123.1 --- Init Score: 0.437   OptimizedScore 0.385       Time: 1.075 s
+Level 103.3 --- Init Score: 0.572   OptimizedScore 0.566       Time: 0.314 s
+Warning: Score mismatch in processIntermediateResults:  0.4045197227877493 0.40342329277677275
+Level 108.3 --- Init Score: 0.581   OptimizedScore 0.403       Time: 0.410 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.2535573139191795e-19
+Warning: hoss: init= 0.359 < final= 0.364, algo = COBYLA
+Known problem with SLSQP. Setting output = input
+Launching wrapRunOptimizer 126 at time = 106.540 for SCRAM_D3_b2AR/scram_126.json 
+Launching wrapRunOptimizer 127 at time = 106.612 for SCRAM_D3_b2AR/scram_127.json 
+Launching wrapRunOptimizer 128 at time = 106.724 for SCRAM_D3_b2AR/scram_128.json 
+Warning: Initial value 1043.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 106.2 --- Init Score: 0.365   OptimizedScore 0.239       Time: 19.555 s
+Level 124.1 --- Init Score: 0.452   OptimizedScore 0.380       Time: 0.933 s
+Level 125.1 --- Init Score: 0.274   OptimizedScore 0.368       Time: 0.846 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.415116034544746e-17
+Level 106.3 --- Init Score: 0.675   OptimizedScore 0.169       Time: 0.367 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.3027758798418148e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.4496603982613807e-21
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.855171065580768e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.0219517509154707e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.8197662960400157e-21
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.779947889004848e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.369523606270617e-24
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.38877222025035e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.5174088785965527e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.548422714521256e-17
+Level 109.2 --- Init Score: 0.382   OptimizedScore 0.234       Time: 18.721 s
+Launching wrapRunOptimizer 129 at time = 108.021 for SCRAM_D3_b2AR/scram_129.json 
+Level 109.3 --- Init Score: 0.501   OptimizedScore 0.452       Time: 0.309 s
+Warning: Score mismatch in processIntermediateResults:  0.4360705058708766 0.43559517919051155
+Level 111.2 --- Init Score: 0.400   OptimizedScore 0.218       Time: 18.034 s
+Level 126.1 --- Init Score: 0.376   OptimizedScore 0.375       Time: 1.004 s
+Warning: Initial value 10980.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 3960.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Score mismatch in processIntermediateResults:  0.1899076802436189 0.18912943698749504
+Level 111.3 --- Init Score: 0.477   OptimizedScore 0.189       Time: 0.319 s
+Level 128.1 --- Init Score: 0.449   OptimizedScore 0.378       Time: 1.115 s
+Warning: Score mismatch in processIntermediateResults:  0.7740002923532354 0.7729992923532354
+Level 127.1 --- Init Score: 0.466   OptimizedScore 0.386       Time: 1.264 s
+Launching wrapRunOptimizer 130 at time = 108.885 for SCRAM_D3_b2AR/scram_130.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.224974014087854e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.095890141205692e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.7895527767829236e-25
+Level 105.2 --- Init Score: 0.273   OptimizedScore 0.151       Time: 22.534 s
+Launching wrapRunOptimizer 131 at time = 109.522 for SCRAM_D3_b2AR/scram_131.json 
+Level 112.2 --- Init Score: 0.357   OptimizedScore 0.184       Time: 18.393 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.060673337965873e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.723707995153846e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.2978479156851924e-17
+Warning: Score mismatch in processIntermediateResults:  0.1888412702221631 0.18477057464972288
+Level 112.3 --- Init Score: 0.609   OptimizedScore 0.185       Time: 0.381 s
+Warning: Score mismatch in processIntermediateResults:  0.4360679355487926 0.435118636040721
+Level 105.3 --- Init Score: 0.535   OptimizedScore 0.435       Time: 0.471 s
+Level 129.1 --- Init Score: 0.484   OptimizedScore 0.391       Time: 1.060 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.248662043537771e-17
+Level 130.1 --- Init Score: 0.615   OptimizedScore 0.391       Time: 0.909 s
+Launching wrapRunOptimizer 132 at time = 110.670 for SCRAM_D3_b2AR/scram_132.json 
+Launching wrapRunOptimizer 133 at time = 110.704 for SCRAM_D3_b2AR/scram_133.json 
+Warning: Score mismatch in processIntermediateResults:  0.4363155004451162 0.4358100513929443
+Level 110.2 --- Init Score: 0.382   OptimizedScore 0.218       Time: 21.917 s
+Warning: Score mismatch in processIntermediateResults:  0.8059843613194332 0.8048651437665679
+Level 131.1 --- Init Score: 0.632   OptimizedScore 0.402       Time: 0.976 s
+Level 110.3 --- Init Score: 0.521   OptimizedScore 0.080       Time: 0.337 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.7639829835332438e-18
+Warning: Initial value 0.07683 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 115.2 --- Init Score: 0.340   OptimizedScore 0.182       Time: 19.945 s
+Launching wrapRunOptimizer 134 at time = 112.070 for SCRAM_D3_b2AR/scram_134.json 
+Warning: Score mismatch in processIntermediateResults:  0.4279729485746299 0.42725090382723835
+Level 115.3 --- Init Score: 0.545   OptimizedScore 0.427       Time: 0.331 s
+Warning: Initial value 4104.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1419.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 132.1 --- Init Score: 0.318   OptimizedScore 0.387       Time: 1.189 s
+Level 133.1 --- Init Score: 0.270   OptimizedScore 0.460       Time: 1.164 s
+Warning: Initial value 0.5704 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Launching wrapRunOptimizer 135 at time = 112.983 for SCRAM_D3_b2AR/scram_135.json 
+Warning: Initial value 8579.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.8280956264304574e-17
+Level 134.1 --- Init Score: 0.508   OptimizedScore 0.365       Time: 0.965 s
+Level 113.2 --- Init Score: 0.406   OptimizedScore 0.257       Time: 22.566 s
+Level 113.3 --- Init Score: 0.423   OptimizedScore 0.231       Time: 0.251 s
+Level 114.2 --- Init Score: 0.398   OptimizedScore 0.274       Time: 22.602 s
+Level 135.1 --- Init Score: 0.429   OptimizedScore 0.380       Time: 0.996 s
+Launching wrapRunOptimizer 136 at time = 114.699 for SCRAM_D3_b2AR/scram_136.json 
+Warning: Score mismatch in processIntermediateResults:  0.304643390540618 0.260935497665494
+Level 114.3 --- Init Score: 0.548   OptimizedScore 0.261       Time: 0.356 s
+Launching wrapRunOptimizer 137 at time = 115.557 for SCRAM_D3_b2AR/scram_137.json 
+Level 117.2 --- Init Score: 0.383   OptimizedScore 0.222       Time: 16.298 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.6949899772150726e-17
+Warning: Initial value 2340.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 136.1 --- Init Score: 0.473   OptimizedScore 0.360       Time: 1.132 s
+Warning: Initial value 7111.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Score mismatch in processIntermediateResults:  0.7559932385885898 0.7552298942931972
+Level 137.1 --- Init Score: 0.397   OptimizedScore 0.378       Time: 1.007 s
+Level 116.2 --- Init Score: 0.356   OptimizedScore 0.203       Time: 18.411 s
+Level 116.3 --- Init Score: 0.503   OptimizedScore 0.432       Time: 1.121 s
+Level 117.3 --- Init Score: 0.403   OptimizedScore 0.092       Time: 2.728 s
+Level 118.2 --- Init Score: 0.408   OptimizedScore 0.211       Time: 18.043 s
+Launching wrapRunOptimizer 138 at time = 119.544 for SCRAM_D3_b2AR/scram_138.json 
+Launching wrapRunOptimizer 139 at time = 119.596 for SCRAM_D3_b2AR/scram_139.json 
+Warning: Initial value 0.4385 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Level 118.3 --- Init Score: 0.445   OptimizedScore 0.092       Time: 0.369 s
+Warning: Initial value 0.5776 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Launching wrapRunOptimizer 140 at time = 120.409 for SCRAM_D3_b2AR/scram_140.json 
+Warning: Score mismatch in processIntermediateResults:  0.4787326917284871 0.4665571845073825
+Level 120.2 --- Init Score: 0.398   OptimizedScore 0.233       Time: 15.977 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.0257406597594685e-21
+Warning: Initial value 0.9541 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Warning: Score mismatch in processIntermediateResults:  0.2212281722823952 0.22002431438473022
+Level 120.3 --- Init Score: 0.574   OptimizedScore 0.220       Time: 0.556 s
+Level 138.1 --- Init Score: 0.332   OptimizedScore 0.349       Time: 0.988 s
+Warning: Initial value 1195.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 139.1 --- Init Score: 0.462   OptimizedScore 0.328       Time: 1.155 s
+Level 125.2 --- Init Score: 0.419   OptimizedScore 0.375       Time: 14.473 s
+Launching wrapRunOptimizer 141 at time = 121.694 for SCRAM_D3_b2AR/scram_141.json 
+Warning: Score mismatch in processIntermediateResults:  0.3446059712874726 0.34337712201226295
+Level 125.3 --- Init Score: 0.662   OptimizedScore 0.343       Time: 0.342 s
+Warning: Initial value 1441.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 140.1 --- Init Score: 0.292   OptimizedScore 0.341       Time: 1.255 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.767948185731175e-17
+Launching wrapRunOptimizer 142 at time = 122.663 for SCRAM_D3_b2AR/scram_142.json 
+Level 122.2 --- Init Score: 0.399   OptimizedScore 0.359       Time: 17.429 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.25293832585418e-20
+Warning: Score mismatch in processIntermediateResults:  0.212207542499471 0.21154111234991124
+Level 122.3 --- Init Score: 0.561   OptimizedScore 0.212       Time: 0.444 s
+Warning: Initial value 5264.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 127.2 --- Init Score: 0.227   OptimizedScore 0.219       Time: 14.638 s
+Level 141.1 --- Init Score: 0.481   OptimizedScore 0.405       Time: 1.218 s
+Warning: Score mismatch in processIntermediateResults:  0.279538095697202 0.2792322287699508
+Level 127.3 --- Init Score: 0.494   OptimizedScore 0.279       Time: 0.347 s
+Launching wrapRunOptimizer 143 at time = 123.979 for SCRAM_D3_b2AR/scram_143.json 
+Level 121.2 --- Init Score: 0.422   OptimizedScore 0.367       Time: 18.867 s
+Launching wrapRunOptimizer 144 at time = 124.393 for SCRAM_D3_b2AR/scram_144.json 
+Level 142.1 --- Init Score: 0.406   OptimizedScore 0.349       Time: 1.145 s
+Level 121.3 --- Init Score: 0.481   OptimizedScore 0.085       Time: 0.391 s
+Level 124.2 --- Init Score: 0.397   OptimizedScore 0.236       Time: 17.910 s
+Level 126.2 --- Init Score: 0.394   OptimizedScore 0.206       Time: 16.641 s
+Warning: Initial value 0.201 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.600696481205613e-20
+Launching wrapRunOptimizer 145 at time = 125.301 for SCRAM_D3_b2AR/scram_145.json 
+Level 126.3 --- Init Score: 0.706   OptimizedScore 0.534       Time: 0.341 s
+Warning: Initial value 0.03703 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.06417 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Score mismatch in processIntermediateResults:  0.6399657748472564 0.6391801302980235
+Level 101.2 --- Init Score: 0.422   OptimizedScore 0.320       Time: 39.710 s
+Level 124.3 --- Init Score: 0.427   OptimizedScore 0.244       Time: 0.704 s
+Level 143.1 --- Init Score: 0.622   OptimizedScore 0.431       Time: 1.278 s
+Level 101.3 --- Init Score: 0.488   OptimizedScore 0.158       Time: 0.319 s
+Warning: Score mismatch in processIntermediateResults:  0.5845666558472613 0.5835142482706587
+Level 123.2 --- Init Score: 0.406   OptimizedScore 0.292       Time: 20.215 s
+Warning: Score mismatch in processIntermediateResults:  0.38053007491663327 0.3801013028763624
+Level 128.2 --- Init Score: 0.383   OptimizedScore 0.190       Time: 17.299 s
+Launching wrapRunOptimizer 146 at time = 126.163 for SCRAM_D3_b2AR/scram_146.json 
+Warning: Initial value 0.2931 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 128.3 --- Init Score: 0.530   OptimizedScore 0.248       Time: 0.362 s
+Warning: Score mismatch in processIntermediateResults:  0.2121931828051004 0.21110781283970642
+Level 123.3 --- Init Score: 0.566   OptimizedScore 0.211       Time: 0.423 s
+Level 144.1 --- Init Score: 0.666   OptimizedScore 0.445       Time: 1.163 s
+Launching wrapRunOptimizer 147 at time = 126.492 for SCRAM_D3_b2AR/scram_147.json 
+Launching wrapRunOptimizer 148 at time = 126.702 for SCRAM_D3_b2AR/scram_148.json 
+Warning: Initial value 4095.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.5818557546473e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.8412221516619126e-23
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.581856863311101e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.888342313138337e-27
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.392018758622702e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.982580691642912e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.038147945743864e-18
+Level 145.1 --- Init Score: 0.514   OptimizedScore 0.317       Time: 1.132 s
+Launching wrapRunOptimizer 149 at time = 127.313 for SCRAM_D3_b2AR/scram_149.json 
+Launching wrapRunOptimizer 150 at time = 127.315 for SCRAM_D3_b2AR/scram_150.json 
+Level 129.2 --- Init Score: 0.347   OptimizedScore 0.191       Time: 17.598 s
+Level 147.1 --- Init Score: 0.373   OptimizedScore 0.374       Time: 0.934 s
+Level 129.3 --- Init Score: 0.511   OptimizedScore 0.282       Time: 0.781 s
+Level 146.1 --- Init Score: 0.337   OptimizedScore 0.376       Time: 1.301 s
+Warning: Score mismatch in processIntermediateResults:  0.5752503124401777 0.5739207323690932
+Level 119.2 --- Init Score: 0.383   OptimizedScore 0.287       Time: 25.877 s
+Level 131.2 --- Init Score: 0.442   OptimizedScore 0.408       Time: 17.266 s
+Level 148.1 --- Init Score: 0.311   OptimizedScore 0.328       Time: 1.169 s
+Level 119.3 --- Init Score: 0.525   OptimizedScore 0.525       Time: 0.315 s
+Warning: Score mismatch in processIntermediateResults:  0.09256439951726778 0.0921817446996683
+Level 131.3 --- Init Score: 0.476   OptimizedScore 0.092       Time: 0.368 s
+Launching wrapRunOptimizer 151 at time = 129.006 for SCRAM_D3_b2AR/scram_151.json 
+Warning: Initial value 2407.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Score mismatch in processIntermediateResults:  0.7641779920018172 0.7633599990008715
+Level 150.1 --- Init Score: 0.590   OptimizedScore 0.382       Time: 0.973 s
+Level 149.1 --- Init Score: 0.430   OptimizedScore 0.324       Time: 1.125 s
+Level 132.2 --- Init Score: 0.405   OptimizedScore 0.356       Time: 16.795 s
+Launching wrapRunOptimizer 152 at time = 129.499 for SCRAM_D3_b2AR/scram_152.json 
+Launching wrapRunOptimizer 153 at time = 129.650 for SCRAM_D3_b2AR/scram_153.json 
+Level 132.3 --- Init Score: 0.606   OptimizedScore 0.515       Time: 0.440 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.140461251237743e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.876653996743549e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.296899368966586e-18
+Launching wrapRunOptimizer 154 at time = 130.620 for SCRAM_D3_b2AR/scram_154.json 
+Warning: Score mismatch in processIntermediateResults:  0.3854292902704677 0.38471194342403037
+Level 135.2 --- Init Score: 0.376   OptimizedScore 0.192       Time: 16.204 s
+Level 151.1 --- Init Score: 0.359   OptimizedScore 0.375       Time: 0.994 s
+Level 135.3 --- Init Score: 0.534   OptimizedScore 0.438       Time: 0.529 s
+Level 152.1 --- Init Score: 0.497   OptimizedScore 0.357       Time: 1.115 s
+Warning: Initial value 1249.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 133.2 --- Init Score: 0.376   OptimizedScore 0.205       Time: 19.081 s
+Level 153.1 --- Init Score: 0.249   OptimizedScore 0.382       Time: 1.371 s
+Launching wrapRunOptimizer 155 at time = 131.937 for SCRAM_D3_b2AR/scram_155.json 
+Level 130.2 --- Init Score: 0.357   OptimizedScore 0.309       Time: 21.515 s
+Warning: Score mismatch in processIntermediateResults:  0.5117296981343988 0.510744345550769
+Level 133.3 --- Init Score: 0.571   OptimizedScore 0.511       Time: 0.369 s
+Level 130.3 --- Init Score: 0.427   OptimizedScore 0.257       Time: 0.313 s
+Warning: Initial value 2202.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 0.4895 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Launching wrapRunOptimizer 156 at time = 132.720 for SCRAM_D3_b2AR/scram_156.json 
+Level 154.1 --- Init Score: 0.376   OptimizedScore 0.377       Time: 1.518 s
+Launching wrapRunOptimizer 157 at time = 133.031 for SCRAM_D3_b2AR/scram_157.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.1181390084856453e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.59855860527333e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.2657387635934329e-21
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.352959886436706e-17
+Level 155.1 --- Init Score: 0.511   OptimizedScore 0.377       Time: 0.977 s
+Level 137.2 --- Init Score: 0.398   OptimizedScore 0.246       Time: 16.820 s
+Level 137.3 --- Init Score: 0.557   OptimizedScore 0.083       Time: 0.353 s
+Level 156.1 --- Init Score: 0.433   OptimizedScore 0.425       Time: 1.390 s
+Level 157.1 --- Init Score: 0.547   OptimizedScore 0.377       Time: 1.113 s
+Launching wrapRunOptimizer 158 at time = 134.971 for SCRAM_D3_b2AR/scram_158.json 
+Level 136.2 --- Init Score: 0.425   OptimizedScore 0.402       Time: 18.595 s
+Level 136.3 --- Init Score: 0.465   OptimizedScore 0.089       Time: 0.376 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.491424236692911e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.1421059481177542e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.278033190327945e-17
+Launching wrapRunOptimizer 159 at time = 136.178 for SCRAM_D3_b2AR/scram_159.json 
+Warning: Initial value 0.1233 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 158.1 --- Init Score: 0.429   OptimizedScore 0.321       Time: 0.954 s
+Level 134.2 --- Init Score: 0.389   OptimizedScore 0.222       Time: 23.237 s
+Warning: Score mismatch in processIntermediateResults:  0.2489147072496305 0.2476567758808978
+Level 134.3 --- Init Score: 0.546   OptimizedScore 0.248       Time: 0.323 s
+Launching wrapRunOptimizer 160 at time = 137.948 for SCRAM_D3_b2AR/scram_160.json 
+Level 159.1 --- Init Score: 0.334   OptimizedScore 0.388       Time: 1.218 s
+Warning: Initial value 0.6626 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.5999 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 138.2 --- Init Score: 0.413   OptimizedScore 0.225       Time: 17.846 s
+Warning: Initial value 0.7292 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Score mismatch in processIntermediateResults:  0.34805171875163093 0.3472270290831995
+Level 138.3 --- Init Score: 0.518   OptimizedScore 0.347       Time: 0.302 s
+Warning: Initial value 5020.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 160.1 --- Init Score: 0.414   OptimizedScore 0.365       Time: 1.090 s
+Launching wrapRunOptimizer 161 at time = 140.072 for SCRAM_D3_b2AR/scram_161.json 
+Warning: Initial value 0.1242 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 140.2 --- Init Score: 0.405   OptimizedScore 0.228       Time: 18.877 s
+Warning: Initial value 0.9794 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Level 140.3 --- Init Score: 0.485   OptimizedScore 0.233       Time: 0.350 s
+Level 139.2 --- Init Score: 0.383   OptimizedScore 0.227       Time: 20.061 s
+Level 161.1 --- Init Score: 0.423   OptimizedScore 0.393       Time: 1.002 s
+Level 139.3 --- Init Score: 0.527   OptimizedScore 0.375       Time: 0.308 s
+Launching wrapRunOptimizer 162 at time = 142.192 for SCRAM_D3_b2AR/scram_162.json 
+Level 144.2 --- Init Score: 0.389   OptimizedScore 0.247       Time: 15.787 s
+Level 141.2 --- Init Score: 0.354   OptimizedScore 0.224       Time: 18.698 s
+Level 141.3 --- Init Score: 0.518   OptimizedScore 0.517       Time: 0.242 s
+Level 144.3 --- Init Score: 0.463   OptimizedScore 0.250       Time: 0.324 s
+Launching wrapRunOptimizer 163 at time = 142.616 for SCRAM_D3_b2AR/scram_163.json 
+Level 143.2 --- Init Score: 0.412   OptimizedScore 0.378       Time: 16.941 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.057047345517141e-21
+Level 143.3 --- Init Score: 0.473   OptimizedScore 0.262       Time: 0.428 s
+Level 142.2 --- Init Score: 0.417   OptimizedScore 0.360       Time: 18.850 s
+Launching wrapRunOptimizer 164 at time = 143.423 for SCRAM_D3_b2AR/scram_164.json 
+Launching wrapRunOptimizer 165 at time = 143.429 for SCRAM_D3_b2AR/scram_165.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.12988846121679e-23
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.809958014433229e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.3115630613866015e-17
+Level 142.3 --- Init Score: 0.535   OptimizedScore 0.357       Time: 0.379 s
+Level 162.1 --- Init Score: 0.355   OptimizedScore 0.374       Time: 0.867 s
+Launching wrapRunOptimizer 166 at time = 144.086 for SCRAM_D3_b2AR/scram_166.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.427412954729282e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.1834511693319052e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.412467964307096e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.303934207514412e-21
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.7094870329047763e-17
+Launching wrapRunOptimizer 167 at time = 144.471 for SCRAM_D3_b2AR/scram_167.json 
+Warning: Initial value 0.4313 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 163.1 --- Init Score: 0.626   OptimizedScore 0.350       Time: 1.142 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1937399821837952e-20
+Level 164.1 --- Init Score: 0.402   OptimizedScore 0.370       Time: 1.106 s
+Level 165.1 --- Init Score: 0.322   OptimizedScore 0.380       Time: 1.113 s
+Level 166.1 --- Init Score: 0.418   OptimizedScore 0.320       Time: 0.895 s
+Warning: Initial value 1749.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 167.1 --- Init Score: 0.337   OptimizedScore 0.374       Time: 0.851 s
+Warning: Initial value 0.4156 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 146.2 --- Init Score: 0.362   OptimizedScore 0.216       Time: 19.092 s
+Warning: Initial value 0.8518 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 146.3 --- Init Score: 0.523   OptimizedScore 0.226       Time: 0.384 s
+Launching wrapRunOptimizer 168 at time = 148.440 for SCRAM_D3_b2AR/scram_168.json 
+Level 147.2 --- Init Score: 0.381   OptimizedScore 0.207       Time: 20.613 s
+Level 148.2 --- Init Score: 0.410   OptimizedScore 0.221       Time: 20.442 s
+Level 147.3 --- Init Score: 0.413   OptimizedScore 0.255       Time: 0.326 s
+Warning: Initial value 0.9724 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Level 148.3 --- Init Score: 0.523   OptimizedScore 0.523       Time: 0.276 s
+Level 152.2 --- Init Score: 0.396   OptimizedScore 0.240       Time: 18.348 s
+Level 145.2 --- Init Score: 0.400   OptimizedScore 0.227       Time: 22.674 s
+Level 168.1 --- Init Score: 0.325   OptimizedScore 0.382       Time: 0.874 s
+Launching wrapRunOptimizer 169 at time = 149.959 for SCRAM_D3_b2AR/scram_169.json 
+Level 152.3 --- Init Score: 0.432   OptimizedScore 0.421       Time: 0.315 s
+Launching wrapRunOptimizer 170 at time = 150.127 for SCRAM_D3_b2AR/scram_170.json 
+Level 145.3 --- Init Score: 0.523   OptimizedScore 0.523       Time: 0.283 s
+Level 156.2 --- Init Score: 0.443   OptimizedScore 0.401       Time: 15.437 s
+Level 149.2 --- Init Score: 0.408   OptimizedScore 0.218       Time: 21.012 s
+Warning: Score mismatch in processIntermediateResults:  0.34688421706852446 0.346035463149633
+Level 156.3 --- Init Score: 0.528   OptimizedScore 0.346       Time: 0.364 s
+Level 149.3 --- Init Score: 0.700   OptimizedScore 0.548       Time: 0.284 s
+Launching wrapRunOptimizer 171 at time = 150.951 for SCRAM_D3_b2AR/scram_171.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.1918294110286443e-20
+Launching wrapRunOptimizer 172 at time = 151.103 for SCRAM_D3_b2AR/scram_172.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.1958428972113201e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.91901640052988e-19
+Launching wrapRunOptimizer 173 at time = 151.445 for SCRAM_D3_b2AR/scram_173.json 
+Launching wrapRunOptimizer 174 at time = 151.547 for SCRAM_D3_b2AR/scram_174.json 
+Warning: Score mismatch in processIntermediateResults:  0.36031849576321573 0.3599456386320522
+Level 155.2 --- Init Score: 0.336   OptimizedScore 0.180       Time: 18.101 s
+Warning: Initial value 8733.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 169.1 --- Init Score: 0.393   OptimizedScore 0.459       Time: 1.067 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.367123036064893e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.695618972158427e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.2824437244249765e-23
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.374129131030261e-18
+Level 170.1 --- Init Score: 0.403   OptimizedScore 0.378       Time: 0.928 s
+Level 155.3 --- Init Score: 0.500   OptimizedScore 0.084       Time: 0.603 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.7316092309168925e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.2401698776018259e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.966204180264878e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.9997441528983087e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.9662033347762685e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.5826823995083184e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.633939852070036e-26
+Level 171.1 --- Init Score: 0.515   OptimizedScore 0.378       Time: 1.005 s
+Warning: Initial value 0.5817 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Launching wrapRunOptimizer 175 at time = 152.959 for SCRAM_D3_b2AR/scram_175.json 
+Level 150.2 --- Init Score: 0.380   OptimizedScore 0.223       Time: 23.896 s
+Level 174.1 --- Init Score: 0.400   OptimizedScore 0.379       Time: 1.064 s
+Level 172.1 --- Init Score: 0.614   OptimizedScore 0.384       Time: 1.492 s
+Level 150.3 --- Init Score: 0.559   OptimizedScore 0.297       Time: 0.381 s
+Level 173.1 --- Init Score: 0.461   OptimizedScore 0.390       Time: 1.218 s
+Warning: Initial value 0.2689 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Launching wrapRunOptimizer 176 at time = 154.146 for SCRAM_D3_b2AR/scram_176.json 
+Level 175.1 --- Init Score: 0.386   OptimizedScore 0.385       Time: 0.933 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.9485012440206685e-18
+Warning: Initial value 0.2219 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 157.2 --- Init Score: 0.350   OptimizedScore 0.175       Time: 20.573 s
+Level 157.3 --- Init Score: 0.594   OptimizedScore 0.590       Time: 0.298 s
+Level 176.1 --- Init Score: 0.350   OptimizedScore 0.311       Time: 0.946 s
+Level 151.2 --- Init Score: 0.218   OptimizedScore 0.189       Time: 25.261 s
+Launching wrapRunOptimizer 177 at time = 156.263 for SCRAM_D3_b2AR/scram_177.json 
+Warning: Score mismatch in processIntermediateResults:  0.5438971400277884 0.5431994955341958
+Level 151.3 --- Init Score: 0.572   OptimizedScore 0.543       Time: 0.338 s
+Level 158.2 --- Init Score: 0.391   OptimizedScore 0.233       Time: 20.242 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.117643546855906e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.076316506299448e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.965255201682361e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.634628120521663e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.1461224261149705e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.134436214489864e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.11068711304028e-17
+Level 158.3 --- Init Score: 0.502   OptimizedScore 0.497       Time: 0.365 s
+Launching wrapRunOptimizer 178 at time = 157.219 for SCRAM_D3_b2AR/scram_178.json 
+Level 154.2 --- Init Score: 0.372   OptimizedScore 0.206       Time: 25.132 s
+Level 160.2 --- Init Score: 0.395   OptimizedScore 0.237       Time: 18.256 s
+Launching wrapRunOptimizer 179 at time = 158.004 for SCRAM_D3_b2AR/scram_179.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.142138077375093e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.552725657868085e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.52094580332887e-20
+Level 154.3 --- Init Score: 0.570   OptimizedScore 0.172       Time: 0.372 s
+Level 160.3 --- Init Score: 0.504   OptimizedScore 0.086       Time: 0.616 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.7265925655955919e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.032730066331186e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.030911534206216e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.674215006182352e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.613280727546142e-23
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.1294423175241956e-23
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.567764824757078e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.4293980581180963e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.63235091482145e-22
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.1004708312221483e-17
+Launching wrapRunOptimizer 180 at time = 158.993 for SCRAM_D3_b2AR/scram_180.json 
+Warning: Score mismatch in processIntermediateResults:  0.711177635367941 0.7101644995427745
+Level 177.1 --- Init Score: 0.484   OptimizedScore 0.355       Time: 1.974 s
+Warning: Initial value 4677.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Launching wrapRunOptimizer 181 at time = 159.285 for SCRAM_D3_b2AR/scram_181.json 
+Level 178.1 --- Init Score: 0.400   OptimizedScore 0.381       Time: 1.371 s
+Warning: Initial value 2197.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.7580601239099343e-22
+Level 179.1 --- Init Score: 0.251   OptimizedScore 0.460       Time: 1.107 s
+Warning: Initial value 0.1859 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.5222 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 159.2 --- Init Score: 0.353   OptimizedScore 0.327       Time: 22.328 s
+Level 180.1 --- Init Score: 0.462   OptimizedScore 0.382       Time: 0.838 s
+Level 159.3 --- Init Score: 0.523   OptimizedScore 0.240       Time: 0.332 s
+Warning: Initial value 0.2722 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 181.1 --- Init Score: 0.552   OptimizedScore 0.381       Time: 1.103 s
+Launching wrapRunOptimizer 182 at time = 161.338 for SCRAM_D3_b2AR/scram_182.json 
+Warning: Initial value 0.1851 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 163.2 --- Init Score: 0.403   OptimizedScore 0.233       Time: 17.143 s
+Level 153.2 --- Init Score: 0.355   OptimizedScore 0.178       Time: 30.172 s
+Level 163.3 --- Init Score: 0.542   OptimizedScore 0.387       Time: 0.370 s
+Level 153.3 --- Init Score: 0.547   OptimizedScore 0.519       Time: 0.291 s
+Launching wrapRunOptimizer 183 at time = 162.738 for SCRAM_D3_b2AR/scram_183.json 
+Level 164.2 --- Init Score: 0.393   OptimizedScore 0.207       Time: 17.361 s
+Warning: Score mismatch in processIntermediateResults:  0.5578668160015817 0.5563528047335882
+Level 162.2 --- Init Score: 0.407   OptimizedScore 0.278       Time: 19.082 s
+Launching wrapRunOptimizer 184 at time = 163.027 for SCRAM_D3_b2AR/scram_184.json 
+Warning: Score mismatch in processIntermediateResults:  0.24886188952126537 0.24783342147866722
+Level 164.3 --- Init Score: 0.510   OptimizedScore 0.248       Time: 0.366 s
+Warning: Score mismatch in processIntermediateResults:  0.1964193622832365 0.19408084414389584
+Level 162.3 --- Init Score: 0.591   OptimizedScore 0.194       Time: 0.372 s
+Level 167.2 --- Init Score: 0.365   OptimizedScore 0.195       Time: 17.175 s
+Level 182.1 --- Init Score: 0.570   OptimizedScore 0.387       Time: 1.334 s
+Level 167.3 --- Init Score: 0.527   OptimizedScore 0.510       Time: 0.337 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.3805634870978503e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.370974623844762e-19
+Level 165.2 --- Init Score: 0.353   OptimizedScore 0.177       Time: 18.601 s
+Launching wrapRunOptimizer 185 at time = 164.074 for SCRAM_D3_b2AR/scram_185.json 
+Launching wrapRunOptimizer 186 at time = 164.142 for SCRAM_D3_b2AR/scram_186.json 
+Level 076.2 --- Init Score: 0.334   OptimizedScore 0.185       Time: 100.787 s
+Launching wrapRunOptimizer 187 at time = 164.347 for SCRAM_D3_b2AR/scram_187.json 
+Level 165.3 --- Init Score: 0.537   OptimizedScore 0.536       Time: 0.324 s
+Warning: Initial value 3594.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 0.9379 of parameter Gs_alpha.tau is outside specified bounds 1.0 to 1000
+Level 076.3 --- Init Score: 0.570   OptimizedScore 0.528       Time: 0.305 s
+Warning: Score mismatch in processIntermediateResults:  0.7540725630476006 0.7532593490605942
+Level 183.1 --- Init Score: 0.291   OptimizedScore 0.377       Time: 1.156 s
+Level 166.2 --- Init Score: 0.406   OptimizedScore 0.237       Time: 18.990 s
+Warning: Initial value 9183.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Warning: Initial value 1088.0 of parameter intb2AR.tau is outside specified bounds 1.0 to 1000
+Level 184.1 --- Init Score: 0.453   OptimizedScore 0.382       Time: 1.154 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.199983887609095e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.740675029298706e-17
+Level 166.3 --- Init Score: 0.513   OptimizedScore 0.382       Time: 0.499 s
+Launching wrapRunOptimizer 188 at time = 165.296 for SCRAM_D3_b2AR/scram_188.json 
+Launching wrapRunOptimizer 189 at time = 165.360 for SCRAM_D3_b2AR/scram_189.json 
+Level 168.2 --- Init Score: 0.387   OptimizedScore 0.249       Time: 15.923 s
+Launching wrapRunOptimizer 190 at time = 166.146 for SCRAM_D3_b2AR/scram_190.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  6.135739058176559e-21
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.604748998469989e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.0073491408898244e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.892890533607098e-17
+Level 161.2 --- Init Score: 0.373   OptimizedScore 0.198       Time: 24.523 s
+Warning: Initial value 0.702 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Score mismatch in processIntermediateResults:  0.3280793722075881 0.32706702625301726
+Level 168.3 --- Init Score: 0.545   OptimizedScore 0.327       Time: 0.365 s
+Level 187.1 --- Init Score: 0.539   OptimizedScore 0.348       Time: 1.067 s
+Level 186.1 --- Init Score: 0.580   OptimizedScore 0.381       Time: 1.382 s
+Level 161.3 --- Init Score: 0.595   OptimizedScore 0.287       Time: 0.422 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.887827858610137e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.9510253850341234e-20
+Launching wrapRunOptimizer 191 at time = 167.077 for SCRAM_D3_b2AR/scram_191.json 
+Warning: Initial value 2931.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 188.1 --- Init Score: 0.484   OptimizedScore 0.389       Time: 1.101 s
+Level 189.1 --- Init Score: 0.327   OptimizedScore 0.375       Time: 1.168 s
+Launching wrapRunOptimizer 192 at time = 167.333 for SCRAM_D3_b2AR/scram_192.json 
+Warning: Initial value 1110.0 of parameter AMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 1438.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 185.1 --- Init Score: 0.523   OptimizedScore 0.337       Time: 3.078 s
+Level 190.1 --- Init Score: 0.498   OptimizedScore 0.371       Time: 1.267 s
+Warning: Initial value 2306.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 192.1 --- Init Score: 0.375   OptimizedScore 0.340       Time: 0.941 s
+Level 172.2 --- Init Score: 0.390   OptimizedScore 0.215       Time: 15.489 s
+Level 191.1 --- Init Score: 0.530   OptimizedScore 0.360       Time: 1.253 s
+Level 172.3 --- Init Score: 0.548   OptimizedScore 0.130       Time: 0.840 s
+Launching wrapRunOptimizer 193 at time = 170.450 for SCRAM_D3_b2AR/scram_193.json 
+Level 174.2 --- Init Score: 0.318   OptimizedScore 0.175       Time: 17.035 s
+Level 174.3 --- Init Score: 0.597   OptimizedScore 0.556       Time: 0.325 s
+Warning: Initial value 0.4193 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Launching wrapRunOptimizer 194 at time = 171.527 for SCRAM_D3_b2AR/scram_194.json 
+Warning: Initial value 3273.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 193.1 --- Init Score: 0.306   OptimizedScore 0.368       Time: 0.957 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.777065854191655e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.69961062505946e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.062557333206775e-17
+Level 170.2 --- Init Score: 0.372   OptimizedScore 0.195       Time: 20.312 s
+Level 171.2 --- Init Score: 0.383   OptimizedScore 0.193       Time: 19.794 s
+Level 170.3 --- Init Score: 0.532   OptimizedScore 0.416       Time: 0.358 s
+Level 176.2 --- Init Score: 0.415   OptimizedScore 0.232       Time: 17.192 s
+Level 171.3 --- Init Score: 0.364   OptimizedScore 0.100       Time: 0.423 s
+Warning: Score mismatch in processIntermediateResults:  0.3391894126947707 0.33853453243759096
+Level 176.3 --- Init Score: 0.532   OptimizedScore 0.339       Time: 0.331 s
+Level 173.2 --- Init Score: 0.266   OptimizedScore 0.126       Time: 19.738 s
+Launching wrapRunOptimizer 195 at time = 173.314 for SCRAM_D3_b2AR/scram_195.json 
+Warning: Initial value 0.02658 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Score mismatch in processIntermediateResults:  0.30749924959974523 0.3054161063530083
+Level 173.3 --- Init Score: 0.582   OptimizedScore 0.305       Time: 0.398 s
+Level 194.1 --- Init Score: 0.495   OptimizedScore 0.402       Time: 1.533 s
+Launching wrapRunOptimizer 196 at time = 173.753 for SCRAM_D3_b2AR/scram_196.json 
+Warning: Score mismatch in processIntermediateResults:  0.6269142135652281 0.6262646560920104
+Level 169.2 --- Init Score: 0.384   OptimizedScore 0.313       Time: 22.010 s
+Launching wrapRunOptimizer 197 at time = 174.041 for SCRAM_D3_b2AR/scram_197.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  2.5561708750597024e-24
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.1992279104872135e-17
+Level 169.3 --- Init Score: 0.562   OptimizedScore 0.474       Time: 0.426 s
+Level 175.2 --- Init Score: 0.368   OptimizedScore 0.255       Time: 19.933 s
+Launching wrapRunOptimizer 198 at time = 174.497 for SCRAM_D3_b2AR/scram_198.json 
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.9059530746209334e-21
+Level 175.3 --- Init Score: 0.533   OptimizedScore 0.360       Time: 0.367 s
+Level 195.1 --- Init Score: 0.486   OptimizedScore 0.376       Time: 0.913 s
+Launching wrapRunOptimizer 199 at time = 175.202 for SCRAM_D3_b2AR/scram_199.json 
+Warning: Initial value 8959.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 196.1 --- Init Score: 0.399   OptimizedScore 0.361       Time: 0.920 s
+Warning: Initial value 1252.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 197.1 --- Init Score: 0.308   OptimizedScore 0.372       Time: 1.116 s
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.5255714815736152e-17
+Warning: Initial value 1635.0 of parameter ab2AR.tau is outside specified bounds 1.0 to 1000
+Level 180.2 --- Init Score: 0.378   OptimizedScore 0.192       Time: 16.045 s
+Level 198.1 --- Init Score: 0.283   OptimizedScore 0.390       Time: 1.305 s
+Level 179.2 --- Init Score: 0.428   OptimizedScore 0.234       Time: 16.868 s
+Level 180.3 --- Init Score: 0.698   OptimizedScore 0.556       Time: 0.290 s
+Level 199.1 --- Init Score: 0.561   OptimizedScore 0.451       Time: 1.108 s
+Level 179.3 --- Init Score: 0.484   OptimizedScore 0.089       Time: 0.399 s
+Level 181.2 --- Init Score: 0.366   OptimizedScore 0.185       Time: 16.532 s
+Level 181.3 --- Init Score: 0.516   OptimizedScore 0.089       Time: 0.360 s
+Warning: Initial value 0.9474 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Score mismatch in processIntermediateResults:  0.6143533886890278 0.6131233386889496
+Level 178.2 --- Init Score: 0.420   OptimizedScore 0.307       Time: 19.477 s
+Warning: Score mismatch in processIntermediateResults:  0.31122807764880206 0.31083864831889235
+Level 178.3 --- Init Score: 0.477   OptimizedScore 0.311       Time: 0.334 s
+Warning: Initial value 0.7886 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Score mismatch in processIntermediateResults:  0.40660806647822967 0.40619407791888007
+Level 183.2 --- Init Score: 0.406   OptimizedScore 0.203       Time: 17.278 s
+Warning: Score mismatch in processIntermediateResults:  0.23590779019179164 0.2355528812360006
+Level 182.2 --- Init Score: 0.280   OptimizedScore 0.118       Time: 18.865 s
+Level 183.3 --- Init Score: 0.561   OptimizedScore 0.560       Time: 0.287 s
+Warning: Initial value 0.3239 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.5275 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.3585 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Score mismatch in processIntermediateResults:  0.5145096742607402 0.5134225963607906
+Level 182.3 --- Init Score: 0.587   OptimizedScore 0.513       Time: 2.620 s
+Level 184.2 --- Init Score: 0.356   OptimizedScore 0.323       Time: 19.913 s
+Warning: Initial value 0.1257 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 177.2 --- Init Score: 0.328   OptimizedScore 0.205       Time: 26.234 s
+Level 184.3 --- Init Score: 0.564   OptimizedScore 0.457       Time: 0.363 s
+Warning: Initial value 0.2182 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Level 177.3 --- Init Score: 0.456   OptimizedScore 0.201       Time: 0.331 s
+Level 186.2 --- Init Score: 0.378   OptimizedScore 0.209       Time: 19.373 s
+Warning: Score mismatch in processIntermediateResults:  0.40079420873664173 0.40034621712503915
+Level 188.2 --- Init Score: 0.376   OptimizedScore 0.200       Time: 18.650 s
+Warning: Score mismatch in processIntermediateResults:  0.15979189794407686 0.15770697108138002
+Level 186.3 --- Init Score: 0.526   OptimizedScore 0.158       Time: 0.354 s
+Level 189.2 --- Init Score: 0.370   OptimizedScore 0.181       Time: 18.918 s
+Warning: Score mismatch in processIntermediateResults:  0.2245821470047829 0.22309985685417982
+Level 189.3 --- Init Score: 0.611   OptimizedScore 0.223       Time: 0.312 s
+Level 188.3 --- Init Score: 0.481   OptimizedScore 0.084       Time: 1.043 s
+Warning: Score mismatch in processIntermediateResults:  0.49002030188649204 0.4883324253779206
+Level 187.2 --- Init Score: 0.408   OptimizedScore 0.244       Time: 20.739 s
+Warning: Score mismatch in processIntermediateResults:  0.13656339337354004 0.1358663906064891
+Level 187.3 --- Init Score: 0.494   OptimizedScore 0.136       Time: 0.344 s
+Warning: Score mismatch in processIntermediateResults:  0.6346644135109594 0.6338309948296887
+Level 185.2 --- Init Score: 0.417   OptimizedScore 0.317       Time: 19.795 s
+Level 194.2 --- Init Score: 0.382   OptimizedScore 0.208       Time: 14.367 s
+Level 194.3 --- Init Score: 0.502   OptimizedScore 0.498       Time: 0.280 s
+Warning: Score mismatch in processIntermediateResults:  0.09111516670867162 0.09069775836094326
+Level 185.3 --- Init Score: 0.468   OptimizedScore 0.091       Time: 0.752 s
+Level 192.2 --- Init Score: 0.385   OptimizedScore 0.224       Time: 19.619 s
+Warning: Score mismatch in processIntermediateResults:  0.43739182267728915 0.43665658899803483
+Level 190.2 --- Init Score: 0.381   OptimizedScore 0.218       Time: 20.412 s
+Warning: Score mismatch in processIntermediateResults:  0.18813988528302988 0.1862741429241634
+Level 192.3 --- Init Score: 0.534   OptimizedScore 0.186       Time: 0.377 s
+Level 190.3 --- Init Score: 0.580   OptimizedScore 0.310       Time: 0.309 s
+Level 191.2 --- Init Score: 0.383   OptimizedScore 0.209       Time: 20.404 s
+Level 191.3 --- Init Score: 0.484   OptimizedScore 0.262       Time: 0.359 s
+Level 193.2 --- Init Score: 0.363   OptimizedScore 0.176       Time: 18.551 s
+Level 197.2 --- Init Score: 0.393   OptimizedScore 0.366       Time: 14.910 s
+Warning: Score mismatch in processIntermediateResults:  0.3207065470346545 0.32031969822070216
+Level 193.3 --- Init Score: 0.533   OptimizedScore 0.320       Time: 0.430 s
+Level 195.2 --- Init Score: 0.365   OptimizedScore 0.191       Time: 16.169 s
+Level 195.3 --- Init Score: 0.537   OptimizedScore 0.447       Time: 0.334 s
+Level 197.3 --- Init Score: 0.330   OptimizedScore 0.130       Time: 0.946 s
+Warning: Initial value 0.8098 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.6894 of parameter cAMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Initial value 0.2156 of parameter AMP.tau is outside specified bounds 1.0 to 1000.0
+Warning: Score mismatch in processIntermediateResults:  0.4799743915866263 0.4794589134458718
+Level 198.2 --- Init Score: 0.425   OptimizedScore 0.240       Time: 18.711 s
+Level 196.2 --- Init Score: 0.337   OptimizedScore 0.212       Time: 20.032 s
+Warning: Initial value 0.5548 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Level 198.3 --- Init Score: 0.154   OptimizedScore 0.080       Time: 0.385 s
+Warning: Score mismatch in processIntermediateResults:  0.3464733215068054 0.31641490711074494
+Level 196.3 --- Init Score: 0.530   OptimizedScore 0.316       Time: 0.384 s
+Level 199.2 --- Init Score: 0.375   OptimizedScore 0.218       Time: 19.919 s
+Warning: Initial value 0.1975 of parameter aPKA.tau is outside specified bounds 1.0 to 1000.0
+Level 199.3 --- Init Score: 0.512   OptimizedScore 0.332       Time: 0.340 s
+b2AR        0.382   CaM         0.376   
+AC          0.162   PDE1        0.201   
+PKA         0.429   
+Final Score for scramIdx 000 in ./Models/D3_model_b2AR_v5.json = 0.330
+b2AR        0.387   CaM         0.376   
+AC          0.183   PDE1        0.489   
+PKA         0.105   
+Final Score for scramIdx 001 in ./Models/D3_model_b2AR_v5.json = 0.274
+b2AR        0.541   CaM         0.376   
+AC          0.255   PDE1        0.195   
+PKA         0.167   
+Final Score for scramIdx 002 in ./Models/D3_model_b2AR_v5.json = 0.284
+b2AR        0.379   CaM         0.376   
+AC          0.173   PDE1        0.310   
+PKA         0.313   
+Final Score for scramIdx 003 in ./Models/D3_model_b2AR_v5.json = 0.311
+b2AR        0.364   CaM         0.376   
+AC          0.241   PDE1        0.196   
+PKA         0.257   
+Final Score for scramIdx 004 in ./Models/D3_model_b2AR_v5.json = 0.282
+b2AR        0.270   CaM         0.376   
+AC          0.295   PDE1        0.195   
+PKA         0.346   
+Final Score for scramIdx 005 in ./Models/D3_model_b2AR_v5.json = 0.305
+b2AR        0.315   CaM         0.376   
+AC          0.227   PDE1        0.222   
+PKA         0.280   
+Final Score for scramIdx 006 in ./Models/D3_model_b2AR_v5.json = 0.283
+b2AR        0.384   CaM         0.376   
+AC          0.280   PDE1        0.487   
+PKA         0.359   
+Final Score for scramIdx 007 in ./Models/D3_model_b2AR_v5.json = 0.374
+b2AR        0.526   CaM         0.376   
+AC          0.226   PDE1        0.195   
+PKA         0.532   
+Final Score for scramIdx 008 in ./Models/D3_model_b2AR_v5.json = 0.398
+b2AR        0.245   CaM         0.376   
+AC          0.278   PDE1        0.278   
+PKA         0.536   
+Final Score for scramIdx 009 in ./Models/D3_model_b2AR_v5.json = 0.375
+b2AR        0.392   CaM         0.376   
+AC          0.151   PDE1        0.196   
+PKA         0.119   
+Final Score for scramIdx 010 in ./Models/D3_model_b2AR_v5.json = 0.225
+b2AR        0.307   CaM         0.376   
+AC          0.273   PDE1        0.362   
+PKA         0.489   
+Final Score for scramIdx 011 in ./Models/D3_model_b2AR_v5.json = 0.383
+b2AR        0.373   CaM         0.376   
+AC          0.191   PDE1        0.325   
+PKA         0.511   
+Final Score for scramIdx 012 in ./Models/D3_model_b2AR_v5.json = 0.381
+b2AR        0.357   CaM         0.376   
+AC          0.227   PDE1        0.195   
+PKA         0.518   
+Final Score for scramIdx 013 in ./Models/D3_model_b2AR_v5.json = 0.365
+b2AR        0.353   CaM         0.376   
+AC          0.292   PDE1        0.353   
+PKA         0.280   
+Final Score for scramIdx 014 in ./Models/D3_model_b2AR_v5.json = 0.322
+b2AR        0.378   CaM         0.376   
+AC          0.227   PDE1        0.195   
+PKA         0.093   
+Final Score for scramIdx 015 in ./Models/D3_model_b2AR_v5.json = 0.227
+b2AR        0.350   CaM         0.376   
+AC          0.205   PDE1        0.195   
+PKA         0.502   
+Final Score for scramIdx 016 in ./Models/D3_model_b2AR_v5.json = 0.355
+b2AR        0.389   CaM         0.376   
+AC          0.242   PDE1        0.201   
+PKA         0.493   
+Final Score for scramIdx 017 in ./Models/D3_model_b2AR_v5.json = 0.366
+b2AR        0.435   CaM         0.376   
+AC          0.255   PDE1        0.297   
+PKA         0.462   
+Final Score for scramIdx 018 in ./Models/D3_model_b2AR_v5.json = 0.381
+b2AR        0.389   CaM         0.376   
+AC          0.180   PDE1        0.215   
+PKA         0.532   
+Final Score for scramIdx 019 in ./Models/D3_model_b2AR_v5.json = 0.371
+b2AR        0.421   CaM         0.376   
+AC          0.194   PDE1        0.195   
+PKA         0.404   
+Final Score for scramIdx 020 in ./Models/D3_model_b2AR_v5.json = 0.333
+b2AR        0.338   CaM         0.376   
+AC          0.283   PDE1        0.482   
+PKA         0.093   
+Final Score for scramIdx 021 in ./Models/D3_model_b2AR_v5.json = 0.278
+b2AR        0.545   CaM         0.376   
+AC          0.201   PDE1        0.195   
+PKA         0.083   
+Final Score for scramIdx 022 in ./Models/D3_model_b2AR_v5.json = 0.247
+b2AR        0.280   CaM         0.376   
+AC          0.308   PDE1        0.195   
+PKA         0.277   
+Final Score for scramIdx 023 in ./Models/D3_model_b2AR_v5.json = 0.286
+b2AR        0.381   CaM         0.379   
+AC          0.185   PDE1        0.195   
+PKA         0.578   
+Final Score for scramIdx 024 in ./Models/D3_model_b2AR_v5.json = 0.383
+b2AR        0.316   CaM         0.376   
+AC          0.286   PDE1        0.195   
+PKA         0.373   
+Final Score for scramIdx 025 in ./Models/D3_model_b2AR_v5.json = 0.320
+b2AR        0.362   CaM         0.376   
+AC          0.204   PDE1        0.308   
+PKA         0.562   
+Final Score for scramIdx 026 in ./Models/D3_model_b2AR_v5.json = 0.396
+b2AR        0.476   CaM         0.376   
+AC          0.257   PDE1        0.481   
+PKA         0.279   
+Final Score for scramIdx 027 in ./Models/D3_model_b2AR_v5.json = 0.358
+b2AR        0.403   CaM         0.376   
+AC          0.207   PDE1        0.195   
+PKA         0.431   
+Final Score for scramIdx 028 in ./Models/D3_model_b2AR_v5.json = 0.340
+b2AR        0.254   CaM         0.376   
+AC          0.242   PDE1        0.196   
+PKA         0.359   
+Final Score for scramIdx 029 in ./Models/D3_model_b2AR_v5.json = 0.298
+b2AR        0.375   CaM         0.376   
+AC          0.202   PDE1        0.470   
+PKA         0.321   
+Final Score for scramIdx 030 in ./Models/D3_model_b2AR_v5.json = 0.344
+b2AR        0.531   CaM         0.376   
+AC          0.257   PDE1        0.399   
+PKA         0.373   
+Final Score for scramIdx 031 in ./Models/D3_model_b2AR_v5.json = 0.385
+b2AR        0.380   CaM         0.376   
+AC          0.217   PDE1        0.195   
+PKA         0.087   
+Final Score for scramIdx 032 in ./Models/D3_model_b2AR_v5.json = 0.224
+b2AR        0.380   CaM         0.406   
+AC          0.154   PDE1        0.195   
+PKA         0.427   
+Final Score for scramIdx 033 in ./Models/D3_model_b2AR_v5.json = 0.332
+b2AR        0.355   CaM         0.376   
+AC          0.282   PDE1        0.195   
+PKA         0.315   
+Final Score for scramIdx 034 in ./Models/D3_model_b2AR_v5.json = 0.307
+b2AR        0.409   CaM         0.376   
+AC          0.167   PDE1        0.372   
+PKA         0.085   
+Final Score for scramIdx 035 in ./Models/D3_model_b2AR_v5.json = 0.249
+b2AR        0.380   CaM         0.608   
+AC          0.213   PDE1        0.195   
+PKA         0.437   
+Final Score for scramIdx 036 in ./Models/D3_model_b2AR_v5.json = 0.378
+b2AR        0.389   CaM         0.376   
+AC          0.213   PDE1        0.196   
+PKA         0.281   
+Final Score for scramIdx 037 in ./Models/D3_model_b2AR_v5.json = 0.289
+b2AR        0.309   CaM         0.376   
+AC          0.217   PDE1        0.230   
+PKA         0.124   
+Final Score for scramIdx 038 in ./Models/D3_model_b2AR_v5.json = 0.230
+b2AR        0.375   CaM         0.376   
+AC          0.182   PDE1        0.195   
+PKA         0.088   
+Final Score for scramIdx 039 in ./Models/D3_model_b2AR_v5.json = 0.217
+b2AR        0.381   CaM         0.376   
+AC          0.156   PDE1        0.195   
+PKA         0.195   
+Final Score for scramIdx 040 in ./Models/D3_model_b2AR_v5.json = 0.250
+b2AR        0.369   CaM         0.376   
+AC          0.209   PDE1        0.314   
+PKA         0.498   
+Final Score for scramIdx 041 in ./Models/D3_model_b2AR_v5.json = 0.377
+b2AR        0.387   CaM         0.380   
+AC          0.244   PDE1        0.196   
+PKA         0.292   
+Final Score for scramIdx 042 in ./Models/D3_model_b2AR_v5.json = 0.298
+b2AR        0.387   CaM         0.376   
+AC          0.202   PDE1        0.209   
+PKA         0.547   
+Final Score for scramIdx 043 in ./Models/D3_model_b2AR_v5.json = 0.378
+b2AR        0.378   CaM         0.376   
+AC          0.297   PDE1        0.195   
+PKA         0.219   
+Final Score for scramIdx 044 in ./Models/D3_model_b2AR_v5.json = 0.281
+b2AR        0.243   CaM         0.376   
+AC          0.240   PDE1        0.027   
+PKA         0.083   
+Final Score for scramIdx 045 in ./Models/D3_model_b2AR_v5.json = 0.175
+b2AR        0.388   CaM         0.376   
+AC          0.235   PDE1        0.232   
+PKA         0.523   
+Final Score for scramIdx 046 in ./Models/D3_model_b2AR_v5.json = 0.379
+b2AR        0.307   CaM         0.376   
+AC          0.314   PDE1        0.198   
+PKA         0.084   
+Final Score for scramIdx 047 in ./Models/D3_model_b2AR_v5.json = 0.227
+b2AR        0.365   CaM         0.376   
+AC          0.225   PDE1        0.195   
+PKA         0.212   
+Final Score for scramIdx 048 in ./Models/D3_model_b2AR_v5.json = 0.264
+b2AR        0.353   CaM         0.376   
+AC          0.255   PDE1        0.195   
+PKA         0.691   
+Final Score for scramIdx 049 in ./Models/D3_model_b2AR_v5.json = 0.427
+b2AR        0.385   CaM         0.376   
+AC          0.217   PDE1        0.195   
+PKA         0.554   
+Final Score for scramIdx 050 in ./Models/D3_model_b2AR_v5.json = 0.380
+b2AR        0.358   CaM         0.376   
+AC          0.256   PDE1        0.485   
+PKA         0.411   
+Final Score for scramIdx 051 in ./Models/D3_model_b2AR_v5.json = 0.383
+b2AR        0.416   CaM         0.376   
+AC          0.175   PDE1        0.195   
+PKA         0.221   
+Final Score for scramIdx 052 in ./Models/D3_model_b2AR_v5.json = 0.267
+b2AR        0.310   CaM         0.376   
+AC          0.249   PDE1        0.195   
+PKA         0.109   
+Final Score for scramIdx 053 in ./Models/D3_model_b2AR_v5.json = 0.225
+b2AR        0.382   CaM         0.376   
+AC          0.228   PDE1        0.248   
+PKA         0.095   
+Final Score for scramIdx 054 in ./Models/D3_model_b2AR_v5.json = 0.237
+b2AR        0.376   CaM         0.376   
+AC          0.284   PDE1        0.358   
+PKA         0.090   
+Final Score for scramIdx 055 in ./Models/D3_model_b2AR_v5.json = 0.262
+b2AR        0.335   CaM         0.376   
+AC          0.227   PDE1        0.195   
+PKA         0.206   
+Final Score for scramIdx 056 in ./Models/D3_model_b2AR_v5.json = 0.258
+b2AR        0.385   CaM         0.376   
+AC          0.231   PDE1        0.390   
+PKA         0.349   
+Final Score for scramIdx 057 in ./Models/D3_model_b2AR_v5.json = 0.347
+b2AR        0.398   CaM         0.376   
+AC          0.218   PDE1        0.255   
+PKA         0.118   
+Final Score for scramIdx 058 in ./Models/D3_model_b2AR_v5.json = 0.247
+b2AR        0.382   CaM         0.376   
+AC          0.172   PDE1        0.236   
+PKA         0.530   
+Final Score for scramIdx 059 in ./Models/D3_model_b2AR_v5.json = 0.371
+b2AR        0.381   CaM         0.376   
+AC          0.173   PDE1        0.306   
+PKA         0.170   
+Final Score for scramIdx 060 in ./Models/D3_model_b2AR_v5.json = 0.263
+b2AR        0.314   CaM         0.376   
+AC          0.286   PDE1        0.195   
+PKA         0.257   
+Final Score for scramIdx 061 in ./Models/D3_model_b2AR_v5.json = 0.281
+b2AR        0.382   CaM         0.376   
+AC          0.208   PDE1        0.195   
+PKA         0.444   
+Final Score for scramIdx 062 in ./Models/D3_model_b2AR_v5.json = 0.342
+b2AR        0.346   CaM         0.376   
+AC          0.287   PDE1        0.472   
+PKA         0.553   
+Final Score for scramIdx 063 in ./Models/D3_model_b2AR_v5.json = 0.431
+b2AR        0.389   CaM         0.376   
+AC          0.216   PDE1        0.195   
+PKA         0.445   
+Final Score for scramIdx 064 in ./Models/D3_model_b2AR_v5.json = 0.344
+b2AR        0.398   CaM         0.376   
+AC          0.163   PDE1        0.196   
+PKA         0.599   
+Final Score for scramIdx 065 in ./Models/D3_model_b2AR_v5.json = 0.389
+b2AR        0.372   CaM         0.376   
+AC          0.224   PDE1        0.484   
+PKA         0.570   
+Final Score for scramIdx 066 in ./Models/D3_model_b2AR_v5.json = 0.433
+b2AR        0.365   CaM         0.378   
+AC          0.235   PDE1        0.196   
+PKA         0.136   
+Final Score for scramIdx 067 in ./Models/D3_model_b2AR_v5.json = 0.241
+b2AR        0.378   CaM         0.376   
+AC          0.289   PDE1        0.198   
+PKA         0.431   
+Final Score for scramIdx 068 in ./Models/D3_model_b2AR_v5.json = 0.350
+b2AR        0.406   CaM         0.376   
+AC          0.294   PDE1        0.195   
+PKA         0.264   
+Final Score for scramIdx 069 in ./Models/D3_model_b2AR_v5.json = 0.300
+b2AR        0.376   CaM         0.376   
+AC          0.166   PDE1        0.195   
+PKA         0.396   
+Final Score for scramIdx 070 in ./Models/D3_model_b2AR_v5.json = 0.318
+b2AR        0.395   CaM         0.376   
+AC          0.158   PDE1        0.196   
+PKA         0.308   
+Final Score for scramIdx 071 in ./Models/D3_model_b2AR_v5.json = 0.290
+b2AR        0.384   CaM         0.376   
+AC          0.193   PDE1        0.209   
+PKA         0.565   
+Final Score for scramIdx 072 in ./Models/D3_model_b2AR_v5.json = 0.382
+b2AR        0.380   CaM         0.376   
+AC          0.163   PDE1        0.196   
+PKA         0.363   
+Final Score for scramIdx 073 in ./Models/D3_model_b2AR_v5.json = 0.307
+b2AR        0.252   CaM         0.376   
+AC          0.263   PDE1        0.195   
+PKA         0.084   
+Final Score for scramIdx 074 in ./Models/D3_model_b2AR_v5.json = 0.209
+b2AR        0.240   CaM         0.376   
+AC          0.244   PDE1        0.385   
+PKA         0.441   
+Final Score for scramIdx 075 in ./Models/D3_model_b2AR_v5.json = 0.355
+b2AR        0.383   CaM         0.376   
+AC          0.174   PDE1        0.195   
+PKA         0.528   
+Final Score for scramIdx 076 in ./Models/D3_model_b2AR_v5.json = 0.364
+b2AR        0.381   CaM         0.376   
+AC          0.305   PDE1        0.371   
+PKA         0.182   
+Final Score for scramIdx 077 in ./Models/D3_model_b2AR_v5.json = 0.300
+b2AR        0.407   CaM         0.376   
+AC          0.221   PDE1        0.195   
+PKA         0.244   
+Final Score for scramIdx 078 in ./Models/D3_model_b2AR_v5.json = 0.281
+b2AR        0.247   CaM         0.376   
+AC          0.184   PDE1        0.197   
+PKA         0.255   
+Final Score for scramIdx 079 in ./Models/D3_model_b2AR_v5.json = 0.252
+b2AR        0.327   CaM         0.376   
+AC          0.185   PDE1        0.195   
+PKA         0.336   
+Final Score for scramIdx 080 in ./Models/D3_model_b2AR_v5.json = 0.293
+b2AR        0.246   CaM         0.376   
+AC          0.285   PDE1        0.479   
+PKA         0.082   
+Final Score for scramIdx 081 in ./Models/D3_model_b2AR_v5.json = 0.258
+b2AR        0.527   CaM         0.376   
+AC          0.299   PDE1        0.376   
+PKA         0.152   
+Final Score for scramIdx 082 in ./Models/D3_model_b2AR_v5.json = 0.314
+b2AR        0.379   CaM         0.376   
+AC          0.176   PDE1        0.195   
+PKA         0.137   
+Final Score for scramIdx 083 in ./Models/D3_model_b2AR_v5.json = 0.233
+b2AR        0.365   CaM         0.555   
+AC          0.187   PDE1        0.503   
+PKA         0.503   
+Final Score for scramIdx 084 in ./Models/D3_model_b2AR_v5.json = 0.436
+b2AR        0.397   CaM         0.376   
+AC          0.275   PDE1        0.195   
+PKA         0.330   
+Final Score for scramIdx 085 in ./Models/D3_model_b2AR_v5.json = 0.317
+b2AR        0.386   CaM         0.376   
+AC          0.174   PDE1        0.195   
+PKA         0.281   
+Final Score for scramIdx 086 in ./Models/D3_model_b2AR_v5.json = 0.282
+b2AR        0.241   CaM         0.376   
+AC          0.280   PDE1        0.476   
+PKA         0.083   
+Final Score for scramIdx 087 in ./Models/D3_model_b2AR_v5.json = 0.256
+b2AR        0.386   CaM         0.376   
+AC          0.158   PDE1        0.195   
+PKA         0.234   
+Final Score for scramIdx 088 in ./Models/D3_model_b2AR_v5.json = 0.264
+b2AR        0.371   CaM         0.376   
+AC          0.250   PDE1        0.461   
+PKA         0.149   
+Final Score for scramIdx 089 in ./Models/D3_model_b2AR_v5.json = 0.293
+b2AR        0.369   CaM         0.376   
+AC          0.191   PDE1        0.271   
+PKA         0.383   
+Final Score for scramIdx 090 in ./Models/D3_model_b2AR_v5.json = 0.329
+b2AR        0.387   CaM         0.376   
+AC          0.188   PDE1        0.195   
+PKA         0.473   
+Final Score for scramIdx 091 in ./Models/D3_model_b2AR_v5.json = 0.349
+b2AR        0.373   CaM         0.376   
+AC          0.314   PDE1        0.197   
+PKA         0.216   
+Final Score for scramIdx 092 in ./Models/D3_model_b2AR_v5.json = 0.282
+b2AR        0.347   CaM         0.376   
+AC          0.236   PDE1        0.127   
+PKA         0.548   
+Final Score for scramIdx 093 in ./Models/D3_model_b2AR_v5.json = 0.364
+b2AR        0.381   CaM         0.376   
+AC          0.154   PDE1        0.202   
+PKA         0.434   
+Final Score for scramIdx 094 in ./Models/D3_model_b2AR_v5.json = 0.331
+b2AR        0.254   CaM         0.376   
+AC          0.267   PDE1        0.484   
+PKA         0.321   
+Final Score for scramIdx 095 in ./Models/D3_model_b2AR_v5.json = 0.337
+b2AR        0.378   CaM         0.376   
+AC          0.174   PDE1        0.195   
+PKA         0.275   
+Final Score for scramIdx 096 in ./Models/D3_model_b2AR_v5.json = 0.279
+b2AR        0.245   CaM         0.376   
+AC          0.291   PDE1        0.472   
+PKA         0.111   
+Final Score for scramIdx 097 in ./Models/D3_model_b2AR_v5.json = 0.268
+b2AR        0.416   CaM         0.376   
+AC          0.215   PDE1        0.196   
+PKA         0.085   
+Final Score for scramIdx 098 in ./Models/D3_model_b2AR_v5.json = 0.229
+b2AR        0.339   CaM         0.376   
+AC          0.191   PDE1        0.200   
+PKA         0.525   
+Final Score for scramIdx 099 in ./Models/D3_model_b2AR_v5.json = 0.359
+b2AR        0.406   CaM         0.376   
+AC          0.157   PDE1        0.195   
+PKA         0.355   
+Final Score for scramIdx 100 in ./Models/D3_model_b2AR_v5.json = 0.307
+b2AR        0.360   CaM         0.376   
+AC          0.254   PDE1        0.385   
+PKA         0.158   
+Final Score for scramIdx 101 in ./Models/D3_model_b2AR_v5.json = 0.282
+b2AR        0.340   CaM         0.376   
+AC          0.307   PDE1        0.197   
+PKA         0.213   
+Final Score for scramIdx 102 in ./Models/D3_model_b2AR_v5.json = 0.274
+b2AR        0.389   CaM         0.376   
+AC          0.136   PDE1        0.196   
+PKA         0.566   
+Final Score for scramIdx 103 in ./Models/D3_model_b2AR_v5.json = 0.372
+b2AR        0.376   CaM         0.376   
+AC          0.236   PDE1        0.195   
+PKA         0.460   
+Final Score for scramIdx 104 in ./Models/D3_model_b2AR_v5.json = 0.350
+b2AR        0.273   CaM         0.376   
+AC          0.230   PDE1        0.069   
+PKA         0.435   
+Final Score for scramIdx 105 in ./Models/D3_model_b2AR_v5.json = 0.303
+b2AR        0.335   CaM         0.376   
+AC          0.286   PDE1        0.196   
+PKA         0.169   
+Final Score for scramIdx 106 in ./Models/D3_model_b2AR_v5.json = 0.255
+b2AR        0.348   CaM         0.376   
+AC          0.248   PDE1        0.195   
+PKA         0.391   
+Final Score for scramIdx 107 in ./Models/D3_model_b2AR_v5.json = 0.325
+b2AR        0.405   CaM         0.376   
+AC          0.213   PDE1        0.513   
+PKA         0.403   
+Final Score for scramIdx 108 in ./Models/D3_model_b2AR_v5.json = 0.386
+b2AR        0.337   CaM         0.376   
+AC          0.273   PDE1        0.195   
+PKA         0.452   
+Final Score for scramIdx 109 in ./Models/D3_model_b2AR_v5.json = 0.348
+b2AR        0.331   CaM         0.376   
+AC          0.240   PDE1        0.196   
+PKA         0.080   
+Final Score for scramIdx 110 in ./Models/D3_model_b2AR_v5.json = 0.217
+b2AR        0.285   CaM         0.376   
+AC          0.240   PDE1        0.196   
+PKA         0.189   
+Final Score for scramIdx 111 in ./Models/D3_model_b2AR_v5.json = 0.246
+b2AR        0.374   CaM         0.376   
+AC          0.172   PDE1        0.195   
+PKA         0.185   
+Final Score for scramIdx 112 in ./Models/D3_model_b2AR_v5.json = 0.248
+b2AR        0.263   CaM         0.376   
+AC          0.264   PDE1        0.250   
+PKA         0.231   
+Final Score for scramIdx 113 in ./Models/D3_model_b2AR_v5.json = 0.269
+b2AR        0.534   CaM         0.376   
+AC          0.234   PDE1        0.314   
+PKA         0.261   
+Final Score for scramIdx 114 in ./Models/D3_model_b2AR_v5.json = 0.330
+b2AR        0.384   CaM         0.376   
+AC          0.169   PDE1        0.195   
+PKA         0.427   
+Final Score for scramIdx 115 in ./Models/D3_model_b2AR_v5.json = 0.330
+b2AR        0.370   CaM         0.376   
+AC          0.211   PDE1        0.195   
+PKA         0.432   
+Final Score for scramIdx 116 in ./Models/D3_model_b2AR_v5.json = 0.336
+b2AR        0.507   CaM         0.376   
+AC          0.250   PDE1        0.195   
+PKA         0.092   
+Final Score for scramIdx 117 in ./Models/D3_model_b2AR_v5.json = 0.252
+b2AR        0.356   CaM         0.376   
+AC          0.224   PDE1        0.197   
+PKA         0.092   
+Final Score for scramIdx 118 in ./Models/D3_model_b2AR_v5.json = 0.223
+b2AR        0.377   CaM         0.376   
+AC          0.206   PDE1        0.368   
+PKA         0.525   
+Final Score for scramIdx 119 in ./Models/D3_model_b2AR_v5.json = 0.396
+b2AR        0.371   CaM         0.376   
+AC          0.205   PDE1        0.261   
+PKA         0.220   
+Final Score for scramIdx 120 in ./Models/D3_model_b2AR_v5.json = 0.276
+b2AR        0.289   CaM         0.376   
+AC          0.265   PDE1        0.470   
+PKA         0.085   
+Final Score for scramIdx 121 in ./Models/D3_model_b2AR_v5.json = 0.261
+b2AR        0.389   CaM         0.376   
+AC          0.208   PDE1        0.509   
+PKA         0.212   
+Final Score for scramIdx 122 in ./Models/D3_model_b2AR_v5.json = 0.318
+b2AR        0.393   CaM         0.376   
+AC          0.248   PDE1        0.335   
+PKA         0.211   
+Final Score for scramIdx 123 in ./Models/D3_model_b2AR_v5.json = 0.296
+b2AR        0.385   CaM         0.376   
+AC          0.277   PDE1        0.196   
+PKA         0.244   
+Final Score for scramIdx 124 in ./Models/D3_model_b2AR_v5.json = 0.287
+b2AR        0.360   CaM         0.376   
+AC          0.254   PDE1        0.498   
+PKA         0.343   
+Final Score for scramIdx 125 in ./Models/D3_model_b2AR_v5.json = 0.362
+b2AR        0.373   CaM         0.376   
+AC          0.208   PDE1        0.205   
+PKA         0.534   
+Final Score for scramIdx 126 in ./Models/D3_model_b2AR_v5.json = 0.372
+b2AR        0.395   CaM         0.378   
+AC          0.242   PDE1        0.195   
+PKA         0.279   
+Final Score for scramIdx 127 in ./Models/D3_model_b2AR_v5.json = 0.295
+b2AR        0.380   CaM         0.376   
+AC          0.183   PDE1        0.197   
+PKA         0.248   
+Final Score for scramIdx 128 in ./Models/D3_model_b2AR_v5.json = 0.272
+b2AR        0.406   CaM         0.376   
+AC          0.188   PDE1        0.195   
+PKA         0.282   
+Final Score for scramIdx 129 in ./Models/D3_model_b2AR_v5.json = 0.288
+b2AR        0.407   CaM         0.376   
+AC          0.139   PDE1        0.479   
+PKA         0.257   
+Final Score for scramIdx 130 in ./Models/D3_model_b2AR_v5.json = 0.319
+b2AR        0.332   CaM         0.473   
+AC          0.309   PDE1        0.506   
+PKA         0.092   
+Final Score for scramIdx 131 in ./Models/D3_model_b2AR_v5.json = 0.301
+b2AR        0.398   CaM         0.376   
+AC          0.238   PDE1        0.474   
+PKA         0.515   
+Final Score for scramIdx 132 in ./Models/D3_model_b2AR_v5.json = 0.419
+b2AR        0.545   CaM         0.376   
+AC          0.190   PDE1        0.220   
+PKA         0.511   
+Final Score for scramIdx 133 in ./Models/D3_model_b2AR_v5.json = 0.392
+b2AR        0.354   CaM         0.376   
+AC          0.226   PDE1        0.218   
+PKA         0.248   
+Final Score for scramIdx 134 in ./Models/D3_model_b2AR_v5.json = 0.278
+b2AR        0.384   CaM         0.376   
+AC          0.189   PDE1        0.195   
+PKA         0.438   
+Final Score for scramIdx 135 in ./Models/D3_model_b2AR_v5.json = 0.337
+b2AR        0.344   CaM         0.376   
+AC          0.293   PDE1        0.512   
+PKA         0.089   
+Final Score for scramIdx 136 in ./Models/D3_model_b2AR_v5.json = 0.284
+b2AR        0.379   CaM         0.376   
+AC          0.200   PDE1        0.292   
+PKA         0.083   
+Final Score for scramIdx 137 in ./Models/D3_model_b2AR_v5.json = 0.236
+b2AR        0.323   CaM         0.376   
+AC          0.254   PDE1        0.195   
+PKA         0.347   
+Final Score for scramIdx 138 in ./Models/D3_model_b2AR_v5.json = 0.307
+b2AR        0.280   CaM         0.376   
+AC          0.258   PDE1        0.195   
+PKA         0.375   
+Final Score for scramIdx 139 in ./Models/D3_model_b2AR_v5.json = 0.310
+b2AR        0.306   CaM         0.376   
+AC          0.258   PDE1        0.198   
+PKA         0.233   
+Final Score for scramIdx 140 in ./Models/D3_model_b2AR_v5.json = 0.267
+b2AR        0.433   CaM         0.376   
+AC          0.146   PDE1        0.302   
+PKA         0.517   
+Final Score for scramIdx 141 in ./Models/D3_model_b2AR_v5.json = 0.382
+b2AR        0.321   CaM         0.376   
+AC          0.249   PDE1        0.472   
+PKA         0.357   
+Final Score for scramIdx 142 in ./Models/D3_model_b2AR_v5.json = 0.355
+b2AR        0.413   CaM         0.449   
+AC          0.280   PDE1        0.476   
+PKA         0.262   
+Final Score for scramIdx 143 in ./Models/D3_model_b2AR_v5.json = 0.357
+b2AR        0.515   CaM         0.376   
+AC          0.299   PDE1        0.195   
+PKA         0.250   
+Final Score for scramIdx 144 in ./Models/D3_model_b2AR_v5.json = 0.314
+b2AR        0.258   CaM         0.376   
+AC          0.256   PDE1        0.198   
+PKA         0.523   
+Final Score for scramIdx 145 in ./Models/D3_model_b2AR_v5.json = 0.356
+b2AR        0.376   CaM         0.376   
+AC          0.237   PDE1        0.195   
+PKA         0.226   
+Final Score for scramIdx 146 in ./Models/D3_model_b2AR_v5.json = 0.273
+b2AR        0.371   CaM         0.376   
+AC          0.218   PDE1        0.195   
+PKA         0.255   
+Final Score for scramIdx 147 in ./Models/D3_model_b2AR_v5.json = 0.279
+b2AR        0.281   CaM         0.376   
+AC          0.247   PDE1        0.197   
+PKA         0.523   
+Final Score for scramIdx 148 in ./Models/D3_model_b2AR_v5.json = 0.358
+b2AR        0.272   CaM         0.376   
+AC          0.240   PDE1        0.197   
+PKA         0.548   
+Final Score for scramIdx 149 in ./Models/D3_model_b2AR_v5.json = 0.364
+b2AR        0.387   CaM         0.376   
+AC          0.216   PDE1        0.229   
+PKA         0.297   
+Final Score for scramIdx 150 in ./Models/D3_model_b2AR_v5.json = 0.300
+b2AR        0.373   CaM         0.376   
+AC          0.181   PDE1        0.196   
+PKA         0.543   
+Final Score for scramIdx 151 in ./Models/D3_model_b2AR_v5.json = 0.369
+b2AR        0.337   CaM         0.376   
+AC          0.181   PDE1        0.299   
+PKA         0.421   
+Final Score for scramIdx 152 in ./Models/D3_model_b2AR_v5.json = 0.339
+b2AR        0.388   CaM         0.376   
+AC          0.162   PDE1        0.195   
+PKA         0.519   
+Final Score for scramIdx 153 in ./Models/D3_model_b2AR_v5.json = 0.360
+b2AR        0.379   CaM         0.376   
+AC          0.216   PDE1        0.195   
+PKA         0.172   
+Final Score for scramIdx 154 in ./Models/D3_model_b2AR_v5.json = 0.252
+b2AR        0.377   CaM         0.376   
+AC          0.164   PDE1        0.196   
+PKA         0.084   
+Final Score for scramIdx 155 in ./Models/D3_model_b2AR_v5.json = 0.213
+b2AR        0.474   CaM         0.376   
+AC          0.285   PDE1        0.518   
+PKA         0.346   
+Final Score for scramIdx 156 in ./Models/D3_model_b2AR_v5.json = 0.391
+b2AR        0.378   CaM         0.376   
+AC          0.156   PDE1        0.195   
+PKA         0.590   
+Final Score for scramIdx 157 in ./Models/D3_model_b2AR_v5.json = 0.381
+b2AR        0.266   CaM         0.376   
+AC          0.273   PDE1        0.197   
+PKA         0.497   
+Final Score for scramIdx 158 in ./Models/D3_model_b2AR_v5.json = 0.351
+b2AR        0.400   CaM         0.376   
+AC          0.155   PDE1        0.500   
+PKA         0.240   
+Final Score for scramIdx 159 in ./Models/D3_model_b2AR_v5.json = 0.318
+b2AR        0.355   CaM         0.376   
+AC          0.244   PDE1        0.229   
+PKA         0.086   
+Final Score for scramIdx 160 in ./Models/D3_model_b2AR_v5.json = 0.230
+b2AR        0.410   CaM         0.376   
+AC          0.197   PDE1        0.198   
+PKA         0.287   
+Final Score for scramIdx 161 in ./Models/D3_model_b2AR_v5.json = 0.293
+b2AR        0.372   CaM         0.376   
+AC          0.179   PDE1        0.377   
+PKA         0.194   
+Final Score for scramIdx 162 in ./Models/D3_model_b2AR_v5.json = 0.282
+b2AR        0.325   CaM         0.376   
+AC          0.245   PDE1        0.220   
+PKA         0.387   
+Final Score for scramIdx 163 in ./Models/D3_model_b2AR_v5.json = 0.323
+b2AR        0.364   CaM         0.376   
+AC          0.219   PDE1        0.195   
+PKA         0.248   
+Final Score for scramIdx 164 in ./Models/D3_model_b2AR_v5.json = 0.275
+b2AR        0.385   CaM         0.376   
+AC          0.158   PDE1        0.196   
+PKA         0.536   
+Final Score for scramIdx 165 in ./Models/D3_model_b2AR_v5.json = 0.364
+b2AR        0.264   CaM         0.376   
+AC          0.279   PDE1        0.195   
+PKA         0.382   
+Final Score for scramIdx 166 in ./Models/D3_model_b2AR_v5.json = 0.313
+b2AR        0.373   CaM         0.376   
+AC          0.194   PDE1        0.195   
+PKA         0.510   
+Final Score for scramIdx 167 in ./Models/D3_model_b2AR_v5.json = 0.360
+b2AR        0.388   CaM         0.376   
+AC          0.181   PDE1        0.317   
+PKA         0.327   
+Final Score for scramIdx 168 in ./Models/D3_model_b2AR_v5.json = 0.320
+b2AR        0.541   CaM         0.376   
+AC          0.224   PDE1        0.403   
+PKA         0.474   
+Final Score for scramIdx 169 in ./Models/D3_model_b2AR_v5.json = 0.415
+b2AR        0.380   CaM         0.376   
+AC          0.195   PDE1        0.195   
+PKA         0.416   
+Final Score for scramIdx 170 in ./Models/D3_model_b2AR_v5.json = 0.330
+b2AR        0.379   CaM         0.376   
+AC          0.191   PDE1        0.195   
+PKA         0.100   
+Final Score for scramIdx 171 in ./Models/D3_model_b2AR_v5.json = 0.223
+b2AR        0.392   CaM         0.376   
+AC          0.235   PDE1        0.195   
+PKA         0.130   
+Final Score for scramIdx 172 in ./Models/D3_model_b2AR_v5.json = 0.243
+b2AR        0.403   CaM         0.376   
+AC          0.198   PDE1        0.052   
+PKA         0.305   
+Final Score for scramIdx 173 in ./Models/D3_model_b2AR_v5.json = 0.273
+b2AR        0.381   CaM         0.376   
+AC          0.154   PDE1        0.195   
+PKA         0.556   
+Final Score for scramIdx 174 in ./Models/D3_model_b2AR_v5.json = 0.370
+b2AR        0.394   CaM         0.376   
+AC          0.152   PDE1        0.359   
+PKA         0.360   
+Final Score for scramIdx 175 in ./Models/D3_model_b2AR_v5.json = 0.333
+b2AR        0.246   CaM         0.376   
+AC          0.246   PDE1        0.218   
+PKA         0.339   
+Final Score for scramIdx 176 in ./Models/D3_model_b2AR_v5.json = 0.294
+b2AR        0.334   CaM         0.376   
+AC          0.215   PDE1        0.194   
+PKA         0.201   
+Final Score for scramIdx 177 in ./Models/D3_model_b2AR_v5.json = 0.254
+b2AR        0.386   CaM         0.376   
+AC          0.278   PDE1        0.335   
+PKA         0.311   
+Final Score for scramIdx 178 in ./Models/D3_model_b2AR_v5.json = 0.333
+b2AR        0.544   CaM         0.376   
+AC          0.273   PDE1        0.195   
+PKA         0.089   
+Final Score for scramIdx 179 in ./Models/D3_model_b2AR_v5.json = 0.261
+b2AR        0.387   CaM         0.376   
+AC          0.172   PDE1        0.212   
+PKA         0.556   
+Final Score for scramIdx 180 in ./Models/D3_model_b2AR_v5.json = 0.376
+b2AR        0.386   CaM         0.376   
+AC          0.175   PDE1        0.195   
+PKA         0.089   
+Final Score for scramIdx 181 in ./Models/D3_model_b2AR_v5.json = 0.218
+b2AR        0.397   CaM         0.376   
+AC          0.197   PDE1        0.037   
+PKA         0.513   
+Final Score for scramIdx 182 in ./Models/D3_model_b2AR_v5.json = 0.339
+b2AR        0.377   CaM         0.376   
+AC          0.211   PDE1        0.195   
+PKA         0.560   
+Final Score for scramIdx 183 in ./Models/D3_model_b2AR_v5.json = 0.380
+b2AR        0.387   CaM         0.376   
+AC          0.146   PDE1        0.501   
+PKA         0.457   
+Final Score for scramIdx 184 in ./Models/D3_model_b2AR_v5.json = 0.387
+b2AR        0.297   CaM         0.376   
+AC          0.298   PDE1        0.336   
+PKA         0.091   
+Final Score for scramIdx 185 in ./Models/D3_model_b2AR_v5.json = 0.248
+b2AR        0.385   CaM         0.376   
+AC          0.222   PDE1        0.195   
+PKA         0.158   
+Final Score for scramIdx 186 in ./Models/D3_model_b2AR_v5.json = 0.249
+b2AR        0.319   CaM         0.376   
+AC          0.274   PDE1        0.214   
+PKA         0.136   
+Final Score for scramIdx 187 in ./Models/D3_model_b2AR_v5.json = 0.243
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.0293584772909863e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.300782168800668e-25
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.754161818165775e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.344022318961999e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.8706210839682784e-21
+Warning: runDoser: Normalization3 failed due to zero denominator:  3.2056830386241616e-19
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.794464324324197e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.838940305005376e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.75772858256729e-21
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.1139131754908235e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.364890110199592e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.0158644614360313e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.0222013781339714e-21
+Warning: runDoser: Normalization3 failed due to zero denominator:  7.230412684025115e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  8.522783502539712e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.3385425116128386e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.1435953916064695e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.3552893361612284e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.943057007833384e-20
+Warning: runDoser: Normalization3 failed due to zero denominator:  9.59697508984903e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  4.8735353879691866e-17
+Warning: runDoser: Normalization3 failed due to zero denominator:  5.773286061110563e-18
+Warning: runDoser: Normalization3 failed due to zero denominator:  1.2791590345389721e-18
+b2AR        0.385   CaM         0.392   
+AC          0.205   PDE1        0.196   
+PKA         0.084   
+Final Score for scramIdx 188 in ./Models/D3_model_b2AR_v5.json = 0.224
+b2AR        0.374   CaM         0.376   
+AC          0.166   PDE1        0.195   
+PKA         0.223   
+Final Score for scramIdx 189 in ./Models/D3_model_b2AR_v5.json = 0.260
+b2AR        0.366   CaM         0.376   
+AC          0.232   PDE1        0.205   
+PKA         0.310   
+Final Score for scramIdx 190 in ./Models/D3_model_b2AR_v5.json = 0.300
+b2AR        0.344   CaM         0.376   
+AC          0.223   PDE1        0.195   
+PKA         0.262   
+Final Score for scramIdx 191 in ./Models/D3_model_b2AR_v5.json = 0.277
+b2AR        0.305   CaM         0.376   
+AC          0.254   PDE1        0.195   
+PKA         0.186   
+Final Score for scramIdx 192 in ./Models/D3_model_b2AR_v5.json = 0.251
+b2AR        0.360   CaM         0.376   
+AC          0.156   PDE1        0.195   
+PKA         0.320   
+Final Score for scramIdx 193 in ./Models/D3_model_b2AR_v5.json = 0.288
+b2AR        0.427   CaM         0.376   
+AC          0.220   PDE1        0.195   
+PKA         0.498   
+Final Score for scramIdx 194 in ./Models/D3_model_b2AR_v5.json = 0.369
+b2AR        0.376   CaM         0.376   
+AC          0.187   PDE1        0.195   
+PKA         0.447   
+Final Score for scramIdx 195 in ./Models/D3_model_b2AR_v5.json = 0.338
+b2AR        0.345   CaM         0.376   
+AC          0.228   PDE1        0.195   
+PKA         0.316   
+Final Score for scramIdx 196 in ./Models/D3_model_b2AR_v5.json = 0.296
+b2AR        0.368   CaM         0.376   
+AC          0.233   PDE1        0.500   
+PKA         0.130   
+Final Score for scramIdx 197 in ./Models/D3_model_b2AR_v5.json = 0.289
+b2AR        0.404   CaM         0.376   
+AC          0.284   PDE1        0.195   
+PKA         0.080   
+Final Score for scramIdx 198 in ./Models/D3_model_b2AR_v5.json = 0.237
+b2AR        0.526   CaM         0.376   
+AC          0.241   PDE1        0.195   
+PKA         0.332   
+Final Score for scramIdx 199 in ./Models/D3_model_b2AR_v5.json = 0.334
+./Models/D3_model_b2AR_v5.json: initScramble: Init Score 0.416, Final = 0.175, Time = 198.005s

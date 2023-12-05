@@ -1,0 +1,3637 @@
+Written to file SCRAM_D4_EGFR/scram_000.g
+Written to file SCRAM_D4_EGFR/scram_001.g
+Written to file SCRAM_D4_EGFR/scram_002.g
+Written to file SCRAM_D4_EGFR/scram_003.g
+Written to file SCRAM_D4_EGFR/scram_004.g
+Written to file SCRAM_D4_EGFR/scram_005.g
+Written to file SCRAM_D4_EGFR/scram_006.g
+Written to file SCRAM_D4_EGFR/scram_007.g
+Written to file SCRAM_D4_EGFR/scram_008.g
+Written to file SCRAM_D4_EGFR/scram_009.g
+Written to file SCRAM_D4_EGFR/scram_010.g
+Written to file SCRAM_D4_EGFR/scram_011.g
+Written to file SCRAM_D4_EGFR/scram_012.g
+Written to file SCRAM_D4_EGFR/scram_013.g
+Written to file SCRAM_D4_EGFR/scram_014.g
+Written to file SCRAM_D4_EGFR/scram_015.g
+Written to file SCRAM_D4_EGFR/scram_016.g
+Written to file SCRAM_D4_EGFR/scram_017.g
+Written to file SCRAM_D4_EGFR/scram_018.g
+Written to file SCRAM_D4_EGFR/scram_019.g
+Written to file SCRAM_D4_EGFR/scram_020.g
+Written to file SCRAM_D4_EGFR/scram_021.g
+Written to file SCRAM_D4_EGFR/scram_022.g
+Written to file SCRAM_D4_EGFR/scram_023.g
+Written to file SCRAM_D4_EGFR/scram_024.g
+Written to file SCRAM_D4_EGFR/scram_025.g
+Written to file SCRAM_D4_EGFR/scram_026.g
+Written to file SCRAM_D4_EGFR/scram_027.g
+Written to file SCRAM_D4_EGFR/scram_028.g
+Written to file SCRAM_D4_EGFR/scram_029.g
+Written to file SCRAM_D4_EGFR/scram_030.g
+Written to file SCRAM_D4_EGFR/scram_031.g
+Written to file SCRAM_D4_EGFR/scram_032.g
+Written to file SCRAM_D4_EGFR/scram_033.g
+Written to file SCRAM_D4_EGFR/scram_034.g
+Written to file SCRAM_D4_EGFR/scram_035.g
+Written to file SCRAM_D4_EGFR/scram_036.g
+Written to file SCRAM_D4_EGFR/scram_037.g
+Written to file SCRAM_D4_EGFR/scram_038.g
+Written to file SCRAM_D4_EGFR/scram_039.g
+Written to file SCRAM_D4_EGFR/scram_040.g
+Written to file SCRAM_D4_EGFR/scram_041.g
+Written to file SCRAM_D4_EGFR/scram_042.g
+Written to file SCRAM_D4_EGFR/scram_043.g
+Written to file SCRAM_D4_EGFR/scram_044.g
+Written to file SCRAM_D4_EGFR/scram_045.g
+Written to file SCRAM_D4_EGFR/scram_046.g
+Written to file SCRAM_D4_EGFR/scram_047.g
+Written to file SCRAM_D4_EGFR/scram_048.g
+Written to file SCRAM_D4_EGFR/scram_049.g
+Written to file SCRAM_D4_EGFR/scram_050.g
+Written to file SCRAM_D4_EGFR/scram_051.g
+Written to file SCRAM_D4_EGFR/scram_052.g
+Written to file SCRAM_D4_EGFR/scram_053.g
+Written to file SCRAM_D4_EGFR/scram_054.g
+Written to file SCRAM_D4_EGFR/scram_055.g
+Written to file SCRAM_D4_EGFR/scram_056.g
+Written to file SCRAM_D4_EGFR/scram_057.g
+Written to file SCRAM_D4_EGFR/scram_058.g
+Written to file SCRAM_D4_EGFR/scram_059.g
+Written to file SCRAM_D4_EGFR/scram_060.g
+Written to file SCRAM_D4_EGFR/scram_061.g
+Written to file SCRAM_D4_EGFR/scram_062.g
+Written to file SCRAM_D4_EGFR/scram_063.g
+Written to file SCRAM_D4_EGFR/scram_064.g
+Written to file SCRAM_D4_EGFR/scram_065.g
+Written to file SCRAM_D4_EGFR/scram_066.g
+Written to file SCRAM_D4_EGFR/scram_067.g
+Written to file SCRAM_D4_EGFR/scram_068.g
+Written to file SCRAM_D4_EGFR/scram_069.g
+Written to file SCRAM_D4_EGFR/scram_070.g
+Written to file SCRAM_D4_EGFR/scram_071.g
+Written to file SCRAM_D4_EGFR/scram_072.g
+Written to file SCRAM_D4_EGFR/scram_073.g
+Written to file SCRAM_D4_EGFR/scram_074.g
+Written to file SCRAM_D4_EGFR/scram_075.g
+Written to file SCRAM_D4_EGFR/scram_076.g
+Written to file SCRAM_D4_EGFR/scram_077.g
+Written to file SCRAM_D4_EGFR/scram_078.g
+Written to file SCRAM_D4_EGFR/scram_079.g
+Written to file SCRAM_D4_EGFR/scram_080.g
+Written to file SCRAM_D4_EGFR/scram_081.g
+Written to file SCRAM_D4_EGFR/scram_082.g
+Written to file SCRAM_D4_EGFR/scram_083.g
+Written to file SCRAM_D4_EGFR/scram_084.g
+Written to file SCRAM_D4_EGFR/scram_085.g
+Written to file SCRAM_D4_EGFR/scram_086.g
+Written to file SCRAM_D4_EGFR/scram_087.g
+Written to file SCRAM_D4_EGFR/scram_088.g
+Written to file SCRAM_D4_EGFR/scram_089.g
+Written to file SCRAM_D4_EGFR/scram_090.g
+Written to file SCRAM_D4_EGFR/scram_091.g
+Written to file SCRAM_D4_EGFR/scram_092.g
+Written to file SCRAM_D4_EGFR/scram_093.g
+Written to file SCRAM_D4_EGFR/scram_094.g
+Written to file SCRAM_D4_EGFR/scram_095.g
+Written to file SCRAM_D4_EGFR/scram_096.g
+Written to file SCRAM_D4_EGFR/scram_097.g
+Written to file SCRAM_D4_EGFR/scram_098.g
+Written to file SCRAM_D4_EGFR/scram_099.g
+Written to file SCRAM_D4_EGFR/scram_100.g
+Written to file SCRAM_D4_EGFR/scram_101.g
+Written to file SCRAM_D4_EGFR/scram_102.g
+Written to file SCRAM_D4_EGFR/scram_103.g
+Written to file SCRAM_D4_EGFR/scram_104.g
+Written to file SCRAM_D4_EGFR/scram_105.g
+Written to file SCRAM_D4_EGFR/scram_106.g
+Written to file SCRAM_D4_EGFR/scram_107.g
+Written to file SCRAM_D4_EGFR/scram_108.g
+Written to file SCRAM_D4_EGFR/scram_109.g
+Written to file SCRAM_D4_EGFR/scram_110.g
+Written to file SCRAM_D4_EGFR/scram_111.g
+Written to file SCRAM_D4_EGFR/scram_112.g
+Written to file SCRAM_D4_EGFR/scram_113.g
+Written to file SCRAM_D4_EGFR/scram_114.g
+Written to file SCRAM_D4_EGFR/scram_115.g
+Written to file SCRAM_D4_EGFR/scram_116.g
+Written to file SCRAM_D4_EGFR/scram_117.g
+Written to file SCRAM_D4_EGFR/scram_118.g
+Written to file SCRAM_D4_EGFR/scram_119.g
+Written to file SCRAM_D4_EGFR/scram_120.g
+Written to file SCRAM_D4_EGFR/scram_121.g
+Written to file SCRAM_D4_EGFR/scram_122.g
+Written to file SCRAM_D4_EGFR/scram_123.g
+Written to file SCRAM_D4_EGFR/scram_124.g
+Written to file SCRAM_D4_EGFR/scram_125.g
+Written to file SCRAM_D4_EGFR/scram_126.g
+Written to file SCRAM_D4_EGFR/scram_127.g
+Written to file SCRAM_D4_EGFR/scram_128.g
+Written to file SCRAM_D4_EGFR/scram_129.g
+Written to file SCRAM_D4_EGFR/scram_130.g
+Written to file SCRAM_D4_EGFR/scram_131.g
+Written to file SCRAM_D4_EGFR/scram_132.g
+Written to file SCRAM_D4_EGFR/scram_133.g
+Written to file SCRAM_D4_EGFR/scram_134.g
+Written to file SCRAM_D4_EGFR/scram_135.g
+Written to file SCRAM_D4_EGFR/scram_136.g
+Written to file SCRAM_D4_EGFR/scram_137.g
+Written to file SCRAM_D4_EGFR/scram_138.g
+Written to file SCRAM_D4_EGFR/scram_139.g
+Written to file SCRAM_D4_EGFR/scram_140.g
+Written to file SCRAM_D4_EGFR/scram_141.g
+Written to file SCRAM_D4_EGFR/scram_142.g
+Written to file SCRAM_D4_EGFR/scram_143.g
+Written to file SCRAM_D4_EGFR/scram_144.g
+Written to file SCRAM_D4_EGFR/scram_145.g
+Written to file SCRAM_D4_EGFR/scram_146.g
+Written to file SCRAM_D4_EGFR/scram_147.g
+Written to file SCRAM_D4_EGFR/scram_148.g
+Written to file SCRAM_D4_EGFR/scram_149.g
+Written to file SCRAM_D4_EGFR/scram_150.g
+Written to file SCRAM_D4_EGFR/scram_151.g
+Written to file SCRAM_D4_EGFR/scram_152.g
+Written to file SCRAM_D4_EGFR/scram_153.g
+Written to file SCRAM_D4_EGFR/scram_154.g
+Written to file SCRAM_D4_EGFR/scram_155.g
+Written to file SCRAM_D4_EGFR/scram_156.g
+Written to file SCRAM_D4_EGFR/scram_157.g
+Written to file SCRAM_D4_EGFR/scram_158.g
+Written to file SCRAM_D4_EGFR/scram_159.g
+Written to file SCRAM_D4_EGFR/scram_160.g
+Written to file SCRAM_D4_EGFR/scram_161.g
+Written to file SCRAM_D4_EGFR/scram_162.g
+Written to file SCRAM_D4_EGFR/scram_163.g
+Written to file SCRAM_D4_EGFR/scram_164.g
+Written to file SCRAM_D4_EGFR/scram_165.g
+Written to file SCRAM_D4_EGFR/scram_166.g
+Written to file SCRAM_D4_EGFR/scram_167.g
+Written to file SCRAM_D4_EGFR/scram_168.g
+Written to file SCRAM_D4_EGFR/scram_169.g
+Written to file SCRAM_D4_EGFR/scram_170.g
+Written to file SCRAM_D4_EGFR/scram_171.g
+Written to file SCRAM_D4_EGFR/scram_172.g
+Written to file SCRAM_D4_EGFR/scram_173.g
+Written to file SCRAM_D4_EGFR/scram_174.g
+Written to file SCRAM_D4_EGFR/scram_175.g
+Written to file SCRAM_D4_EGFR/scram_176.g
+Written to file SCRAM_D4_EGFR/scram_177.g
+Written to file SCRAM_D4_EGFR/scram_178.g
+Written to file SCRAM_D4_EGFR/scram_179.g
+Written to file SCRAM_D4_EGFR/scram_180.g
+Written to file SCRAM_D4_EGFR/scram_181.g
+Written to file SCRAM_D4_EGFR/scram_182.g
+Written to file SCRAM_D4_EGFR/scram_183.g
+Written to file SCRAM_D4_EGFR/scram_184.g
+Written to file SCRAM_D4_EGFR/scram_185.g
+Written to file SCRAM_D4_EGFR/scram_186.g
+Written to file SCRAM_D4_EGFR/scram_187.g
+Written to file SCRAM_D4_EGFR/scram_188.g
+Written to file SCRAM_D4_EGFR/scram_189.g
+Written to file SCRAM_D4_EGFR/scram_190.g
+Written to file SCRAM_D4_EGFR/scram_191.g
+Written to file SCRAM_D4_EGFR/scram_192.g
+Written to file SCRAM_D4_EGFR/scram_193.g
+Written to file SCRAM_D4_EGFR/scram_194.g
+Written to file SCRAM_D4_EGFR/scram_195.g
+Written to file SCRAM_D4_EGFR/scram_196.g
+Written to file SCRAM_D4_EGFR/scram_197.g
+Written to file SCRAM_D4_EGFR/scram_198.g
+Written to file SCRAM_D4_EGFR/scram_199.g
+Launching wrapRunOptimizer 1 at time = 4.467 for SCRAM_D4_EGFR/scram_001.g 
+Launching wrapRunOptimizer 0 at time = 4.467 for SCRAM_D4_EGFR/scram_000.g 
+Launching wrapRunOptimizer 2 at time = 4.467 for SCRAM_D4_EGFR/scram_002.g 
+Launching wrapRunOptimizer 3 at time = 4.467 for SCRAM_D4_EGFR/scram_003.g 
+Launching wrapRunOptimizer 4 at time = 4.467 for SCRAM_D4_EGFR/scram_004.g 
+Launching wrapRunOptimizer 7 at time = 4.467 for SCRAM_D4_EGFR/scram_007.g 
+Launching wrapRunOptimizer 5 at time = 4.467 for SCRAM_D4_EGFR/scram_005.g 
+Launching wrapRunOptimizer 6 at time = 4.467 for SCRAM_D4_EGFR/scram_006.g 
+Launching wrapRunOptimizer 8 at time = 4.468 for SCRAM_D4_EGFR/scram_008.g 
+Launching wrapRunOptimizer 10 at time = 4.468 for SCRAM_D4_EGFR/scram_010.g 
+Launching wrapRunOptimizer 9 at time = 4.468 for SCRAM_D4_EGFR/scram_009.g 
+Launching wrapRunOptimizer 11 at time = 4.468 for SCRAM_D4_EGFR/scram_011.g 
+Launching wrapRunOptimizer 19 at time = 4.469 for SCRAM_D4_EGFR/scram_019.g 
+Launching wrapRunOptimizer 14 at time = 4.469 for SCRAM_D4_EGFR/scram_014.g 
+Launching wrapRunOptimizer 16 at time = 4.469 for SCRAM_D4_EGFR/scram_016.g 
+Launching wrapRunOptimizer 18 at time = 4.468 for SCRAM_D4_EGFR/scram_018.g 
+Launching wrapRunOptimizer 12 at time = 4.468 for SCRAM_D4_EGFR/scram_012.g 
+Launching wrapRunOptimizer 17 at time = 4.469 for SCRAM_D4_EGFR/scram_017.g 
+Launching wrapRunOptimizer 13 at time = 4.469 for SCRAM_D4_EGFR/scram_013.g 
+Launching wrapRunOptimizer 20 at time = 4.469 for SCRAM_D4_EGFR/scram_020.g 
+Launching wrapRunOptimizer 22 at time = 4.469 for SCRAM_D4_EGFR/scram_022.g 
+Launching wrapRunOptimizer 23 at time = 4.469 for SCRAM_D4_EGFR/scram_023.g 
+Launching wrapRunOptimizer 21 at time = 4.469 for SCRAM_D4_EGFR/scram_021.g 
+Launching wrapRunOptimizer 15 at time = 4.469 for SCRAM_D4_EGFR/scram_015.g 
+Level 017.1 --- Init Score: 0.299   OptimizedScore 0.210       Time: 5.900 s
+Written to file OPT_D4_EGFR_1.2/L1_017.g
+Level 012.1 --- Init Score: 0.289   OptimizedScore 0.200       Time: 6.427 s
+Written to file OPT_D4_EGFR_1.2/L1_012.g
+Level 006.1 --- Init Score: 0.252   OptimizedScore 0.208       Time: 8.051 s
+Written to file OPT_D4_EGFR_1.2/L1_006.g
+Level 018.1 --- Init Score: 0.270   OptimizedScore 0.209       Time: 7.504 s
+Written to file OPT_D4_EGFR_1.2/L1_018.g
+Level 014.1 --- Init Score: 0.290   OptimizedScore 0.209       Time: 7.986 s
+Written to file OPT_D4_EGFR_1.2/L1_014.g
+Level 020.1 --- Init Score: 0.269   OptimizedScore 0.206       Time: 8.160 s
+Written to file OPT_D4_EGFR_1.2/L1_020.g
+Level 004.1 --- Init Score: 0.283   OptimizedScore 0.212       Time: 8.408 s
+Written to file OPT_D4_EGFR_1.2/L1_004.g
+Level 017.2 --- Init Score: 0.805   OptimizedScore 0.610       Time: 2.606 s
+Written to file OPT_D4_EGFR_1.2/L2_017.g
+Level 020.2 --- Init Score: 0.807   OptimizedScore 0.607       Time: 1.724 s
+Written to file OPT_D4_EGFR_1.2/L2_020.g
+Level 012.2 --- Init Score: 0.797   OptimizedScore 0.597       Time: 3.582 s
+Written to file OPT_D4_EGFR_1.2/L2_012.g
+Level 001.1 --- Init Score: 0.275   OptimizedScore 0.211       Time: 10.927 s
+Written to file OPT_D4_EGFR_1.2/L1_001.g
+Level 023.1 --- Init Score: 0.287   OptimizedScore 0.212       Time: 10.206 s
+Written to file OPT_D4_EGFR_1.2/L1_023.g
+Level 015.1 --- Init Score: 0.266   OptimizedScore 0.210       Time: 10.195 s
+Written to file OPT_D4_EGFR_1.2/L1_015.g
+Level 009.1 --- Init Score: 0.280   OptimizedScore 0.208       Time: 10.426 s
+Written to file OPT_D4_EGFR_1.2/L1_009.g
+Level 011.1 --- Init Score: 0.261   OptimizedScore 0.207       Time: 10.510 s
+Written to file OPT_D4_EGFR_1.2/L1_011.g
+Level 014.2 --- Init Score: 0.807   OptimizedScore 0.610       Time: 2.503 s
+Written to file OPT_D4_EGFR_1.2/L2_014.g
+Level 021.1 --- Init Score: 0.268   OptimizedScore 0.211       Time: 11.673 s
+Written to file OPT_D4_EGFR_1.2/L1_021.g
+Level 008.1 --- Init Score: 0.259   OptimizedScore 0.209       Time: 10.921 s
+Written to file OPT_D4_EGFR_1.2/L1_008.g
+Level 010.1 --- Init Score: 0.266   OptimizedScore 0.208       Time: 11.033 s
+Written to file OPT_D4_EGFR_1.2/L1_010.g
+Level 018.2 --- Init Score: 0.800   OptimizedScore 0.611       Time: 3.556 s
+Written to file OPT_D4_EGFR_1.2/L2_018.g
+Level 004.2 --- Init Score: 0.815   OptimizedScore 0.612       Time: 2.867 s
+Written to file OPT_D4_EGFR_1.2/L2_004.g
+Level 009.2 --- Init Score: 0.785   OptimizedScore 0.654       Time: 1.041 s
+Written to file OPT_D4_EGFR_1.2/L2_009.g
+Level 011.2 --- Init Score: 0.822   OptimizedScore 0.662       Time: 0.968 s
+Written to file OPT_D4_EGFR_1.2/L2_011.g
+Level 007.1 --- Init Score: 0.267   OptimizedScore 0.209       Time: 11.562 s
+Written to file OPT_D4_EGFR_1.2/L1_007.g
+Level 019.1 --- Init Score: 0.263   OptimizedScore 0.206       Time: 11.803 s
+Written to file OPT_D4_EGFR_1.2/L1_019.g
+Level 003.1 --- Init Score: 0.262   OptimizedScore 0.210       Time: 13.226 s
+Written to file OPT_D4_EGFR_1.2/L1_003.g
+Level 000.1 --- Init Score: 0.264   OptimizedScore 0.208       Time: 12.706 s
+Written to file OPT_D4_EGFR_1.2/L1_000.g
+Level 010.2 --- Init Score: 0.814   OptimizedScore 0.645       Time: 1.779 s
+Written to file OPT_D4_EGFR_1.2/L2_010.g
+Level 023.2 --- Init Score: 0.787   OptimizedScore 0.610       Time: 2.663 s
+Written to file OPT_D4_EGFR_1.2/L2_023.g
+Level 022.1 --- Init Score: 0.272   OptimizedScore 0.202       Time: 13.093 s
+Written to file OPT_D4_EGFR_1.2/L1_022.g
+Level 013.1 --- Init Score: 0.266   OptimizedScore 0.203       Time: 13.096 s
+Written to file OPT_D4_EGFR_1.2/L1_013.g
+Level 015.2 --- Init Score: 0.758   OptimizedScore 0.615       Time: 3.091 s
+Written to file OPT_D4_EGFR_1.2/L2_015.g
+Level 016.1 --- Init Score: 0.277   OptimizedScore 0.208       Time: 13.410 s
+Written to file OPT_D4_EGFR_1.2/L1_016.g
+Level 008.2 --- Init Score: 0.795   OptimizedScore 0.611       Time: 2.454 s
+Written to file OPT_D4_EGFR_1.2/L2_008.g
+Level 001.2 --- Init Score: 0.783   OptimizedScore 0.603       Time: 3.300 s
+Written to file OPT_D4_EGFR_1.2/L2_001.g
+Level 021.2 --- Init Score: 0.782   OptimizedScore 0.626       Time: 2.584 s
+Written to file OPT_D4_EGFR_1.2/L2_021.g
+Level 019.2 --- Init Score: 0.773   OptimizedScore 0.606       Time: 1.766 s
+Written to file OPT_D4_EGFR_1.2/L2_019.g
+Level 013.2 --- Init Score: 0.814   OptimizedScore 0.607       Time: 1.236 s
+Written to file OPT_D4_EGFR_1.2/L2_013.g
+Level 016.2 --- Init Score: 0.817   OptimizedScore 0.647       Time: 0.967 s
+Written to file OPT_D4_EGFR_1.2/L2_016.g
+Level 006.2 --- Init Score: 0.806   OptimizedScore 0.601       Time: 7.377 s
+Written to file OPT_D4_EGFR_1.2/L2_006.g
+Level 003.2 --- Init Score: 0.824   OptimizedScore 0.609       Time: 2.294 s
+Written to file OPT_D4_EGFR_1.2/L2_003.g
+Level 022.2 --- Init Score: 0.811   OptimizedScore 0.600       Time: 1.847 s
+Written to file OPT_D4_EGFR_1.2/L2_022.g
+Level 005.1 --- Init Score: 0.266   OptimizedScore 0.209       Time: 15.301 s
+Written to file OPT_D4_EGFR_1.2/L1_005.g
+Level 000.2 --- Init Score: 0.792   OptimizedScore 0.609       Time: 2.598 s
+Written to file OPT_D4_EGFR_1.2/L2_000.g
+Level 002.1 --- Init Score: 0.271   OptimizedScore 0.199       Time: 15.786 s
+Written to file OPT_D4_EGFR_1.2/L1_002.g
+Level 002.2 --- Init Score: 0.768   OptimizedScore 0.647       Time: 1.813 s
+Written to file OPT_D4_EGFR_1.2/L2_002.g
+Warning: Score mismatch in processIntermediateResults:  0.6086733159033237 0.608001061684286
+Level 005.2 --- Init Score: 0.758   OptimizedScore 0.608       Time: 2.910 s
+Written to file OPT_D4_EGFR_1.2/L2_005.g
+Level 007.2 --- Init Score: 0.798   OptimizedScore 0.618       Time: 10.425 s
+Written to file OPT_D4_EGFR_1.2/L2_007.g
+Level 014.3 --- Init Score: 0.608   OptimizedScore 0.571       Time: 17.627 s
+Written to file OPT_D4_EGFR_1.2/L3_014.g
+Level 014.4 --- Init Score: 0.547   OptimizedScore 0.547       Time: 0.255 s
+Written to file OPT_D4_EGFR_1.2/L4_014.g
+Level 017.3 --- Init Score: 0.600   OptimizedScore 0.559       Time: 28.849 s
+Written to file OPT_D4_EGFR_1.2/L3_017.g
+Level 017.4 --- Init Score: 0.543   OptimizedScore 0.543       Time: 0.236 s
+Written to file OPT_D4_EGFR_1.2/L4_017.g
+Level 002.3 --- Init Score: 0.608   OptimizedScore 0.570       Time: 23.134 s
+Written to file OPT_D4_EGFR_1.2/L3_002.g
+Level 013.3 --- Init Score: 0.598   OptimizedScore 0.572       Time: 26.592 s
+Written to file OPT_D4_EGFR_1.2/L3_013.g
+Level 002.4 --- Init Score: 0.568   OptimizedScore 0.568       Time: 0.245 s
+Written to file OPT_D4_EGFR_1.2/L4_002.g
+Level 013.4 --- Init Score: 0.566   OptimizedScore 0.566       Time: 0.247 s
+Written to file OPT_D4_EGFR_1.2/L4_013.g
+Level 006.3 --- Init Score: 0.598   OptimizedScore 0.568       Time: 26.902 s
+Written to file OPT_D4_EGFR_1.2/L3_006.g
+Level 006.4 --- Init Score: 0.556   OptimizedScore 0.556       Time: 0.241 s
+Written to file OPT_D4_EGFR_1.2/L4_006.g
+Level 003.3 --- Init Score: 0.598   OptimizedScore 0.576       Time: 29.547 s
+Written to file OPT_D4_EGFR_1.2/L3_003.g
+Level 003.4 --- Init Score: 0.565   OptimizedScore 0.565       Time: 0.265 s
+Written to file OPT_D4_EGFR_1.2/L4_003.g
+Level 012.3 --- Init Score: 0.595   OptimizedScore 0.553       Time: 35.684 s
+Written to file OPT_D4_EGFR_1.2/L3_012.g
+Level 012.4 --- Init Score: 0.571   OptimizedScore 0.571       Time: 0.244 s
+Written to file OPT_D4_EGFR_1.2/L4_012.g
+Level 014.5 --- Init Score: 0.592   OptimizedScore 0.502       Time: 19.821 s
+Written to file OPT_D4_EGFR_1.2/L5_014.g
+Level 021.3 --- Init Score: 0.598   OptimizedScore 0.563       Time: 35.080 s
+Written to file OPT_D4_EGFR_1.2/L3_021.g
+Launching wrapRunOptimizer 24 at time = 55.199 for SCRAM_D4_EGFR/scram_024.g 
+Level 021.4 --- Init Score: 0.575   OptimizedScore 0.575       Time: 0.260 s
+Written to file OPT_D4_EGFR_1.2/L4_021.g
+Level 002.5 --- Init Score: 0.589   OptimizedScore 0.493       Time: 10.202 s
+Written to file OPT_D4_EGFR_1.2/L5_002.g
+Launching wrapRunOptimizer 25 at time = 58.190 for SCRAM_D4_EGFR/scram_025.g 
+Level 015.3 --- Init Score: 0.594   OptimizedScore 0.563       Time: 38.643 s
+Written to file OPT_D4_EGFR_1.2/L3_015.g
+Level 000.3 --- Init Score: 0.594   OptimizedScore 0.559       Time: 36.731 s
+Written to file OPT_D4_EGFR_1.2/L3_000.g
+Level 015.4 --- Init Score: 0.550   OptimizedScore 0.550       Time: 0.240 s
+Written to file OPT_D4_EGFR_1.2/L4_015.g
+Level 000.4 --- Init Score: 0.572   OptimizedScore 0.572       Time: 0.248 s
+Written to file OPT_D4_EGFR_1.2/L4_000.g
+Level 023.3 --- Init Score: 0.597   OptimizedScore 0.556       Time: 39.706 s
+Written to file OPT_D4_EGFR_1.2/L3_023.g
+Level 023.4 --- Init Score: 0.572   OptimizedScore 0.572       Time: 0.250 s
+Written to file OPT_D4_EGFR_1.2/L4_023.g
+Level 013.5 --- Init Score: 0.590   OptimizedScore 0.504       Time: 12.083 s
+Written to file OPT_D4_EGFR_1.2/L5_013.g
+Launching wrapRunOptimizer 26 at time = 60.402 for SCRAM_D4_EGFR/scram_026.g 
+Level 020.3 --- Init Score: 0.593   OptimizedScore 0.554       Time: 47.270 s
+Written to file OPT_D4_EGFR_1.2/L3_020.g
+Level 020.4 --- Init Score: 0.496   OptimizedScore 0.496       Time: 0.258 s
+Written to file OPT_D4_EGFR_1.2/L4_020.g
+Level 006.5 --- Init Score: 0.597   OptimizedScore 0.583       Time: 18.783 s
+Written to file OPT_D4_EGFR_1.2/L5_006.g
+Launching wrapRunOptimizer 27 at time = 67.569 for SCRAM_D4_EGFR/scram_027.g 
+Level 026.1 --- Init Score: 0.258   OptimizedScore 0.209       Time: 6.777 s
+Written to file OPT_D4_EGFR_1.2/L1_026.g
+Level 017.5 --- Init Score: 0.587   OptimizedScore 0.503       Time: 24.692 s
+Written to file OPT_D4_EGFR_1.2/L5_017.g
+Level 024.1 --- Init Score: 0.282   OptimizedScore 0.209       Time: 13.422 s
+Written to file OPT_D4_EGFR_1.2/L1_024.g
+Launching wrapRunOptimizer 28 at time = 69.330 for SCRAM_D4_EGFR/scram_028.g 
+Level 023.5 --- Init Score: 0.588   OptimizedScore 0.512       Time: 10.551 s
+Written to file OPT_D4_EGFR_1.2/L5_023.g
+Warning: Score mismatch in processIntermediateResults:  0.6099411268741822 0.609239830629628
+Level 026.2 --- Init Score: 0.809   OptimizedScore 0.609       Time: 2.295 s
+Written to file OPT_D4_EGFR_1.2/L2_026.g
+Launching wrapRunOptimizer 29 at time = 70.359 for SCRAM_D4_EGFR/scram_029.g 
+Level 018.3 --- Init Score: 0.594   OptimizedScore 0.558       Time: 53.494 s
+Written to file OPT_D4_EGFR_1.2/L3_018.g
+Level 024.2 --- Init Score: 0.796   OptimizedScore 0.636       Time: 1.904 s
+Written to file OPT_D4_EGFR_1.2/L2_024.g
+Level 018.4 --- Init Score: 0.570   OptimizedScore 0.570       Time: 0.236 s
+Written to file OPT_D4_EGFR_1.2/L4_018.g
+Level 015.5 --- Init Score: 0.580   OptimizedScore 0.535       Time: 14.684 s
+Written to file OPT_D4_EGFR_1.2/L5_015.g
+Warning: hoss: init= 0.524 < final= 0.541, algo = COBYLA
+Known problem with SLSQP. Setting output = input
+Launching wrapRunOptimizer 30 at time = 73.942 for SCRAM_D4_EGFR/scram_030.g 
+Level 010.3 --- Init Score: 0.597   OptimizedScore 0.567       Time: 54.777 s
+Written to file OPT_D4_EGFR_1.2/L3_010.g
+Level 010.4 --- Init Score: 0.557   OptimizedScore 0.557       Time: 0.251 s
+Written to file OPT_D4_EGFR_1.2/L4_010.g
+Level 027.1 --- Init Score: 0.274   OptimizedScore 0.203       Time: 6.829 s
+Written to file OPT_D4_EGFR_1.2/L1_027.g
+Level 000.5 --- Init Score: 0.590   OptimizedScore 0.501       Time: 16.423 s
+Written to file OPT_D4_EGFR_1.2/L5_000.g
+Level 020.5 --- Init Score: 0.591   OptimizedScore 0.495       Time: 11.674 s
+Written to file OPT_D4_EGFR_1.2/L5_020.g
+Launching wrapRunOptimizer 31 at time = 75.780 for SCRAM_D4_EGFR/scram_031.g 
+Level 022.3 --- Init Score: 0.594   OptimizedScore 0.566       Time: 54.804 s
+Written to file OPT_D4_EGFR_1.2/L3_022.g
+Level 025.1 --- Init Score: 0.278   OptimizedScore 0.203       Time: 17.402 s
+Written to file OPT_D4_EGFR_1.2/L1_025.g
+Launching wrapRunOptimizer 32 at time = 76.297 for SCRAM_D4_EGFR/scram_032.g 
+Level 022.4 --- Init Score: 0.552   OptimizedScore 0.552       Time: 0.233 s
+Written to file OPT_D4_EGFR_1.2/L4_022.g
+Level 027.2 --- Init Score: 0.777   OptimizedScore 0.603       Time: 1.617 s
+Written to file OPT_D4_EGFR_1.2/L2_027.g
+Level 005.3 --- Init Score: 0.592   OptimizedScore 0.564       Time: 52.436 s
+Written to file OPT_D4_EGFR_1.2/L3_005.g
+Level 001.3 --- Init Score: 0.590   OptimizedScore 0.554       Time: 57.346 s
+Written to file OPT_D4_EGFR_1.2/L3_001.g
+Level 005.4 --- Init Score: 0.555   OptimizedScore 0.555       Time: 0.251 s
+Written to file OPT_D4_EGFR_1.2/L4_005.g
+Level 001.4 --- Init Score: 0.539   OptimizedScore 0.539       Time: 0.256 s
+Written to file OPT_D4_EGFR_1.2/L4_001.g
+Level 025.2 --- Init Score: 0.794   OptimizedScore 0.611       Time: 3.277 s
+Written to file OPT_D4_EGFR_1.2/L2_025.g
+Level 003.5 --- Init Score: 0.590   OptimizedScore 0.549       Time: 29.303 s
+Written to file OPT_D4_EGFR_1.2/L5_003.g
+Launching wrapRunOptimizer 33 at time = 80.917 for SCRAM_D4_EGFR/scram_033.g 
+Level 029.1 --- Init Score: 0.302   OptimizedScore 0.208       Time: 10.910 s
+Written to file OPT_D4_EGFR_1.2/L1_029.g
+Level 028.1 --- Init Score: 0.257   OptimizedScore 0.207       Time: 12.395 s
+Written to file OPT_D4_EGFR_1.2/L1_028.g
+Level 004.3 --- Init Score: 0.593   OptimizedScore 0.559       Time: 65.405 s
+Written to file OPT_D4_EGFR_1.2/L3_004.g
+Level 004.4 --- Init Score: 0.558   OptimizedScore 0.558       Time: 0.259 s
+Written to file OPT_D4_EGFR_1.2/L4_004.g
+Level 030.1 --- Init Score: 0.281   OptimizedScore 0.213       Time: 9.520 s
+Written to file OPT_D4_EGFR_1.2/L1_030.g
+Level 028.2 --- Init Score: 0.804   OptimizedScore 0.606       Time: 2.744 s
+Written to file OPT_D4_EGFR_1.2/L2_028.g
+Level 029.2 --- Init Score: 0.822   OptimizedScore 0.618       Time: 3.355 s
+Written to file OPT_D4_EGFR_1.2/L2_029.g
+Level 030.2 --- Init Score: 0.811   OptimizedScore 0.602       Time: 2.467 s
+Written to file OPT_D4_EGFR_1.2/L2_030.g
+Level 009.3 --- Init Score: 0.597   OptimizedScore 0.567       Time: 70.023 s
+Written to file OPT_D4_EGFR_1.2/L3_009.g
+Level 009.4 --- Init Score: 0.545   OptimizedScore 0.545       Time: 0.262 s
+Written to file OPT_D4_EGFR_1.2/L4_009.g
+Level 018.5 --- Init Score: 0.585   OptimizedScore 0.509       Time: 18.230 s
+Written to file OPT_D4_EGFR_1.2/L5_018.g
+Level 031.1 --- Init Score: 0.271   OptimizedScore 0.203       Time: 13.158 s
+Written to file OPT_D4_EGFR_1.2/L1_031.g
+Launching wrapRunOptimizer 34 at time = 90.111 for SCRAM_D4_EGFR/scram_034.g 
+Level 031.2 --- Init Score: 0.791   OptimizedScore 0.638       Time: 2.012 s
+Written to file OPT_D4_EGFR_1.2/L2_031.g
+Level 033.1 --- Init Score: 0.257   OptimizedScore 0.207       Time: 12.447 s
+Written to file OPT_D4_EGFR_1.2/L1_033.g
+Level 032.1 --- Init Score: 0.308   OptimizedScore 0.206       Time: 19.026 s
+Written to file OPT_D4_EGFR_1.2/L1_032.g
+Level 033.2 --- Init Score: 0.821   OptimizedScore 0.610       Time: 2.238 s
+Written to file OPT_D4_EGFR_1.2/L2_033.g
+Level 008.3 --- Init Score: 0.596   OptimizedScore 0.577       Time: 77.053 s
+Written to file OPT_D4_EGFR_1.2/L3_008.g
+Level 008.4 --- Init Score: 0.536   OptimizedScore 0.536       Time: 0.249 s
+Written to file OPT_D4_EGFR_1.2/L4_008.g
+Level 032.2 --- Init Score: 0.814   OptimizedScore 0.604       Time: 1.664 s
+Written to file OPT_D4_EGFR_1.2/L2_032.g
+Level 022.5 --- Init Score: 0.587   OptimizedScore 0.505       Time: 21.338 s
+Written to file OPT_D4_EGFR_1.2/L5_022.g
+Launching wrapRunOptimizer 35 at time = 98.381 for SCRAM_D4_EGFR/scram_035.g 
+Level 005.5 --- Init Score: 0.589   OptimizedScore 0.508       Time: 25.573 s
+Written to file OPT_D4_EGFR_1.2/L5_005.g
+Launching wrapRunOptimizer 36 at time = 103.532 for SCRAM_D4_EGFR/scram_036.g 
+Level 035.1 --- Init Score: 0.272   OptimizedScore 0.210       Time: 4.650 s
+Written to file OPT_D4_EGFR_1.2/L1_035.g
+Level 034.1 --- Init Score: 0.271   OptimizedScore 0.207       Time: 13.372 s
+Written to file OPT_D4_EGFR_1.2/L1_034.g
+Level 034.2 --- Init Score: 0.816   OptimizedScore 0.642       Time: 1.253 s
+Written to file OPT_D4_EGFR_1.2/L2_034.g
+Level 035.2 --- Init Score: 0.803   OptimizedScore 0.651       Time: 3.934 s
+Written to file OPT_D4_EGFR_1.2/L2_035.g
+Level 036.1 --- Init Score: 0.274   OptimizedScore 0.207       Time: 6.148 s
+Written to file OPT_D4_EGFR_1.2/L1_036.g
+Level 004.5 --- Init Score: 0.589   OptimizedScore 0.498       Time: 27.240 s
+Written to file OPT_D4_EGFR_1.2/L5_004.g
+Launching wrapRunOptimizer 37 at time = 111.198 for SCRAM_D4_EGFR/scram_037.g 
+Level 021.5 --- Init Score: 0.585   OptimizedScore 0.497       Time: 58.730 s
+Written to file OPT_D4_EGFR_1.2/L5_021.g
+Level 036.2 --- Init Score: 0.776   OptimizedScore 0.655       Time: 3.933 s
+Written to file OPT_D4_EGFR_1.2/L2_036.g
+Launching wrapRunOptimizer 38 at time = 114.650 for SCRAM_D4_EGFR/scram_038.g 
+Level 028.3 --- Init Score: 0.598   OptimizedScore 0.573       Time: 30.654 s
+Written to file OPT_D4_EGFR_1.2/L3_028.g
+Level 028.4 --- Init Score: 0.535   OptimizedScore 0.535       Time: 0.256 s
+Written to file OPT_D4_EGFR_1.2/L4_028.g
+Level 001.5 --- Init Score: 0.577   OptimizedScore 0.503       Time: 38.764 s
+Written to file OPT_D4_EGFR_1.2/L5_001.g
+Launching wrapRunOptimizer 39 at time = 116.758 for SCRAM_D4_EGFR/scram_039.g 
+Level 037.1 --- Init Score: 0.271   OptimizedScore 0.212       Time: 7.751 s
+Written to file OPT_D4_EGFR_1.2/L1_037.g
+Level 030.3 --- Init Score: 0.599   OptimizedScore 0.563       Time: 35.065 s
+Written to file OPT_D4_EGFR_1.2/L3_030.g
+Level 030.4 --- Init Score: 0.561   OptimizedScore 0.561       Time: 0.250 s
+Written to file OPT_D4_EGFR_1.2/L4_030.g
+Warning: Score mismatch in processIntermediateResults:  0.6049320951334283 0.6039976551472175
+Level 037.2 --- Init Score: 0.804   OptimizedScore 0.604       Time: 2.707 s
+Written to file OPT_D4_EGFR_1.2/L2_037.g
+Level 009.5 --- Init Score: 0.584   OptimizedScore 0.471       Time: 34.274 s
+Written to file OPT_D4_EGFR_1.2/L5_009.g
+Launching wrapRunOptimizer 40 at time = 123.042 for SCRAM_D4_EGFR/scram_040.g 
+Level 038.1 --- Init Score: 0.262   OptimizedScore 0.211       Time: 8.548 s
+Written to file OPT_D4_EGFR_1.2/L1_038.g
+Level 024.3 --- Init Score: 0.597   OptimizedScore 0.560       Time: 52.929 s
+Written to file OPT_D4_EGFR_1.2/L3_024.g
+Level 024.4 --- Init Score: 0.589   OptimizedScore 0.589       Time: 0.253 s
+Written to file OPT_D4_EGFR_1.2/L4_024.g
+Level 029.3 --- Init Score: 0.588   OptimizedScore 0.567       Time: 39.772 s
+Written to file OPT_D4_EGFR_1.2/L3_029.g
+Level 029.4 --- Init Score: 0.513   OptimizedScore 0.513       Time: 0.258 s
+Written to file OPT_D4_EGFR_1.2/L4_029.g
+Level 038.2 --- Init Score: 0.785   OptimizedScore 0.609       Time: 2.364 s
+Written to file OPT_D4_EGFR_1.2/L2_038.g
+Level 039.1 --- Init Score: 0.268   OptimizedScore 0.205       Time: 10.266 s
+Written to file OPT_D4_EGFR_1.2/L1_039.g
+Level 010.5 --- Init Score: 0.585   OptimizedScore 0.468       Time: 53.761 s
+Written to file OPT_D4_EGFR_1.2/L5_010.g
+Launching wrapRunOptimizer 41 at time = 128.640 for SCRAM_D4_EGFR/scram_041.g 
+Level 027.3 --- Init Score: 0.596   OptimizedScore 0.561       Time: 52.222 s
+Written to file OPT_D4_EGFR_1.2/L3_027.g
+Level 027.4 --- Init Score: 0.560   OptimizedScore 0.560       Time: 0.238 s
+Written to file OPT_D4_EGFR_1.2/L4_027.g
+Level 008.5 --- Init Score: 0.592   OptimizedScore 0.505       Time: 32.743 s
+Written to file OPT_D4_EGFR_1.2/L5_008.g
+Launching wrapRunOptimizer 42 at time = 130.460 for SCRAM_D4_EGFR/scram_042.g 
+Level 040.1 --- Init Score: 0.281   OptimizedScore 0.211       Time: 11.231 s
+Written to file OPT_D4_EGFR_1.2/L1_040.g
+Level 040.2 --- Init Score: 0.802   OptimizedScore 0.612       Time: 3.187 s
+Written to file OPT_D4_EGFR_1.2/L2_040.g
+Level 042.1 --- Init Score: 0.279   OptimizedScore 0.211       Time: 7.260 s
+Written to file OPT_D4_EGFR_1.2/L1_042.g
+Level 042.2 --- Init Score: 0.766   OptimizedScore 0.637       Time: 2.433 s
+Written to file OPT_D4_EGFR_1.2/L2_042.g
+Level 011.3 --- Init Score: 0.596   OptimizedScore 0.570       Time: 124.122 s
+Written to file OPT_D4_EGFR_1.2/L3_011.g
+Level 011.4 --- Init Score: 0.567   OptimizedScore 0.567       Time: 0.242 s
+Written to file OPT_D4_EGFR_1.2/L4_011.g
+Level 041.1 --- Init Score: 0.272   OptimizedScore 0.211       Time: 15.256 s
+Written to file OPT_D4_EGFR_1.2/L1_041.g
+Level 041.2 --- Init Score: 0.798   OptimizedScore 0.593       Time: 4.181 s
+Written to file OPT_D4_EGFR_1.2/L2_041.g
+Level 024.5 --- Init Score: 0.590   OptimizedScore 0.503       Time: 25.259 s
+Written to file OPT_D4_EGFR_1.2/L5_024.g
+Launching wrapRunOptimizer 43 at time = 150.396 for SCRAM_D4_EGFR/scram_043.g 
+Level 033.3 --- Init Score: 0.592   OptimizedScore 0.556       Time: 59.205 s
+Written to file OPT_D4_EGFR_1.2/L3_033.g
+Level 033.4 --- Init Score: 0.550   OptimizedScore 0.550       Time: 0.241 s
+Written to file OPT_D4_EGFR_1.2/L4_033.g
+Level 027.5 --- Init Score: 0.585   OptimizedScore 0.496       Time: 29.084 s
+Written to file OPT_D4_EGFR_1.2/L5_027.g
+Level 039.2 --- Init Score: 0.781   OptimizedScore 0.618       Time: 31.033 s
+Written to file OPT_D4_EGFR_1.2/L2_039.g
+Launching wrapRunOptimizer 44 at time = 159.004 for SCRAM_D4_EGFR/scram_044.g 
+Level 043.1 --- Init Score: 0.274   OptimizedScore 0.211       Time: 9.594 s
+Written to file OPT_D4_EGFR_1.2/L1_043.g
+Level 036.3 --- Init Score: 0.597   OptimizedScore 0.554       Time: 47.615 s
+Written to file OPT_D4_EGFR_1.2/L3_036.g
+Level 036.4 --- Init Score: 0.553   OptimizedScore 0.553       Time: 0.269 s
+Written to file OPT_D4_EGFR_1.2/L4_036.g
+Level 043.2 --- Init Score: 0.793   OptimizedScore 0.616       Time: 2.054 s
+Written to file OPT_D4_EGFR_1.2/L2_043.g
+Level 026.3 --- Init Score: 0.590   OptimizedScore 0.555       Time: 93.241 s
+Written to file OPT_D4_EGFR_1.2/L3_026.g
+Level 026.4 --- Init Score: 0.543   OptimizedScore 0.543       Time: 0.254 s
+Written to file OPT_D4_EGFR_1.2/L4_026.g
+Level 037.3 --- Init Score: 0.590   OptimizedScore 0.553       Time: 42.554 s
+Written to file OPT_D4_EGFR_1.2/L3_037.g
+Level 037.4 --- Init Score: 0.557   OptimizedScore 0.557       Time: 0.269 s
+Written to file OPT_D4_EGFR_1.2/L4_037.g
+Level 044.1 --- Init Score: 0.278   OptimizedScore 0.212       Time: 8.782 s
+Written to file OPT_D4_EGFR_1.2/L1_044.g
+Level 044.2 --- Init Score: 0.815   OptimizedScore 0.618       Time: 2.501 s
+Written to file OPT_D4_EGFR_1.2/L2_044.g
+Level 042.3 --- Init Score: 0.597   OptimizedScore 0.571       Time: 31.252 s
+Written to file OPT_D4_EGFR_1.2/L3_042.g
+Level 042.4 --- Init Score: 0.573   OptimizedScore 0.573       Time: 0.256 s
+Written to file OPT_D4_EGFR_1.2/L4_042.g
+Level 030.5 --- Init Score: 0.591   OptimizedScore 0.508       Time: 52.140 s
+Written to file OPT_D4_EGFR_1.2/L5_030.g
+Launching wrapRunOptimizer 45 at time = 174.807 for SCRAM_D4_EGFR/scram_045.g 
+Level 011.5 --- Init Score: 0.581   OptimizedScore 0.484       Time: 36.604 s
+Written to file OPT_D4_EGFR_1.2/L5_011.g
+Launching wrapRunOptimizer 46 at time = 179.518 for SCRAM_D4_EGFR/scram_046.g 
+Level 045.1 --- Init Score: 0.261   OptimizedScore 0.210       Time: 4.944 s
+Written to file OPT_D4_EGFR_1.2/L1_045.g
+Level 033.5 --- Init Score: 0.587   OptimizedScore 0.501       Time: 25.343 s
+Written to file OPT_D4_EGFR_1.2/L5_033.g
+Launching wrapRunOptimizer 47 at time = 181.818 for SCRAM_D4_EGFR/scram_047.g 
+Level 038.3 --- Init Score: 0.591   OptimizedScore 0.559       Time: 57.535 s
+Written to file OPT_D4_EGFR_1.2/L3_038.g
+Level 038.4 --- Init Score: 0.562   OptimizedScore 0.562       Time: 0.268 s
+Written to file OPT_D4_EGFR_1.2/L4_038.g
+Level 039.3 --- Init Score: 0.600   OptimizedScore 0.562       Time: 26.196 s
+Written to file OPT_D4_EGFR_1.2/L3_039.g
+Level 039.4 --- Init Score: 0.541   OptimizedScore 0.541       Time: 0.248 s
+Written to file OPT_D4_EGFR_1.2/L4_039.g
+Level 041.3 --- Init Score: 0.597   OptimizedScore 0.554       Time: 36.665 s
+Written to file OPT_D4_EGFR_1.2/L3_041.g
+Level 028.5 --- Init Score: 0.596   OptimizedScore 0.504       Time: 69.405 s
+Written to file OPT_D4_EGFR_1.2/L5_028.g
+Level 041.4 --- Init Score: 0.567   OptimizedScore 0.567       Time: 0.263 s
+Written to file OPT_D4_EGFR_1.2/L4_041.g
+Warning: hoss: init= 0.531 < final= 0.538, algo = COBYLA
+Known problem with SLSQP. Setting output = input
+Launching wrapRunOptimizer 48 at time = 186.175 for SCRAM_D4_EGFR/scram_048.g 
+Level 046.1 --- Init Score: 0.271   OptimizedScore 0.212       Time: 9.379 s
+Written to file OPT_D4_EGFR_1.2/L1_046.g
+Level 040.3 --- Init Score: 0.591   OptimizedScore 0.555       Time: 51.992 s
+Written to file OPT_D4_EGFR_1.2/L3_040.g
+Level 040.4 --- Init Score: 0.568   OptimizedScore 0.568       Time: 0.267 s
+Written to file OPT_D4_EGFR_1.2/L4_040.g
+Level 031.3 --- Init Score: 0.597   OptimizedScore 0.562       Time: 100.832 s
+Written to file OPT_D4_EGFR_1.2/L3_031.g
+Level 031.4 --- Init Score: 0.545   OptimizedScore 0.545       Time: 0.270 s
+Written to file OPT_D4_EGFR_1.2/L4_031.g
+Level 037.5 --- Init Score: 0.580   OptimizedScore 0.504       Time: 28.581 s
+Written to file OPT_D4_EGFR_1.2/L5_037.g
+Launching wrapRunOptimizer 49 at time = 194.397 for SCRAM_D4_EGFR/scram_049.g 
+Level 036.5 --- Init Score: 0.580   OptimizedScore 0.479       Time: 32.244 s
+Written to file OPT_D4_EGFR_1.2/L5_036.g
+Level 046.2 --- Init Score: 0.803   OptimizedScore 0.608       Time: 5.370 s
+Written to file OPT_D4_EGFR_1.2/L2_046.g
+Launching wrapRunOptimizer 50 at time = 195.291 for SCRAM_D4_EGFR/scram_050.g 
+Level 048.1 --- Init Score: 0.286   OptimizedScore 0.210       Time: 9.078 s
+Written to file OPT_D4_EGFR_1.2/L1_048.g
+Level 043.3 --- Init Score: 0.600   OptimizedScore 0.561       Time: 33.738 s
+Written to file OPT_D4_EGFR_1.2/L3_043.g
+Level 043.4 --- Init Score: 0.576   OptimizedScore 0.576       Time: 0.240 s
+Written to file OPT_D4_EGFR_1.2/L4_043.g
+Level 041.5 --- Init Score: 0.589   OptimizedScore 0.511       Time: 12.259 s
+Written to file OPT_D4_EGFR_1.2/L5_041.g
+Level 047.1 --- Init Score: 0.277   OptimizedScore 0.202       Time: 15.947 s
+Written to file OPT_D4_EGFR_1.2/L1_047.g
+Launching wrapRunOptimizer 51 at time = 198.709 for SCRAM_D4_EGFR/scram_051.g 
+Level 048.2 --- Init Score: 0.774   OptimizedScore 0.617       Time: 3.408 s
+Written to file OPT_D4_EGFR_1.2/L2_048.g
+Level 042.5 --- Init Score: 0.588   OptimizedScore 0.503       Time: 28.524 s
+Written to file OPT_D4_EGFR_1.2/L5_042.g
+Launching wrapRunOptimizer 52 at time = 201.573 for SCRAM_D4_EGFR/scram_052.g 
+Level 047.2 --- Init Score: 0.817   OptimizedScore 0.601       Time: 3.347 s
+Written to file OPT_D4_EGFR_1.2/L2_047.g
+Level 049.1 --- Init Score: 0.260   OptimizedScore 0.210       Time: 7.119 s
+Written to file OPT_D4_EGFR_1.2/L1_049.g
+Level 012.5 --- Init Score: 0.586   OptimizedScore 0.491       Time: 151.025 s
+Written to file OPT_D4_EGFR_1.2/L5_012.g
+Level 049.2 --- Init Score: 0.797   OptimizedScore 0.648       Time: 1.565 s
+Written to file OPT_D4_EGFR_1.2/L2_049.g
+Launching wrapRunOptimizer 53 at time = 204.030 for SCRAM_D4_EGFR/scram_053.g 
+Level 026.5 --- Init Score: 0.574   OptimizedScore 0.480       Time: 40.569 s
+Written to file OPT_D4_EGFR_1.2/L5_026.g
+Warning: hoss: init= 0.533 < final= 0.537, algo = COBYLA
+Known problem with SLSQP. Setting output = input
+Launching wrapRunOptimizer 54 at time = 205.137 for SCRAM_D4_EGFR/scram_054.g 
+Level 040.5 --- Init Score: 0.588   OptimizedScore 0.507       Time: 17.353 s
+Written to file OPT_D4_EGFR_1.2/L5_040.g
+Launching wrapRunOptimizer 55 at time = 208.342 for SCRAM_D4_EGFR/scram_055.g 
+Level 045.2 --- Init Score: 0.771   OptimizedScore 0.604       Time: 29.601 s
+Written to file OPT_D4_EGFR_1.2/L2_045.g
+Level 050.1 --- Init Score: 0.293   OptimizedScore 0.206       Time: 14.157 s
+Written to file OPT_D4_EGFR_1.2/L1_050.g
+Level 044.3 --- Init Score: 0.592   OptimizedScore 0.553       Time: 39.396 s
+Written to file OPT_D4_EGFR_1.2/L3_044.g
+Level 054.1 --- Init Score: 0.273   OptimizedScore 0.200       Time: 4.566 s
+Written to file OPT_D4_EGFR_1.2/L1_054.g
+Level 044.4 --- Init Score: 0.532   OptimizedScore 0.532       Time: 0.242 s
+Written to file OPT_D4_EGFR_1.2/L4_044.g
+Level 038.5 --- Init Score: 0.579   OptimizedScore 0.542       Time: 27.344 s
+Written to file OPT_D4_EGFR_1.2/L5_038.g
+Warning: hoss: init= 0.530 < final= 0.533, algo = COBYLA
+Known problem with SLSQP. Setting output = input
+Launching wrapRunOptimizer 56 at time = 212.101 for SCRAM_D4_EGFR/scram_056.g 
+Level 054.2 --- Init Score: 0.799   OptimizedScore 0.612       Time: 2.555 s
+Written to file OPT_D4_EGFR_1.2/L2_054.g
+Level 053.1 --- Init Score: 0.280   OptimizedScore 0.212       Time: 9.729 s
+Written to file OPT_D4_EGFR_1.2/L1_053.g
+Level 050.2 --- Init Score: 0.805   OptimizedScore 0.608       Time: 4.156 s
+Written to file OPT_D4_EGFR_1.2/L2_050.g
+Level 051.1 --- Init Score: 0.274   OptimizedScore 0.208       Time: 15.612 s
+Written to file OPT_D4_EGFR_1.2/L1_051.g
+Level 053.2 --- Init Score: 0.789   OptimizedScore 0.657       Time: 1.804 s
+Written to file OPT_D4_EGFR_1.2/L2_053.g
+Level 055.1 --- Init Score: 0.256   OptimizedScore 0.209       Time: 7.817 s
+Written to file OPT_D4_EGFR_1.2/L1_055.g
+Level 051.2 --- Init Score: 0.810   OptimizedScore 0.603       Time: 2.961 s
+Written to file OPT_D4_EGFR_1.2/L2_051.g
+Level 043.5 --- Init Score: 0.587   OptimizedScore 0.503       Time: 21.941 s
+Written to file OPT_D4_EGFR_1.2/L5_043.g
+Warning: Score mismatch in processIntermediateResults:  0.6099865287242232 0.6093363290488317
+Level 055.2 --- Init Score: 0.819   OptimizedScore 0.609       Time: 2.022 s
+Written to file OPT_D4_EGFR_1.2/L2_055.g
+Launching wrapRunOptimizer 57 at time = 219.351 for SCRAM_D4_EGFR/scram_057.g 
+Level 052.1 --- Init Score: 0.273   OptimizedScore 0.203       Time: 18.734 s
+Written to file OPT_D4_EGFR_1.2/L1_052.g
+Level 052.2 --- Init Score: 0.822   OptimizedScore 0.647       Time: 6.062 s
+Written to file OPT_D4_EGFR_1.2/L2_052.g
+Level 056.1 --- Init Score: 0.315   OptimizedScore 0.211       Time: 14.332 s
+Written to file OPT_D4_EGFR_1.2/L1_056.g
+Level 050.3 --- Init Score: 0.599   OptimizedScore 0.583       Time: 21.356 s
+Written to file OPT_D4_EGFR_1.2/L3_050.g
+Level 050.4 --- Init Score: 0.577   OptimizedScore 0.577       Time: 0.240 s
+Written to file OPT_D4_EGFR_1.2/L4_050.g
+Level 057.1 --- Init Score: 0.268   OptimizedScore 0.205       Time: 18.110 s
+Written to file OPT_D4_EGFR_1.2/L1_057.g
+Level 057.2 --- Init Score: 0.790   OptimizedScore 0.591       Time: 2.594 s
+Written to file OPT_D4_EGFR_1.2/L2_057.g
+Level 056.2 --- Init Score: 0.806   OptimizedScore 0.618       Time: 14.299 s
+Written to file OPT_D4_EGFR_1.2/L2_056.g
+Level 039.5 --- Init Score: 0.580   OptimizedScore 0.503       Time: 56.487 s
+Written to file OPT_D4_EGFR_1.2/L5_039.g
+Launching wrapRunOptimizer 58 at time = 242.332 for SCRAM_D4_EGFR/scram_058.g 
+Level 045.3 --- Init Score: 0.592   OptimizedScore 0.551       Time: 33.622 s
+Written to file OPT_D4_EGFR_1.2/L3_045.g
+Level 048.3 --- Init Score: 0.599   OptimizedScore 0.555       Time: 44.283 s
+Written to file OPT_D4_EGFR_1.2/L3_048.g
+Level 045.4 --- Init Score: 0.586   OptimizedScore 0.586       Time: 0.243 s
+Written to file OPT_D4_EGFR_1.2/L4_045.g
+Level 048.4 --- Init Score: 0.548   OptimizedScore 0.548       Time: 0.237 s
+Written to file OPT_D4_EGFR_1.2/L4_048.g
+Level 035.3 --- Init Score: 0.594   OptimizedScore 0.557       Time: 138.007 s
+Written to file OPT_D4_EGFR_1.2/L3_035.g
+Level 035.4 --- Init Score: 0.571   OptimizedScore 0.571       Time: 0.254 s
+Written to file OPT_D4_EGFR_1.2/L4_035.g
+Level 045.5 --- Init Score: 0.590   OptimizedScore 0.506       Time: 13.631 s
+Written to file OPT_D4_EGFR_1.2/L5_045.g
+Launching wrapRunOptimizer 59 at time = 258.225 for SCRAM_D4_EGFR/scram_059.g 
+Level 055.3 --- Init Score: 0.603   OptimizedScore 0.567       Time: 40.658 s
+Written to file OPT_D4_EGFR_1.2/L3_055.g
+Level 055.4 --- Init Score: 0.573   OptimizedScore 0.573       Time: 0.253 s
+Written to file OPT_D4_EGFR_1.2/L4_055.g
+Level 058.1 --- Init Score: 0.278   OptimizedScore 0.207       Time: 17.011 s
+Written to file OPT_D4_EGFR_1.2/L1_058.g
+Level 046.3 --- Init Score: 0.595   OptimizedScore 0.539       Time: 66.222 s
+Written to file OPT_D4_EGFR_1.2/L3_046.g
+Level 046.4 --- Init Score: 0.549   OptimizedScore 0.549       Time: 0.238 s
+Written to file OPT_D4_EGFR_1.2/L4_046.g
+Level 058.2 --- Init Score: 0.805   OptimizedScore 0.605       Time: 2.774 s
+Written to file OPT_D4_EGFR_1.2/L2_058.g
+Level 048.5 --- Init Score: 0.591   OptimizedScore 0.503       Time: 20.794 s
+Written to file OPT_D4_EGFR_1.2/L5_048.g
+Warning: hoss: init= 0.541 < final= 0.557, algo = COBYLA
+Known problem with SLSQP. Setting output = input
+Launching wrapRunOptimizer 60 at time = 265.496 for SCRAM_D4_EGFR/scram_060.g 
+Level 019.3 --- Init Score: 0.596   OptimizedScore 0.555       Time: 246.957 s
+Written to file OPT_D4_EGFR_1.2/L3_019.g
+Level 019.4 --- Init Score: 0.567   OptimizedScore 0.567       Time: 0.264 s
+Written to file OPT_D4_EGFR_1.2/L4_019.g
+Level 016.3 --- Init Score: 0.596   OptimizedScore 0.562       Time: 247.183 s
+Written to file OPT_D4_EGFR_1.2/L3_016.g
+Level 016.4 --- Init Score: 0.537   OptimizedScore 0.537       Time: 0.254 s
+Written to file OPT_D4_EGFR_1.2/L4_016.g
+Level 057.3 --- Init Score: 0.596   OptimizedScore 0.578       Time: 31.703 s
+Written to file OPT_D4_EGFR_1.2/L3_057.g
+Level 057.4 --- Init Score: 0.545   OptimizedScore 0.545       Time: 0.260 s
+Written to file OPT_D4_EGFR_1.2/L4_057.g
+Level 046.5 --- Init Score: 0.590   OptimizedScore 0.505       Time: 12.915 s
+Written to file OPT_D4_EGFR_1.2/L5_046.g
+Level 032.3 --- Init Score: 0.598   OptimizedScore 0.569       Time: 176.881 s
+Written to file OPT_D4_EGFR_1.2/L3_032.g
+Level 032.4 --- Init Score: 0.539   OptimizedScore 0.539       Time: 0.243 s
+Written to file OPT_D4_EGFR_1.2/L4_032.g
+Launching wrapRunOptimizer 61 at time = 275.057 for SCRAM_D4_EGFR/scram_061.g 
+Level 060.1 --- Init Score: 0.279   OptimizedScore 0.210       Time: 10.025 s
+Written to file OPT_D4_EGFR_1.2/L1_060.g
+Level 007.3 --- Init Score: 0.597   OptimizedScore 0.566       Time: 248.563 s
+Written to file OPT_D4_EGFR_1.2/L3_007.g
+Level 007.4 --- Init Score: 0.550   OptimizedScore 0.550       Time: 0.263 s
+Written to file OPT_D4_EGFR_1.2/L4_007.g
+Level 051.3 --- Init Score: 0.591   OptimizedScore 0.552       Time: 59.694 s
+Written to file OPT_D4_EGFR_1.2/L3_051.g
+Level 051.4 --- Init Score: 0.559   OptimizedScore 0.559       Time: 0.255 s
+Written to file OPT_D4_EGFR_1.2/L4_051.g
+Level 035.5 --- Init Score: 0.581   OptimizedScore 0.469       Time: 32.602 s
+Written to file OPT_D4_EGFR_1.2/L5_035.g
+Level 056.3 --- Init Score: 0.592   OptimizedScore 0.546       Time: 37.745 s
+Written to file OPT_D4_EGFR_1.2/L3_056.g
+Level 060.2 --- Init Score: 0.774   OptimizedScore 0.614       Time: 2.994 s
+Written to file OPT_D4_EGFR_1.2/L2_060.g
+Launching wrapRunOptimizer 62 at time = 279.302 for SCRAM_D4_EGFR/scram_062.g 
+Level 059.1 --- Init Score: 0.273   OptimizedScore 0.204       Time: 20.444 s
+Written to file OPT_D4_EGFR_1.2/L1_059.g
+Level 055.5 --- Init Score: 0.591   OptimizedScore 0.513       Time: 19.529 s
+Written to file OPT_D4_EGFR_1.2/L5_055.g
+Level 056.4 --- Init Score: 0.581   OptimizedScore 0.581       Time: 0.261 s
+Written to file OPT_D4_EGFR_1.2/L4_056.g
+Launching wrapRunOptimizer 63 at time = 280.079 for SCRAM_D4_EGFR/scram_063.g 
+Level 059.2 --- Init Score: 0.795   OptimizedScore 0.617       Time: 2.158 s
+Written to file OPT_D4_EGFR_1.2/L2_059.g
+Level 029.5 --- Init Score: 0.582   OptimizedScore 0.481       Time: 156.422 s
+Written to file OPT_D4_EGFR_1.2/L5_029.g
+Launching wrapRunOptimizer 64 at time = 282.418 for SCRAM_D4_EGFR/scram_064.g 
+Level 016.5 --- Init Score: 0.591   OptimizedScore 0.500       Time: 15.924 s
+Written to file OPT_D4_EGFR_1.2/L5_016.g
+Launching wrapRunOptimizer 65 at time = 284.822 for SCRAM_D4_EGFR/scram_065.g 
+Level 061.1 --- Init Score: 0.263   OptimizedScore 0.209       Time: 9.594 s
+Written to file OPT_D4_EGFR_1.2/L1_061.g
+Level 054.3 --- Init Score: 0.596   OptimizedScore 0.556       Time: 72.679 s
+Written to file OPT_D4_EGFR_1.2/L3_054.g
+Level 054.4 --- Init Score: 0.508   OptimizedScore 0.508       Time: 0.285 s
+Written to file OPT_D4_EGFR_1.2/L4_054.g
+Level 063.1 --- Init Score: 0.274   OptimizedScore 0.207       Time: 6.786 s
+Written to file OPT_D4_EGFR_1.2/L1_063.g
+Level 032.5 --- Init Score: 0.591   OptimizedScore 0.503       Time: 13.365 s
+Written to file OPT_D4_EGFR_1.2/L5_032.g
+Level 057.5 --- Init Score: 0.591   OptimizedScore 0.508       Time: 15.664 s
+Written to file OPT_D4_EGFR_1.2/L5_057.g
+Launching wrapRunOptimizer 66 at time = 289.006 for SCRAM_D4_EGFR/scram_066.g 
+Level 061.2 --- Init Score: 0.798   OptimizedScore 0.610       Time: 3.664 s
+Written to file OPT_D4_EGFR_1.2/L2_061.g
+Warning: hoss: init= 0.540 < final= 0.548, algo = COBYLA
+Known problem with SLSQP. Setting output = input
+Launching wrapRunOptimizer 67 at time = 289.271 for SCRAM_D4_EGFR/scram_067.g 
+Level 044.5 --- Init Score: 0.582   OptimizedScore 0.499       Time: 79.105 s
+Written to file OPT_D4_EGFR_1.2/L5_044.g
+Launching wrapRunOptimizer 68 at time = 290.581 for SCRAM_D4_EGFR/scram_068.g 
+Level 065.1 --- Init Score: 0.275   OptimizedScore 0.209       Time: 10.884 s
+Written to file OPT_D4_EGFR_1.2/L1_065.g
+Level 053.3 --- Init Score: 0.585   OptimizedScore 0.547       Time: 80.501 s
+Written to file OPT_D4_EGFR_1.2/L3_053.g
+Level 053.4 --- Init Score: 0.574   OptimizedScore 0.574       Time: 0.273 s
+Written to file OPT_D4_EGFR_1.2/L4_053.g
+Level 062.1 --- Init Score: 0.267   OptimizedScore 0.208       Time: 17.804 s
+Written to file OPT_D4_EGFR_1.2/L1_062.g
+Level 065.2 --- Init Score: 0.762   OptimizedScore 0.604       Time: 1.845 s
+Written to file OPT_D4_EGFR_1.2/L2_065.g
+Level 064.1 --- Init Score: 0.280   OptimizedScore 0.209       Time: 17.032 s
+Written to file OPT_D4_EGFR_1.2/L1_064.g
+Level 062.2 --- Init Score: 0.821   OptimizedScore 0.606       Time: 2.789 s
+Written to file OPT_D4_EGFR_1.2/L2_062.g
+Level 050.5 --- Init Score: 0.594   OptimizedScore 0.554       Time: 65.097 s
+Written to file OPT_D4_EGFR_1.2/L5_050.g
+Launching wrapRunOptimizer 69 at time = 301.752 for SCRAM_D4_EGFR/scram_069.g 
+Level 066.1 --- Init Score: 0.268   OptimizedScore 0.207       Time: 14.350 s
+Written to file OPT_D4_EGFR_1.2/L1_066.g
+Level 067.1 --- Init Score: 0.264   OptimizedScore 0.208       Time: 14.066 s
+Written to file OPT_D4_EGFR_1.2/L1_067.g
+Level 064.2 --- Init Score: 0.820   OptimizedScore 0.632       Time: 4.623 s
+Written to file OPT_D4_EGFR_1.2/L2_064.g
+Level 056.5 --- Init Score: 0.589   OptimizedScore 0.503       Time: 25.880 s
+Written to file OPT_D4_EGFR_1.2/L5_056.g
+Level 063.2 --- Init Score: 0.810   OptimizedScore 0.637       Time: 18.417 s
+Written to file OPT_D4_EGFR_1.2/L2_063.g
+Launching wrapRunOptimizer 70 at time = 306.055 for SCRAM_D4_EGFR/scram_070.g 
+Level 068.1 --- Init Score: 0.257   OptimizedScore 0.209       Time: 15.417 s
+Written to file OPT_D4_EGFR_1.2/L1_068.g
+Level 067.2 --- Init Score: 0.817   OptimizedScore 0.612       Time: 2.745 s
+Written to file OPT_D4_EGFR_1.2/L2_067.g
+Level 068.2 --- Init Score: 0.809   OptimizedScore 0.608       Time: 2.719 s
+Written to file OPT_D4_EGFR_1.2/L2_068.g
+Level 019.5 --- Init Score: 0.590   OptimizedScore 0.507       Time: 42.121 s
+Written to file OPT_D4_EGFR_1.2/L5_019.g
+Warning: hoss: init= 0.535 < final= 0.551, algo = COBYLA
+Known problem with SLSQP. Setting output = input
+Launching wrapRunOptimizer 71 at time = 309.952 for SCRAM_D4_EGFR/scram_071.g 
+Level 069.1 --- Init Score: 0.273   OptimizedScore 0.211       Time: 7.559 s
+Written to file OPT_D4_EGFR_1.2/L1_069.g
+Level 066.2 --- Init Score: 0.826   OptimizedScore 0.613       Time: 5.950 s
+Written to file OPT_D4_EGFR_1.2/L2_066.g
+Level 069.2 --- Init Score: 0.823   OptimizedScore 0.616       Time: 2.247 s
+Written to file OPT_D4_EGFR_1.2/L2_069.g
+Level 007.5 --- Init Score: 0.588   OptimizedScore 0.501       Time: 39.397 s
+Written to file OPT_D4_EGFR_1.2/L5_007.g
+Launching wrapRunOptimizer 72 at time = 317.281 for SCRAM_D4_EGFR/scram_072.g 
+Level 071.1 --- Init Score: 0.252   OptimizedScore 0.211       Time: 8.877 s
+Written to file OPT_D4_EGFR_1.2/L1_071.g
+Level 071.2 --- Init Score: 0.786   OptimizedScore 0.650       Time: 3.604 s
+Written to file OPT_D4_EGFR_1.2/L2_071.g
+Level 070.1 --- Init Score: 0.274   OptimizedScore 0.206       Time: 16.446 s
+Written to file OPT_D4_EGFR_1.2/L1_070.g
+Level 070.2 --- Init Score: 0.816   OptimizedScore 0.644       Time: 1.374 s
+Written to file OPT_D4_EGFR_1.2/L2_070.g
+Level 054.5 --- Init Score: 0.579   OptimizedScore 0.498       Time: 38.754 s
+Written to file OPT_D4_EGFR_1.2/L5_054.g
+Level 072.1 --- Init Score: 0.272   OptimizedScore 0.211       Time: 7.492 s
+Written to file OPT_D4_EGFR_1.2/L1_072.g
+Launching wrapRunOptimizer 73 at time = 325.435 for SCRAM_D4_EGFR/scram_073.g 
+Level 060.3 --- Init Score: 0.595   OptimizedScore 0.556       Time: 47.753 s
+Written to file OPT_D4_EGFR_1.2/L3_060.g
+Level 060.4 --- Init Score: 0.530   OptimizedScore 0.530       Time: 0.258 s
+Written to file OPT_D4_EGFR_1.2/L4_060.g
+Level 072.2 --- Init Score: 0.781   OptimizedScore 0.613       Time: 2.084 s
+Written to file OPT_D4_EGFR_1.2/L2_072.g
+Level 062.3 --- Init Score: 0.599   OptimizedScore 0.557       Time: 28.365 s
+Written to file OPT_D4_EGFR_1.2/L3_062.g
+Level 062.4 --- Init Score: 0.571   OptimizedScore 0.571       Time: 0.246 s
+Written to file OPT_D4_EGFR_1.2/L4_062.g
+Level 063.3 --- Init Score: 0.592   OptimizedScore 0.557       Time: 26.478 s
+Written to file OPT_D4_EGFR_1.2/L3_063.g
+Level 065.3 --- Init Score: 0.598   OptimizedScore 0.558       Time: 34.439 s
+Written to file OPT_D4_EGFR_1.2/L3_065.g
+Level 063.4 --- Init Score: 0.604   OptimizedScore 0.604       Time: 0.249 s
+Written to file OPT_D4_EGFR_1.2/L4_063.g
+Level 065.4 --- Init Score: 0.574   OptimizedScore 0.574       Time: 0.269 s
+Written to file OPT_D4_EGFR_1.2/L4_065.g
+Level 051.5 --- Init Score: 0.585   OptimizedScore 0.517       Time: 57.533 s
+Written to file OPT_D4_EGFR_1.2/L5_051.g
+Launching wrapRunOptimizer 74 at time = 336.346 for SCRAM_D4_EGFR/scram_074.g 
+Level 058.3 --- Init Score: 0.597   OptimizedScore 0.554       Time: 74.918 s
+Written to file OPT_D4_EGFR_1.2/L3_058.g
+Level 058.4 --- Init Score: 0.575   OptimizedScore 0.575       Time: 0.254 s
+Written to file OPT_D4_EGFR_1.2/L4_058.g
+Level 062.5 --- Init Score: 0.589   OptimizedScore 0.512       Time: 9.757 s
+Written to file OPT_D4_EGFR_1.2/L5_062.g
+Level 073.1 --- Init Score: 0.281   OptimizedScore 0.211       Time: 13.582 s
+Written to file OPT_D4_EGFR_1.2/L1_073.g
+Launching wrapRunOptimizer 75 at time = 339.708 for SCRAM_D4_EGFR/scram_075.g 
+Level 025.3 --- Init Score: 0.598   OptimizedScore 0.577       Time: 261.531 s
+Written to file OPT_D4_EGFR_1.2/L3_025.g
+Level 025.4 --- Init Score: 0.576   OptimizedScore 0.576       Time: 0.262 s
+Written to file OPT_D4_EGFR_1.2/L4_025.g
+Level 073.2 --- Init Score: 0.824   OptimizedScore 0.634       Time: 1.814 s
+Written to file OPT_D4_EGFR_1.2/L2_073.g
+Level 069.3 --- Init Score: 0.602   OptimizedScore 0.577       Time: 29.384 s
+Written to file OPT_D4_EGFR_1.2/L3_069.g
+Level 069.4 --- Init Score: 0.559   OptimizedScore 0.559       Time: 0.253 s
+Written to file OPT_D4_EGFR_1.2/L4_069.g
+Level 065.5 --- Init Score: 0.591   OptimizedScore 0.510       Time: 10.179 s
+Written to file OPT_D4_EGFR_1.2/L5_065.g
+Launching wrapRunOptimizer 76 at time = 343.829 for SCRAM_D4_EGFR/scram_076.g 
+Level 071.3 --- Init Score: 0.601   OptimizedScore 0.561       Time: 21.100 s
+Written to file OPT_D4_EGFR_1.2/L3_071.g
+Level 071.4 --- Init Score: 0.577   OptimizedScore 0.577       Time: 0.252 s
+Written to file OPT_D4_EGFR_1.2/L4_071.g
+Level 031.5 --- Init Score: 0.553   OptimizedScore 0.480       Time: 152.975 s
+Written to file OPT_D4_EGFR_1.2/L5_031.g
+Launching wrapRunOptimizer 77 at time = 346.552 for SCRAM_D4_EGFR/scram_077.g 
+Level 074.1 --- Init Score: 0.290   OptimizedScore 0.207       Time: 13.917 s
+Written to file OPT_D4_EGFR_1.2/L1_074.g
+Level 069.5 --- Init Score: 0.594   OptimizedScore 0.518       Time: 10.103 s
+Written to file OPT_D4_EGFR_1.2/L5_069.g
+Level 052.3 --- Init Score: 0.595   OptimizedScore 0.561       Time: 125.685 s
+Written to file OPT_D4_EGFR_1.2/L3_052.g
+Launching wrapRunOptimizer 78 at time = 352.804 for SCRAM_D4_EGFR/scram_078.g 
+Level 025.5 --- Init Score: 0.595   OptimizedScore 0.518       Time: 11.447 s
+Written to file OPT_D4_EGFR_1.2/L5_025.g
+Level 052.4 --- Init Score: 0.561   OptimizedScore 0.561       Time: 0.240 s
+Written to file OPT_D4_EGFR_1.2/L4_052.g
+Level 074.2 --- Init Score: 0.790   OptimizedScore 0.606       Time: 2.349 s
+Written to file OPT_D4_EGFR_1.2/L2_074.g
+Level 076.1 --- Init Score: 0.270   OptimizedScore 0.208       Time: 8.792 s
+Written to file OPT_D4_EGFR_1.2/L1_076.g
+Launching wrapRunOptimizer 79 at time = 353.650 for SCRAM_D4_EGFR/scram_079.g 
+Level 053.5 --- Init Score: 0.580   OptimizedScore 0.470       Time: 57.230 s
+Written to file OPT_D4_EGFR_1.2/L5_053.g
+Level 071.5 --- Init Score: 0.590   OptimizedScore 0.487       Time: 9.735 s
+Written to file OPT_D4_EGFR_1.2/L5_071.g
+Level 063.5 --- Init Score: 0.596   OptimizedScore 0.507       Time: 22.070 s
+Written to file OPT_D4_EGFR_1.2/L5_063.g
+Launching wrapRunOptimizer 80 at time = 355.080 for SCRAM_D4_EGFR/scram_080.g 
+Launching wrapRunOptimizer 81 at time = 355.105 for SCRAM_D4_EGFR/scram_081.g 
+Level 060.5 --- Init Score: 0.584   OptimizedScore 0.511       Time: 27.944 s
+Written to file OPT_D4_EGFR_1.2/L5_060.g
+Level 064.3 --- Init Score: 0.591   OptimizedScore 0.557       Time: 50.802 s
+Written to file OPT_D4_EGFR_1.2/L3_064.g
+Launching wrapRunOptimizer 82 at time = 355.757 for SCRAM_D4_EGFR/scram_082.g 
+Level 076.2 --- Init Score: 0.773   OptimizedScore 0.657       Time: 2.500 s
+Written to file OPT_D4_EGFR_1.2/L2_076.g
+Level 064.4 --- Init Score: 0.574   OptimizedScore 0.574       Time: 0.262 s
+Written to file OPT_D4_EGFR_1.2/L4_064.g
+Launching wrapRunOptimizer 83 at time = 356.266 for SCRAM_D4_EGFR/scram_083.g 
+Level 075.1 --- Init Score: 0.264   OptimizedScore 0.206       Time: 16.682 s
+Written to file OPT_D4_EGFR_1.2/L1_075.g
+Level 075.2 --- Init Score: 0.824   OptimizedScore 0.606       Time: 2.274 s
+Written to file OPT_D4_EGFR_1.2/L2_075.g
+Level 077.1 --- Init Score: 0.273   OptimizedScore 0.203       Time: 12.977 s
+Written to file OPT_D4_EGFR_1.2/L1_077.g
+Level 077.2 --- Init Score: 0.789   OptimizedScore 0.642       Time: 2.047 s
+Written to file OPT_D4_EGFR_1.2/L2_077.g
+Level 058.5 --- Init Score: 0.589   OptimizedScore 0.498       Time: 25.106 s
+Written to file OPT_D4_EGFR_1.2/L5_058.g
+Launching wrapRunOptimizer 84 at time = 363.796 for SCRAM_D4_EGFR/scram_084.g 
+Level 081.1 --- Init Score: 0.277   OptimizedScore 0.211       Time: 8.838 s
+Written to file OPT_D4_EGFR_1.2/L1_081.g
+Level 034.3 --- Init Score: 0.600   OptimizedScore 0.571       Time: 260.951 s
+Written to file OPT_D4_EGFR_1.2/L3_034.g
+Level 034.4 --- Init Score: 0.548   OptimizedScore 0.548       Time: 0.263 s
+Written to file OPT_D4_EGFR_1.2/L4_034.g
+Level 061.3 --- Init Score: 0.596   OptimizedScore 0.558       Time: 79.851 s
+Written to file OPT_D4_EGFR_1.2/L3_061.g
+Level 061.4 --- Init Score: 0.534   OptimizedScore 0.534       Time: 0.265 s
+Written to file OPT_D4_EGFR_1.2/L4_061.g
+Level 081.2 --- Init Score: 0.793   OptimizedScore 0.606       Time: 4.564 s
+Written to file OPT_D4_EGFR_1.2/L2_081.g
+Level 066.3 --- Init Score: 0.598   OptimizedScore 0.558       Time: 59.666 s
+Written to file OPT_D4_EGFR_1.2/L3_066.g
+Level 066.4 --- Init Score: 0.566   OptimizedScore 0.566       Time: 0.261 s
+Written to file OPT_D4_EGFR_1.2/L4_066.g
+Level 079.1 --- Init Score: 0.309   OptimizedScore 0.208       Time: 15.888 s
+Written to file OPT_D4_EGFR_1.2/L1_079.g
+Level 078.1 --- Init Score: 0.252   OptimizedScore 0.208       Time: 16.630 s
+Written to file OPT_D4_EGFR_1.2/L1_078.g
+Level 079.2 --- Init Score: 0.787   OptimizedScore 0.614       Time: 2.104 s
+Written to file OPT_D4_EGFR_1.2/L2_079.g
+Level 080.1 --- Init Score: 0.278   OptimizedScore 0.202       Time: 16.515 s
+Written to file OPT_D4_EGFR_1.2/L1_080.g
+Level 078.2 --- Init Score: 0.796   OptimizedScore 0.600       Time: 3.133 s
+Written to file OPT_D4_EGFR_1.2/L2_078.g
+Level 070.3 --- Init Score: 0.601   OptimizedScore 0.580       Time: 51.386 s
+Written to file OPT_D4_EGFR_1.2/L3_070.g
+Level 070.4 --- Init Score: 0.541   OptimizedScore 0.541       Time: 0.264 s
+Written to file OPT_D4_EGFR_1.2/L4_070.g
+Level 083.1 --- Init Score: 0.296   OptimizedScore 0.213       Time: 20.855 s
+Written to file OPT_D4_EGFR_1.2/L1_083.g
+Level 084.1 --- Init Score: 0.268   OptimizedScore 0.208       Time: 14.543 s
+Written to file OPT_D4_EGFR_1.2/L1_084.g
+Level 083.2 --- Init Score: 0.814   OptimizedScore 0.605       Time: 2.587 s
+Written to file OPT_D4_EGFR_1.2/L2_083.g
+Level 064.5 --- Init Score: 0.570   OptimizedScore 0.464       Time: 25.126 s
+Written to file OPT_D4_EGFR_1.2/L5_064.g
+Level 082.1 --- Init Score: 0.282   OptimizedScore 0.209       Time: 25.031 s
+Written to file OPT_D4_EGFR_1.2/L1_082.g
+Launching wrapRunOptimizer 85 at time = 381.810 for SCRAM_D4_EGFR/scram_085.g 
+Level 084.2 --- Init Score: 0.777   OptimizedScore 0.631       Time: 3.812 s
+Written to file OPT_D4_EGFR_1.2/L2_084.g
+Level 082.2 --- Init Score: 0.788   OptimizedScore 0.609       Time: 3.061 s
+Written to file OPT_D4_EGFR_1.2/L2_082.g
+Level 059.3 --- Init Score: 0.598   OptimizedScore 0.571       Time: 103.554 s
+Written to file OPT_D4_EGFR_1.2/L3_059.g
+Level 059.4 --- Init Score: 0.544   OptimizedScore 0.544       Time: 0.263 s
+Written to file OPT_D4_EGFR_1.2/L4_059.g
+Level 072.3 --- Init Score: 0.595   OptimizedScore 0.580       Time: 61.101 s
+Written to file OPT_D4_EGFR_1.2/L3_072.g
+Level 072.4 --- Init Score: 0.538   OptimizedScore 0.538       Time: 0.249 s
+Written to file OPT_D4_EGFR_1.2/L4_072.g
+Level 061.5 --- Init Score: 0.577   OptimizedScore 0.510       Time: 19.891 s
+Written to file OPT_D4_EGFR_1.2/L5_061.g
+Warning: hoss: init= 0.533 < final= 0.543, algo = COBYLA
+Known problem with SLSQP. Setting output = input
+Launching wrapRunOptimizer 86 at time = 389.790 for SCRAM_D4_EGFR/scram_086.g 
+Level 067.3 --- Init Score: 0.597   OptimizedScore 0.557       Time: 85.377 s
+Written to file OPT_D4_EGFR_1.2/L3_067.g
+Level 067.4 --- Init Score: 0.586   OptimizedScore 0.586       Time: 0.296 s
+Written to file OPT_D4_EGFR_1.2/L4_067.g
+Level 066.5 --- Init Score: 0.588   OptimizedScore 0.503       Time: 22.926 s
+Written to file OPT_D4_EGFR_1.2/L5_066.g
+Launching wrapRunOptimizer 87 at time = 393.654 for SCRAM_D4_EGFR/scram_087.g 
+Level 085.1 --- Init Score: 0.271   OptimizedScore 0.206       Time: 17.351 s
+Written to file OPT_D4_EGFR_1.2/L1_085.g
+Level 086.1 --- Init Score: 0.277   OptimizedScore 0.211       Time: 11.894 s
+Written to file OPT_D4_EGFR_1.2/L1_086.g
+Level 085.2 --- Init Score: 0.809   OptimizedScore 0.634       Time: 2.713 s
+Written to file OPT_D4_EGFR_1.2/L2_085.g
+Level 086.2 --- Init Score: 0.825   OptimizedScore 0.625       Time: 2.654 s
+Written to file OPT_D4_EGFR_1.2/L2_086.g
+Level 074.3 --- Init Score: 0.599   OptimizedScore 0.563       Time: 51.803 s
+Written to file OPT_D4_EGFR_1.2/L3_074.g
+Level 074.4 --- Init Score: 0.619   OptimizedScore 0.619       Time: 0.238 s
+Written to file OPT_D4_EGFR_1.2/L4_074.g
+Level 076.3 --- Init Score: 0.594   OptimizedScore 0.554       Time: 50.271 s
+Written to file OPT_D4_EGFR_1.2/L3_076.g
+Level 034.5 --- Init Score: 0.592   OptimizedScore 0.534       Time: 39.484 s
+Written to file OPT_D4_EGFR_1.2/L5_034.g
+Level 076.4 --- Init Score: 0.559   OptimizedScore 0.559       Time: 0.238 s
+Written to file OPT_D4_EGFR_1.2/L4_076.g
+Launching wrapRunOptimizer 88 at time = 406.828 for SCRAM_D4_EGFR/scram_088.g 
+Level 067.5 --- Init Score: 0.590   OptimizedScore 0.504       Time: 14.996 s
+Written to file OPT_D4_EGFR_1.2/L5_067.g
+Level 072.5 --- Init Score: 0.591   OptimizedScore 0.505       Time: 19.490 s
+Written to file OPT_D4_EGFR_1.2/L5_072.g
+Launching wrapRunOptimizer 89 at time = 408.489 for SCRAM_D4_EGFR/scram_089.g 
+Warning: hoss: init= 0.536 < final= 0.541, algo = COBYLA
+Known problem with SLSQP. Setting output = input
+Launching wrapRunOptimizer 90 at time = 409.297 for SCRAM_D4_EGFR/scram_090.g 
+Level 080.2 --- Init Score: 0.773   OptimizedScore 0.626       Time: 37.010 s
+Written to file OPT_D4_EGFR_1.2/L2_080.g
+Level 070.5 --- Init Score: 0.588   OptimizedScore 0.527       Time: 33.962 s
+Written to file OPT_D4_EGFR_1.2/L5_070.g
+Launching wrapRunOptimizer 91 at time = 410.964 for SCRAM_D4_EGFR/scram_091.g 
+Level 047.3 --- Init Score: 0.600   OptimizedScore 0.572       Time: 209.482 s
+Written to file OPT_D4_EGFR_1.2/L3_047.g
+Level 047.4 --- Init Score: 0.531   OptimizedScore 0.531       Time: 0.267 s
+Written to file OPT_D4_EGFR_1.2/L4_047.g
+Level 087.1 --- Init Score: 0.277   OptimizedScore 0.207       Time: 19.881 s
+Written to file OPT_D4_EGFR_1.2/L1_087.g
+Level 088.1 --- Init Score: 0.284   OptimizedScore 0.211       Time: 7.026 s
+Written to file OPT_D4_EGFR_1.2/L1_088.g
+Level 087.2 --- Init Score: 0.791   OptimizedScore 0.600       Time: 3.967 s
+Written to file OPT_D4_EGFR_1.2/L2_087.g
+Level 090.1 --- Init Score: 0.280   OptimizedScore 0.210       Time: 9.328 s
+Written to file OPT_D4_EGFR_1.2/L1_090.g
+Warning: Score mismatch in processIntermediateResults:  0.6155818701897005 0.6148739914305201
+Level 088.2 --- Init Score: 0.805   OptimizedScore 0.615       Time: 5.151 s
+Written to file OPT_D4_EGFR_1.2/L2_088.g
+Level 079.3 --- Init Score: 0.600   OptimizedScore 0.581       Time: 48.212 s
+Written to file OPT_D4_EGFR_1.2/L3_079.g
+Level 079.4 --- Init Score: 0.584   OptimizedScore 0.584       Time: 0.243 s
+Written to file OPT_D4_EGFR_1.2/L4_079.g
+Level 089.1 --- Init Score: 0.270   OptimizedScore 0.210       Time: 12.494 s
+Written to file OPT_D4_EGFR_1.2/L1_089.g
+Level 076.5 --- Init Score: 0.569   OptimizedScore 0.481       Time: 16.106 s
+Written to file OPT_D4_EGFR_1.2/L5_076.g
+Level 090.2 --- Init Score: 0.765   OptimizedScore 0.614       Time: 3.733 s
+Written to file OPT_D4_EGFR_1.2/L2_090.g
+Launching wrapRunOptimizer 92 at time = 423.117 for SCRAM_D4_EGFR/scram_092.g 
+Level 078.3 --- Init Score: 0.599   OptimizedScore 0.563       Time: 50.183 s
+Written to file OPT_D4_EGFR_1.2/L3_078.g
+Level 078.4 --- Init Score: 0.590   OptimizedScore 0.590       Time: 0.274 s
+Written to file OPT_D4_EGFR_1.2/L4_078.g
+Level 081.3 --- Init Score: 0.590   OptimizedScore 0.541       Time: 55.038 s
+Written to file OPT_D4_EGFR_1.2/L3_081.g
+Level 081.4 --- Init Score: 0.569   OptimizedScore 0.569       Time: 0.254 s
+Written to file OPT_D4_EGFR_1.2/L4_081.g
+Level 089.2 --- Init Score: 0.795   OptimizedScore 0.616       Time: 3.126 s
+Written to file OPT_D4_EGFR_1.2/L2_089.g
+Level 091.1 --- Init Score: 0.265   OptimizedScore 0.208       Time: 19.308 s
+Written to file OPT_D4_EGFR_1.2/L1_091.g
+Level 084.3 --- Init Score: 0.596   OptimizedScore 0.563       Time: 49.299 s
+Written to file OPT_D4_EGFR_1.2/L3_084.g
+Level 084.4 --- Init Score: 0.580   OptimizedScore 0.580       Time: 0.249 s
+Written to file OPT_D4_EGFR_1.2/L4_084.g
+Level 077.3 --- Init Score: 0.602   OptimizedScore 0.568       Time: 70.960 s
+Written to file OPT_D4_EGFR_1.2/L3_077.g
+Level 077.4 --- Init Score: 0.534   OptimizedScore 0.534       Time: 0.252 s
+Written to file OPT_D4_EGFR_1.2/L4_077.g
+Level 074.5 --- Init Score: 0.589   OptimizedScore 0.540       Time: 28.353 s
+Written to file OPT_D4_EGFR_1.2/L5_074.g
+Launching wrapRunOptimizer 93 at time = 434.416 for SCRAM_D4_EGFR/scram_093.g 
+Level 047.5 --- Init Score: 0.586   OptimizedScore 0.500       Time: 23.029 s
+Written to file OPT_D4_EGFR_1.2/L5_047.g
+Level 075.3 --- Init Score: 0.594   OptimizedScore 0.552       Time: 75.374 s
+Written to file OPT_D4_EGFR_1.2/L3_075.g
+Level 075.4 --- Init Score: 0.604   OptimizedScore 0.604       Time: 0.241 s
+Written to file OPT_D4_EGFR_1.2/L4_075.g
+Level 091.2 --- Init Score: 0.784   OptimizedScore 0.617       Time: 4.196 s
+Written to file OPT_D4_EGFR_1.2/L2_091.g
+Launching wrapRunOptimizer 94 at time = 435.365 for SCRAM_D4_EGFR/scram_094.g 
+Level 083.3 --- Init Score: 0.595   OptimizedScore 0.548       Time: 59.857 s
+Written to file OPT_D4_EGFR_1.2/L3_083.g
+Level 083.4 --- Init Score: 0.567   OptimizedScore 0.567       Time: 0.284 s
+Written to file OPT_D4_EGFR_1.2/L4_083.g
+Level 068.3 --- Init Score: 0.600   OptimizedScore 0.576       Time: 131.405 s
+Written to file OPT_D4_EGFR_1.2/L3_068.g
+Level 068.4 --- Init Score: 0.605   OptimizedScore 0.605       Time: 0.261 s
+Written to file OPT_D4_EGFR_1.2/L4_068.g
+Level 092.1 --- Init Score: 0.297   OptimizedScore 0.207       Time: 17.317 s
+Written to file OPT_D4_EGFR_1.2/L1_092.g
+Level 092.2 --- Init Score: 0.811   OptimizedScore 0.611       Time: 2.538 s
+Written to file OPT_D4_EGFR_1.2/L2_092.g
+Level 078.5 --- Init Score: 0.588   OptimizedScore 0.516       Time: 23.398 s
+Written to file OPT_D4_EGFR_1.2/L5_078.g
+Level 094.1 --- Init Score: 0.260   OptimizedScore 0.208       Time: 11.729 s
+Written to file OPT_D4_EGFR_1.2/L1_094.g
+Launching wrapRunOptimizer 95 at time = 448.252 for SCRAM_D4_EGFR/scram_095.g 
+Level 079.5 --- Init Score: 0.592   OptimizedScore 0.507       Time: 28.251 s
+Written to file OPT_D4_EGFR_1.2/L5_079.g
+Level 075.5 --- Init Score: 0.590   OptimizedScore 0.509       Time: 14.138 s
+Written to file OPT_D4_EGFR_1.2/L5_075.g
+Level 093.1 --- Init Score: 0.290   OptimizedScore 0.210       Time: 14.489 s
+Written to file OPT_D4_EGFR_1.2/L1_093.g
+Launching wrapRunOptimizer 96 at time = 450.051 for SCRAM_D4_EGFR/scram_096.g 
+Launching wrapRunOptimizer 97 at time = 450.180 for SCRAM_D4_EGFR/scram_097.g 
+Level 094.2 --- Init Score: 0.770   OptimizedScore 0.624       Time: 2.760 s
+Written to file OPT_D4_EGFR_1.2/L2_094.g
+Level 068.5 --- Init Score: 0.591   OptimizedScore 0.502       Time: 14.571 s
+Written to file OPT_D4_EGFR_1.2/L5_068.g
+Launching wrapRunOptimizer 98 at time = 456.453 for SCRAM_D4_EGFR/scram_098.g 
+Level 097.1 --- Init Score: 0.268   OptimizedScore 0.209       Time: 7.901 s
+Written to file OPT_D4_EGFR_1.2/L1_097.g
+Level 082.3 --- Init Score: 0.593   OptimizedScore 0.552       Time: 74.584 s
+Written to file OPT_D4_EGFR_1.2/L3_082.g
+Level 082.4 --- Init Score: 0.565   OptimizedScore 0.565       Time: 0.287 s
+Written to file OPT_D4_EGFR_1.2/L4_082.g
+Level 077.5 --- Init Score: 0.586   OptimizedScore 0.498       Time: 26.933 s
+Written to file OPT_D4_EGFR_1.2/L5_077.g
+Launching wrapRunOptimizer 99 at time = 461.164 for SCRAM_D4_EGFR/scram_099.g 
+Level 095.1 --- Init Score: 0.263   OptimizedScore 0.210       Time: 13.778 s
+Written to file OPT_D4_EGFR_1.2/L1_095.g
+Level 095.2 --- Init Score: 0.813   OptimizedScore 0.614       Time: 2.312 s
+Written to file OPT_D4_EGFR_1.2/L2_095.g
+Level 089.3 --- Init Score: 0.596   OptimizedScore 0.569       Time: 42.668 s
+Written to file OPT_D4_EGFR_1.2/L3_089.g
+Level 089.4 --- Init Score: 0.520   OptimizedScore 0.520       Time: 0.259 s
+Written to file OPT_D4_EGFR_1.2/L4_089.g
+Level 097.2 --- Init Score: 0.821   OptimizedScore 0.615       Time: 9.589 s
+Written to file OPT_D4_EGFR_1.2/L2_097.g
+Level 098.1 --- Init Score: 0.287   OptimizedScore 0.206       Time: 16.795 s
+Written to file OPT_D4_EGFR_1.2/L1_098.g
+Level 096.1 --- Init Score: 0.263   OptimizedScore 0.205       Time: 23.187 s
+Written to file OPT_D4_EGFR_1.2/L1_096.g
+Level 081.5 --- Init Score: 0.583   OptimizedScore 0.496       Time: 49.853 s
+Written to file OPT_D4_EGFR_1.2/L5_081.g
+Level 049.3 --- Init Score: 0.600   OptimizedScore 0.563       Time: 270.860 s
+Written to file OPT_D4_EGFR_1.2/L3_049.g
+Level 049.4 --- Init Score: 0.600   OptimizedScore 0.600       Time: 0.254 s
+Written to file OPT_D4_EGFR_1.2/L4_049.g
+Launching wrapRunOptimizer 100 at time = 475.240 for SCRAM_D4_EGFR/scram_100.g 
+Level 088.3 --- Init Score: 0.596   OptimizedScore 0.558       Time: 56.094 s
+Written to file OPT_D4_EGFR_1.2/L3_088.g
+Level 088.4 --- Init Score: 0.547   OptimizedScore 0.547       Time: 0.259 s
+Written to file OPT_D4_EGFR_1.2/L4_088.g
+Level 096.2 --- Init Score: 0.810   OptimizedScore 0.612       Time: 2.839 s
+Written to file OPT_D4_EGFR_1.2/L2_096.g
+Level 093.2 --- Init Score: 0.768   OptimizedScore 0.599       Time: 27.783 s
+Written to file OPT_D4_EGFR_1.2/L2_093.g
+Level 098.2 --- Init Score: 0.795   OptimizedScore 0.595       Time: 3.773 s
+Written to file OPT_D4_EGFR_1.2/L2_098.g
+Level 099.1 --- Init Score: 0.267   OptimizedScore 0.205       Time: 16.329 s
+Written to file OPT_D4_EGFR_1.2/L1_099.g
+Level 084.5 --- Init Score: 0.589   OptimizedScore 0.478       Time: 47.801 s
+Written to file OPT_D4_EGFR_1.2/L5_084.g
+Launching wrapRunOptimizer 101 at time = 480.999 for SCRAM_D4_EGFR/scram_101.g 
+Level 099.2 --- Init Score: 0.792   OptimizedScore 0.609       Time: 3.213 s
+Written to file OPT_D4_EGFR_1.2/L2_099.g
+Level 100.1 --- Init Score: 0.284   OptimizedScore 0.210       Time: 11.415 s
+Written to file OPT_D4_EGFR_1.2/L1_100.g
+Level 100.2 --- Init Score: 0.811   OptimizedScore 0.633       Time: 3.008 s
+Written to file OPT_D4_EGFR_1.2/L2_100.g
+Level 086.3 --- Init Score: 0.597   OptimizedScore 0.559       Time: 85.913 s
+Written to file OPT_D4_EGFR_1.2/L3_086.g
+Level 086.4 --- Init Score: 0.584   OptimizedScore 0.584       Time: 0.251 s
+Written to file OPT_D4_EGFR_1.2/L4_086.g
+Level 089.5 --- Init Score: 0.592   OptimizedScore 0.503       Time: 26.234 s
+Written to file OPT_D4_EGFR_1.2/L5_089.g
+Level 052.5 --- Init Score: 0.583   OptimizedScore 0.480       Time: 141.641 s
+Written to file OPT_D4_EGFR_1.2/L5_052.g
+Launching wrapRunOptimizer 102 at time = 495.114 for SCRAM_D4_EGFR/scram_102.g 
+Launching wrapRunOptimizer 103 at time = 495.330 for SCRAM_D4_EGFR/scram_103.g 
+Level 083.5 --- Init Score: 0.590   OptimizedScore 0.500       Time: 54.716 s
+Written to file OPT_D4_EGFR_1.2/L5_083.g
+Launching wrapRunOptimizer 104 at time = 496.340 for SCRAM_D4_EGFR/scram_104.g 
+Level 080.3 --- Init Score: 0.591   OptimizedScore 0.559       Time: 86.743 s
+Written to file OPT_D4_EGFR_1.2/L3_080.g
+Level 080.4 --- Init Score: 0.546   OptimizedScore 0.546       Time: 0.238 s
+Written to file OPT_D4_EGFR_1.2/L4_080.g
+Level 085.3 --- Init Score: 0.590   OptimizedScore 0.560       Time: 94.198 s
+Written to file OPT_D4_EGFR_1.2/L3_085.g
+Level 085.4 --- Init Score: 0.570   OptimizedScore 0.570       Time: 0.264 s
+Written to file OPT_D4_EGFR_1.2/L4_085.g
+Level 049.5 --- Init Score: 0.587   OptimizedScore 0.476       Time: 23.418 s
+Written to file OPT_D4_EGFR_1.2/L5_049.g
+Level 101.1 --- Init Score: 0.306   OptimizedScore 0.209       Time: 17.479 s
+Written to file OPT_D4_EGFR_1.2/L1_101.g
+Launching wrapRunOptimizer 105 at time = 499.262 for SCRAM_D4_EGFR/scram_105.g 
+Level 093.3 --- Init Score: 0.586   OptimizedScore 0.539       Time: 23.299 s
+Written to file OPT_D4_EGFR_1.2/L3_093.g
+Level 093.4 --- Init Score: 0.586   OptimizedScore 0.586       Time: 0.301 s
+Written to file OPT_D4_EGFR_1.2/L4_093.g
+Level 088.5 --- Init Score: 0.583   OptimizedScore 0.511       Time: 27.226 s
+Written to file OPT_D4_EGFR_1.2/L5_088.g
+Level 092.3 --- Init Score: 0.594   OptimizedScore 0.558       Time: 60.080 s
+Written to file OPT_D4_EGFR_1.2/L3_092.g
+Launching wrapRunOptimizer 106 at time = 504.028 for SCRAM_D4_EGFR/scram_106.g 
+Level 092.4 --- Init Score: 0.562   OptimizedScore 0.562       Time: 0.241 s
+Written to file OPT_D4_EGFR_1.2/L4_092.g
+Level 097.3 --- Init Score: 0.601   OptimizedScore 0.556       Time: 36.117 s
+Written to file OPT_D4_EGFR_1.2/L3_097.g
+Level 097.4 --- Init Score: 0.556   OptimizedScore 0.556       Time: 0.294 s
+Written to file OPT_D4_EGFR_1.2/L4_097.g
+Level 103.1 --- Init Score: 0.256   OptimizedScore 0.208       Time: 13.745 s
+Written to file OPT_D4_EGFR_1.2/L1_103.g
+Level 086.5 --- Init Score: 0.589   OptimizedScore 0.502       Time: 19.168 s
+Written to file OPT_D4_EGFR_1.2/L5_086.g
+Launching wrapRunOptimizer 107 at time = 511.102 for SCRAM_D4_EGFR/scram_107.g 
+Level 098.3 --- Init Score: 0.597   OptimizedScore 0.574       Time: 33.555 s
+Written to file OPT_D4_EGFR_1.2/L3_098.g
+Level 098.4 --- Init Score: 0.534   OptimizedScore 0.534       Time: 0.271 s
+Written to file OPT_D4_EGFR_1.2/L4_098.g
+Level 090.3 --- Init Score: 0.595   OptimizedScore 0.557       Time: 91.610 s
+Written to file OPT_D4_EGFR_1.2/L3_090.g
+Level 087.3 --- Init Score: 0.596   OptimizedScore 0.561       Time: 96.785 s
+Written to file OPT_D4_EGFR_1.2/L3_087.g
+Level 090.4 --- Init Score: 0.539   OptimizedScore 0.539       Time: 0.251 s
+Written to file OPT_D4_EGFR_1.2/L4_090.g
+Level 087.4 --- Init Score: 0.557   OptimizedScore 0.557       Time: 0.275 s
+Written to file OPT_D4_EGFR_1.2/L4_087.g
+Level 105.1 --- Init Score: 0.260   OptimizedScore 0.208       Time: 16.913 s
+Written to file OPT_D4_EGFR_1.2/L1_105.g
+Level 102.1 --- Init Score: 0.300   OptimizedScore 0.212       Time: 22.035 s
+Written to file OPT_D4_EGFR_1.2/L1_102.g
+Level 104.1 --- Init Score: 0.264   OptimizedScore 0.208       Time: 21.092 s
+Written to file OPT_D4_EGFR_1.2/L1_104.g
+Level 101.2 --- Init Score: 0.819   OptimizedScore 0.612       Time: 19.446 s
+Written to file OPT_D4_EGFR_1.2/L2_101.g
+Level 106.1 --- Init Score: 0.291   OptimizedScore 0.213       Time: 13.993 s
+Written to file OPT_D4_EGFR_1.2/L1_106.g
+Level 103.2 --- Init Score: 0.774   OptimizedScore 0.602       Time: 9.631 s
+Written to file OPT_D4_EGFR_1.2/L2_103.g
+Level 092.5 --- Init Score: 0.591   OptimizedScore 0.512       Time: 15.724 s
+Written to file OPT_D4_EGFR_1.2/L5_092.g
+Level 105.2 --- Init Score: 0.809   OptimizedScore 0.607       Time: 3.167 s
+Written to file OPT_D4_EGFR_1.2/L2_105.g
+Launching wrapRunOptimizer 108 at time = 520.504 for SCRAM_D4_EGFR/scram_108.g 
+Level 106.2 --- Init Score: 0.792   OptimizedScore 0.605       Time: 2.134 s
+Written to file OPT_D4_EGFR_1.2/L2_106.g
+Level 104.2 --- Init Score: 0.811   OptimizedScore 0.607       Time: 4.230 s
+Written to file OPT_D4_EGFR_1.2/L2_104.g
+Level 093.5 --- Init Score: 0.587   OptimizedScore 0.503       Time: 21.445 s
+Written to file OPT_D4_EGFR_1.2/L5_093.g
+Launching wrapRunOptimizer 109 at time = 523.416 for SCRAM_D4_EGFR/scram_109.g 
+Level 095.3 --- Init Score: 0.597   OptimizedScore 0.559       Time: 59.184 s
+Written to file OPT_D4_EGFR_1.2/L3_095.g
+Level 095.4 --- Init Score: 0.581   OptimizedScore 0.581       Time: 0.280 s
+Written to file OPT_D4_EGFR_1.2/L4_095.g
+Level 102.2 --- Init Score: 0.798   OptimizedScore 0.599       Time: 10.156 s
+Written to file OPT_D4_EGFR_1.2/L2_102.g
+Level 085.5 --- Init Score: 0.588   OptimizedScore 0.483       Time: 32.194 s
+Written to file OPT_D4_EGFR_1.2/L5_085.g
+Launching wrapRunOptimizer 110 at time = 530.058 for SCRAM_D4_EGFR/scram_110.g 
+Level 094.3 --- Init Score: 0.596   OptimizedScore 0.555       Time: 80.217 s
+Written to file OPT_D4_EGFR_1.2/L3_094.g
+Level 094.4 --- Init Score: 0.563   OptimizedScore 0.563       Time: 0.258 s
+Written to file OPT_D4_EGFR_1.2/L4_094.g
+Level 082.5 --- Init Score: 0.585   OptimizedScore 0.496       Time: 73.398 s
+Written to file OPT_D4_EGFR_1.2/L5_082.g
+Launching wrapRunOptimizer 111 at time = 533.962 for SCRAM_D4_EGFR/scram_111.g 
+Level 109.1 --- Init Score: 0.264   OptimizedScore 0.211       Time: 10.154 s
+Written to file OPT_D4_EGFR_1.2/L1_109.g
+Level 108.1 --- Init Score: 0.272   OptimizedScore 0.210       Time: 13.135 s
+Written to file OPT_D4_EGFR_1.2/L1_108.g
+Level 107.1 --- Init Score: 0.275   OptimizedScore 0.207       Time: 25.591 s
+Written to file OPT_D4_EGFR_1.2/L1_107.g
+Level 109.2 --- Init Score: 0.838   OptimizedScore 0.630       Time: 4.184 s
+Written to file OPT_D4_EGFR_1.2/L2_109.g
+Level 108.2 --- Init Score: 0.786   OptimizedScore 0.606       Time: 5.123 s
+Written to file OPT_D4_EGFR_1.2/L2_108.g
+Level 097.5 --- Init Score: 0.590   OptimizedScore 0.490       Time: 37.302 s
+Written to file OPT_D4_EGFR_1.2/L5_097.g
+Level 107.2 --- Init Score: 0.785   OptimizedScore 0.651       Time: 5.041 s
+Written to file OPT_D4_EGFR_1.2/L2_107.g
+Level 110.1 --- Init Score: 0.279   OptimizedScore 0.205       Time: 11.990 s
+Written to file OPT_D4_EGFR_1.2/L1_110.g
+Level 090.5 --- Init Score: 0.587   OptimizedScore 0.500       Time: 28.119 s
+Written to file OPT_D4_EGFR_1.2/L5_090.g
+Launching wrapRunOptimizer 112 at time = 543.224 for SCRAM_D4_EGFR/scram_112.g 
+Warning: hoss: init= 0.534 < final= 0.540, algo = COBYLA
+Known problem with SLSQP. Setting output = input
+Launching wrapRunOptimizer 113 at time = 543.965 for SCRAM_D4_EGFR/scram_113.g 
+Level 073.3 --- Init Score: 0.595   OptimizedScore 0.566       Time: 202.645 s
+Written to file OPT_D4_EGFR_1.2/L3_073.g
+Level 073.4 --- Init Score: 0.556   OptimizedScore 0.556       Time: 0.269 s
+Written to file OPT_D4_EGFR_1.2/L4_073.g
+Level 099.3 --- Init Score: 0.606   OptimizedScore 0.573       Time: 64.551 s
+Written to file OPT_D4_EGFR_1.2/L3_099.g
+Level 099.4 --- Init Score: 0.532   OptimizedScore 0.532       Time: 0.260 s
+Written to file OPT_D4_EGFR_1.2/L4_099.g
+Level 110.2 --- Init Score: 0.792   OptimizedScore 0.601       Time: 3.639 s
+Written to file OPT_D4_EGFR_1.2/L2_110.g
+Level 095.5 --- Init Score: 0.590   OptimizedScore 0.510       Time: 22.595 s
+Written to file OPT_D4_EGFR_1.2/L5_095.g
+Level 111.1 --- Init Score: 0.278   OptimizedScore 0.211       Time: 13.076 s
+Written to file OPT_D4_EGFR_1.2/L1_111.g
+Launching wrapRunOptimizer 114 at time = 548.058 for SCRAM_D4_EGFR/scram_114.g 
+Level 111.2 --- Init Score: 0.773   OptimizedScore 0.635       Time: 6.609 s
+Written to file OPT_D4_EGFR_1.2/L2_111.g
+Level 106.3 --- Init Score: 0.589   OptimizedScore 0.550       Time: 34.337 s
+Written to file OPT_D4_EGFR_1.2/L3_106.g
+Level 113.1 --- Init Score: 0.271   OptimizedScore 0.209       Time: 10.690 s
+Written to file OPT_D4_EGFR_1.2/L1_113.g
+Level 106.4 --- Init Score: 0.569   OptimizedScore 0.569       Time: 0.252 s
+Written to file OPT_D4_EGFR_1.2/L4_106.g
+Level 059.5 --- Init Score: 0.592   OptimizedScore 0.505       Time: 170.474 s
+Written to file OPT_D4_EGFR_1.2/L5_059.g
+Launching wrapRunOptimizer 115 at time = 556.548 for SCRAM_D4_EGFR/scram_115.g 
+Level 113.2 --- Init Score: 0.773   OptimizedScore 0.606       Time: 4.038 s
+Written to file OPT_D4_EGFR_1.2/L2_113.g
+Level 073.5 --- Init Score: 0.570   OptimizedScore 0.476       Time: 16.200 s
+Written to file OPT_D4_EGFR_1.2/L5_073.g
+Level 114.1 --- Init Score: 0.272   OptimizedScore 0.209       Time: 11.955 s
+Written to file OPT_D4_EGFR_1.2/L1_114.g
+Launching wrapRunOptimizer 116 at time = 561.388 for SCRAM_D4_EGFR/scram_116.g 
+Level 114.2 --- Init Score: 0.807   OptimizedScore 0.602       Time: 3.714 s
+Written to file OPT_D4_EGFR_1.2/L2_114.g
+Level 108.3 --- Init Score: 0.596   OptimizedScore 0.554       Time: 26.220 s
+Written to file OPT_D4_EGFR_1.2/L3_108.g
+Level 108.4 --- Init Score: 0.542   OptimizedScore 0.542       Time: 0.293 s
+Written to file OPT_D4_EGFR_1.2/L4_108.g
+Level 116.1 --- Init Score: 0.281   OptimizedScore 0.211       Time: 12.234 s
+Written to file OPT_D4_EGFR_1.2/L1_116.g
+Level 112.1 --- Init Score: 0.308   OptimizedScore 0.205       Time: 31.582 s
+Written to file OPT_D4_EGFR_1.2/L1_112.g
+Level 116.2 --- Init Score: 0.798   OptimizedScore 0.648       Time: 2.394 s
+Written to file OPT_D4_EGFR_1.2/L2_116.g
+Level 103.3 --- Init Score: 0.595   OptimizedScore 0.561       Time: 57.416 s
+Written to file OPT_D4_EGFR_1.2/L3_103.g
+Level 103.4 --- Init Score: 0.611   OptimizedScore 0.611       Time: 0.267 s
+Written to file OPT_D4_EGFR_1.2/L4_103.g
+Level 112.2 --- Init Score: 0.818   OptimizedScore 0.635       Time: 3.222 s
+Written to file OPT_D4_EGFR_1.2/L2_112.g
+Level 087.5 --- Init Score: 0.581   OptimizedScore 0.494       Time: 65.636 s
+Written to file OPT_D4_EGFR_1.2/L5_087.g
+Launching wrapRunOptimizer 117 at time = 581.571 for SCRAM_D4_EGFR/scram_117.g 
+Level 115.1 --- Init Score: 0.263   OptimizedScore 0.203       Time: 24.409 s
+Written to file OPT_D4_EGFR_1.2/L1_115.g
+Level 110.3 --- Init Score: 0.603   OptimizedScore 0.572       Time: 35.795 s
+Written to file OPT_D4_EGFR_1.2/L3_110.g
+Level 110.4 --- Init Score: 0.557   OptimizedScore 0.557       Time: 0.284 s
+Written to file OPT_D4_EGFR_1.2/L4_110.g
+Level 096.3 --- Init Score: 0.595   OptimizedScore 0.564       Time: 106.200 s
+Written to file OPT_D4_EGFR_1.2/L3_096.g
+Level 096.4 --- Init Score: 0.569   OptimizedScore 0.569       Time: 0.269 s
+Written to file OPT_D4_EGFR_1.2/L4_096.g
+Level 094.5 --- Init Score: 0.590   OptimizedScore 0.487       Time: 52.335 s
+Written to file OPT_D4_EGFR_1.2/L5_094.g
+Launching wrapRunOptimizer 118 at time = 584.232 for SCRAM_D4_EGFR/scram_118.g 
+Level 115.2 --- Init Score: 0.799   OptimizedScore 0.600       Time: 3.438 s
+Written to file OPT_D4_EGFR_1.2/L2_115.g
+Level 098.5 --- Init Score: 0.593   OptimizedScore 0.501       Time: 78.092 s
+Written to file OPT_D4_EGFR_1.2/L5_098.g
+Launching wrapRunOptimizer 119 at time = 590.494 for SCRAM_D4_EGFR/scram_119.g 
+Level 108.5 --- Init Score: 0.587   OptimizedScore 0.506       Time: 25.106 s
+Written to file OPT_D4_EGFR_1.2/L5_108.g
+Launching wrapRunOptimizer 120 at time = 592.009 for SCRAM_D4_EGFR/scram_120.g 
+Level 106.5 --- Init Score: 0.594   OptimizedScore 0.506       Time: 36.733 s
+Written to file OPT_D4_EGFR_1.2/L5_106.g
+Level 117.1 --- Init Score: 0.326   OptimizedScore 0.211       Time: 10.549 s
+Written to file OPT_D4_EGFR_1.2/L1_117.g
+Launching wrapRunOptimizer 121 at time = 593.029 for SCRAM_D4_EGFR/scram_121.g 
+Level 109.3 --- Init Score: 0.595   OptimizedScore 0.549       Time: 55.003 s
+Written to file OPT_D4_EGFR_1.2/L3_109.g
+Level 109.4 --- Init Score: 0.547   OptimizedScore 0.547       Time: 0.253 s
+Written to file OPT_D4_EGFR_1.2/L4_109.g
+Level 118.1 --- Init Score: 0.274   OptimizedScore 0.209       Time: 12.901 s
+Written to file OPT_D4_EGFR_1.2/L1_118.g
+Level 113.3 --- Init Score: 0.594   OptimizedScore 0.576       Time: 39.444 s
+Written to file OPT_D4_EGFR_1.2/L3_113.g
+Level 113.4 --- Init Score: 0.544   OptimizedScore 0.544       Time: 0.254 s
+Written to file OPT_D4_EGFR_1.2/L4_113.g
+Warning: Score mismatch in processIntermediateResults:  0.6404925026120073 0.6396040793118762
+Level 118.2 --- Init Score: 0.800   OptimizedScore 0.640       Time: 1.935 s
+Written to file OPT_D4_EGFR_1.2/L2_118.g
+Level 121.1 --- Init Score: 0.267   OptimizedScore 0.208       Time: 8.603 s
+Written to file OPT_D4_EGFR_1.2/L1_121.g
+Level 110.5 --- Init Score: 0.589   OptimizedScore 0.496       Time: 22.134 s
+Written to file OPT_D4_EGFR_1.2/L5_110.g
+Launching wrapRunOptimizer 122 at time = 605.510 for SCRAM_D4_EGFR/scram_122.g 
+Level 101.3 --- Init Score: 0.587   OptimizedScore 0.548       Time: 86.864 s
+Written to file OPT_D4_EGFR_1.2/L3_101.g
+Level 101.4 --- Init Score: 0.567   OptimizedScore 0.567       Time: 0.267 s
+Written to file OPT_D4_EGFR_1.2/L4_101.g
+Level 100.3 --- Init Score: 0.591   OptimizedScore 0.561       Time: 116.336 s
+Written to file OPT_D4_EGFR_1.2/L3_100.g
+Level 119.1 --- Init Score: 0.275   OptimizedScore 0.209       Time: 15.596 s
+Written to file OPT_D4_EGFR_1.2/L1_119.g
+Level 100.4 --- Init Score: 0.579   OptimizedScore 0.579       Time: 0.243 s
+Written to file OPT_D4_EGFR_1.2/L4_100.g
+Level 121.2 --- Init Score: 0.799   OptimizedScore 0.601       Time: 6.124 s
+Written to file OPT_D4_EGFR_1.2/L2_121.g
+Level 104.3 --- Init Score: 0.595   OptimizedScore 0.557       Time: 86.788 s
+Written to file OPT_D4_EGFR_1.2/L3_104.g
+Level 104.4 --- Init Score: 0.566   OptimizedScore 0.566       Time: 0.266 s
+Written to file OPT_D4_EGFR_1.2/L4_104.g
+Level 119.2 --- Init Score: 0.796   OptimizedScore 0.654       Time: 2.747 s
+Written to file OPT_D4_EGFR_1.2/L2_119.g
+Level 112.3 --- Init Score: 0.603   OptimizedScore 0.567       Time: 32.176 s
+Written to file OPT_D4_EGFR_1.2/L3_112.g
+Level 112.4 --- Init Score: 0.562   OptimizedScore 0.562       Time: 0.255 s
+Written to file OPT_D4_EGFR_1.2/L4_112.g
+Level 114.3 --- Init Score: 0.596   OptimizedScore 0.574       Time: 47.121 s
+Written to file OPT_D4_EGFR_1.2/L3_114.g
+Level 109.5 --- Init Score: 0.580   OptimizedScore 0.519       Time: 18.091 s
+Written to file OPT_D4_EGFR_1.2/L5_109.g
+Level 114.4 --- Init Score: 0.585   OptimizedScore 0.585       Time: 0.241 s
+Written to file OPT_D4_EGFR_1.2/L4_114.g
+Launching wrapRunOptimizer 123 at time = 612.733 for SCRAM_D4_EGFR/scram_123.g 
+Level 103.5 --- Init Score: 0.593   OptimizedScore 0.514       Time: 36.548 s
+Written to file OPT_D4_EGFR_1.2/L5_103.g
+Launching wrapRunOptimizer 124 at time = 614.876 for SCRAM_D4_EGFR/scram_124.g 
+Level 111.3 --- Init Score: 0.594   OptimizedScore 0.567       Time: 62.153 s
+Written to file OPT_D4_EGFR_1.2/L3_111.g
+Level 111.4 --- Init Score: 0.564   OptimizedScore 0.564       Time: 0.257 s
+Written to file OPT_D4_EGFR_1.2/L4_111.g
+Level 120.1 --- Init Score: 0.309   OptimizedScore 0.204       Time: 24.635 s
+Written to file OPT_D4_EGFR_1.2/L1_120.g
+Level 096.5 --- Init Score: 0.581   OptimizedScore 0.472       Time: 35.508 s
+Written to file OPT_D4_EGFR_1.2/L5_096.g
+Launching wrapRunOptimizer 125 at time = 619.752 for SCRAM_D4_EGFR/scram_125.g 
+Level 115.3 --- Init Score: 0.599   OptimizedScore 0.568       Time: 36.139 s
+Written to file OPT_D4_EGFR_1.2/L3_115.g
+Level 115.4 --- Init Score: 0.567   OptimizedScore 0.567       Time: 0.276 s
+Written to file OPT_D4_EGFR_1.2/L4_115.g
+Level 123.1 --- Init Score: 0.270   OptimizedScore 0.211       Time: 8.634 s
+Written to file OPT_D4_EGFR_1.2/L1_123.g
+Level 120.2 --- Init Score: 0.803   OptimizedScore 0.605       Time: 6.570 s
+Written to file OPT_D4_EGFR_1.2/L2_120.g
+Level 123.2 --- Init Score: 0.817   OptimizedScore 0.600       Time: 3.514 s
+Written to file OPT_D4_EGFR_1.2/L2_123.g
+Level 122.1 --- Init Score: 0.262   OptimizedScore 0.211       Time: 21.820 s
+Written to file OPT_D4_EGFR_1.2/L1_122.g
+Level 100.5 --- Init Score: 0.572   OptimizedScore 0.463       Time: 22.510 s
+Written to file OPT_D4_EGFR_1.2/L5_100.g
+Launching wrapRunOptimizer 126 at time = 630.246 for SCRAM_D4_EGFR/scram_126.g 
+Level 122.2 --- Init Score: 0.791   OptimizedScore 0.614       Time: 2.553 s
+Written to file OPT_D4_EGFR_1.2/L2_122.g
+Level 125.1 --- Init Score: 0.275   OptimizedScore 0.212       Time: 10.656 s
+Written to file OPT_D4_EGFR_1.2/L1_125.g
+Level 124.1 --- Init Score: 0.273   OptimizedScore 0.211       Time: 16.413 s
+Written to file OPT_D4_EGFR_1.2/L1_124.g
+Level 111.5 --- Init Score: 0.578   OptimizedScore 0.494       Time: 17.936 s
+Written to file OPT_D4_EGFR_1.2/L5_111.g
+Launching wrapRunOptimizer 127 at time = 635.572 for SCRAM_D4_EGFR/scram_127.g 
+Level 124.2 --- Init Score: 0.787   OptimizedScore 0.606       Time: 4.296 s
+Written to file OPT_D4_EGFR_1.2/L2_124.g
+Level 117.2 --- Init Score: 0.793   OptimizedScore 0.616       Time: 44.482 s
+Written to file OPT_D4_EGFR_1.2/L2_117.g
+Level 125.2 --- Init Score: 0.797   OptimizedScore 0.616       Time: 6.768 s
+Written to file OPT_D4_EGFR_1.2/L2_125.g
+Level 115.5 --- Init Score: 0.590   OptimizedScore 0.509       Time: 18.046 s
+Written to file OPT_D4_EGFR_1.2/L5_115.g
+Warning: hoss: init= 0.540 < final= 0.568, algo = COBYLA
+Known problem with SLSQP. Setting output = input
+Launching wrapRunOptimizer 128 at time = 640.489 for SCRAM_D4_EGFR/scram_128.g 
+Level 104.5 --- Init Score: 0.589   OptimizedScore 0.501       Time: 31.099 s
+Written to file OPT_D4_EGFR_1.2/L5_104.g
+Launching wrapRunOptimizer 129 at time = 641.541 for SCRAM_D4_EGFR/scram_129.g 
+Level 112.5 --- Init Score: 0.597   OptimizedScore 0.515       Time: 32.803 s
+Written to file OPT_D4_EGFR_1.2/L5_112.g
+Level 126.1 --- Init Score: 0.277   OptimizedScore 0.207       Time: 13.419 s
+Written to file OPT_D4_EGFR_1.2/L1_126.g
+Launching wrapRunOptimizer 130 at time = 645.055 for SCRAM_D4_EGFR/scram_130.g 
+Level 113.5 --- Init Score: 0.592   OptimizedScore 0.498       Time: 47.743 s
+Written to file OPT_D4_EGFR_1.2/L5_113.g
+Level 126.2 --- Init Score: 0.809   OptimizedScore 0.610       Time: 2.920 s
+Written to file OPT_D4_EGFR_1.2/L2_126.g
+Launching wrapRunOptimizer 131 at time = 647.700 for SCRAM_D4_EGFR/scram_131.g 
+Level 114.5 --- Init Score: 0.592   OptimizedScore 0.558       Time: 36.209 s
+Written to file OPT_D4_EGFR_1.2/L5_114.g
+Level 121.3 --- Init Score: 0.598   OptimizedScore 0.571       Time: 39.870 s
+Written to file OPT_D4_EGFR_1.2/L3_121.g
+Level 121.4 --- Init Score: 0.615   OptimizedScore 0.615       Time: 0.266 s
+Written to file OPT_D4_EGFR_1.2/L4_121.g
+Launching wrapRunOptimizer 132 at time = 649.027 for SCRAM_D4_EGFR/scram_132.g 
+Level 101.5 --- Init Score: 0.579   OptimizedScore 0.501       Time: 44.521 s
+Written to file OPT_D4_EGFR_1.2/L5_101.g
+Level 127.1 --- Init Score: 0.256   OptimizedScore 0.205       Time: 14.035 s
+Written to file OPT_D4_EGFR_1.2/L1_127.g
+Level 130.1 --- Init Score: 0.268   OptimizedScore 0.209       Time: 5.053 s
+Written to file OPT_D4_EGFR_1.2/L1_130.g
+Launching wrapRunOptimizer 133 at time = 651.108 for SCRAM_D4_EGFR/scram_133.g 
+Level 129.1 --- Init Score: 0.273   OptimizedScore 0.205       Time: 10.530 s
+Written to file OPT_D4_EGFR_1.2/L1_129.g
+Level 127.2 --- Init Score: 0.824   OptimizedScore 0.624       Time: 2.968 s
+Written to file OPT_D4_EGFR_1.2/L2_127.g
+Level 130.2 --- Init Score: 0.807   OptimizedScore 0.624       Time: 2.806 s
+Written to file OPT_D4_EGFR_1.2/L2_130.g
+Level 128.1 --- Init Score: 0.290   OptimizedScore 0.206       Time: 13.572 s
+Written to file OPT_D4_EGFR_1.2/L1_128.g
+Level 099.5 --- Init Score: 0.591   OptimizedScore 0.538       Time: 108.722 s
+Written to file OPT_D4_EGFR_1.2/L5_099.g
+Launching wrapRunOptimizer 134 at time = 655.716 for SCRAM_D4_EGFR/scram_134.g 
+Level 129.2 --- Init Score: 0.798   OptimizedScore 0.605       Time: 3.499 s
+Written to file OPT_D4_EGFR_1.2/L2_129.g
+Level 131.1 --- Init Score: 0.263   OptimizedScore 0.208       Time: 8.883 s
+Written to file OPT_D4_EGFR_1.2/L1_131.g
+Level 133.1 --- Init Score: 0.268   OptimizedScore 0.214       Time: 7.869 s
+Written to file OPT_D4_EGFR_1.2/L1_133.g
+Level 131.2 --- Init Score: 0.791   OptimizedScore 0.609       Time: 2.878 s
+Written to file OPT_D4_EGFR_1.2/L2_131.g
+Level 107.3 --- Init Score: 0.595   OptimizedScore 0.559       Time: 117.734 s
+Written to file OPT_D4_EGFR_1.2/L3_107.g
+Level 107.4 --- Init Score: 0.562   OptimizedScore 0.562       Time: 0.283 s
+Written to file OPT_D4_EGFR_1.2/L4_107.g
+Level 080.5 --- Init Score: 0.568   OptimizedScore 0.514       Time: 165.385 s
+Written to file OPT_D4_EGFR_1.2/L5_080.g
+Launching wrapRunOptimizer 135 at time = 662.672 for SCRAM_D4_EGFR/scram_135.g 
+Level 133.2 --- Init Score: 0.796   OptimizedScore 0.609       Time: 3.346 s
+Written to file OPT_D4_EGFR_1.2/L2_133.g
+Level 091.3 --- Init Score: 0.599   OptimizedScore 0.560       Time: 227.921 s
+Written to file OPT_D4_EGFR_1.2/L3_091.g
+Level 091.4 --- Init Score: 0.538   OptimizedScore 0.538       Time: 0.270 s
+Written to file OPT_D4_EGFR_1.2/L4_091.g
+Level 122.3 --- Init Score: 0.605   OptimizedScore 0.580       Time: 32.978 s
+Written to file OPT_D4_EGFR_1.2/L3_122.g
+Level 122.4 --- Init Score: 0.571   OptimizedScore 0.571       Time: 0.258 s
+Written to file OPT_D4_EGFR_1.2/L4_122.g
+Level 123.3 --- Init Score: 0.599   OptimizedScore 0.581       Time: 38.975 s
+Written to file OPT_D4_EGFR_1.2/L3_123.g
+Level 123.4 --- Init Score: 0.541   OptimizedScore 0.541       Time: 0.251 s
+Written to file OPT_D4_EGFR_1.2/L4_123.g
+Level 134.1 --- Init Score: 0.277   OptimizedScore 0.208       Time: 13.132 s
+Written to file OPT_D4_EGFR_1.2/L1_134.g
+Level 117.3 --- Init Score: 0.598   OptimizedScore 0.560       Time: 35.890 s
+Written to file OPT_D4_EGFR_1.2/L3_117.g
+Level 120.3 --- Init Score: 0.598   OptimizedScore 0.578       Time: 49.458 s
+Written to file OPT_D4_EGFR_1.2/L3_120.g
+Level 117.4 --- Init Score: 0.577   OptimizedScore 0.577       Time: 0.279 s
+Written to file OPT_D4_EGFR_1.2/L4_117.g
+Level 120.4 --- Init Score: 0.536   OptimizedScore 0.536       Time: 0.237 s
+Written to file OPT_D4_EGFR_1.2/L4_120.g
+Level 135.1 --- Init Score: 0.271   OptimizedScore 0.209       Time: 12.364 s
+Written to file OPT_D4_EGFR_1.2/L1_135.g
+Level 132.1 --- Init Score: 0.282   OptimizedScore 0.214       Time: 30.386 s
+Written to file OPT_D4_EGFR_1.2/L1_132.g
+Level 128.2 --- Init Score: 0.815   OptimizedScore 0.625       Time: 25.652 s
+Written to file OPT_D4_EGFR_1.2/L2_128.g
+Level 121.5 --- Init Score: 0.594   OptimizedScore 0.503       Time: 32.863 s
+Written to file OPT_D4_EGFR_1.2/L5_121.g
+Level 135.2 --- Init Score: 0.819   OptimizedScore 0.604       Time: 5.923 s
+Written to file OPT_D4_EGFR_1.2/L2_135.g
+Launching wrapRunOptimizer 136 at time = 682.211 for SCRAM_D4_EGFR/scram_136.g 
+Level 122.5 --- Init Score: 0.595   OptimizedScore 0.507       Time: 20.198 s
+Written to file OPT_D4_EGFR_1.2/L5_122.g
+Warning: hoss: init= 0.542 < final= 0.544, algo = COBYLA
+Known problem with SLSQP. Setting output = input
+Launching wrapRunOptimizer 137 at time = 684.986 for SCRAM_D4_EGFR/scram_137.g 
+Level 132.2 --- Init Score: 0.794   OptimizedScore 0.601       Time: 6.916 s
+Written to file OPT_D4_EGFR_1.2/L2_132.g
+Level 134.2 --- Init Score: 0.793   OptimizedScore 0.649       Time: 19.400 s
+Written to file OPT_D4_EGFR_1.2/L2_134.g
+Level 091.5 --- Init Score: 0.594   OptimizedScore 0.497       Time: 26.618 s
+Written to file OPT_D4_EGFR_1.2/L5_091.g
+Launching wrapRunOptimizer 138 at time = 690.804 for SCRAM_D4_EGFR/scram_138.g 
+Level 137.1 --- Init Score: 0.289   OptimizedScore 0.210       Time: 5.417 s
+Written to file OPT_D4_EGFR_1.2/L1_137.g
+Level 136.1 --- Init Score: 0.266   OptimizedScore 0.211       Time: 8.653 s
+Written to file OPT_D4_EGFR_1.2/L1_136.g
+Level 137.2 --- Init Score: 0.767   OptimizedScore 0.606       Time: 3.504 s
+Written to file OPT_D4_EGFR_1.2/L2_137.g
+Level 136.2 --- Init Score: 0.798   OptimizedScore 0.618       Time: 3.337 s
+Written to file OPT_D4_EGFR_1.2/L2_136.g
+Level 138.1 --- Init Score: 0.270   OptimizedScore 0.205       Time: 9.498 s
+Written to file OPT_D4_EGFR_1.2/L1_138.g
+Level 123.5 --- Init Score: 0.594   OptimizedScore 0.502       Time: 36.785 s
+Written to file OPT_D4_EGFR_1.2/L5_123.g
+Launching wrapRunOptimizer 139 at time = 702.611 for SCRAM_D4_EGFR/scram_139.g 
+Level 117.5 --- Init Score: 0.591   OptimizedScore 0.510       Time: 29.287 s
+Written to file OPT_D4_EGFR_1.2/L5_117.g
+Level 124.3 --- Init Score: 0.596   OptimizedScore 0.558       Time: 66.719 s
+Written to file OPT_D4_EGFR_1.2/L3_124.g
+Level 124.4 --- Init Score: 0.574   OptimizedScore 0.574       Time: 0.281 s
+Written to file OPT_D4_EGFR_1.2/L4_124.g
+Launching wrapRunOptimizer 140 at time = 703.640 for SCRAM_D4_EGFR/scram_140.g 
+Level 138.2 --- Init Score: 0.814   OptimizedScore 0.606       Time: 3.096 s
+Written to file OPT_D4_EGFR_1.2/L2_138.g
+Level 130.3 --- Init Score: 0.596   OptimizedScore 0.552       Time: 53.515 s
+Written to file OPT_D4_EGFR_1.2/L3_130.g
+Level 130.4 --- Init Score: 0.510   OptimizedScore 0.510       Time: 0.250 s
+Written to file OPT_D4_EGFR_1.2/L4_130.g
+Level 140.1 --- Init Score: 0.259   OptimizedScore 0.208       Time: 13.203 s
+Written to file OPT_D4_EGFR_1.2/L1_140.g
+Level 107.5 --- Init Score: 0.575   OptimizedScore 0.469       Time: 64.057 s
+Written to file OPT_D4_EGFR_1.2/L5_107.g
+Level 105.3 --- Init Score: 0.597   OptimizedScore 0.561       Time: 204.984 s
+Written to file OPT_D4_EGFR_1.2/L3_105.g
+Launching wrapRunOptimizer 141 at time = 725.329 for SCRAM_D4_EGFR/scram_141.g 
+Level 105.4 --- Init Score: 0.562   OptimizedScore 0.562       Time: 0.254 s
+Written to file OPT_D4_EGFR_1.2/L4_105.g
+Level 139.1 --- Init Score: 0.301   OptimizedScore 0.210       Time: 24.259 s
+Written to file OPT_D4_EGFR_1.2/L1_139.g
+Level 133.3 --- Init Score: 0.593   OptimizedScore 0.570       Time: 65.588 s
+Written to file OPT_D4_EGFR_1.2/L3_133.g
+Level 133.4 --- Init Score: 0.525   OptimizedScore 0.525       Time: 0.257 s
+Written to file OPT_D4_EGFR_1.2/L4_133.g
+Level 102.3 --- Init Score: 0.592   OptimizedScore 0.557       Time: 201.141 s
+Written to file OPT_D4_EGFR_1.2/L3_102.g
+Level 102.4 --- Init Score: 0.552   OptimizedScore 0.552       Time: 0.255 s
+Written to file OPT_D4_EGFR_1.2/L4_102.g
+Level 139.2 --- Init Score: 0.798   OptimizedScore 0.612       Time: 3.269 s
+Written to file OPT_D4_EGFR_1.2/L2_139.g
+Level 130.5 --- Init Score: 0.554   OptimizedScore 0.472       Time: 23.700 s
+Written to file OPT_D4_EGFR_1.2/L5_130.g
+Level 119.3 --- Init Score: 0.596   OptimizedScore 0.559       Time: 122.377 s
+Written to file OPT_D4_EGFR_1.2/L3_119.g
+Launching wrapRunOptimizer 142 at time = 732.063 for SCRAM_D4_EGFR/scram_142.g 
+Level 119.4 --- Init Score: 0.516   OptimizedScore 0.516       Time: 0.237 s
+Written to file OPT_D4_EGFR_1.2/L4_119.g
+Level 134.3 --- Init Score: 0.597   OptimizedScore 0.569       Time: 44.023 s
+Written to file OPT_D4_EGFR_1.2/L3_134.g
+Level 134.4 --- Init Score: 0.574   OptimizedScore 0.574       Time: 0.285 s
+Written to file OPT_D4_EGFR_1.2/L4_134.g
+Level 132.3 --- Init Score: 0.590   OptimizedScore 0.553       Time: 47.878 s
+Written to file OPT_D4_EGFR_1.2/L3_132.g
+Level 141.1 --- Init Score: 0.268   OptimizedScore 0.206       Time: 9.229 s
+Written to file OPT_D4_EGFR_1.2/L1_141.g
+Level 132.4 --- Init Score: 0.558   OptimizedScore 0.558       Time: 0.242 s
+Written to file OPT_D4_EGFR_1.2/L4_132.g
+Level 105.5 --- Init Score: 0.592   OptimizedScore 0.514       Time: 11.561 s
+Written to file OPT_D4_EGFR_1.2/L5_105.g
+Launching wrapRunOptimizer 143 at time = 737.670 for SCRAM_D4_EGFR/scram_143.g 
+Level 140.2 --- Init Score: 0.831   OptimizedScore 0.634       Time: 20.906 s
+Written to file OPT_D4_EGFR_1.2/L2_140.g
+Level 141.2 --- Init Score: 0.801   OptimizedScore 0.611       Time: 3.397 s
+Written to file OPT_D4_EGFR_1.2/L2_141.g
+Level 126.3 --- Init Score: 0.593   OptimizedScore 0.558       Time: 92.630 s
+Written to file OPT_D4_EGFR_1.2/L3_126.g
+Level 126.4 --- Init Score: 0.572   OptimizedScore 0.572       Time: 0.288 s
+Written to file OPT_D4_EGFR_1.2/L4_126.g
+Level 124.5 --- Init Score: 0.591   OptimizedScore 0.501       Time: 39.873 s
+Written to file OPT_D4_EGFR_1.2/L5_124.g
+Launching wrapRunOptimizer 144 at time = 744.198 for SCRAM_D4_EGFR/scram_144.g 
+Level 127.3 --- Init Score: 0.596   OptimizedScore 0.558       Time: 95.292 s
+Written to file OPT_D4_EGFR_1.2/L3_127.g
+Level 127.4 --- Init Score: 0.548   OptimizedScore 0.548       Time: 0.247 s
+Written to file OPT_D4_EGFR_1.2/L4_127.g
+Level 133.5 --- Init Score: 0.591   OptimizedScore 0.497       Time: 22.234 s
+Written to file OPT_D4_EGFR_1.2/L5_133.g
+Level 142.1 --- Init Score: 0.270   OptimizedScore 0.202       Time: 18.385 s
+Written to file OPT_D4_EGFR_1.2/L1_142.g
+Launching wrapRunOptimizer 145 at time = 751.867 for SCRAM_D4_EGFR/scram_145.g 
+Level 135.3 --- Init Score: 0.591   OptimizedScore 0.553       Time: 72.781 s
+Written to file OPT_D4_EGFR_1.2/L3_135.g
+Level 142.2 --- Init Score: 0.779   OptimizedScore 0.626       Time: 3.269 s
+Written to file OPT_D4_EGFR_1.2/L2_142.g
+Level 135.4 --- Init Score: 0.549   OptimizedScore 0.549       Time: 0.247 s
+Written to file OPT_D4_EGFR_1.2/L4_135.g
+Level 128.3 --- Init Score: 0.590   OptimizedScore 0.551       Time: 74.562 s
+Written to file OPT_D4_EGFR_1.2/L3_128.g
+Level 128.4 --- Init Score: 0.596   OptimizedScore 0.596       Time: 0.256 s
+Written to file OPT_D4_EGFR_1.2/L4_128.g
+Level 144.1 --- Init Score: 0.294   OptimizedScore 0.212       Time: 12.338 s
+Written to file OPT_D4_EGFR_1.2/L1_144.g
+Level 143.1 --- Init Score: 0.270   OptimizedScore 0.202       Time: 20.501 s
+Written to file OPT_D4_EGFR_1.2/L1_143.g
+Level 126.5 --- Init Score: 0.589   OptimizedScore 0.501       Time: 19.896 s
+Written to file OPT_D4_EGFR_1.2/L5_126.g
+Launching wrapRunOptimizer 146 at time = 760.992 for SCRAM_D4_EGFR/scram_146.g 
+Level 134.5 --- Init Score: 0.587   OptimizedScore 0.505       Time: 28.420 s
+Written to file OPT_D4_EGFR_1.2/L5_134.g
+Level 131.3 --- Init Score: 0.593   OptimizedScore 0.560       Time: 102.173 s
+Written to file OPT_D4_EGFR_1.2/L3_131.g
+Launching wrapRunOptimizer 147 at time = 762.529 for SCRAM_D4_EGFR/scram_147.g 
+Level 131.4 --- Init Score: 0.552   OptimizedScore 0.552       Time: 0.295 s
+Written to file OPT_D4_EGFR_1.2/L4_131.g
+Level 144.2 --- Init Score: 0.753   OptimizedScore 0.611       Time: 6.888 s
+Written to file OPT_D4_EGFR_1.2/L2_144.g
+Level 118.3 --- Init Score: 0.595   OptimizedScore 0.556       Time: 165.085 s
+Written to file OPT_D4_EGFR_1.2/L3_118.g
+Level 118.4 --- Init Score: 0.557   OptimizedScore 0.557       Time: 0.280 s
+Written to file OPT_D4_EGFR_1.2/L4_118.g
+Level 120.5 --- Init Score: 0.593   OptimizedScore 0.501       Time: 91.556 s
+Written to file OPT_D4_EGFR_1.2/L5_120.g
+Launching wrapRunOptimizer 148 at time = 766.046 for SCRAM_D4_EGFR/scram_148.g 
+Level 145.1 --- Init Score: 0.264   OptimizedScore 0.208       Time: 14.934 s
+Written to file OPT_D4_EGFR_1.2/L1_145.g
+Level 137.3 --- Init Score: 0.599   OptimizedScore 0.574       Time: 74.790 s
+Written to file OPT_D4_EGFR_1.2/L3_137.g
+Level 116.3 --- Init Score: 0.602   OptimizedScore 0.565       Time: 192.958 s
+Written to file OPT_D4_EGFR_1.2/L3_116.g
+Level 137.4 --- Init Score: 0.543   OptimizedScore 0.543       Time: 0.257 s
+Written to file OPT_D4_EGFR_1.2/L4_137.g
+Level 116.4 --- Init Score: 0.543   OptimizedScore 0.543       Time: 0.280 s
+Written to file OPT_D4_EGFR_1.2/L4_116.g
+Level 138.3 --- Init Score: 0.600   OptimizedScore 0.564       Time: 65.854 s
+Written to file OPT_D4_EGFR_1.2/L3_138.g
+Level 138.4 --- Init Score: 0.564   OptimizedScore 0.564       Time: 0.241 s
+Written to file OPT_D4_EGFR_1.2/L4_138.g
+Level 145.2 --- Init Score: 0.840   OptimizedScore 0.617       Time: 4.170 s
+Written to file OPT_D4_EGFR_1.2/L2_145.g
+Level 135.5 --- Init Score: 0.586   OptimizedScore 0.506       Time: 17.513 s
+Written to file OPT_D4_EGFR_1.2/L5_135.g
+Launching wrapRunOptimizer 149 at time = 773.068 for SCRAM_D4_EGFR/scram_149.g 
+Level 132.5 --- Init Score: 0.590   OptimizedScore 0.509       Time: 38.015 s
+Written to file OPT_D4_EGFR_1.2/L5_132.g
+Level 143.2 --- Init Score: 0.806   OptimizedScore 0.642       Time: 14.904 s
+Written to file OPT_D4_EGFR_1.2/L2_143.g
+Level 146.1 --- Init Score: 0.272   OptimizedScore 0.207       Time: 12.406 s
+Written to file OPT_D4_EGFR_1.2/L1_146.g
+Launching wrapRunOptimizer 150 at time = 774.231 for SCRAM_D4_EGFR/scram_150.g 
+Level 146.2 --- Init Score: 0.810   OptimizedScore 0.643       Time: 3.572 s
+Written to file OPT_D4_EGFR_1.2/L2_146.g
+Level 141.3 --- Init Score: 0.595   OptimizedScore 0.563       Time: 40.459 s
+Written to file OPT_D4_EGFR_1.2/L3_141.g
+Level 141.4 --- Init Score: 0.564   OptimizedScore 0.564       Time: 0.269 s
+Written to file OPT_D4_EGFR_1.2/L4_141.g
+Level 118.5 --- Init Score: 0.589   OptimizedScore 0.508       Time: 16.475 s
+Written to file OPT_D4_EGFR_1.2/L5_118.g
+Launching wrapRunOptimizer 151 at time = 782.587 for SCRAM_D4_EGFR/scram_151.g 
+Level 127.5 --- Init Score: 0.597   OptimizedScore 0.516       Time: 34.953 s
+Written to file OPT_D4_EGFR_1.2/L5_127.g
+Level 149.1 --- Init Score: 0.259   OptimizedScore 0.210       Time: 10.333 s
+Written to file OPT_D4_EGFR_1.2/L1_149.g
+Launching wrapRunOptimizer 152 at time = 784.854 for SCRAM_D4_EGFR/scram_152.g 
+Level 116.5 --- Init Score: 0.572   OptimizedScore 0.487       Time: 16.208 s
+Written to file OPT_D4_EGFR_1.2/L5_116.g
+Launching wrapRunOptimizer 153 at time = 787.025 for SCRAM_D4_EGFR/scram_153.g 
+Level 131.5 --- Init Score: 0.580   OptimizedScore 0.500       Time: 24.348 s
+Written to file OPT_D4_EGFR_1.2/L5_131.g
+Launching wrapRunOptimizer 154 at time = 788.112 for SCRAM_D4_EGFR/scram_154.g 
+Level 148.1 --- Init Score: 0.262   OptimizedScore 0.209       Time: 21.478 s
+Written to file OPT_D4_EGFR_1.2/L1_148.g
+Level 149.2 --- Init Score: 0.815   OptimizedScore 0.610       Time: 6.255 s
+Written to file OPT_D4_EGFR_1.2/L2_149.g
+Level 147.1 --- Init Score: 0.266   OptimizedScore 0.205       Time: 29.761 s
+Written to file OPT_D4_EGFR_1.2/L1_147.g
+Level 148.2 --- Init Score: 0.832   OptimizedScore 0.641       Time: 4.894 s
+Written to file OPT_D4_EGFR_1.2/L2_148.g
+Level 139.3 --- Init Score: 0.599   OptimizedScore 0.569       Time: 64.058 s
+Written to file OPT_D4_EGFR_1.2/L3_139.g
+Level 139.4 --- Init Score: 0.590   OptimizedScore 0.590       Time: 0.241 s
+Written to file OPT_D4_EGFR_1.2/L4_139.g
+Level 150.1 --- Init Score: 0.264   OptimizedScore 0.210       Time: 20.619 s
+Written to file OPT_D4_EGFR_1.2/L1_150.g
+Level 147.2 --- Init Score: 0.793   OptimizedScore 0.600       Time: 2.999 s
+Written to file OPT_D4_EGFR_1.2/L2_147.g
+Level 150.2 --- Init Score: 0.816   OptimizedScore 0.651       Time: 3.647 s
+Written to file OPT_D4_EGFR_1.2/L2_150.g
+Level 152.1 --- Init Score: 0.270   OptimizedScore 0.205       Time: 14.328 s
+Written to file OPT_D4_EGFR_1.2/L1_152.g
+Level 151.1 --- Init Score: 0.270   OptimizedScore 0.208       Time: 17.575 s
+Written to file OPT_D4_EGFR_1.2/L1_151.g
+Level 119.5 --- Init Score: 0.561   OptimizedScore 0.482       Time: 70.443 s
+Written to file OPT_D4_EGFR_1.2/L5_119.g
+Launching wrapRunOptimizer 155 at time = 803.582 for SCRAM_D4_EGFR/scram_155.g 
+Level 154.1 --- Init Score: 0.262   OptimizedScore 0.211       Time: 17.189 s
+Written to file OPT_D4_EGFR_1.2/L1_154.g
+Level 152.2 --- Init Score: 0.825   OptimizedScore 0.610       Time: 6.066 s
+Written to file OPT_D4_EGFR_1.2/L2_152.g
+Level 151.2 --- Init Score: 0.798   OptimizedScore 0.640       Time: 5.229 s
+Written to file OPT_D4_EGFR_1.2/L2_151.g
+Level 137.5 --- Init Score: 0.592   OptimizedScore 0.518       Time: 36.887 s
+Written to file OPT_D4_EGFR_1.2/L5_137.g
+Level 102.5 --- Init Score: 0.589   OptimizedScore 0.506       Time: 77.339 s
+Written to file OPT_D4_EGFR_1.2/L5_102.g
+Launching wrapRunOptimizer 156 at time = 807.444 for SCRAM_D4_EGFR/scram_156.g 
+Launching wrapRunOptimizer 157 at time = 807.878 for SCRAM_D4_EGFR/scram_157.g 
+Level 153.1 --- Init Score: 0.297   OptimizedScore 0.205       Time: 21.600 s
+Written to file OPT_D4_EGFR_1.2/L1_153.g
+Level 155.1 --- Init Score: 0.262   OptimizedScore 0.213       Time: 7.430 s
+Written to file OPT_D4_EGFR_1.2/L1_155.g
+Level 145.3 --- Init Score: 0.604   OptimizedScore 0.574       Time: 41.025 s
+Written to file OPT_D4_EGFR_1.2/L3_145.g
+Level 145.4 --- Init Score: 0.584   OptimizedScore 0.584       Time: 0.245 s
+Written to file OPT_D4_EGFR_1.2/L4_145.g
+Level 153.2 --- Init Score: 0.804   OptimizedScore 0.601       Time: 3.933 s
+Written to file OPT_D4_EGFR_1.2/L2_153.g
+Level 154.2 --- Init Score: 0.804   OptimizedScore 0.606       Time: 8.722 s
+Written to file OPT_D4_EGFR_1.2/L2_154.g
+Level 155.2 --- Init Score: 0.803   OptimizedScore 0.609       Time: 3.803 s
+Written to file OPT_D4_EGFR_1.2/L2_155.g
+Level 138.5 --- Init Score: 0.591   OptimizedScore 0.500       Time: 45.362 s
+Written to file OPT_D4_EGFR_1.2/L5_138.g
+Launching wrapRunOptimizer 158 at time = 816.466 for SCRAM_D4_EGFR/scram_158.g 
+Level 156.1 --- Init Score: 0.263   OptimizedScore 0.210       Time: 10.646 s
+Written to file OPT_D4_EGFR_1.2/L1_156.g
+Level 144.3 --- Init Score: 0.598   OptimizedScore 0.578       Time: 61.081 s
+Written to file OPT_D4_EGFR_1.2/L3_144.g
+Level 144.4 --- Init Score: 0.561   OptimizedScore 0.561       Time: 0.250 s
+Written to file OPT_D4_EGFR_1.2/L4_144.g
+Level 157.1 --- Init Score: 0.275   OptimizedScore 0.209       Time: 16.952 s
+Written to file OPT_D4_EGFR_1.2/L1_157.g
+Level 156.2 --- Init Score: 0.810   OptimizedScore 0.608       Time: 7.767 s
+Written to file OPT_D4_EGFR_1.2/L2_156.g
+Level 140.3 --- Init Score: 0.585   OptimizedScore 0.555       Time: 89.534 s
+Written to file OPT_D4_EGFR_1.2/L3_140.g
+Level 140.4 --- Init Score: 0.562   OptimizedScore 0.562       Time: 0.262 s
+Written to file OPT_D4_EGFR_1.2/L4_140.g
+Level 157.2 --- Init Score: 0.799   OptimizedScore 0.605       Time: 4.511 s
+Written to file OPT_D4_EGFR_1.2/L2_157.g
+Level 147.3 --- Init Score: 0.593   OptimizedScore 0.555       Time: 35.998 s
+Written to file OPT_D4_EGFR_1.2/L3_147.g
+Level 147.4 --- Init Score: 0.570   OptimizedScore 0.570       Time: 0.273 s
+Written to file OPT_D4_EGFR_1.2/L4_147.g
+Level 143.3 --- Init Score: 0.588   OptimizedScore 0.545       Time: 64.034 s
+Written to file OPT_D4_EGFR_1.2/L3_143.g
+Level 158.1 --- Init Score: 0.282   OptimizedScore 0.203       Time: 20.982 s
+Written to file OPT_D4_EGFR_1.2/L1_158.g
+Level 143.4 --- Init Score: 0.528   OptimizedScore 0.528       Time: 0.301 s
+Written to file OPT_D4_EGFR_1.2/L4_143.g
+Level 148.3 --- Init Score: 0.599   OptimizedScore 0.566       Time: 49.009 s
+Written to file OPT_D4_EGFR_1.2/L3_148.g
+Level 136.3 --- Init Score: 0.595   OptimizedScore 0.557       Time: 147.382 s
+Written to file OPT_D4_EGFR_1.2/L3_136.g
+Level 148.4 --- Init Score: 0.598   OptimizedScore 0.598       Time: 0.254 s
+Written to file OPT_D4_EGFR_1.2/L4_148.g
+Level 136.4 --- Init Score: 0.574   OptimizedScore 0.574       Time: 0.245 s
+Written to file OPT_D4_EGFR_1.2/L4_136.g
+Level 158.2 --- Init Score: 0.815   OptimizedScore 0.651       Time: 4.745 s
+Written to file OPT_D4_EGFR_1.2/L2_158.g
+Level 153.3 --- Init Score: 0.593   OptimizedScore 0.576       Time: 36.159 s
+Written to file OPT_D4_EGFR_1.2/L3_153.g
+Level 153.4 --- Init Score: 0.562   OptimizedScore 0.562       Time: 0.258 s
+Written to file OPT_D4_EGFR_1.2/L4_153.g
+Level 154.3 --- Init Score: 0.603   OptimizedScore 0.572       Time: 39.950 s
+Written to file OPT_D4_EGFR_1.2/L3_154.g
+Level 154.4 --- Init Score: 0.550   OptimizedScore 0.550       Time: 0.269 s
+Written to file OPT_D4_EGFR_1.2/L4_154.g
+Level 125.3 --- Init Score: 0.602   OptimizedScore 0.566       Time: 217.049 s
+Written to file OPT_D4_EGFR_1.2/L3_125.g
+Level 125.4 --- Init Score: 0.565   OptimizedScore 0.565       Time: 0.287 s
+Written to file OPT_D4_EGFR_1.2/L4_125.g
+Level 147.5 --- Init Score: 0.588   OptimizedScore 0.533       Time: 23.491 s
+Written to file OPT_D4_EGFR_1.2/L5_147.g
+Launching wrapRunOptimizer 159 at time = 856.855 for SCRAM_D4_EGFR/scram_159.g 
+Level 141.5 --- Init Score: 0.585   OptimizedScore 0.512       Time: 78.140 s
+Written to file OPT_D4_EGFR_1.2/L5_141.g
+Launching wrapRunOptimizer 160 at time = 858.527 for SCRAM_D4_EGFR/scram_160.g 
+Level 128.5 --- Init Score: 0.580   OptimizedScore 0.482       Time: 103.344 s
+Written to file OPT_D4_EGFR_1.2/L5_128.g
+Launching wrapRunOptimizer 161 at time = 859.805 for SCRAM_D4_EGFR/scram_161.g 
+Level 149.3 --- Init Score: 0.592   OptimizedScore 0.550       Time: 72.570 s
+Written to file OPT_D4_EGFR_1.2/L3_149.g
+Level 149.4 --- Init Score: 0.549   OptimizedScore 0.549       Time: 0.286 s
+Written to file OPT_D4_EGFR_1.2/L4_149.g
+Level 139.5 --- Init Score: 0.590   OptimizedScore 0.504       Time: 68.068 s
+Written to file OPT_D4_EGFR_1.2/L5_139.g
+Launching wrapRunOptimizer 162 at time = 864.296 for SCRAM_D4_EGFR/scram_162.g 
+Level 159.1 --- Init Score: 0.279   OptimizedScore 0.208       Time: 11.093 s
+Written to file OPT_D4_EGFR_1.2/L1_159.g
+Level 160.1 --- Init Score: 0.264   OptimizedScore 0.211       Time: 14.315 s
+Written to file OPT_D4_EGFR_1.2/L1_160.g
+Level 162.1 --- Init Score: 0.265   OptimizedScore 0.209       Time: 10.288 s
+Written to file OPT_D4_EGFR_1.2/L1_162.g
+Level 159.2 --- Init Score: 0.802   OptimizedScore 0.614       Time: 7.042 s
+Written to file OPT_D4_EGFR_1.2/L2_159.g
+Level 160.2 --- Init Score: 0.811   OptimizedScore 0.613       Time: 4.064 s
+Written to file OPT_D4_EGFR_1.2/L2_160.g
+Level 136.5 --- Init Score: 0.593   OptimizedScore 0.500       Time: 35.195 s
+Written to file OPT_D4_EGFR_1.2/L5_136.g
+Launching wrapRunOptimizer 163 at time = 878.714 for SCRAM_D4_EGFR/scram_163.g 
+Level 161.1 --- Init Score: 0.258   OptimizedScore 0.208       Time: 18.273 s
+Written to file OPT_D4_EGFR_1.2/L1_161.g
+Level 144.5 --- Init Score: 0.592   OptimizedScore 0.501       Time: 54.013 s
+Written to file OPT_D4_EGFR_1.2/L5_144.g
+Level 162.2 --- Init Score: 0.820   OptimizedScore 0.641       Time: 4.505 s
+Written to file OPT_D4_EGFR_1.2/L2_162.g
+Launching wrapRunOptimizer 164 at time = 880.436 for SCRAM_D4_EGFR/scram_164.g 
+Level 161.2 --- Init Score: 0.800   OptimizedScore 0.643       Time: 2.480 s
+Written to file OPT_D4_EGFR_1.2/L2_161.g
+Level 155.3 --- Init Score: 0.593   OptimizedScore 0.556       Time: 72.966 s
+Written to file OPT_D4_EGFR_1.2/L3_155.g
+Level 155.4 --- Init Score: 0.573   OptimizedScore 0.573       Time: 0.253 s
+Written to file OPT_D4_EGFR_1.2/L4_155.g
+Level 142.3 --- Init Score: 0.603   OptimizedScore 0.567       Time: 135.117 s
+Written to file OPT_D4_EGFR_1.2/L3_142.g
+Level 142.4 --- Init Score: 0.585   OptimizedScore 0.585       Time: 0.265 s
+Written to file OPT_D4_EGFR_1.2/L4_142.g
+Level 148.5 --- Init Score: 0.595   OptimizedScore 0.498       Time: 50.667 s
+Written to file OPT_D4_EGFR_1.2/L5_148.g
+Level 140.5 --- Init Score: 0.553   OptimizedScore 0.513       Time: 65.399 s
+Written to file OPT_D4_EGFR_1.2/L5_140.g
+Level 150.3 --- Init Score: 0.598   OptimizedScore 0.565       Time: 94.690 s
+Written to file OPT_D4_EGFR_1.2/L3_150.g
+Launching wrapRunOptimizer 165 at time = 894.147 for SCRAM_D4_EGFR/scram_165.g 
+Level 125.5 --- Init Score: 0.592   OptimizedScore 0.499       Time: 38.781 s
+Written to file OPT_D4_EGFR_1.2/L5_125.g
+Level 150.4 --- Init Score: 0.571   OptimizedScore 0.571       Time: 0.261 s
+Written to file OPT_D4_EGFR_1.2/L4_150.g
+Launching wrapRunOptimizer 166 at time = 894.553 for SCRAM_D4_EGFR/scram_166.g 
+Level 164.1 --- Init Score: 0.266   OptimizedScore 0.209       Time: 13.614 s
+Written to file OPT_D4_EGFR_1.2/L1_164.g
+Launching wrapRunOptimizer 167 at time = 895.176 for SCRAM_D4_EGFR/scram_167.g 
+Level 149.5 --- Init Score: 0.594   OptimizedScore 0.500       Time: 34.746 s
+Written to file OPT_D4_EGFR_1.2/L5_149.g
+Launching wrapRunOptimizer 168 at time = 898.892 for SCRAM_D4_EGFR/scram_168.g 
+Level 153.5 --- Init Score: 0.596   OptimizedScore 0.506       Time: 50.383 s
+Written to file OPT_D4_EGFR_1.2/L5_153.g
+Launching wrapRunOptimizer 169 at time = 901.341 for SCRAM_D4_EGFR/scram_169.g 
+Level 164.2 --- Init Score: 0.791   OptimizedScore 0.603       Time: 8.687 s
+Written to file OPT_D4_EGFR_1.2/L2_164.g
+Level 155.5 --- Init Score: 0.587   OptimizedScore 0.502       Time: 19.573 s
+Written to file OPT_D4_EGFR_1.2/L5_155.g
+Launching wrapRunOptimizer 170 at time = 909.297 for SCRAM_D4_EGFR/scram_170.g 
+Level 167.1 --- Init Score: 0.283   OptimizedScore 0.203       Time: 14.633 s
+Written to file OPT_D4_EGFR_1.2/L1_167.g
+Level 163.1 --- Init Score: 0.275   OptimizedScore 0.201       Time: 31.593 s
+Written to file OPT_D4_EGFR_1.2/L1_163.g
+Level 166.1 --- Init Score: 0.265   OptimizedScore 0.206       Time: 16.283 s
+Written to file OPT_D4_EGFR_1.2/L1_166.g
+Level 165.1 --- Init Score: 0.261   OptimizedScore 0.209       Time: 16.825 s
+Written to file OPT_D4_EGFR_1.2/L1_165.g
+Level 167.2 --- Init Score: 0.817   OptimizedScore 0.610       Time: 3.260 s
+Written to file OPT_D4_EGFR_1.2/L2_167.g
+Level 159.3 --- Init Score: 0.596   OptimizedScore 0.579       Time: 38.650 s
+Written to file OPT_D4_EGFR_1.2/L3_159.g
+Level 159.4 --- Init Score: 0.587   OptimizedScore 0.587       Time: 0.254 s
+Written to file OPT_D4_EGFR_1.2/L4_159.g
+Level 170.1 --- Init Score: 0.280   OptimizedScore 0.200       Time: 5.498 s
+Written to file OPT_D4_EGFR_1.2/L1_170.g
+Level 163.2 --- Init Score: 0.788   OptimizedScore 0.653       Time: 4.468 s
+Written to file OPT_D4_EGFR_1.2/L2_163.g
+Level 165.2 --- Init Score: 0.795   OptimizedScore 0.601       Time: 4.619 s
+Written to file OPT_D4_EGFR_1.2/L2_165.g
+Level 169.1 --- Init Score: 0.277   OptimizedScore 0.206       Time: 14.930 s
+Written to file OPT_D4_EGFR_1.2/L1_169.g
+Level 166.2 --- Init Score: 0.791   OptimizedScore 0.601       Time: 5.938 s
+Written to file OPT_D4_EGFR_1.2/L2_166.g
+Level 129.3 --- Init Score: 0.598   OptimizedScore 0.570       Time: 261.408 s
+Written to file OPT_D4_EGFR_1.2/L3_129.g
+Level 129.4 --- Init Score: 0.588   OptimizedScore 0.588       Time: 0.249 s
+Written to file OPT_D4_EGFR_1.2/L4_129.g
+Level 170.2 --- Init Score: 0.739   OptimizedScore 0.642       Time: 2.929 s
+Written to file OPT_D4_EGFR_1.2/L2_170.g
+Level 158.3 --- Init Score: 0.603   OptimizedScore 0.571       Time: 75.669 s
+Written to file OPT_D4_EGFR_1.2/L3_158.g
+Level 158.4 --- Init Score: 0.569   OptimizedScore 0.569       Time: 0.254 s
+Written to file OPT_D4_EGFR_1.2/L4_158.g
+Level 146.3 --- Init Score: 0.596   OptimizedScore 0.565       Time: 141.397 s
+Written to file OPT_D4_EGFR_1.2/L3_146.g
+Level 146.4 --- Init Score: 0.547   OptimizedScore 0.547       Time: 0.248 s
+Written to file OPT_D4_EGFR_1.2/L4_146.g
+Level 168.1 --- Init Score: 0.261   OptimizedScore 0.211       Time: 20.363 s
+Written to file OPT_D4_EGFR_1.2/L1_168.g
+Level 169.2 --- Init Score: 0.786   OptimizedScore 0.599       Time: 2.945 s
+Written to file OPT_D4_EGFR_1.2/L2_169.g
+Level 151.3 --- Init Score: 0.592   OptimizedScore 0.554       Time: 114.322 s
+Written to file OPT_D4_EGFR_1.2/L3_151.g
+Level 151.4 --- Init Score: 0.551   OptimizedScore 0.551       Time: 0.256 s
+Written to file OPT_D4_EGFR_1.2/L4_151.g
+Level 142.5 --- Init Score: 0.588   OptimizedScore 0.497       Time: 32.033 s
+Written to file OPT_D4_EGFR_1.2/L5_142.g
+Launching wrapRunOptimizer 171 at time = 922.953 for SCRAM_D4_EGFR/scram_171.g 
+Level 168.2 --- Init Score: 0.792   OptimizedScore 0.615       Time: 3.141 s
+Written to file OPT_D4_EGFR_1.2/L2_168.g
+Level 145.5 --- Init Score: 0.592   OptimizedScore 0.503       Time: 115.507 s
+Written to file OPT_D4_EGFR_1.2/L5_145.g
+Launching wrapRunOptimizer 172 at time = 929.604 for SCRAM_D4_EGFR/scram_172.g 
+Level 160.3 --- Init Score: 0.594   OptimizedScore 0.558       Time: 52.823 s
+Written to file OPT_D4_EGFR_1.2/L3_160.g
+Level 160.4 --- Init Score: 0.562   OptimizedScore 0.562       Time: 0.290 s
+Written to file OPT_D4_EGFR_1.2/L4_160.g
+Level 143.5 --- Init Score: 0.563   OptimizedScore 0.517       Time: 98.010 s
+Written to file OPT_D4_EGFR_1.2/L5_143.g
+Launching wrapRunOptimizer 173 at time = 937.036 for SCRAM_D4_EGFR/scram_173.g 
+Level 171.1 --- Init Score: 0.280   OptimizedScore 0.209       Time: 17.514 s
+Written to file OPT_D4_EGFR_1.2/L1_171.g
+Level 171.2 --- Init Score: 0.822   OptimizedScore 0.611       Time: 2.945 s
+Written to file OPT_D4_EGFR_1.2/L2_171.g
+Level 152.3 --- Init Score: 0.592   OptimizedScore 0.562       Time: 139.743 s
+Written to file OPT_D4_EGFR_1.2/L3_152.g
+Level 152.4 --- Init Score: 0.589   OptimizedScore 0.589       Time: 0.256 s
+Written to file OPT_D4_EGFR_1.2/L4_152.g
+Level 154.5 --- Init Score: 0.594   OptimizedScore 0.517       Time: 91.734 s
+Written to file OPT_D4_EGFR_1.2/L5_154.g
+Launching wrapRunOptimizer 174 at time = 947.600 for SCRAM_D4_EGFR/scram_174.g 
+Level 159.5 --- Init Score: 0.592   OptimizedScore 0.503       Time: 33.847 s
+Written to file OPT_D4_EGFR_1.2/L5_159.g
+Launching wrapRunOptimizer 175 at time = 949.649 for SCRAM_D4_EGFR/scram_175.g 
+Level 160.5 --- Init Score: 0.587   OptimizedScore 0.498       Time: 21.971 s
+Written to file OPT_D4_EGFR_1.2/L5_160.g
+Launching wrapRunOptimizer 176 at time = 953.787 for SCRAM_D4_EGFR/scram_176.g 
+Level 151.5 --- Init Score: 0.554   OptimizedScore 0.483       Time: 35.516 s
+Written to file OPT_D4_EGFR_1.2/L5_151.g
+Level 129.5 --- Init Score: 0.588   OptimizedScore 0.498       Time: 38.457 s
+Written to file OPT_D4_EGFR_1.2/L5_129.g
+Launching wrapRunOptimizer 177 at time = 957.183 for SCRAM_D4_EGFR/scram_177.g 
+Launching wrapRunOptimizer 178 at time = 957.476 for SCRAM_D4_EGFR/scram_178.g 
+Level 173.1 --- Init Score: 0.262   OptimizedScore 0.208       Time: 19.808 s
+Written to file OPT_D4_EGFR_1.2/L1_173.g
+Level 172.1 --- Init Score: 0.290   OptimizedScore 0.213       Time: 29.230 s
+Written to file OPT_D4_EGFR_1.2/L1_172.g
+Level 173.2 --- Init Score: 0.797   OptimizedScore 0.645       Time: 2.889 s
+Written to file OPT_D4_EGFR_1.2/L2_173.g
+Level 172.2 --- Init Score: 0.812   OptimizedScore 0.650       Time: 3.331 s
+Written to file OPT_D4_EGFR_1.2/L2_172.g
+Level 156.3 --- Init Score: 0.595   OptimizedScore 0.563       Time: 136.549 s
+Written to file OPT_D4_EGFR_1.2/L3_156.g
+Level 156.4 --- Init Score: 0.578   OptimizedScore 0.578       Time: 0.254 s
+Written to file OPT_D4_EGFR_1.2/L4_156.g
+Level 174.1 --- Init Score: 0.278   OptimizedScore 0.204       Time: 15.252 s
+Written to file OPT_D4_EGFR_1.2/L1_174.g
+Level 152.5 --- Init Score: 0.590   OptimizedScore 0.479       Time: 20.401 s
+Written to file OPT_D4_EGFR_1.2/L5_152.g
+Level 174.2 --- Init Score: 0.775   OptimizedScore 0.620       Time: 3.245 s
+Written to file OPT_D4_EGFR_1.2/L2_174.g
+Launching wrapRunOptimizer 179 at time = 967.404 for SCRAM_D4_EGFR/scram_179.g 
+Level 175.1 --- Init Score: 0.262   OptimizedScore 0.204       Time: 22.568 s
+Written to file OPT_D4_EGFR_1.2/L1_175.g
+Level 176.1 --- Init Score: 0.286   OptimizedScore 0.212       Time: 18.895 s
+Written to file OPT_D4_EGFR_1.2/L1_176.g
+Level 165.3 --- Init Score: 0.588   OptimizedScore 0.567       Time: 57.978 s
+Written to file OPT_D4_EGFR_1.2/L3_165.g
+Level 165.4 --- Init Score: 0.557   OptimizedScore 0.557       Time: 0.249 s
+Written to file OPT_D4_EGFR_1.2/L4_165.g
+Level 179.1 --- Init Score: 0.264   OptimizedScore 0.210       Time: 7.725 s
+Written to file OPT_D4_EGFR_1.2/L1_179.g
+Level 175.2 --- Init Score: 0.792   OptimizedScore 0.626       Time: 3.591 s
+Written to file OPT_D4_EGFR_1.2/L2_175.g
+Level 177.1 --- Init Score: 0.316   OptimizedScore 0.209       Time: 19.699 s
+Written to file OPT_D4_EGFR_1.2/L1_177.g
+Warning: Score mismatch in processIntermediateResults:  0.6097615534641414 0.6090678578561455
+Level 176.2 --- Init Score: 0.809   OptimizedScore 0.609       Time: 4.894 s
+Written to file OPT_D4_EGFR_1.2/L2_176.g
+Level 166.3 --- Init Score: 0.593   OptimizedScore 0.569       Time: 61.210 s
+Written to file OPT_D4_EGFR_1.2/L3_166.g
+Level 166.4 --- Init Score: 0.554   OptimizedScore 0.554       Time: 0.265 s
+Written to file OPT_D4_EGFR_1.2/L4_166.g
+Level 178.1 --- Init Score: 0.269   OptimizedScore 0.203       Time: 21.291 s
+Written to file OPT_D4_EGFR_1.2/L1_178.g
+Level 179.2 --- Init Score: 0.780   OptimizedScore 0.605       Time: 4.937 s
+Written to file OPT_D4_EGFR_1.2/L2_179.g
+Level 177.2 --- Init Score: 0.804   OptimizedScore 0.613       Time: 3.871 s
+Written to file OPT_D4_EGFR_1.2/L2_177.g
+Level 178.2 --- Init Score: 0.784   OptimizedScore 0.629       Time: 4.544 s
+Written to file OPT_D4_EGFR_1.2/L2_178.g
+Level 161.3 --- Init Score: 0.591   OptimizedScore 0.555       Time: 103.375 s
+Written to file OPT_D4_EGFR_1.2/L3_161.g
+Level 161.4 --- Init Score: 0.540   OptimizedScore 0.540       Time: 0.262 s
+Written to file OPT_D4_EGFR_1.2/L4_161.g
+Level 164.3 --- Init Score: 0.590   OptimizedScore 0.546       Time: 83.749 s
+Written to file OPT_D4_EGFR_1.2/L3_164.g
+Level 164.4 --- Init Score: 0.531   OptimizedScore 0.531       Time: 0.249 s
+Written to file OPT_D4_EGFR_1.2/L4_164.g
+Level 156.5 --- Init Score: 0.589   OptimizedScore 0.549       Time: 25.297 s
+Written to file OPT_D4_EGFR_1.2/L5_156.g
+Launching wrapRunOptimizer 180 at time = 989.758 for SCRAM_D4_EGFR/scram_180.g 
+Level 150.5 --- Init Score: 0.560   OptimizedScore 0.481       Time: 99.300 s
+Written to file OPT_D4_EGFR_1.2/L5_150.g
+Launching wrapRunOptimizer 181 at time = 994.627 for SCRAM_D4_EGFR/scram_181.g 
+Level 167.3 --- Init Score: 0.595   OptimizedScore 0.562       Time: 83.190 s
+Written to file OPT_D4_EGFR_1.2/L3_167.g
+Level 167.4 --- Init Score: 0.588   OptimizedScore 0.588       Time: 0.267 s
+Written to file OPT_D4_EGFR_1.2/L4_167.g
+Level 163.3 --- Init Score: 0.597   OptimizedScore 0.562       Time: 84.960 s
+Written to file OPT_D4_EGFR_1.2/L3_163.g
+Level 163.4 --- Init Score: 0.573   OptimizedScore 0.573       Time: 0.254 s
+Written to file OPT_D4_EGFR_1.2/L4_163.g
+Level 161.5 --- Init Score: 0.588   OptimizedScore 0.517       Time: 25.433 s
+Written to file OPT_D4_EGFR_1.2/L5_161.g
+Level 180.1 --- Init Score: 0.264   OptimizedScore 0.211       Time: 20.281 s
+Written to file OPT_D4_EGFR_1.2/L1_180.g
+Launching wrapRunOptimizer 182 at time = 1011.451 for SCRAM_D4_EGFR/scram_182.g 
+Level 171.3 --- Init Score: 0.596   OptimizedScore 0.564       Time: 67.371 s
+Written to file OPT_D4_EGFR_1.2/L3_171.g
+Level 171.4 --- Init Score: 0.576   OptimizedScore 0.576       Time: 0.246 s
+Written to file OPT_D4_EGFR_1.2/L4_171.g
+Level 181.1 --- Init Score: 0.266   OptimizedScore 0.206       Time: 21.638 s
+Written to file OPT_D4_EGFR_1.2/L1_181.g
+Level 182.1 --- Init Score: 0.299   OptimizedScore 0.210       Time: 7.660 s
+Written to file OPT_D4_EGFR_1.2/L1_182.g
+Level 168.3 --- Init Score: 0.593   OptimizedScore 0.557       Time: 97.195 s
+Written to file OPT_D4_EGFR_1.2/L3_168.g
+Level 168.4 --- Init Score: 0.574   OptimizedScore 0.574       Time: 0.277 s
+Written to file OPT_D4_EGFR_1.2/L4_168.g
+Level 180.2 --- Init Score: 0.817   OptimizedScore 0.636       Time: 10.210 s
+Written to file OPT_D4_EGFR_1.2/L2_180.g
+Level 182.2 --- Init Score: 0.818   OptimizedScore 0.647       Time: 2.406 s
+Written to file OPT_D4_EGFR_1.2/L2_182.g
+Level 179.3 --- Init Score: 0.596   OptimizedScore 0.559       Time: 44.373 s
+Written to file OPT_D4_EGFR_1.2/L3_179.g
+Level 179.4 --- Init Score: 0.564   OptimizedScore 0.564       Time: 0.254 s
+Written to file OPT_D4_EGFR_1.2/L4_179.g
+Level 165.5 --- Init Score: 0.590   OptimizedScore 0.506       Time: 54.187 s
+Written to file OPT_D4_EGFR_1.2/L5_165.g
+Launching wrapRunOptimizer 183 at time = 1029.898 for SCRAM_D4_EGFR/scram_183.g 
+Level 181.2 --- Init Score: 0.770   OptimizedScore 0.647       Time: 14.386 s
+Written to file OPT_D4_EGFR_1.2/L2_181.g
+Level 158.5 --- Init Score: 0.592   OptimizedScore 0.510       Time: 113.578 s
+Written to file OPT_D4_EGFR_1.2/L5_158.g
+Level 173.3 --- Init Score: 0.603   OptimizedScore 0.568       Time: 72.819 s
+Written to file OPT_D4_EGFR_1.2/L3_173.g
+Launching wrapRunOptimizer 184 at time = 1033.405 for SCRAM_D4_EGFR/scram_184.g 
+Level 173.4 --- Init Score: 0.535   OptimizedScore 0.535       Time: 0.245 s
+Written to file OPT_D4_EGFR_1.2/L4_173.g
+Level 164.5 --- Init Score: 0.586   OptimizedScore 0.498       Time: 49.274 s
+Written to file OPT_D4_EGFR_1.2/L5_164.g
+Launching wrapRunOptimizer 185 at time = 1037.765 for SCRAM_D4_EGFR/scram_185.g 
+Level 146.5 --- Init Score: 0.571   OptimizedScore 0.513       Time: 120.155 s
+Written to file OPT_D4_EGFR_1.2/L5_146.g
+Launching wrapRunOptimizer 186 at time = 1040.448 for SCRAM_D4_EGFR/scram_186.g 
+Level 183.1 --- Init Score: 0.274   OptimizedScore 0.210       Time: 14.853 s
+Written to file OPT_D4_EGFR_1.2/L1_183.g
+Level 178.3 --- Init Score: 0.604   OptimizedScore 0.583       Time: 63.128 s
+Written to file OPT_D4_EGFR_1.2/L3_178.g
+Level 178.4 --- Init Score: 0.544   OptimizedScore 0.544       Time: 0.256 s
+Written to file OPT_D4_EGFR_1.2/L4_178.g
+Level 184.1 --- Init Score: 0.270   OptimizedScore 0.211       Time: 15.124 s
+Written to file OPT_D4_EGFR_1.2/L1_184.g
+Level 183.2 --- Init Score: 0.794   OptimizedScore 0.622       Time: 4.154 s
+Written to file OPT_D4_EGFR_1.2/L2_183.g
+Level 180.3 --- Init Score: 0.591   OptimizedScore 0.557       Time: 29.865 s
+Written to file OPT_D4_EGFR_1.2/L3_180.g
+Level 180.4 --- Init Score: 0.557   OptimizedScore 0.557       Time: 0.247 s
+Written to file OPT_D4_EGFR_1.2/L4_180.g
+Level 162.3 --- Init Score: 0.592   OptimizedScore 0.562       Time: 175.314 s
+Written to file OPT_D4_EGFR_1.2/L3_162.g
+Level 162.4 --- Init Score: 0.562   OptimizedScore 0.562       Time: 0.253 s
+Written to file OPT_D4_EGFR_1.2/L4_162.g
+Level 185.1 --- Init Score: 0.259   OptimizedScore 0.205       Time: 17.647 s
+Written to file OPT_D4_EGFR_1.2/L1_185.g
+Level 184.2 --- Init Score: 0.808   OptimizedScore 0.603       Time: 6.860 s
+Written to file OPT_D4_EGFR_1.2/L2_184.g
+Level 186.1 --- Init Score: 0.300   OptimizedScore 0.207       Time: 17.836 s
+Written to file OPT_D4_EGFR_1.2/L1_186.g
+Level 185.2 --- Init Score: 0.792   OptimizedScore 0.616       Time: 3.425 s
+Written to file OPT_D4_EGFR_1.2/L2_185.g
+Level 186.2 --- Init Score: 0.794   OptimizedScore 0.614       Time: 3.700 s
+Written to file OPT_D4_EGFR_1.2/L2_186.g
+Level 179.5 --- Init Score: 0.588   OptimizedScore 0.497       Time: 44.230 s
+Written to file OPT_D4_EGFR_1.2/L5_179.g
+Warning: hoss: init= 0.538 < final= 0.540, algo = COBYLA
+Known problem with SLSQP. Setting output = input
+Launching wrapRunOptimizer 187 at time = 1070.763 for SCRAM_D4_EGFR/scram_187.g 
+Level 170.3 --- Init Score: 0.599   OptimizedScore 0.571       Time: 154.840 s
+Written to file OPT_D4_EGFR_1.2/L3_170.g
+Level 170.4 --- Init Score: 0.561   OptimizedScore 0.561       Time: 0.261 s
+Written to file OPT_D4_EGFR_1.2/L4_170.g
+Level 168.5 --- Init Score: 0.590   OptimizedScore 0.496       Time: 56.578 s
+Written to file OPT_D4_EGFR_1.2/L5_168.g
+Launching wrapRunOptimizer 188 at time = 1078.116 for SCRAM_D4_EGFR/scram_188.g 
+Level 171.5 --- Init Score: 0.592   OptimizedScore 0.548       Time: 70.086 s
+Written to file OPT_D4_EGFR_1.2/L5_171.g
+Warning: hoss: init= 0.548 < final= 0.577, algo = COBYLA
+Known problem with SLSQP. Setting output = input
+Launching wrapRunOptimizer 189 at time = 1083.110 for SCRAM_D4_EGFR/scram_189.g 
+Level 184.3 --- Init Score: 0.598   OptimizedScore 0.571       Time: 29.011 s
+Written to file OPT_D4_EGFR_1.2/L3_184.g
+Level 184.4 --- Init Score: 0.547   OptimizedScore 0.547       Time: 0.272 s
+Written to file OPT_D4_EGFR_1.2/L4_184.g
+Level 187.1 --- Init Score: 0.287   OptimizedScore 0.209       Time: 23.033 s
+Written to file OPT_D4_EGFR_1.2/L1_187.g
+Level 188.1 --- Init Score: 0.273   OptimizedScore 0.207       Time: 20.187 s
+Written to file OPT_D4_EGFR_1.2/L1_188.g
+Level 187.2 --- Init Score: 0.791   OptimizedScore 0.603       Time: 5.181 s
+Written to file OPT_D4_EGFR_1.2/L2_187.g
+Level 188.2 --- Init Score: 0.758   OptimizedScore 0.625       Time: 5.150 s
+Written to file OPT_D4_EGFR_1.2/L2_188.g
+Level 178.5 --- Init Score: 0.593   OptimizedScore 0.501       Time: 57.349 s
+Written to file OPT_D4_EGFR_1.2/L5_178.g
+Launching wrapRunOptimizer 190 at time = 1105.895 for SCRAM_D4_EGFR/scram_190.g 
+Level 189.1 --- Init Score: 0.263   OptimizedScore 0.211       Time: 25.110 s
+Written to file OPT_D4_EGFR_1.2/L1_189.g
+Level 166.5 --- Init Score: 0.573   OptimizedScore 0.474       Time: 131.927 s
+Written to file OPT_D4_EGFR_1.2/L5_166.g
+Launching wrapRunOptimizer 191 at time = 1111.926 for SCRAM_D4_EGFR/scram_191.g 
+Level 181.3 --- Init Score: 0.598   OptimizedScore 0.556       Time: 80.534 s
+Written to file OPT_D4_EGFR_1.2/L3_181.g
+Level 181.4 --- Init Score: 0.550   OptimizedScore 0.550       Time: 0.278 s
+Written to file OPT_D4_EGFR_1.2/L4_181.g
+Level 186.3 --- Init Score: 0.598   OptimizedScore 0.570       Time: 51.778 s
+Written to file OPT_D4_EGFR_1.2/L3_186.g
+Level 186.4 --- Init Score: 0.526   OptimizedScore 0.526       Time: 0.249 s
+Written to file OPT_D4_EGFR_1.2/L4_186.g
+Level 189.2 --- Init Score: 0.795   OptimizedScore 0.597       Time: 7.168 s
+Written to file OPT_D4_EGFR_1.2/L2_189.g
+Level 176.3 --- Init Score: 0.594   OptimizedScore 0.544       Time: 142.594 s
+Written to file OPT_D4_EGFR_1.2/L3_176.g
+Level 176.4 --- Init Score: 0.541   OptimizedScore 0.541       Time: 0.255 s
+Written to file OPT_D4_EGFR_1.2/L4_176.g
+Level 185.3 --- Init Score: 0.604   OptimizedScore 0.578       Time: 63.195 s
+Written to file OPT_D4_EGFR_1.2/L3_185.g
+Level 185.4 --- Init Score: 0.581   OptimizedScore 0.581       Time: 0.242 s
+Written to file OPT_D4_EGFR_1.2/L4_185.g
+Level 167.5 --- Init Score: 0.585   OptimizedScore 0.501       Time: 129.965 s
+Written to file OPT_D4_EGFR_1.2/L5_167.g
+Launching wrapRunOptimizer 192 at time = 1128.299 for SCRAM_D4_EGFR/scram_192.g 
+Level 190.1 --- Init Score: 0.283   OptimizedScore 0.209       Time: 21.988 s
+Written to file OPT_D4_EGFR_1.2/L1_190.g
+Level 191.1 --- Init Score: 0.257   OptimizedScore 0.209       Time: 18.419 s
+Written to file OPT_D4_EGFR_1.2/L1_191.g
+Level 190.2 --- Init Score: 0.811   OptimizedScore 0.621       Time: 5.560 s
+Written to file OPT_D4_EGFR_1.2/L2_190.g
+Level 183.3 --- Init Score: 0.595   OptimizedScore 0.556       Time: 85.121 s
+Written to file OPT_D4_EGFR_1.2/L3_183.g
+Level 191.2 --- Init Score: 0.812   OptimizedScore 0.613       Time: 3.996 s
+Written to file OPT_D4_EGFR_1.2/L2_191.g
+Level 183.4 --- Init Score: 0.545   OptimizedScore 0.545       Time: 0.251 s
+Written to file OPT_D4_EGFR_1.2/L4_183.g
+Level 188.3 --- Init Score: 0.600   OptimizedScore 0.583       Time: 34.303 s
+Written to file OPT_D4_EGFR_1.2/L3_188.g
+Level 188.4 --- Init Score: 0.539   OptimizedScore 0.539       Time: 0.259 s
+Written to file OPT_D4_EGFR_1.2/L4_188.g
+Level 192.1 --- Init Score: 0.275   OptimizedScore 0.209       Time: 16.365 s
+Written to file OPT_D4_EGFR_1.2/L1_192.g
+Level 192.2 --- Init Score: 0.810   OptimizedScore 0.610       Time: 3.622 s
+Written to file OPT_D4_EGFR_1.2/L2_192.g
+Level 181.5 --- Init Score: 0.590   OptimizedScore 0.477       Time: 38.780 s
+Written to file OPT_D4_EGFR_1.2/L5_181.g
+Launching wrapRunOptimizer 193 at time = 1152.213 for SCRAM_D4_EGFR/scram_193.g 
+Level 183.5 --- Init Score: 0.586   OptimizedScore 0.503       Time: 24.965 s
+Written to file OPT_D4_EGFR_1.2/L5_183.g
+Launching wrapRunOptimizer 194 at time = 1161.056 for SCRAM_D4_EGFR/scram_194.g 
+Level 186.5 --- Init Score: 0.592   OptimizedScore 0.504       Time: 48.318 s
+Written to file OPT_D4_EGFR_1.2/L5_186.g
+Launching wrapRunOptimizer 195 at time = 1164.025 for SCRAM_D4_EGFR/scram_195.g 
+Level 157.3 --- Init Score: 0.598   OptimizedScore 0.558       Time: 337.523 s
+Written to file OPT_D4_EGFR_1.2/L3_157.g
+Level 173.5 --- Init Score: 0.572   OptimizedScore 0.512       Time: 134.308 s
+Written to file OPT_D4_EGFR_1.2/L5_173.g
+Level 157.4 --- Init Score: 0.581   OptimizedScore 0.581       Time: 0.281 s
+Written to file OPT_D4_EGFR_1.2/L4_157.g
+Launching wrapRunOptimizer 196 at time = 1168.727 for SCRAM_D4_EGFR/scram_196.g 
+Level 187.3 --- Init Score: 0.601   OptimizedScore 0.556       Time: 70.138 s
+Written to file OPT_D4_EGFR_1.2/L3_187.g
+Level 193.1 --- Init Score: 0.262   OptimizedScore 0.209       Time: 17.009 s
+Written to file OPT_D4_EGFR_1.2/L1_193.g
+Level 187.4 --- Init Score: 0.554   OptimizedScore 0.554       Time: 0.260 s
+Written to file OPT_D4_EGFR_1.2/L4_187.g
+Level 194.1 --- Init Score: 0.264   OptimizedScore 0.209       Time: 12.659 s
+Written to file OPT_D4_EGFR_1.2/L1_194.g
+Level 188.5 --- Init Score: 0.591   OptimizedScore 0.536       Time: 36.553 s
+Written to file OPT_D4_EGFR_1.2/L5_188.g
+Launching wrapRunOptimizer 197 at time = 1176.287 for SCRAM_D4_EGFR/scram_197.g 
+Level 185.5 --- Init Score: 0.591   OptimizedScore 0.498       Time: 56.577 s
+Written to file OPT_D4_EGFR_1.2/L5_185.g
+Level 195.1 --- Init Score: 0.254   OptimizedScore 0.209       Time: 15.852 s
+Written to file OPT_D4_EGFR_1.2/L1_195.g
+Launching wrapRunOptimizer 198 at time = 1180.680 for SCRAM_D4_EGFR/scram_198.g 
+Level 196.1 --- Init Score: 0.257   OptimizedScore 0.209       Time: 12.152 s
+Written to file OPT_D4_EGFR_1.2/L1_196.g
+Level 193.2 --- Init Score: 0.821   OptimizedScore 0.633       Time: 13.355 s
+Written to file OPT_D4_EGFR_1.2/L2_193.g
+Level 194.2 --- Init Score: 0.789   OptimizedScore 0.643       Time: 10.719 s
+Written to file OPT_D4_EGFR_1.2/L2_194.g
+Level 196.2 --- Init Score: 0.811   OptimizedScore 0.613       Time: 6.371 s
+Written to file OPT_D4_EGFR_1.2/L2_196.g
+Level 192.3 --- Init Score: 0.591   OptimizedScore 0.572       Time: 39.530 s
+Written to file OPT_D4_EGFR_1.2/L3_192.g
+Level 192.4 --- Init Score: 0.552   OptimizedScore 0.552       Time: 0.251 s
+Written to file OPT_D4_EGFR_1.2/L4_192.g
+Level 195.2 --- Init Score: 0.815   OptimizedScore 0.651       Time: 8.403 s
+Written to file OPT_D4_EGFR_1.2/L2_195.g
+Level 180.5 --- Init Score: 0.581   OptimizedScore 0.522       Time: 137.932 s
+Written to file OPT_D4_EGFR_1.2/L5_180.g
+Launching wrapRunOptimizer 199 at time = 1190.145 for SCRAM_D4_EGFR/scram_199.g 
+Level 163.5 --- Init Score: 0.558   OptimizedScore 0.471       Time: 192.195 s
+Written to file OPT_D4_EGFR_1.2/L5_163.g
+Level 197.1 --- Init Score: 0.261   OptimizedScore 0.208       Time: 17.038 s
+Written to file OPT_D4_EGFR_1.2/L1_197.g
+Level 157.5 --- Init Score: 0.588   OptimizedScore 0.508       Time: 28.282 s
+Written to file OPT_D4_EGFR_1.2/L5_157.g
+Level 198.1 --- Init Score: 0.283   OptimizedScore 0.208       Time: 19.720 s
+Written to file OPT_D4_EGFR_1.2/L1_198.g
+Level 198.2 --- Init Score: 0.783   OptimizedScore 0.612       Time: 4.697 s
+Written to file OPT_D4_EGFR_1.2/L2_198.g
+Level 192.5 --- Init Score: 0.586   OptimizedScore 0.515       Time: 17.815 s
+Written to file OPT_D4_EGFR_1.2/L5_192.g
+Level 191.3 --- Init Score: 0.592   OptimizedScore 0.549       Time: 72.739 s
+Written to file OPT_D4_EGFR_1.2/L3_191.g
+Level 191.4 --- Init Score: 0.538   OptimizedScore 0.538       Time: 0.251 s
+Written to file OPT_D4_EGFR_1.2/L4_191.g
+Level 190.3 --- Init Score: 0.599   OptimizedScore 0.553       Time: 73.972 s
+Written to file OPT_D4_EGFR_1.2/L3_190.g
+Level 190.4 --- Init Score: 0.576   OptimizedScore 0.576       Time: 0.259 s
+Written to file OPT_D4_EGFR_1.2/L4_190.g
+Level 199.1 --- Init Score: 0.273   OptimizedScore 0.210       Time: 21.265 s
+Written to file OPT_D4_EGFR_1.2/L1_199.g
+Level 184.5 --- Init Score: 0.591   OptimizedScore 0.502       Time: 127.482 s
+Written to file OPT_D4_EGFR_1.2/L5_184.g
+Level 197.2 --- Init Score: 0.804   OptimizedScore 0.614       Time: 21.808 s
+Written to file OPT_D4_EGFR_1.2/L2_197.g
+Level 174.3 --- Init Score: 0.601   OptimizedScore 0.565       Time: 249.005 s
+Written to file OPT_D4_EGFR_1.2/L3_174.g
+Level 174.4 --- Init Score: 0.554   OptimizedScore 0.554       Time: 0.250 s
+Written to file OPT_D4_EGFR_1.2/L4_174.g
+Warning: Score mismatch in processIntermediateResults:  0.5999128531553048 0.5991533126155982
+Level 199.2 --- Init Score: 0.797   OptimizedScore 0.599       Time: 7.325 s
+Written to file OPT_D4_EGFR_1.2/L2_199.g
+Level 189.3 --- Init Score: 0.591   OptimizedScore 0.556       Time: 104.806 s
+Written to file OPT_D4_EGFR_1.2/L3_189.g
+Level 189.4 --- Init Score: 0.517   OptimizedScore 0.517       Time: 0.259 s
+Written to file OPT_D4_EGFR_1.2/L4_189.g
+Level 176.5 --- Init Score: 0.590   OptimizedScore 0.495       Time: 110.799 s
+Written to file OPT_D4_EGFR_1.2/L5_176.g
+Level 162.5 --- Init Score: 0.557   OptimizedScore 0.539       Time: 178.417 s
+Written to file OPT_D4_EGFR_1.2/L5_162.g
+Level 190.5 --- Init Score: 0.590   OptimizedScore 0.506       Time: 26.290 s
+Written to file OPT_D4_EGFR_1.2/L5_190.g
+Level 191.5 --- Init Score: 0.582   OptimizedScore 0.535       Time: 29.052 s
+Written to file OPT_D4_EGFR_1.2/L5_191.g
+Level 196.3 --- Init Score: 0.597   OptimizedScore 0.581       Time: 50.088 s
+Written to file OPT_D4_EGFR_1.2/L3_196.g
+Level 196.4 --- Init Score: 0.585   OptimizedScore 0.585       Time: 0.246 s
+Written to file OPT_D4_EGFR_1.2/L4_196.g
+Level 174.5 --- Init Score: 0.592   OptimizedScore 0.521       Time: 26.786 s
+Written to file OPT_D4_EGFR_1.2/L5_174.g
+Level 169.3 --- Init Score: 0.596   OptimizedScore 0.575       Time: 323.449 s
+Written to file OPT_D4_EGFR_1.2/L3_169.g
+Level 169.4 --- Init Score: 0.529   OptimizedScore 0.529       Time: 0.247 s
+Written to file OPT_D4_EGFR_1.2/L4_169.g
+Level 193.3 --- Init Score: 0.591   OptimizedScore 0.558       Time: 61.850 s
+Written to file OPT_D4_EGFR_1.2/L3_193.g
+Level 193.4 --- Init Score: 0.552   OptimizedScore 0.552       Time: 0.238 s
+Written to file OPT_D4_EGFR_1.2/L4_193.g
+Level 170.5 --- Init Score: 0.561   OptimizedScore 0.508       Time: 172.008 s
+Written to file OPT_D4_EGFR_1.2/L5_170.g
+Level 198.3 --- Init Score: 0.606   OptimizedScore 0.568       Time: 41.943 s
+Written to file OPT_D4_EGFR_1.2/L3_198.g
+Level 198.4 --- Init Score: 0.542   OptimizedScore 0.542       Time: 0.257 s
+Written to file OPT_D4_EGFR_1.2/L4_198.g
+Level 195.3 --- Init Score: 0.591   OptimizedScore 0.555       Time: 68.374 s
+Written to file OPT_D4_EGFR_1.2/L3_195.g
+Level 195.4 --- Init Score: 0.544   OptimizedScore 0.544       Time: 0.264 s
+Written to file OPT_D4_EGFR_1.2/L4_195.g
+Level 199.3 --- Init Score: 0.597   OptimizedScore 0.556       Time: 42.389 s
+Written to file OPT_D4_EGFR_1.2/L3_199.g
+Level 199.4 --- Init Score: 0.535   OptimizedScore 0.535       Time: 0.245 s
+Written to file OPT_D4_EGFR_1.2/L4_199.g
+Level 196.5 --- Init Score: 0.594   OptimizedScore 0.506       Time: 30.774 s
+Written to file OPT_D4_EGFR_1.2/L5_196.g
+Level 187.5 --- Init Score: 0.588   OptimizedScore 0.496       Time: 109.224 s
+Written to file OPT_D4_EGFR_1.2/L5_187.g
+Level 198.5 --- Init Score: 0.591   OptimizedScore 0.504       Time: 31.478 s
+Written to file OPT_D4_EGFR_1.2/L5_198.g
+Level 193.5 --- Init Score: 0.572   OptimizedScore 0.487       Time: 35.856 s
+Written to file OPT_D4_EGFR_1.2/L5_193.g
+Level 169.5 --- Init Score: 0.593   OptimizedScore 0.544       Time: 38.250 s
+Written to file OPT_D4_EGFR_1.2/L5_169.g
+Level 197.3 --- Init Score: 0.592   OptimizedScore 0.557       Time: 71.331 s
+Written to file OPT_D4_EGFR_1.2/L3_197.g
+Level 197.4 --- Init Score: 0.576   OptimizedScore 0.576       Time: 0.231 s
+Written to file OPT_D4_EGFR_1.2/L4_197.g
+Level 195.5 --- Init Score: 0.566   OptimizedScore 0.465       Time: 30.983 s
+Written to file OPT_D4_EGFR_1.2/L5_195.g
+Level 172.3 --- Init Score: 0.588   OptimizedScore 0.558       Time: 331.151 s
+Written to file OPT_D4_EGFR_1.2/L3_172.g
+Level 172.4 --- Init Score: 0.569   OptimizedScore 0.569       Time: 0.242 s
+Written to file OPT_D4_EGFR_1.2/L4_172.g
+Level 177.3 --- Init Score: 0.594   OptimizedScore 0.548       Time: 318.303 s
+Written to file OPT_D4_EGFR_1.2/L3_177.g
+Level 177.4 --- Init Score: 0.531   OptimizedScore 0.531       Time: 0.214 s
+Written to file OPT_D4_EGFR_1.2/L4_177.g
+Level 175.3 --- Init Score: 0.603   OptimizedScore 0.580       Time: 329.283 s
+Written to file OPT_D4_EGFR_1.2/L3_175.g
+Level 175.4 --- Init Score: 0.533   OptimizedScore 0.533       Time: 0.228 s
+Written to file OPT_D4_EGFR_1.2/L4_175.g
+Level 199.5 --- Init Score: 0.593   OptimizedScore 0.498       Time: 47.696 s
+Written to file OPT_D4_EGFR_1.2/L5_199.g
+Level 172.5 --- Init Score: 0.579   OptimizedScore 0.505       Time: 21.951 s
+Written to file OPT_D4_EGFR_1.2/L5_172.g
+Level 177.5 --- Init Score: 0.589   OptimizedScore 0.488       Time: 31.637 s
+Written to file OPT_D4_EGFR_1.2/L5_177.g
+Level 175.5 --- Init Score: 0.593   OptimizedScore 0.508       Time: 26.017 s
+Written to file OPT_D4_EGFR_1.2/L5_175.g
+Level 182.3 --- Init Score: 0.597   OptimizedScore 0.569       Time: 323.209 s
+Written to file OPT_D4_EGFR_1.2/L3_182.g
+Level 182.4 --- Init Score: 0.604   OptimizedScore 0.604       Time: 0.225 s
+Written to file OPT_D4_EGFR_1.2/L4_182.g
+Level 189.5 --- Init Score: 0.585   OptimizedScore 0.541       Time: 136.007 s
+Written to file OPT_D4_EGFR_1.2/L5_189.g
+Level 182.5 --- Init Score: 0.582   OptimizedScore 0.479       Time: 19.421 s
+Written to file OPT_D4_EGFR_1.2/L5_182.g
+Level 194.3 --- Init Score: 0.592   OptimizedScore 0.562       Time: 211.814 s
+Written to file OPT_D4_EGFR_1.2/L3_194.g
+Level 194.4 --- Init Score: 0.589   OptimizedScore 0.589       Time: 0.230 s
+Written to file OPT_D4_EGFR_1.2/L4_194.g
+Level 197.5 --- Init Score: 0.559   OptimizedScore 0.478       Time: 130.985 s
+Written to file OPT_D4_EGFR_1.2/L5_197.g
+Level 194.5 --- Init Score: 0.572   OptimizedScore 0.468       Time: 36.117 s
+Written to file OPT_D4_EGFR_1.2/L5_194.g
+EGFR        0.355   
+SHC         0.582   
+Sos_Ras     0.559   
+craf        0.675   
+MAPK        0.501   
+Final Score for scramIdx 000 in Models/D4_model_EGFR_v13b.g = 0.535
+EGFR        0.335   
+SHC         0.582   
+Sos_Ras     0.557   
+craf        0.602   
+MAPK        0.503   
+Final Score for scramIdx 001 in Models/D4_model_EGFR_v13b.g = 0.516
+EGFR        0.210   
+SHC         0.616   
+Sos_Ras     0.568   
+craf        0.601   
+MAPK        0.493   
+Final Score for scramIdx 002 in Models/D4_model_EGFR_v13b.g = 0.498
+EGFR        0.355   
+SHC         0.585   
+Sos_Ras     0.575   
+craf        0.533   
+MAPK        0.549   
+Final Score for scramIdx 003 in Models/D4_model_EGFR_v13b.g = 0.519
+EGFR        0.346   
+SHC         0.581   
+Sos_Ras     0.557   
+craf        0.659   
+MAPK        0.498   
+Final Score for scramIdx 004 in Models/D4_model_EGFR_v13b.g = 0.528
+EGFR        0.354   
+SHC         0.574   
+Sos_Ras     0.561   
+craf        0.614   
+MAPK        0.508   
+Final Score for scramIdx 005 in Models/D4_model_EGFR_v13b.g = 0.522
+EGFR        0.359   
+SHC         0.629   
+Sos_Ras     0.565   
+craf        0.544   
+MAPK        0.583   
+Final Score for scramIdx 006 in Models/D4_model_EGFR_v13b.g = 0.536
+EGFR        0.325   
+SHC         0.598   
+Sos_Ras     0.569   
+craf        0.519   
+MAPK        0.501   
+Final Score for scramIdx 007 in Models/D4_model_EGFR_v13b.g = 0.502
+EGFR        0.356   
+SHC         0.583   
+Sos_Ras     0.577   
+craf        0.611   
+MAPK        0.505   
+Final Score for scramIdx 008 in Models/D4_model_EGFR_v13b.g = 0.527
+EGFR        0.206   
+SHC         0.633   
+Sos_Ras     0.565   
+craf        0.523   
+MAPK        0.471   
+Final Score for scramIdx 009 in Models/D4_model_EGFR_v13b.g = 0.479
+EGFR        0.212   
+SHC         0.628   
+Sos_Ras     0.566   
+craf        0.565   
+MAPK        0.468   
+Final Score for scramIdx 010 in Models/D4_model_EGFR_v13b.g = 0.488
+EGFR        0.205   
+SHC         0.647   
+Sos_Ras     0.569   
+craf        0.714   
+MAPK        0.484   
+Final Score for scramIdx 011 in Models/D4_model_EGFR_v13b.g = 0.524
+EGFR        0.364   
+SHC         0.564   
+Sos_Ras     0.551   
+craf        0.603   
+MAPK        0.491   
+Final Score for scramIdx 012 in Models/D4_model_EGFR_v13b.g = 0.515
+EGFR        0.337   
+SHC         0.580   
+Sos_Ras     0.569   
+craf        0.775   
+MAPK        0.504   
+Final Score for scramIdx 013 in Models/D4_model_EGFR_v13b.g = 0.553
+EGFR        0.353   
+SHC         0.586   
+Sos_Ras     0.568   
+craf        0.576   
+MAPK        0.502   
+Final Score for scramIdx 014 in Models/D4_model_EGFR_v13b.g = 0.517
+EGFR        0.344   
+SHC         0.582   
+Sos_Ras     0.560   
+craf        0.683   
+MAPK        0.535   
+Final Score for scramIdx 015 in Models/D4_model_EGFR_v13b.g = 0.541
+EGFR        0.209   
+SHC         0.674   
+Sos_Ras     0.561   
+craf        0.586   
+MAPK        0.500   
+Final Score for scramIdx 016 in Models/D4_model_EGFR_v13b.g = 0.506
+EGFR        0.355   
+SHC         0.581   
+Sos_Ras     0.558   
+craf        0.528   
+MAPK        0.503   
+Final Score for scramIdx 017 in Models/D4_model_EGFR_v13b.g = 0.505
+EGFR        0.357   
+SHC         0.579   
+Sos_Ras     0.556   
+craf        0.690   
+MAPK        0.509   
+Final Score for scramIdx 018 in Models/D4_model_EGFR_v13b.g = 0.538
+EGFR        0.353   
+SHC         0.575   
+Sos_Ras     0.553   
+craf        0.766   
+MAPK        0.507   
+Final Score for scramIdx 019 in Models/D4_model_EGFR_v13b.g = 0.551
+EGFR        0.341   
+SHC         0.581   
+Sos_Ras     0.554   
+craf        0.663   
+MAPK        0.494   
+Final Score for scramIdx 020 in Models/D4_model_EGFR_v13b.g = 0.527
+EGFR        0.319   
+SHC         0.597   
+Sos_Ras     0.562   
+craf        0.530   
+MAPK        0.497   
+Final Score for scramIdx 021 in Models/D4_model_EGFR_v13b.g = 0.501
+EGFR        0.366   
+SHC         0.569   
+Sos_Ras     0.564   
+craf        0.601   
+MAPK        0.505   
+Final Score for scramIdx 022 in Models/D4_model_EGFR_v13b.g = 0.521
+EGFR        0.353   
+SHC         0.579   
+Sos_Ras     0.555   
+craf        0.470   
+MAPK        0.513   
+Final Score for scramIdx 023 in Models/D4_model_EGFR_v13b.g = 0.494
+EGFR        0.305   
+SHC         0.610   
+Sos_Ras     0.560   
+craf        0.661   
+MAPK        0.503   
+Final Score for scramIdx 024 in Models/D4_model_EGFR_v13b.g = 0.528
+EGFR        0.343   
+SHC         0.580   
+Sos_Ras     0.573   
+craf        0.680   
+MAPK        0.518   
+Final Score for scramIdx 025 in Models/D4_model_EGFR_v13b.g = 0.539
+EGFR        0.314   
+SHC         0.590   
+Sos_Ras     0.559   
+craf        0.744   
+MAPK        0.479   
+Final Score for scramIdx 026 in Models/D4_model_EGFR_v13b.g = 0.537
+EGFR        0.351   
+SHC         0.578   
+Sos_Ras     0.562   
+craf        0.581   
+MAPK        0.496   
+Final Score for scramIdx 027 in Models/D4_model_EGFR_v13b.g = 0.514
+EGFR        0.351   
+SHC         0.607   
+Sos_Ras     0.572   
+craf        0.658   
+MAPK        0.504   
+Final Score for scramIdx 028 in Models/D4_model_EGFR_v13b.g = 0.538
+EGFR        0.286   
+SHC         0.615   
+Sos_Ras     0.564   
+craf        0.521   
+MAPK        0.481   
+Final Score for scramIdx 029 in Models/D4_model_EGFR_v13b.g = 0.493
+EGFR        0.349   
+SHC         0.592   
+Sos_Ras     0.558   
+craf        0.606   
+MAPK        0.508   
+Final Score for scramIdx 030 in Models/D4_model_EGFR_v13b.g = 0.523
+EGFR        0.234   
+SHC         0.622   
+Sos_Ras     0.563   
+craf        0.573   
+MAPK        0.480   
+Final Score for scramIdx 031 in Models/D4_model_EGFR_v13b.g = 0.494
+EGFR        0.353   
+SHC         0.583   
+Sos_Ras     0.570   
+craf        0.560   
+MAPK        0.503   
+Final Score for scramIdx 032 in Models/D4_model_EGFR_v13b.g = 0.514
+EGFR        0.350   
+SHC         0.580   
+Sos_Ras     0.554   
+craf        0.683   
+MAPK        0.501   
+Final Score for scramIdx 033 in Models/D4_model_EGFR_v13b.g = 0.534
+EGFR        0.206   
+SHC         0.741   
+Sos_Ras     0.571   
+craf        0.558   
+MAPK        0.534   
+Final Score for scramIdx 034 in Models/D4_model_EGFR_v13b.g = 0.522
+EGFR        0.209   
+SHC         0.625   
+Sos_Ras     0.553   
+craf        0.639   
+MAPK        0.469   
+Final Score for scramIdx 035 in Models/D4_model_EGFR_v13b.g = 0.499
+EGFR        0.207   
+SHC         0.614   
+Sos_Ras     0.545   
+craf        0.569   
+MAPK        0.479   
+Final Score for scramIdx 036 in Models/D4_model_EGFR_v13b.g = 0.483
+EGFR        0.346   
+SHC         0.570   
+Sos_Ras     0.549   
+craf        0.664   
+MAPK        0.504   
+Final Score for scramIdx 037 in Models/D4_model_EGFR_v13b.g = 0.527
+EGFR        0.349   
+SHC         0.585   
+Sos_Ras     0.560   
+craf        0.628   
+MAPK        0.542   
+Final Score for scramIdx 038 in Models/D4_model_EGFR_v13b.g = 0.533
+EGFR        0.263   
+SHC         0.585   
+Sos_Ras     0.558   
+craf        0.652   
+MAPK        0.503   
+Final Score for scramIdx 039 in Models/D4_model_EGFR_v13b.g = 0.512
+EGFR        0.357   
+SHC         0.565   
+Sos_Ras     0.547   
+craf        0.713   
+MAPK        0.507   
+Final Score for scramIdx 040 in Models/D4_model_EGFR_v13b.g = 0.538
+EGFR        0.367   
+SHC         0.564   
+Sos_Ras     0.553   
+craf        0.680   
+MAPK        0.511   
+Final Score for scramIdx 041 in Models/D4_model_EGFR_v13b.g = 0.535
+EGFR        0.234   
+SHC         0.619   
+Sos_Ras     0.566   
+craf        0.625   
+MAPK        0.503   
+Final Score for scramIdx 042 in Models/D4_model_EGFR_v13b.g = 0.510
+EGFR        0.348   
+SHC         0.582   
+Sos_Ras     0.557   
+craf        0.503   
+MAPK        0.503   
+Final Score for scramIdx 043 in Models/D4_model_EGFR_v13b.g = 0.499
+EGFR        0.340   
+SHC         0.591   
+Sos_Ras     0.552   
+craf        0.672   
+MAPK        0.499   
+Final Score for scramIdx 044 in Models/D4_model_EGFR_v13b.g = 0.531
+EGFR        0.346   
+SHC         0.580   
+Sos_Ras     0.552   
+craf        0.650   
+MAPK        0.506   
+Final Score for scramIdx 045 in Models/D4_model_EGFR_v13b.g = 0.527
+EGFR        0.360   
+SHC         0.572   
+Sos_Ras     0.534   
+craf        0.652   
+MAPK        0.505   
+Final Score for scramIdx 046 in Models/D4_model_EGFR_v13b.g = 0.525
+EGFR        0.368   
+SHC         0.569   
+Sos_Ras     0.571   
+craf        0.617   
+MAPK        0.500   
+Final Score for scramIdx 047 in Models/D4_model_EGFR_v13b.g = 0.525
+EGFR        0.327   
+SHC         0.589   
+Sos_Ras     0.553   
+craf        0.814   
+MAPK        0.503   
+Final Score for scramIdx 048 in Models/D4_model_EGFR_v13b.g = 0.557
+EGFR        0.209   
+SHC         0.645   
+Sos_Ras     0.566   
+craf        0.733   
+MAPK        0.476   
+Final Score for scramIdx 049 in Models/D4_model_EGFR_v13b.g = 0.526
+EGFR        0.284   
+SHC         0.654   
+Sos_Ras     0.580   
+craf        0.469   
+MAPK        0.554   
+Final Score for scramIdx 050 in Models/D4_model_EGFR_v13b.g = 0.508
+EGFR        0.355   
+SHC         0.579   
+Sos_Ras     0.554   
+craf        0.637   
+MAPK        0.517   
+Final Score for scramIdx 051 in Models/D4_model_EGFR_v13b.g = 0.528
+EGFR        0.200   
+SHC         0.633   
+Sos_Ras     0.560   
+craf        0.566   
+MAPK        0.480   
+Final Score for scramIdx 052 in Models/D4_model_EGFR_v13b.g = 0.488
+EGFR        0.213   
+SHC         0.627   
+Sos_Ras     0.557   
+craf        0.593   
+MAPK        0.470   
+Final Score for scramIdx 053 in Models/D4_model_EGFR_v13b.g = 0.492
+EGFR        0.320   
+SHC         0.586   
+Sos_Ras     0.556   
+craf        0.639   
+MAPK        0.498   
+Final Score for scramIdx 054 in Models/D4_model_EGFR_v13b.g = 0.520
+EGFR        0.358   
+SHC         0.581   
+Sos_Ras     0.566   
+craf        0.740   
+MAPK        0.513   
+Final Score for scramIdx 055 in Models/D4_model_EGFR_v13b.g = 0.551
+EGFR        0.356   
+SHC         0.594   
+Sos_Ras     0.548   
+craf        0.536   
+MAPK        0.503   
+Final Score for scramIdx 056 in Models/D4_model_EGFR_v13b.g = 0.507
+EGFR        0.359   
+SHC         0.567   
+Sos_Ras     0.579   
+craf        0.723   
+MAPK        0.509   
+Final Score for scramIdx 057 in Models/D4_model_EGFR_v13b.g = 0.548
+EGFR        0.353   
+SHC         0.578   
+Sos_Ras     0.554   
+craf        0.656   
+MAPK        0.498   
+Final Score for scramIdx 058 in Models/D4_model_EGFR_v13b.g = 0.528
+EGFR        0.345   
+SHC         0.582   
+Sos_Ras     0.568   
+craf        0.479   
+MAPK        0.505   
+Final Score for scramIdx 059 in Models/D4_model_EGFR_v13b.g = 0.496
+EGFR        0.359   
+SHC         0.583   
+Sos_Ras     0.554   
+craf        0.458   
+MAPK        0.511   
+Final Score for scramIdx 060 in Models/D4_model_EGFR_v13b.g = 0.493
+EGFR        0.331   
+SHC         0.572   
+Sos_Ras     0.554   
+craf        0.746   
+MAPK        0.510   
+Final Score for scramIdx 061 in Models/D4_model_EGFR_v13b.g = 0.543
+EGFR        0.348   
+SHC         0.581   
+Sos_Ras     0.558   
+craf        0.634   
+MAPK        0.512   
+Final Score for scramIdx 062 in Models/D4_model_EGFR_v13b.g = 0.527
+EGFR        0.209   
+SHC         0.643   
+Sos_Ras     0.556   
+craf        0.653   
+MAPK        0.507   
+Final Score for scramIdx 063 in Models/D4_model_EGFR_v13b.g = 0.513
+EGFR        0.220   
+SHC         0.607   
+Sos_Ras     0.557   
+craf        0.608   
+MAPK        0.464   
+Final Score for scramIdx 064 in Models/D4_model_EGFR_v13b.g = 0.491
+EGFR        0.347   
+SHC         0.580   
+Sos_Ras     0.560   
+craf        0.688   
+MAPK        0.510   
+Final Score for scramIdx 065 in Models/D4_model_EGFR_v13b.g = 0.537
+EGFR        0.340   
+SHC         0.584   
+Sos_Ras     0.557   
+craf        0.602   
+MAPK        0.503   
+Final Score for scramIdx 066 in Models/D4_model_EGFR_v13b.g = 0.517
+EGFR        0.345   
+SHC         0.576   
+Sos_Ras     0.553   
+craf        0.736   
+MAPK        0.504   
+Final Score for scramIdx 067 in Models/D4_model_EGFR_v13b.g = 0.543
+EGFR        0.275   
+SHC         0.631   
+Sos_Ras     0.575   
+craf        0.715   
+MAPK        0.502   
+Final Score for scramIdx 068 in Models/D4_model_EGFR_v13b.g = 0.540
+EGFR        0.336   
+SHC         0.610   
+Sos_Ras     0.580   
+craf        0.562   
+MAPK        0.518   
+Final Score for scramIdx 069 in Models/D4_model_EGFR_v13b.g = 0.521
+EGFR        0.207   
+SHC         0.568   
+Sos_Ras     0.580   
+craf        0.478   
+MAPK        0.527   
+Final Score for scramIdx 070 in Models/D4_model_EGFR_v13b.g = 0.472
+EGFR        0.211   
+SHC         0.624   
+Sos_Ras     0.560   
+craf        0.664   
+MAPK        0.487   
+Final Score for scramIdx 071 in Models/D4_model_EGFR_v13b.g = 0.509
+EGFR        0.252   
+SHC         0.676   
+Sos_Ras     0.580   
+craf        0.691   
+MAPK        0.505   
+Final Score for scramIdx 072 in Models/D4_model_EGFR_v13b.g = 0.541
+EGFR        0.214   
+SHC         0.682   
+Sos_Ras     0.568   
+craf        0.670   
+MAPK        0.476   
+Final Score for scramIdx 073 in Models/D4_model_EGFR_v13b.g = 0.522
+EGFR        0.349   
+SHC         0.579   
+Sos_Ras     0.563   
+craf        0.516   
+MAPK        0.540   
+Final Score for scramIdx 074 in Models/D4_model_EGFR_v13b.g = 0.509
+EGFR        0.356   
+SHC         0.587   
+Sos_Ras     0.556   
+craf        0.659   
+MAPK        0.509   
+Final Score for scramIdx 075 in Models/D4_model_EGFR_v13b.g = 0.533
+EGFR        0.208   
+SHC         0.637   
+Sos_Ras     0.555   
+craf        0.343   
+MAPK        0.481   
+Final Score for scramIdx 076 in Models/D4_model_EGFR_v13b.g = 0.445
+EGFR        0.244   
+SHC         0.617   
+Sos_Ras     0.567   
+craf        0.550   
+MAPK        0.498   
+Final Score for scramIdx 077 in Models/D4_model_EGFR_v13b.g = 0.495
+EGFR        0.362   
+SHC         0.574   
+Sos_Ras     0.563   
+craf        0.616   
+MAPK        0.516   
+Final Score for scramIdx 078 in Models/D4_model_EGFR_v13b.g = 0.526
+EGFR        0.339   
+SHC         0.589   
+Sos_Ras     0.579   
+craf        0.637   
+MAPK        0.507   
+Final Score for scramIdx 079 in Models/D4_model_EGFR_v13b.g = 0.530
+EGFR        0.234   
+SHC         0.602   
+Sos_Ras     0.559   
+craf        0.613   
+MAPK        0.514   
+Final Score for scramIdx 080 in Models/D4_model_EGFR_v13b.g = 0.505
+EGFR        0.357   
+SHC         0.579   
+Sos_Ras     0.541   
+craf        0.681   
+MAPK        0.496   
+Final Score for scramIdx 081 in Models/D4_model_EGFR_v13b.g = 0.531
+EGFR        0.334   
+SHC         0.580   
+Sos_Ras     0.552   
+craf        0.723   
+MAPK        0.496   
+Final Score for scramIdx 082 in Models/D4_model_EGFR_v13b.g = 0.537
+EGFR        0.351   
+SHC         0.585   
+Sos_Ras     0.549   
+craf        0.648   
+MAPK        0.500   
+Final Score for scramIdx 083 in Models/D4_model_EGFR_v13b.g = 0.526
+EGFR        0.297   
+SHC         0.605   
+Sos_Ras     0.563   
+craf        0.503   
+MAPK        0.478   
+Final Score for scramIdx 084 in Models/D4_model_EGFR_v13b.g = 0.489
+EGFR        0.225   
+SHC         0.610   
+Sos_Ras     0.556   
+craf        0.429   
+MAPK        0.483   
+Final Score for scramIdx 085 in Models/D4_model_EGFR_v13b.g = 0.460
+EGFR        0.331   
+SHC         0.596   
+Sos_Ras     0.558   
+craf        0.677   
+MAPK        0.502   
+Final Score for scramIdx 086 in Models/D4_model_EGFR_v13b.g = 0.533
+EGFR        0.345   
+SHC         0.573   
+Sos_Ras     0.561   
+craf        0.575   
+MAPK        0.494   
+Final Score for scramIdx 087 in Models/D4_model_EGFR_v13b.g = 0.510
+EGFR        0.355   
+SHC         0.588   
+Sos_Ras     0.558   
+craf        0.630   
+MAPK        0.511   
+Final Score for scramIdx 088 in Models/D4_model_EGFR_v13b.g = 0.529
+EGFR        0.346   
+SHC         0.613   
+Sos_Ras     0.567   
+craf        0.470   
+MAPK        0.503   
+Final Score for scramIdx 089 in Models/D4_model_EGFR_v13b.g = 0.500
+EGFR        0.338   
+SHC         0.590   
+Sos_Ras     0.559   
+craf        0.713   
+MAPK        0.500   
+Final Score for scramIdx 090 in Models/D4_model_EGFR_v13b.g = 0.540
+EGFR        0.336   
+SHC         0.585   
+Sos_Ras     0.558   
+craf        0.560   
+MAPK        0.497   
+Final Score for scramIdx 091 in Models/D4_model_EGFR_v13b.g = 0.507
+EGFR        0.353   
+SHC         0.579   
+Sos_Ras     0.557   
+craf        0.647   
+MAPK        0.512   
+Final Score for scramIdx 092 in Models/D4_model_EGFR_v13b.g = 0.530
+EGFR        0.350   
+SHC         0.571   
+Sos_Ras     0.538   
+craf        0.605   
+MAPK        0.504   
+Final Score for scramIdx 093 in Models/D4_model_EGFR_v13b.g = 0.514
+EGFR        0.302   
+SHC         0.603   
+Sos_Ras     0.555   
+craf        0.473   
+MAPK        0.487   
+Final Score for scramIdx 094 in Models/D4_model_EGFR_v13b.g = 0.484
+EGFR        0.358   
+SHC         0.582   
+Sos_Ras     0.556   
+craf        0.713   
+MAPK        0.510   
+Final Score for scramIdx 095 in Models/D4_model_EGFR_v13b.g = 0.544
+EGFR        0.322   
+SHC         0.582   
+Sos_Ras     0.563   
+craf        0.654   
+MAPK        0.472   
+Final Score for scramIdx 096 in Models/D4_model_EGFR_v13b.g = 0.518
+EGFR        0.304   
+SHC         0.588   
+Sos_Ras     0.554   
+craf        0.586   
+MAPK        0.490   
+Final Score for scramIdx 097 in Models/D4_model_EGFR_v13b.g = 0.504
+EGFR        0.362   
+SHC         0.591   
+Sos_Ras     0.574   
+craf        0.592   
+MAPK        0.501   
+Final Score for scramIdx 098 in Models/D4_model_EGFR_v13b.g = 0.524
+EGFR        0.344   
+SHC         0.579   
+Sos_Ras     0.573   
+craf        0.480   
+MAPK        0.538   
+Final Score for scramIdx 099 in Models/D4_model_EGFR_v13b.g = 0.503
+EGFR        0.246   
+SHC         0.606   
+Sos_Ras     0.559   
+craf        0.539   
+MAPK        0.463   
+Final Score for scramIdx 100 in Models/D4_model_EGFR_v13b.g = 0.483
+EGFR        0.303   
+SHC         0.588   
+Sos_Ras     0.548   
+craf        0.753   
+MAPK        0.501   
+Final Score for scramIdx 101 in Models/D4_model_EGFR_v13b.g = 0.538
+EGFR        0.363   
+SHC         0.572   
+Sos_Ras     0.558   
+craf        0.721   
+MAPK        0.506   
+Final Score for scramIdx 102 in Models/D4_model_EGFR_v13b.g = 0.544
+EGFR        0.356   
+SHC         0.572   
+Sos_Ras     0.560   
+craf        0.690   
+MAPK        0.514   
+Final Score for scramIdx 103 in Models/D4_model_EGFR_v13b.g = 0.538
+EGFR        0.355   
+SHC         0.579   
+Sos_Ras     0.557   
+craf        0.594   
+MAPK        0.501   
+Final Score for scramIdx 104 in Models/D4_model_EGFR_v13b.g = 0.517
+EGFR        0.348   
+SHC         0.593   
+Sos_Ras     0.560   
+craf        0.666   
+MAPK        0.514   
+Final Score for scramIdx 105 in Models/D4_model_EGFR_v13b.g = 0.536
+EGFR        0.351   
+SHC         0.600   
+Sos_Ras     0.547   
+craf        0.639   
+MAPK        0.506   
+Final Score for scramIdx 106 in Models/D4_model_EGFR_v13b.g = 0.528
+EGFR        0.205   
+SHC         0.634   
+Sos_Ras     0.558   
+craf        0.706   
+MAPK        0.469   
+Final Score for scramIdx 107 in Models/D4_model_EGFR_v13b.g = 0.514
+EGFR        0.335   
+SHC         0.569   
+Sos_Ras     0.550   
+craf        0.565   
+MAPK        0.506   
+Final Score for scramIdx 108 in Models/D4_model_EGFR_v13b.g = 0.505
+EGFR        0.301   
+SHC         0.608   
+Sos_Ras     0.550   
+craf        0.680   
+MAPK        0.519   
+Final Score for scramIdx 109 in Models/D4_model_EGFR_v13b.g = 0.532
+EGFR        0.352   
+SHC         0.575   
+Sos_Ras     0.573   
+craf        0.675   
+MAPK        0.496   
+Final Score for scramIdx 110 in Models/D4_model_EGFR_v13b.g = 0.534
+EGFR        0.213   
+SHC         0.625   
+Sos_Ras     0.561   
+craf        0.519   
+MAPK        0.494   
+Final Score for scramIdx 111 in Models/D4_model_EGFR_v13b.g = 0.482
+EGFR        0.288   
+SHC         0.611   
+Sos_Ras     0.566   
+craf        0.745   
+MAPK        0.515   
+Final Score for scramIdx 112 in Models/D4_model_EGFR_v13b.g = 0.545
+EGFR        0.337   
+SHC         0.629   
+Sos_Ras     0.576   
+craf        0.576   
+MAPK        0.498   
+Final Score for scramIdx 113 in Models/D4_model_EGFR_v13b.g = 0.523
+EGFR        0.316   
+SHC         0.647   
+Sos_Ras     0.573   
+craf        0.566   
+MAPK        0.558   
+Final Score for scramIdx 114 in Models/D4_model_EGFR_v13b.g = 0.532
+EGFR        0.367   
+SHC         0.574   
+Sos_Ras     0.568   
+craf        0.821   
+MAPK        0.509   
+Final Score for scramIdx 115 in Models/D4_model_EGFR_v13b.g = 0.568
+EGFR        0.224   
+SHC         0.623   
+Sos_Ras     0.560   
+craf        0.608   
+MAPK        0.486   
+Final Score for scramIdx 116 in Models/D4_model_EGFR_v13b.g = 0.500
+EGFR        0.360   
+SHC         0.602   
+Sos_Ras     0.561   
+craf        0.641   
+MAPK        0.510   
+Final Score for scramIdx 117 in Models/D4_model_EGFR_v13b.g = 0.534
+EGFR        0.210   
+SHC         0.674   
+Sos_Ras     0.559   
+craf        0.481   
+MAPK        0.508   
+Final Score for scramIdx 118 in Models/D4_model_EGFR_v13b.g = 0.486
+EGFR        0.207   
+SHC         0.627   
+Sos_Ras     0.555   
+craf        0.322   
+MAPK        0.483   
+Final Score for scramIdx 119 in Models/D4_model_EGFR_v13b.g = 0.439
+EGFR        0.349   
+SHC         0.600   
+Sos_Ras     0.579   
+craf        0.526   
+MAPK        0.501   
+Final Score for scramIdx 120 in Models/D4_model_EGFR_v13b.g = 0.511
+EGFR        0.345   
+SHC         0.608   
+Sos_Ras     0.575   
+craf        0.677   
+MAPK        0.503   
+Final Score for scramIdx 121 in Models/D4_model_EGFR_v13b.g = 0.541
+EGFR        0.285   
+SHC         0.644   
+Sos_Ras     0.582   
+craf        0.703   
+MAPK        0.507   
+Final Score for scramIdx 122 in Models/D4_model_EGFR_v13b.g = 0.544
+EGFR        0.343   
+SHC         0.660   
+Sos_Ras     0.580   
+craf        0.475   
+MAPK        0.502   
+Final Score for scramIdx 123 in Models/D4_model_EGFR_v13b.g = 0.512
+EGFR        0.334   
+SHC         0.571   
+Sos_Ras     0.555   
+craf        0.661   
+MAPK        0.501   
+Final Score for scramIdx 124 in Models/D4_model_EGFR_v13b.g = 0.524
+EGFR        0.356   
+SHC         0.587   
+Sos_Ras     0.564   
+craf        0.640   
+MAPK        0.499   
+Final Score for scramIdx 125 in Models/D4_model_EGFR_v13b.g = 0.529
+EGFR        0.322   
+SHC         0.582   
+Sos_Ras     0.558   
+craf        0.749   
+MAPK        0.501   
+Final Score for scramIdx 126 in Models/D4_model_EGFR_v13b.g = 0.542
+EGFR        0.298   
+SHC         0.587   
+Sos_Ras     0.554   
+craf        0.783   
+MAPK        0.516   
+Final Score for scramIdx 127 in Models/D4_model_EGFR_v13b.g = 0.548
+EGFR        0.254   
+SHC         0.598   
+Sos_Ras     0.551   
+craf        0.700   
+MAPK        0.482   
+Final Score for scramIdx 128 in Models/D4_model_EGFR_v13b.g = 0.517
+EGFR        0.344   
+SHC         0.581   
+Sos_Ras     0.569   
+craf        0.546   
+MAPK        0.498   
+Final Score for scramIdx 129 in Models/D4_model_EGFR_v13b.g = 0.508
+EGFR        0.274   
+SHC         0.601   
+Sos_Ras     0.553   
+craf        0.478   
+MAPK        0.472   
+Final Score for scramIdx 130 in Models/D4_model_EGFR_v13b.g = 0.476
+EGFR        0.353   
+SHC         0.581   
+Sos_Ras     0.560   
+craf        0.532   
+MAPK        0.500   
+Final Score for scramIdx 131 in Models/D4_model_EGFR_v13b.g = 0.505
+EGFR        0.362   
+SHC         0.573   
+Sos_Ras     0.548   
+craf        0.717   
+MAPK        0.509   
+Final Score for scramIdx 132 in Models/D4_model_EGFR_v13b.g = 0.542
+EGFR        0.357   
+SHC         0.586   
+Sos_Ras     0.570   
+craf        0.578   
+MAPK        0.497   
+Final Score for scramIdx 133 in Models/D4_model_EGFR_v13b.g = 0.518
+EGFR        0.206   
+SHC         0.695   
+Sos_Ras     0.568   
+craf        0.543   
+MAPK        0.505   
+Final Score for scramIdx 134 in Models/D4_model_EGFR_v13b.g = 0.503
+EGFR        0.331   
+SHC         0.573   
+Sos_Ras     0.550   
+craf        0.579   
+MAPK        0.505   
+Final Score for scramIdx 135 in Models/D4_model_EGFR_v13b.g = 0.508
+EGFR        0.350   
+SHC         0.588   
+Sos_Ras     0.555   
+craf        0.460   
+MAPK        0.500   
+Final Score for scramIdx 136 in Models/D4_model_EGFR_v13b.g = 0.491
+EGFR        0.301   
+SHC         0.696   
+Sos_Ras     0.571   
+craf        0.563   
+MAPK        0.518   
+Final Score for scramIdx 137 in Models/D4_model_EGFR_v13b.g = 0.530
+EGFR        0.330   
+SHC         0.586   
+Sos_Ras     0.563   
+craf        0.573   
+MAPK        0.500   
+Final Score for scramIdx 138 in Models/D4_model_EGFR_v13b.g = 0.510
+EGFR        0.348   
+SHC         0.583   
+Sos_Ras     0.567   
+craf        0.637   
+MAPK        0.504   
+Final Score for scramIdx 139 in Models/D4_model_EGFR_v13b.g = 0.528
+EGFR        0.213   
+SHC         0.612   
+Sos_Ras     0.555   
+craf        0.769   
+MAPK        0.513   
+Final Score for scramIdx 140 in Models/D4_model_EGFR_v13b.g = 0.532
+EGFR        0.330   
+SHC         0.584   
+Sos_Ras     0.562   
+craf        0.630   
+MAPK        0.512   
+Final Score for scramIdx 141 in Models/D4_model_EGFR_v13b.g = 0.524
+EGFR        0.306   
+SHC         0.597   
+Sos_Ras     0.564   
+craf        0.632   
+MAPK        0.497   
+Final Score for scramIdx 142 in Models/D4_model_EGFR_v13b.g = 0.519
+EGFR        0.199   
+SHC         0.622   
+Sos_Ras     0.560   
+craf        0.554   
+MAPK        0.517   
+Final Score for scramIdx 143 in Models/D4_model_EGFR_v13b.g = 0.490
+EGFR        0.358   
+SHC         0.600   
+Sos_Ras     0.579   
+craf        0.554   
+MAPK        0.501   
+Final Score for scramIdx 144 in Models/D4_model_EGFR_v13b.g = 0.518
+EGFR        0.328   
+SHC         0.614   
+Sos_Ras     0.567   
+craf        0.628   
+MAPK        0.503   
+Final Score for scramIdx 145 in Models/D4_model_EGFR_v13b.g = 0.528
+EGFR        0.206   
+SHC         0.635   
+Sos_Ras     0.564   
+craf        0.652   
+MAPK        0.513   
+Final Score for scramIdx 146 in Models/D4_model_EGFR_v13b.g = 0.514
+EGFR        0.331   
+SHC         0.593   
+Sos_Ras     0.553   
+craf        0.550   
+MAPK        0.533   
+Final Score for scramIdx 147 in Models/D4_model_EGFR_v13b.g = 0.512
+EGFR        0.279   
+SHC         0.641   
+Sos_Ras     0.565   
+craf        0.612   
+MAPK        0.498   
+Final Score for scramIdx 148 in Models/D4_model_EGFR_v13b.g = 0.519
+EGFR        0.340   
+SHC         0.585   
+Sos_Ras     0.550   
+craf        0.677   
+MAPK        0.501   
+Final Score for scramIdx 149 in Models/D4_model_EGFR_v13b.g = 0.530
+EGFR        0.209   
+SHC         0.631   
+Sos_Ras     0.558   
+craf        0.462   
+MAPK        0.481   
+Final Score for scramIdx 150 in Models/D4_model_EGFR_v13b.g = 0.468
+EGFR        0.206   
+SHC         0.615   
+Sos_Ras     0.551   
+craf        0.605   
+MAPK        0.483   
+Final Score for scramIdx 151 in Models/D4_model_EGFR_v13b.g = 0.492
+EGFR        0.318   
+SHC         0.578   
+Sos_Ras     0.560   
+craf        0.472   
+MAPK        0.479   
+Final Score for scramIdx 152 in Models/D4_model_EGFR_v13b.g = 0.482
+EGFR        0.322   
+SHC         0.647   
+Sos_Ras     0.576   
+craf        0.543   
+MAPK        0.506   
+Final Score for scramIdx 153 in Models/D4_model_EGFR_v13b.g = 0.519
+EGFR        0.354   
+SHC         0.626   
+Sos_Ras     0.572   
+craf        0.609   
+MAPK        0.517   
+Final Score for scramIdx 154 in Models/D4_model_EGFR_v13b.g = 0.536
+EGFR        0.327   
+SHC         0.574   
+Sos_Ras     0.553   
+craf        0.651   
+MAPK        0.502   
+Final Score for scramIdx 155 in Models/D4_model_EGFR_v13b.g = 0.522
+EGFR        0.355   
+SHC         0.577   
+Sos_Ras     0.562   
+craf        0.650   
+MAPK        0.549   
+Final Score for scramIdx 156 in Models/D4_model_EGFR_v13b.g = 0.539
+EGFR        0.353   
+SHC         0.569   
+Sos_Ras     0.554   
+craf        0.673   
+MAPK        0.508   
+Final Score for scramIdx 157 in Models/D4_model_EGFR_v13b.g = 0.531
+EGFR        0.199   
+SHC         0.672   
+Sos_Ras     0.569   
+craf        0.635   
+MAPK        0.510   
+Final Score for scramIdx 158 in Models/D4_model_EGFR_v13b.g = 0.517
+EGFR        0.356   
+SHC         0.589   
+Sos_Ras     0.579   
+craf        0.611   
+MAPK        0.503   
+Final Score for scramIdx 159 in Models/D4_model_EGFR_v13b.g = 0.528
+EGFR        0.357   
+SHC         0.584   
+Sos_Ras     0.557   
+craf        0.644   
+MAPK        0.498   
+Final Score for scramIdx 160 in Models/D4_model_EGFR_v13b.g = 0.528
+EGFR        0.211   
+SHC         0.628   
+Sos_Ras     0.553   
+craf        0.540   
+MAPK        0.517   
+Final Score for scramIdx 161 in Models/D4_model_EGFR_v13b.g = 0.490
+EGFR        0.208   
+SHC         0.632   
+Sos_Ras     0.558   
+craf        0.604   
+MAPK        0.539   
+Final Score for scramIdx 162 in Models/D4_model_EGFR_v13b.g = 0.508
+EGFR        0.197   
+SHC         0.637   
+Sos_Ras     0.562   
+craf        0.650   
+MAPK        0.471   
+Final Score for scramIdx 163 in Models/D4_model_EGFR_v13b.g = 0.503
+EGFR        0.340   
+SHC         0.576   
+Sos_Ras     0.545   
+craf        0.572   
+MAPK        0.498   
+Final Score for scramIdx 164 in Models/D4_model_EGFR_v13b.g = 0.506
+EGFR        0.350   
+SHC         0.580   
+Sos_Ras     0.564   
+craf        0.571   
+MAPK        0.506   
+Final Score for scramIdx 165 in Models/D4_model_EGFR_v13b.g = 0.514
+EGFR        0.342   
+SHC         0.600   
+Sos_Ras     0.569   
+craf        0.231   
+MAPK        0.474   
+Final Score for scramIdx 166 in Models/D4_model_EGFR_v13b.g = 0.443
+EGFR        0.343   
+SHC         0.584   
+Sos_Ras     0.563   
+craf        0.678   
+MAPK        0.501   
+Final Score for scramIdx 167 in Models/D4_model_EGFR_v13b.g = 0.534
+EGFR        0.292   
+SHC         0.594   
+Sos_Ras     0.558   
+craf        0.501   
+MAPK        0.496   
+Final Score for scramIdx 168 in Models/D4_model_EGFR_v13b.g = 0.488
+EGFR        0.353   
+SHC         0.575   
+Sos_Ras     0.578   
+craf        0.375   
+MAPK        0.544   
+Final Score for scramIdx 169 in Models/D4_model_EGFR_v13b.g = 0.485
+EGFR        0.223   
+SHC         0.619   
+Sos_Ras     0.570   
+craf        0.579   
+MAPK        0.508   
+Final Score for scramIdx 170 in Models/D4_model_EGFR_v13b.g = 0.500
+EGFR        0.356   
+SHC         0.582   
+Sos_Ras     0.563   
+craf        0.838   
+MAPK        0.548   
+Final Score for scramIdx 171 in Models/D4_model_EGFR_v13b.g = 0.577
+EGFR        0.215   
+SHC         0.617   
+Sos_Ras     0.557   
+craf        0.633   
+MAPK        0.505   
+Final Score for scramIdx 172 in Models/D4_model_EGFR_v13b.g = 0.505
+EGFR        0.212   
+SHC         0.629   
+Sos_Ras     0.567   
+craf        0.603   
+MAPK        0.512   
+Final Score for scramIdx 173 in Models/D4_model_EGFR_v13b.g = 0.505
+EGFR        0.332   
+SHC         0.590   
+Sos_Ras     0.563   
+craf        0.281   
+MAPK        0.521   
+Final Score for scramIdx 174 in Models/D4_model_EGFR_v13b.g = 0.457
+EGFR        0.304   
+SHC         0.600   
+Sos_Ras     0.581   
+craf        0.573   
+MAPK        0.508   
+Final Score for scramIdx 175 in Models/D4_model_EGFR_v13b.g = 0.513
+EGFR        0.360   
+SHC         0.578   
+Sos_Ras     0.542   
+craf        0.475   
+MAPK        0.495   
+Final Score for scramIdx 176 in Models/D4_model_EGFR_v13b.g = 0.490
+EGFR        0.320   
+SHC         0.586   
+Sos_Ras     0.549   
+craf        0.599   
+MAPK        0.488   
+Final Score for scramIdx 177 in Models/D4_model_EGFR_v13b.g = 0.508
+EGFR        0.234   
+SHC         0.631   
+Sos_Ras     0.583   
+craf        0.622   
+MAPK        0.501   
+Final Score for scramIdx 178 in Models/D4_model_EGFR_v13b.g = 0.514
+EGFR        0.359   
+SHC         0.579   
+Sos_Ras     0.559   
+craf        0.705   
+MAPK        0.497   
+Final Score for scramIdx 179 in Models/D4_model_EGFR_v13b.g = 0.540
+EGFR        0.209   
+SHC         0.618   
+Sos_Ras     0.555   
+craf        0.736   
+MAPK        0.522   
+Final Score for scramIdx 180 in Models/D4_model_EGFR_v13b.g = 0.528
+EGFR        0.205   
+SHC         0.619   
+Sos_Ras     0.556   
+craf        0.543   
+MAPK        0.477   
+Final Score for scramIdx 181 in Models/D4_model_EGFR_v13b.g = 0.480
+EGFR        0.208   
+SHC         0.669   
+Sos_Ras     0.573   
+craf        0.557   
+MAPK        0.479   
+Final Score for scramIdx 182 in Models/D4_model_EGFR_v13b.g = 0.497
+EGFR        0.333   
+SHC         0.586   
+Sos_Ras     0.552   
+craf        0.599   
+MAPK        0.503   
+Final Score for scramIdx 183 in Models/D4_model_EGFR_v13b.g = 0.515
+EGFR        0.346   
+SHC         0.617   
+Sos_Ras     0.569   
+craf        0.644   
+MAPK        0.502   
+Final Score for scramIdx 184 in Models/D4_model_EGFR_v13b.g = 0.536
+EGFR        0.336   
+SHC         0.584   
+Sos_Ras     0.579   
+craf        0.600   
+MAPK        0.498   
+Final Score for scramIdx 185 in Models/D4_model_EGFR_v13b.g = 0.519
+EGFR        0.322   
+SHC         0.598   
+Sos_Ras     0.567   
+craf        0.591   
+MAPK        0.504   
+Final Score for scramIdx 186 in Models/D4_model_EGFR_v13b.g = 0.516
+EGFR        0.354   
+SHC         0.575   
+Sos_Ras     0.556   
+craf        0.582   
+MAPK        0.496   
+Final Score for scramIdx 187 in Models/D4_model_EGFR_v13b.g = 0.513
+EGFR        0.260   
+SHC         0.604   
+Sos_Ras     0.583   
+craf        0.564   
+MAPK        0.536   
+Final Score for scramIdx 188 in Models/D4_model_EGFR_v13b.g = 0.509
+EGFR        0.366   
+SHC         0.565   
+Sos_Ras     0.555   
+craf        0.516   
+MAPK        0.541   
+Final Score for scramIdx 189 in Models/D4_model_EGFR_v13b.g = 0.508
+EGFR        0.338   
+SHC         0.586   
+Sos_Ras     0.549   
+craf        0.577   
+MAPK        0.506   
+Final Score for scramIdx 190 in Models/D4_model_EGFR_v13b.g = 0.511
+EGFR        0.353   
+SHC         0.584   
+Sos_Ras     0.548   
+craf        0.648   
+MAPK        0.535   
+Final Score for scramIdx 191 in Models/D4_model_EGFR_v13b.g = 0.534
+EGFR        0.355   
+SHC         0.609   
+Sos_Ras     0.571   
+craf        0.656   
+MAPK        0.515   
+Final Score for scramIdx 192 in Models/D4_model_EGFR_v13b.g = 0.541
+EGFR        0.219   
+SHC         0.610   
+Sos_Ras     0.557   
+craf        0.600   
+MAPK        0.487   
+Final Score for scramIdx 193 in Models/D4_model_EGFR_v13b.g = 0.495
+EGFR        0.209   
+SHC         0.637   
+Sos_Ras     0.562   
+craf        0.688   
+MAPK        0.468   
+Final Score for scramIdx 194 in Models/D4_model_EGFR_v13b.g = 0.513
+EGFR        0.208   
+SHC         0.624   
+Sos_Ras     0.555   
+craf        0.623   
+MAPK        0.465   
+Final Score for scramIdx 195 in Models/D4_model_EGFR_v13b.g = 0.495
+EGFR        0.251   
+SHC         0.664   
+Sos_Ras     0.581   
+craf        0.639   
+MAPK        0.506   
+Final Score for scramIdx 196 in Models/D4_model_EGFR_v13b.g = 0.528
+EGFR        0.300   
+SHC         0.593   
+Sos_Ras     0.559   
+craf        0.677   
+MAPK        0.478   
+Final Score for scramIdx 197 in Models/D4_model_EGFR_v13b.g = 0.521
+EGFR        0.347   
+SHC         0.620   
+Sos_Ras     0.596   
+craf        0.767   
+MAPK        0.504   
+Final Score for scramIdx 198 in Models/D4_model_EGFR_v13b.g = 0.567
+EGFR        0.353   
+SHC         0.587   
+Sos_Ras     0.556   
+craf        0.727   
+MAPK        0.498   
+Final Score for scramIdx 199 in Models/D4_model_EGFR_v13b.g = 0.544
+Models/D4_model_EGFR_v13b.g: initScramble: Init Score 0.539, Final = 0.439, Time = 1434.637s

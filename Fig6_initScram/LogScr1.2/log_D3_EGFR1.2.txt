@@ -1,0 +1,1201 @@
+Launching wrapRunOptimizer 0 at time = 0.750 for SCRAM_D3_EGFR/scram_000.json 
+Launching wrapRunOptimizer 1 at time = 0.750 for SCRAM_D3_EGFR/scram_001.json 
+Launching wrapRunOptimizer 2 at time = 0.750 for SCRAM_D3_EGFR/scram_002.json 
+Launching wrapRunOptimizer 3 at time = 0.750 for SCRAM_D3_EGFR/scram_003.json 
+Launching wrapRunOptimizer 4 at time = 0.750 for SCRAM_D3_EGFR/scram_004.json 
+Launching wrapRunOptimizer 8 at time = 0.751 for SCRAM_D3_EGFR/scram_008.json 
+Launching wrapRunOptimizer 9 at time = 0.751 for SCRAM_D3_EGFR/scram_009.json 
+Launching wrapRunOptimizer 5 at time = 0.750 for SCRAM_D3_EGFR/scram_005.json 
+Launching wrapRunOptimizer 6 at time = 0.750 for SCRAM_D3_EGFR/scram_006.json 
+Launching wrapRunOptimizer 10 at time = 0.751 for SCRAM_D3_EGFR/scram_010.json 
+Launching wrapRunOptimizer 7 at time = 0.751 for SCRAM_D3_EGFR/scram_007.json 
+Launching wrapRunOptimizer 11 at time = 0.751 for SCRAM_D3_EGFR/scram_011.json 
+Launching wrapRunOptimizer 13 at time = 0.751 for SCRAM_D3_EGFR/scram_013.json 
+Launching wrapRunOptimizer 12 at time = 0.751 for SCRAM_D3_EGFR/scram_012.json 
+Launching wrapRunOptimizer 15 at time = 0.751 for SCRAM_D3_EGFR/scram_015.json 
+Launching wrapRunOptimizer 14 at time = 0.751 for SCRAM_D3_EGFR/scram_014.json 
+Launching wrapRunOptimizer 16 at time = 0.751 for SCRAM_D3_EGFR/scram_016.json 
+Launching wrapRunOptimizer 20 at time = 0.752 for SCRAM_D3_EGFR/scram_020.json 
+Launching wrapRunOptimizer 19 at time = 0.752 for SCRAM_D3_EGFR/scram_019.json 
+Launching wrapRunOptimizer 21 at time = 0.752 for SCRAM_D3_EGFR/scram_021.json 
+Launching wrapRunOptimizer 23 at time = 0.752 for SCRAM_D3_EGFR/scram_023.json 
+Launching wrapRunOptimizer 22 at time = 0.752 for SCRAM_D3_EGFR/scram_022.json 
+Launching wrapRunOptimizer 17 at time = 0.751 for SCRAM_D3_EGFR/scram_017.json 
+Launching wrapRunOptimizer 18 at time = 0.752 for SCRAM_D3_EGFR/scram_018.json 
+Level 011.1 --- Init Score: 0.146   OptimizedScore 0.142       Time: 1.337 s
+Level 018.1 --- Init Score: 0.149   OptimizedScore 0.137       Time: 1.288 s
+Level 016.1 --- Init Score: 0.151   OptimizedScore 0.141       Time: 1.516 s
+Level 009.1 --- Init Score: 0.164   OptimizedScore 0.150       Time: 1.427 s
+Level 017.1 --- Init Score: 0.145   OptimizedScore 0.143       Time: 1.579 s
+Level 002.1 --- Init Score: 0.148   OptimizedScore 0.143       Time: 1.572 s
+Level 000.1 --- Init Score: 0.145   OptimizedScore 0.142       Time: 1.633 s
+Level 014.1 --- Init Score: 0.154   OptimizedScore 0.139       Time: 1.685 s
+Level 023.1 --- Init Score: 0.143   OptimizedScore 0.141       Time: 2.380 s
+Level 004.1 --- Init Score: 0.145   OptimizedScore 0.144       Time: 2.080 s
+Level 006.1 --- Init Score: 0.172   OptimizedScore 0.147       Time: 2.465 s
+Level 012.1 --- Init Score: 0.159   OptimizedScore 0.144       Time: 1.984 s
+Level 021.1 --- Init Score: 0.153   OptimizedScore 0.141       Time: 2.576 s
+Level 010.1 --- Init Score: 0.153   OptimizedScore 0.142       Time: 2.616 s
+Level 008.1 --- Init Score: 0.152   OptimizedScore 0.139       Time: 2.252 s
+Level 005.1 --- Init Score: 0.148   OptimizedScore 0.145       Time: 2.219 s
+Level 015.1 --- Init Score: 0.162   OptimizedScore 0.146       Time: 2.404 s
+Level 007.1 --- Init Score: 0.166   OptimizedScore 0.142       Time: 2.671 s
+Level 001.1 --- Init Score: 0.153   OptimizedScore 0.143       Time: 2.697 s
+Level 022.1 --- Init Score: 0.147   OptimizedScore 0.138       Time: 2.728 s
+Level 020.1 --- Init Score: 0.146   OptimizedScore 0.141       Time: 2.924 s
+Level 013.1 --- Init Score: 0.153   OptimizedScore 0.137       Time: 2.833 s
+Level 003.1 --- Init Score: 0.187   OptimizedScore 0.141       Time: 2.892 s
+Level 019.1 --- Init Score: 0.181   OptimizedScore 0.154       Time: 2.996 s
+Level 000.2 --- Init Score: 0.360   OptimizedScore 0.291       Time: 14.807 s
+Launching wrapRunOptimizer 24 at time = 19.199 for SCRAM_D3_EGFR/scram_024.json 
+Level 022.2 --- Init Score: 0.394   OptimizedScore 0.293       Time: 14.852 s
+Launching wrapRunOptimizer 25 at time = 20.254 for SCRAM_D3_EGFR/scram_025.json 
+Level 015.2 --- Init Score: 0.310   OptimizedScore 0.291       Time: 15.919 s
+Launching wrapRunOptimizer 26 at time = 21.087 for SCRAM_D3_EGFR/scram_026.json 
+Level 003.2 --- Init Score: 0.322   OptimizedScore 0.295       Time: 17.037 s
+Level 024.1 --- Init Score: 0.140   OptimizedScore 0.139       Time: 2.653 s
+Launching wrapRunOptimizer 27 at time = 22.587 for SCRAM_D3_EGFR/scram_027.json 
+Level 025.1 --- Init Score: 0.149   OptimizedScore 0.141       Time: 2.021 s
+Level 026.1 --- Init Score: 0.151   OptimizedScore 0.141       Time: 2.204 s
+Level 010.2 --- Init Score: 0.311   OptimizedScore 0.291       Time: 19.891 s
+Launching wrapRunOptimizer 28 at time = 24.449 for SCRAM_D3_EGFR/scram_028.json 
+Level 005.2 --- Init Score: 0.304   OptimizedScore 0.290       Time: 20.208 s
+Launching wrapRunOptimizer 29 at time = 25.280 for SCRAM_D3_EGFR/scram_029.json 
+Level 001.2 --- Init Score: 0.381   OptimizedScore 0.296       Time: 20.611 s
+Level 027.1 --- Init Score: 0.154   OptimizedScore 0.147       Time: 2.420 s
+Level 014.2 --- Init Score: 0.330   OptimizedScore 0.292       Time: 22.196 s
+Launching wrapRunOptimizer 30 at time = 26.145 for SCRAM_D3_EGFR/scram_030.json 
+Launching wrapRunOptimizer 31 at time = 26.775 for SCRAM_D3_EGFR/scram_031.json 
+Level 028.1 --- Init Score: 0.158   OptimizedScore 0.138       Time: 2.056 s
+Level 029.1 --- Init Score: 0.160   OptimizedScore 0.142       Time: 2.068 s
+Level 019.2 --- Init Score: 0.301   OptimizedScore 0.292       Time: 23.715 s
+Level 030.1 --- Init Score: 0.143   OptimizedScore 0.141       Time: 2.113 s
+Level 031.1 --- Init Score: 0.143   OptimizedScore 0.141       Time: 1.976 s
+Launching wrapRunOptimizer 32 at time = 29.405 for SCRAM_D3_EGFR/scram_032.json 
+Level 032.1 --- Init Score: 0.158   OptimizedScore 0.141       Time: 2.658 s
+Level 009.2 --- Init Score: 0.306   OptimizedScore 0.287       Time: 32.131 s
+Launching wrapRunOptimizer 33 at time = 36.222 for SCRAM_D3_EGFR/scram_033.json 
+Level 025.2 --- Init Score: 0.301   OptimizedScore 0.292       Time: 13.395 s
+Level 006.2 --- Init Score: 0.355   OptimizedScore 0.292       Time: 32.661 s
+Launching wrapRunOptimizer 34 at time = 37.084 for SCRAM_D3_EGFR/scram_034.json 
+Launching wrapRunOptimizer 35 at time = 37.396 for SCRAM_D3_EGFR/scram_035.json 
+Level 008.2 --- Init Score: 0.294   OptimizedScore 0.289       Time: 33.971 s
+Launching wrapRunOptimizer 36 at time = 38.601 for SCRAM_D3_EGFR/scram_036.json 
+Level 017.2 --- Init Score: 0.312   OptimizedScore 0.289       Time: 35.108 s
+Level 021.2 --- Init Score: 0.324   OptimizedScore 0.293       Time: 35.173 s
+Level 033.1 --- Init Score: 0.149   OptimizedScore 0.140       Time: 2.242 s
+Launching wrapRunOptimizer 37 at time = 39.476 for SCRAM_D3_EGFR/scram_037.json 
+Launching wrapRunOptimizer 38 at time = 40.051 for SCRAM_D3_EGFR/scram_038.json 
+Level 034.1 --- Init Score: 0.157   OptimizedScore 0.135       Time: 3.470 s
+Level 035.1 --- Init Score: 0.178   OptimizedScore 0.151       Time: 3.258 s
+Level 036.1 --- Init Score: 0.149   OptimizedScore 0.137       Time: 2.531 s
+Level 037.1 --- Init Score: 0.146   OptimizedScore 0.141       Time: 2.174 s
+Level 007.2 --- Init Score: 0.319   OptimizedScore 0.292       Time: 37.577 s
+Launching wrapRunOptimizer 39 at time = 42.889 for SCRAM_D3_EGFR/scram_039.json 
+Level 012.2 --- Init Score: 0.376   OptimizedScore 0.293       Time: 39.800 s
+Level 038.1 --- Init Score: 0.163   OptimizedScore 0.144       Time: 3.322 s
+Launching wrapRunOptimizer 40 at time = 44.283 for SCRAM_D3_EGFR/scram_040.json 
+Level 031.2 --- Init Score: 0.317   OptimizedScore 0.289       Time: 16.403 s
+Level 039.1 --- Init Score: 0.148   OptimizedScore 0.143       Time: 2.598 s
+Launching wrapRunOptimizer 41 at time = 46.145 for SCRAM_D3_EGFR/scram_041.json 
+Level 030.2 --- Init Score: 0.306   OptimizedScore 0.289       Time: 17.422 s
+Level 024.2 --- Init Score: 0.302   OptimizedScore 0.292       Time: 24.484 s
+Launching wrapRunOptimizer 42 at time = 46.919 for SCRAM_D3_EGFR/scram_042.json 
+Launching wrapRunOptimizer 43 at time = 47.571 for SCRAM_D3_EGFR/scram_043.json 
+Level 040.1 --- Init Score: 0.167   OptimizedScore 0.145       Time: 3.069 s
+Level 018.2 --- Init Score: 0.299   OptimizedScore 0.288       Time: 44.982 s
+Launching wrapRunOptimizer 44 at time = 48.913 for SCRAM_D3_EGFR/scram_044.json 
+Level 041.1 --- Init Score: 0.148   OptimizedScore 0.143       Time: 2.633 s
+Level 042.1 --- Init Score: 0.163   OptimizedScore 0.143       Time: 3.174 s
+Level 043.1 --- Init Score: 0.192   OptimizedScore 0.152       Time: 2.945 s
+Level 044.1 --- Init Score: 0.166   OptimizedScore 0.145       Time: 2.835 s
+Level 027.2 --- Init Score: 0.299   OptimizedScore 0.289       Time: 29.091 s
+Launching wrapRunOptimizer 45 at time = 55.066 for SCRAM_D3_EGFR/scram_045.json 
+Level 029.2 --- Init Score: 0.314   OptimizedScore 0.291       Time: 28.397 s
+Level 011.2 --- Init Score: 0.297   OptimizedScore 0.288       Time: 53.635 s
+Launching wrapRunOptimizer 46 at time = 56.766 for SCRAM_D3_EGFR/scram_046.json 
+Launching wrapRunOptimizer 47 at time = 57.256 for SCRAM_D3_EGFR/scram_047.json 
+Level 045.1 --- Init Score: 0.143   OptimizedScore 0.138       Time: 1.846 s
+Level 038.2 --- Init Score: 0.300   OptimizedScore 0.292       Time: 13.792 s
+Level 016.2 --- Init Score: 0.303   OptimizedScore 0.287       Time: 54.157 s
+Level 002.2 --- Init Score: 0.401   OptimizedScore 0.293       Time: 54.239 s
+Level 023.2 --- Init Score: 0.327   OptimizedScore 0.291       Time: 54.152 s
+Level 004.2 --- Init Score: 0.370   OptimizedScore 0.287       Time: 54.143 s
+Launching wrapRunOptimizer 48 at time = 58.378 for SCRAM_D3_EGFR/scram_048.json 
+Launching wrapRunOptimizer 49 at time = 58.583 for SCRAM_D3_EGFR/scram_049.json 
+Launching wrapRunOptimizer 50 at time = 58.778 for SCRAM_D3_EGFR/scram_050.json 
+Launching wrapRunOptimizer 51 at time = 58.861 for SCRAM_D3_EGFR/scram_051.json 
+Launching wrapRunOptimizer 52 at time = 58.971 for SCRAM_D3_EGFR/scram_052.json 
+Level 020.2 --- Init Score: 0.302   OptimizedScore 0.288       Time: 54.248 s
+Level 013.2 --- Init Score: 0.299   OptimizedScore 0.290       Time: 54.276 s
+Launching wrapRunOptimizer 53 at time = 59.990 for SCRAM_D3_EGFR/scram_053.json 
+Level 046.1 --- Init Score: 0.140   OptimizedScore 0.136       Time: 2.653 s
+Launching wrapRunOptimizer 54 at time = 60.108 for SCRAM_D3_EGFR/scram_054.json 
+Level 047.1 --- Init Score: 0.149   OptimizedScore 0.142       Time: 2.505 s
+Level 049.1 --- Init Score: 0.155   OptimizedScore 0.138       Time: 1.473 s
+Level 032.2 --- Init Score: 0.331   OptimizedScore 0.295       Time: 28.681 s
+Level 050.1 --- Init Score: 0.146   OptimizedScore 0.140       Time: 1.775 s
+Level 048.1 --- Init Score: 0.168   OptimizedScore 0.141       Time: 2.500 s
+Launching wrapRunOptimizer 55 at time = 61.854 for SCRAM_D3_EGFR/scram_055.json 
+Level 051.1 --- Init Score: 0.155   OptimizedScore 0.142       Time: 3.403 s
+Level 054.1 --- Init Score: 0.155   OptimizedScore 0.140       Time: 2.381 s
+Level 052.1 --- Init Score: 0.150   OptimizedScore 0.137       Time: 3.662 s
+Level 053.1 --- Init Score: 0.182   OptimizedScore 0.144       Time: 3.040 s
+Level 055.1 --- Init Score: 0.158   OptimizedScore 0.139       Time: 1.439 s
+Level 039.2 --- Init Score: 0.317   OptimizedScore 0.294       Time: 19.157 s
+Launching wrapRunOptimizer 56 at time = 65.699 for SCRAM_D3_EGFR/scram_056.json 
+Level 056.1 --- Init Score: 0.148   OptimizedScore 0.140       Time: 2.810 s
+Level 046.2 --- Init Score: 0.326   OptimizedScore 0.295       Time: 13.895 s
+Launching wrapRunOptimizer 57 at time = 74.429 for SCRAM_D3_EGFR/scram_057.json 
+Level 034.2 --- Init Score: 0.317   OptimizedScore 0.291       Time: 33.382 s
+Launching wrapRunOptimizer 58 at time = 75.219 for SCRAM_D3_EGFR/scram_058.json 
+Level 026.2 --- Init Score: 0.320   OptimizedScore 0.290       Time: 53.588 s
+Level 057.1 --- Init Score: 0.150   OptimizedScore 0.145       Time: 2.445 s
+Launching wrapRunOptimizer 59 at time = 77.777 for SCRAM_D3_EGFR/scram_059.json 
+Level 028.2 --- Init Score: 0.337   OptimizedScore 0.290       Time: 51.887 s
+Launching wrapRunOptimizer 60 at time = 79.422 for SCRAM_D3_EGFR/scram_060.json 
+Level 058.1 --- Init Score: 0.146   OptimizedScore 0.142       Time: 3.759 s
+Level 044.2 --- Init Score: 0.358   OptimizedScore 0.295       Time: 27.391 s
+Level 059.1 --- Init Score: 0.161   OptimizedScore 0.135       Time: 1.916 s
+Launching wrapRunOptimizer 61 at time = 80.262 for SCRAM_D3_EGFR/scram_061.json 
+Level 042.2 --- Init Score: 0.307   OptimizedScore 0.292       Time: 30.920 s
+Level 040.2 --- Init Score: 0.316   OptimizedScore 0.291       Time: 34.383 s
+Launching wrapRunOptimizer 62 at time = 82.225 for SCRAM_D3_EGFR/scram_062.json 
+Launching wrapRunOptimizer 63 at time = 82.930 for SCRAM_D3_EGFR/scram_063.json 
+Level 060.1 --- Init Score: 0.157   OptimizedScore 0.143       Time: 3.345 s
+Level 061.1 --- Init Score: 0.152   OptimizedScore 0.140       Time: 3.101 s
+Level 033.2 --- Init Score: 0.309   OptimizedScore 0.289       Time: 45.308 s
+Level 062.1 --- Init Score: 0.151   OptimizedScore 0.142       Time: 1.922 s
+Launching wrapRunOptimizer 64 at time = 85.116 for SCRAM_D3_EGFR/scram_064.json 
+Level 063.1 --- Init Score: 0.141   OptimizedScore 0.139       Time: 2.933 s
+Level 056.2 --- Init Score: 0.312   OptimizedScore 0.294       Time: 18.957 s
+Level 064.1 --- Init Score: 0.151   OptimizedScore 0.142       Time: 2.764 s
+Launching wrapRunOptimizer 65 at time = 88.449 for SCRAM_D3_EGFR/scram_065.json 
+Level 054.2 --- Init Score: 0.312   OptimizedScore 0.292       Time: 26.565 s
+Launching wrapRunOptimizer 66 at time = 90.232 for SCRAM_D3_EGFR/scram_066.json 
+Level 048.2 --- Init Score: 0.316   OptimizedScore 0.291       Time: 29.587 s
+Launching wrapRunOptimizer 67 at time = 91.878 for SCRAM_D3_EGFR/scram_067.json 
+Level 043.2 --- Init Score: 0.323   OptimizedScore 0.288       Time: 41.153 s
+Level 065.1 --- Init Score: 0.180   OptimizedScore 0.143       Time: 3.698 s
+Launching wrapRunOptimizer 68 at time = 92.743 for SCRAM_D3_EGFR/scram_068.json 
+Level 066.1 --- Init Score: 0.147   OptimizedScore 0.142       Time: 2.704 s
+Level 041.2 --- Init Score: 0.305   OptimizedScore 0.288       Time: 45.541 s
+Level 068.1 --- Init Score: 0.144   OptimizedScore 0.143       Time: 1.882 s
+Level 067.1 --- Init Score: 0.146   OptimizedScore 0.142       Time: 2.794 s
+Launching wrapRunOptimizer 69 at time = 95.427 for SCRAM_D3_EGFR/scram_069.json 
+Level 037.2 --- Init Score: 0.302   OptimizedScore 0.286       Time: 54.268 s
+Level 051.2 --- Init Score: 0.300   OptimizedScore 0.290       Time: 33.673 s
+Launching wrapRunOptimizer 70 at time = 97.097 for SCRAM_D3_EGFR/scram_070.json 
+Level 036.2 --- Init Score: 0.312   OptimizedScore 0.286       Time: 55.544 s
+Launching wrapRunOptimizer 71 at time = 97.482 for SCRAM_D3_EGFR/scram_071.json 
+Level 035.2 --- Init Score: 0.302   OptimizedScore 0.286       Time: 56.276 s
+Level 058.2 --- Init Score: 0.301   OptimizedScore 0.288       Time: 18.276 s
+Level 069.1 --- Init Score: 0.156   OptimizedScore 0.142       Time: 2.225 s
+Level 057.2 --- Init Score: 0.322   OptimizedScore 0.290       Time: 20.756 s
+Launching wrapRunOptimizer 72 at time = 98.205 for SCRAM_D3_EGFR/scram_072.json 
+Launching wrapRunOptimizer 73 at time = 98.421 for SCRAM_D3_EGFR/scram_073.json 
+Launching wrapRunOptimizer 74 at time = 98.659 for SCRAM_D3_EGFR/scram_074.json 
+Launching wrapRunOptimizer 75 at time = 99.019 for SCRAM_D3_EGFR/scram_075.json 
+Level 070.1 --- Init Score: 0.144   OptimizedScore 0.142       Time: 1.466 s
+Level 071.1 --- Init Score: 0.145   OptimizedScore 0.144       Time: 1.280 s
+Level 053.2 --- Init Score: 0.313   OptimizedScore 0.288       Time: 35.922 s
+Launching wrapRunOptimizer 76 at time = 100.124 for SCRAM_D3_EGFR/scram_076.json 
+Level 074.1 --- Init Score: 0.145   OptimizedScore 0.143       Time: 2.926 s
+Level 073.1 --- Init Score: 0.155   OptimizedScore 0.142       Time: 3.566 s
+Level 049.2 --- Init Score: 0.301   OptimizedScore 0.290       Time: 41.974 s
+Level 072.1 --- Init Score: 0.180   OptimizedScore 0.143       Time: 3.848 s
+Level 047.2 --- Init Score: 0.312   OptimizedScore 0.286       Time: 42.755 s
+Launching wrapRunOptimizer 77 at time = 103.286 for SCRAM_D3_EGFR/scram_077.json 
+Level 076.1 --- Init Score: 0.162   OptimizedScore 0.138       Time: 2.968 s
+Launching wrapRunOptimizer 78 at time = 103.873 for SCRAM_D3_EGFR/scram_078.json 
+Level 059.2 --- Init Score: 0.318   OptimizedScore 0.289       Time: 25.753 s
+Level 075.1 --- Init Score: 0.158   OptimizedScore 0.138       Time: 6.296 s
+Level 077.1 --- Init Score: 0.142   OptimizedScore 0.140       Time: 2.308 s
+Launching wrapRunOptimizer 79 at time = 106.498 for SCRAM_D3_EGFR/scram_079.json 
+Level 078.1 --- Init Score: 0.148   OptimizedScore 0.143       Time: 2.649 s
+Level 079.1 --- Init Score: 0.153   OptimizedScore 0.142       Time: 2.300 s
+Level 071.2 --- Init Score: 0.327   OptimizedScore 0.295       Time: 10.712 s
+Launching wrapRunOptimizer 80 at time = 110.768 for SCRAM_D3_EGFR/scram_080.json 
+Level 061.2 --- Init Score: 0.325   OptimizedScore 0.292       Time: 27.217 s
+Level 065.2 --- Init Score: 0.324   OptimizedScore 0.292       Time: 18.630 s
+Launching wrapRunOptimizer 81 at time = 111.714 for SCRAM_D3_EGFR/scram_081.json 
+Launching wrapRunOptimizer 82 at time = 111.982 for SCRAM_D3_EGFR/scram_082.json 
+Level 045.2 --- Init Score: 0.311   OptimizedScore 0.289       Time: 55.187 s
+Level 080.1 --- Init Score: 0.148   OptimizedScore 0.144       Time: 1.596 s
+Launching wrapRunOptimizer 83 at time = 113.160 for SCRAM_D3_EGFR/scram_083.json 
+Level 069.2 --- Init Score: 0.310   OptimizedScore 0.292       Time: 15.290 s
+Launching wrapRunOptimizer 84 at time = 114.064 for SCRAM_D3_EGFR/scram_084.json 
+Level 081.1 --- Init Score: 0.146   OptimizedScore 0.142       Time: 2.152 s
+Level 082.1 --- Init Score: 0.151   OptimizedScore 0.138       Time: 3.190 s
+Level 050.2 --- Init Score: 0.324   OptimizedScore 0.288       Time: 54.692 s
+Launching wrapRunOptimizer 85 at time = 116.719 for SCRAM_D3_EGFR/scram_085.json 
+Level 060.2 --- Init Score: 0.311   OptimizedScore 0.290       Time: 33.431 s
+Level 084.1 --- Init Score: 0.173   OptimizedScore 0.147       Time: 2.924 s
+Launching wrapRunOptimizer 86 at time = 117.537 for SCRAM_D3_EGFR/scram_086.json 
+Level 073.2 --- Init Score: 0.307   OptimizedScore 0.293       Time: 14.784 s
+Level 055.2 --- Init Score: 0.301   OptimizedScore 0.289       Time: 54.065 s
+Level 052.2 --- Init Score: 0.327   OptimizedScore 0.288       Time: 54.562 s
+Launching wrapRunOptimizer 87 at time = 118.299 for SCRAM_D3_EGFR/scram_087.json 
+Launching wrapRunOptimizer 88 at time = 118.564 for SCRAM_D3_EGFR/scram_088.json 
+Level 083.1 --- Init Score: 0.156   OptimizedScore 0.141       Time: 5.009 s
+Launching wrapRunOptimizer 89 at time = 118.821 for SCRAM_D3_EGFR/scram_089.json 
+Level 085.1 --- Init Score: 0.173   OptimizedScore 0.146       Time: 2.577 s
+Level 086.1 --- Init Score: 0.157   OptimizedScore 0.138       Time: 1.898 s
+Level 079.2 --- Init Score: 0.314   OptimizedScore 0.292       Time: 11.289 s
+Launching wrapRunOptimizer 90 at time = 121.028 for SCRAM_D3_EGFR/scram_090.json 
+Level 088.1 --- Init Score: 0.165   OptimizedScore 0.136       Time: 2.737 s
+Level 087.1 --- Init Score: 0.158   OptimizedScore 0.145       Time: 3.679 s
+Level 090.1 --- Init Score: 0.146   OptimizedScore 0.136       Time: 2.818 s
+Level 089.1 --- Init Score: 0.163   OptimizedScore 0.136       Time: 6.675 s
+Level 077.2 --- Init Score: 0.321   OptimizedScore 0.293       Time: 21.482 s
+Launching wrapRunOptimizer 91 at time = 128.373 for SCRAM_D3_EGFR/scram_091.json 
+Level 074.2 --- Init Score: 0.299   OptimizedScore 0.289       Time: 28.511 s
+Launching wrapRunOptimizer 92 at time = 131.510 for SCRAM_D3_EGFR/scram_092.json 
+Level 091.1 --- Init Score: 0.160   OptimizedScore 0.141       Time: 3.139 s
+Level 085.2 --- Init Score: 0.303   OptimizedScore 0.292       Time: 12.105 s
+Launching wrapRunOptimizer 93 at time = 132.409 for SCRAM_D3_EGFR/scram_093.json 
+Level 092.1 --- Init Score: 0.174   OptimizedScore 0.149       Time: 2.701 s
+Level 062.2 --- Init Score: 0.358   OptimizedScore 0.287       Time: 52.773 s
+Launching wrapRunOptimizer 94 at time = 138.186 for SCRAM_D3_EGFR/scram_094.json 
+Level 081.2 --- Init Score: 0.336   OptimizedScore 0.293       Time: 23.797 s
+Launching wrapRunOptimizer 95 at time = 139.024 for SCRAM_D3_EGFR/scram_095.json 
+Level 093.1 --- Init Score: 0.191   OptimizedScore 0.136       Time: 6.301 s
+Level 094.1 --- Init Score: 0.154   OptimizedScore 0.137       Time: 1.994 s
+Level 063.2 --- Init Score: 0.309   OptimizedScore 0.288       Time: 54.803 s
+Launching wrapRunOptimizer 96 at time = 141.656 for SCRAM_D3_EGFR/scram_096.json 
+Level 095.1 --- Init Score: 0.151   OptimizedScore 0.140       Time: 2.726 s
+Level 064.2 --- Init Score: 0.310   OptimizedScore 0.290       Time: 55.097 s
+Launching wrapRunOptimizer 97 at time = 143.939 for SCRAM_D3_EGFR/scram_097.json 
+Level 097.1 --- Init Score: 0.141   OptimizedScore 0.140       Time: 1.279 s
+Level 096.1 --- Init Score: 0.158   OptimizedScore 0.144       Time: 4.315 s
+Level 066.2 --- Init Score: 0.304   OptimizedScore 0.288       Time: 55.549 s
+Launching wrapRunOptimizer 98 at time = 149.445 for SCRAM_D3_EGFR/scram_098.json 
+Level 083.2 --- Init Score: 0.300   OptimizedScore 0.288       Time: 31.321 s
+Level 076.2 --- Init Score: 0.325   OptimizedScore 0.290       Time: 46.558 s
+Level 067.2 --- Init Score: 0.323   OptimizedScore 0.291       Time: 55.206 s
+Launching wrapRunOptimizer 99 at time = 150.700 for SCRAM_D3_EGFR/scram_099.json 
+Launching wrapRunOptimizer 100 at time = 150.803 for SCRAM_D3_EGFR/scram_100.json 
+Launching wrapRunOptimizer 101 at time = 151.019 for SCRAM_D3_EGFR/scram_101.json 
+Level 068.2 --- Init Score: 0.323   OptimizedScore 0.291       Time: 56.242 s
+Level 098.1 --- Init Score: 0.143   OptimizedScore 0.140       Time: 1.955 s
+Launching wrapRunOptimizer 102 at time = 152.076 for SCRAM_D3_EGFR/scram_102.json 
+Level 087.2 --- Init Score: 0.302   OptimizedScore 0.291       Time: 29.687 s
+Level 093.2 --- Init Score: 0.304   OptimizedScore 0.295       Time: 13.169 s
+Launching wrapRunOptimizer 103 at time = 153.105 for SCRAM_D3_EGFR/scram_103.json 
+Launching wrapRunOptimizer 104 at time = 153.234 for SCRAM_D3_EGFR/scram_104.json 
+Level 080.2 --- Init Score: 0.316   OptimizedScore 0.291       Time: 40.661 s
+Level 100.1 --- Init Score: 0.145   OptimizedScore 0.137       Time: 1.991 s
+Level 101.1 --- Init Score: 0.148   OptimizedScore 0.145       Time: 1.903 s
+Level 092.2 --- Init Score: 0.319   OptimizedScore 0.293       Time: 19.106 s
+Launching wrapRunOptimizer 105 at time = 154.448 for SCRAM_D3_EGFR/scram_105.json 
+Launching wrapRunOptimizer 106 at time = 154.646 for SCRAM_D3_EGFR/scram_106.json 
+Level 070.2 --- Init Score: 0.344   OptimizedScore 0.291       Time: 55.451 s
+Level 102.1 --- Init Score: 0.157   OptimizedScore 0.145       Time: 2.329 s
+Launching wrapRunOptimizer 107 at time = 155.432 for SCRAM_D3_EGFR/scram_107.json 
+Level 103.1 --- Init Score: 0.146   OptimizedScore 0.141       Time: 1.904 s
+Level 072.2 --- Init Score: 0.302   OptimizedScore 0.287       Time: 54.168 s
+Level 107.1 --- Init Score: 0.143   OptimizedScore 0.140       Time: 1.268 s
+Launching wrapRunOptimizer 108 at time = 157.541 for SCRAM_D3_EGFR/scram_108.json 
+Level 099.1 --- Init Score: 0.166   OptimizedScore 0.139       Time: 6.711 s
+Level 106.1 --- Init Score: 0.173   OptimizedScore 0.140       Time: 3.011 s
+Level 105.1 --- Init Score: 0.158   OptimizedScore 0.138       Time: 3.686 s
+Level 094.2 --- Init Score: 0.402   OptimizedScore 0.299       Time: 18.402 s
+Launching wrapRunOptimizer 109 at time = 159.591 for SCRAM_D3_EGFR/scram_109.json 
+Level 075.2 --- Init Score: 0.340   OptimizedScore 0.289       Time: 54.514 s
+Launching wrapRunOptimizer 110 at time = 161.072 for SCRAM_D3_EGFR/scram_110.json 
+Level 078.2 --- Init Score: 0.301   OptimizedScore 0.286       Time: 53.974 s
+Level 108.1 --- Init Score: 0.172   OptimizedScore 0.139       Time: 3.362 s
+Launching wrapRunOptimizer 111 at time = 161.812 for SCRAM_D3_EGFR/scram_111.json 
+Level 104.1 --- Init Score: 0.197   OptimizedScore 0.140       Time: 8.464 s
+Level 110.1 --- Init Score: 0.149   OptimizedScore 0.144       Time: 2.103 s
+Level 082.2 --- Init Score: 0.303   OptimizedScore 0.287       Time: 48.613 s
+Launching wrapRunOptimizer 112 at time = 165.035 for SCRAM_D3_EGFR/scram_112.json 
+Level 111.1 --- Init Score: 0.149   OptimizedScore 0.142       Time: 3.035 s
+Level 109.1 --- Init Score: 0.184   OptimizedScore 0.138       Time: 6.003 s
+Level 112.1 --- Init Score: 0.151   OptimizedScore 0.136       Time: 1.805 s
+Level 084.2 --- Init Score: 0.321   OptimizedScore 0.291       Time: 54.540 s
+Launching wrapRunOptimizer 113 at time = 172.536 for SCRAM_D3_EGFR/scram_113.json 
+Level 101.2 --- Init Score: 0.310   OptimizedScore 0.293       Time: 20.100 s
+Level 088.2 --- Init Score: 0.305   OptimizedScore 0.290       Time: 52.092 s
+Launching wrapRunOptimizer 114 at time = 174.226 for SCRAM_D3_EGFR/scram_114.json 
+Level 113.1 --- Init Score: 0.157   OptimizedScore 0.140       Time: 1.519 s
+Level 086.2 --- Init Score: 0.326   OptimizedScore 0.288       Time: 54.467 s
+Launching wrapRunOptimizer 115 at time = 174.859 for SCRAM_D3_EGFR/scram_115.json 
+Launching wrapRunOptimizer 116 at time = 175.459 for SCRAM_D3_EGFR/scram_116.json 
+Level 114.1 --- Init Score: 0.156   OptimizedScore 0.141       Time: 2.871 s
+Level 091.2 --- Init Score: 0.307   OptimizedScore 0.290       Time: 46.032 s
+Level 100.2 --- Init Score: 0.296   OptimizedScore 0.293       Time: 24.701 s
+Launching wrapRunOptimizer 117 at time = 178.340 for SCRAM_D3_EGFR/scram_117.json 
+Launching wrapRunOptimizer 118 at time = 179.041 for SCRAM_D3_EGFR/scram_118.json 
+Level 116.1 --- Init Score: 0.152   OptimizedScore 0.140       Time: 3.350 s
+Level 090.2 --- Init Score: 0.337   OptimizedScore 0.294       Time: 55.440 s
+Launching wrapRunOptimizer 119 at time = 180.214 for SCRAM_D3_EGFR/scram_119.json 
+Level 089.2 --- Init Score: 0.336   OptimizedScore 0.289       Time: 54.115 s
+Level 115.1 --- Init Score: 0.172   OptimizedScore 0.142       Time: 4.738 s
+Launching wrapRunOptimizer 120 at time = 181.026 for SCRAM_D3_EGFR/scram_120.json 
+Level 118.1 --- Init Score: 0.142   OptimizedScore 0.140       Time: 2.096 s
+Level 117.1 --- Init Score: 0.143   OptimizedScore 0.136       Time: 3.356 s
+Level 119.1 --- Init Score: 0.153   OptimizedScore 0.140       Time: 1.968 s
+Level 120.1 --- Init Score: 0.153   OptimizedScore 0.138       Time: 3.166 s
+Level 103.2 --- Init Score: 0.422   OptimizedScore 0.299       Time: 28.950 s
+Launching wrapRunOptimizer 121 at time = 185.276 for SCRAM_D3_EGFR/scram_121.json 
+Level 109.2 --- Init Score: 0.317   OptimizedScore 0.291       Time: 19.797 s
+Launching wrapRunOptimizer 122 at time = 186.449 for SCRAM_D3_EGFR/scram_122.json 
+Level 121.1 --- Init Score: 0.149   OptimizedScore 0.143       Time: 2.353 s
+Level 122.1 --- Init Score: 0.167   OptimizedScore 0.140       Time: 1.941 s
+Level 104.2 --- Init Score: 0.312   OptimizedScore 0.287       Time: 28.115 s
+Level 096.2 --- Init Score: 0.345   OptimizedScore 0.290       Time: 44.256 s
+Level 095.2 --- Init Score: 0.338   OptimizedScore 0.292       Time: 48.496 s
+Launching wrapRunOptimizer 123 at time = 191.387 for SCRAM_D3_EGFR/scram_123.json 
+Level 113.2 --- Init Score: 0.315   OptimizedScore 0.292       Time: 16.896 s
+Launching wrapRunOptimizer 124 at time = 191.529 for SCRAM_D3_EGFR/scram_124.json 
+Launching wrapRunOptimizer 125 at time = 191.547 for SCRAM_D3_EGFR/scram_125.json 
+Launching wrapRunOptimizer 126 at time = 192.323 for SCRAM_D3_EGFR/scram_126.json 
+Level 125.1 --- Init Score: 0.145   OptimizedScore 0.140       Time: 1.537 s
+Level 123.1 --- Init Score: 0.149   OptimizedScore 0.138       Time: 2.600 s
+Level 124.1 --- Init Score: 0.150   OptimizedScore 0.137       Time: 2.506 s
+Level 126.1 --- Init Score: 0.148   OptimizedScore 0.143       Time: 3.163 s
+Level 108.2 --- Init Score: 0.328   OptimizedScore 0.289       Time: 35.211 s
+Level 102.2 --- Init Score: 0.326   OptimizedScore 0.289       Time: 41.636 s
+Launching wrapRunOptimizer 127 at time = 197.333 for SCRAM_D3_EGFR/scram_127.json 
+Launching wrapRunOptimizer 128 at time = 197.352 for SCRAM_D3_EGFR/scram_128.json 
+Level 114.2 --- Init Score: 0.314   OptimizedScore 0.291       Time: 20.448 s
+Launching wrapRunOptimizer 129 at time = 198.742 for SCRAM_D3_EGFR/scram_129.json 
+Level 111.2 --- Init Score: 0.310   OptimizedScore 0.290       Time: 34.406 s
+Level 097.2 --- Init Score: 0.307   OptimizedScore 0.290       Time: 54.060 s
+Level 127.1 --- Init Score: 0.161   OptimizedScore 0.143       Time: 1.909 s
+Launching wrapRunOptimizer 130 at time = 200.529 for SCRAM_D3_EGFR/scram_130.json 
+Launching wrapRunOptimizer 131 at time = 200.558 for SCRAM_D3_EGFR/scram_131.json 
+Level 128.1 --- Init Score: 0.154   OptimizedScore 0.140       Time: 2.762 s
+Level 110.2 --- Init Score: 0.313   OptimizedScore 0.286       Time: 37.088 s
+Launching wrapRunOptimizer 132 at time = 201.609 for SCRAM_D3_EGFR/scram_132.json 
+Level 129.1 --- Init Score: 0.174   OptimizedScore 0.140       Time: 4.135 s
+Level 130.1 --- Init Score: 0.171   OptimizedScore 0.143       Time: 3.009 s
+Level 131.1 --- Init Score: 0.177   OptimizedScore 0.145       Time: 3.004 s
+Level 132.1 --- Init Score: 0.185   OptimizedScore 0.147       Time: 3.564 s
+Level 098.2 --- Init Score: 0.321   OptimizedScore 0.288       Time: 55.479 s
+Launching wrapRunOptimizer 133 at time = 207.835 for SCRAM_D3_EGFR/scram_133.json 
+Level 107.2 --- Init Score: 0.316   OptimizedScore 0.289       Time: 51.118 s
+Launching wrapRunOptimizer 134 at time = 208.773 for SCRAM_D3_EGFR/scram_134.json 
+Level 118.2 --- Init Score: 0.297   OptimizedScore 0.291       Time: 28.450 s
+Launching wrapRunOptimizer 135 at time = 210.534 for SCRAM_D3_EGFR/scram_135.json 
+Level 133.1 --- Init Score: 0.169   OptimizedScore 0.145       Time: 2.296 s
+Level 134.1 --- Init Score: 0.148   OptimizedScore 0.143       Time: 2.953 s
+Level 106.2 --- Init Score: 0.311   OptimizedScore 0.286       Time: 54.112 s
+Level 099.2 --- Init Score: 0.321   OptimizedScore 0.288       Time: 54.659 s
+Launching wrapRunOptimizer 136 at time = 212.935 for SCRAM_D3_EGFR/scram_136.json 
+Level 119.2 --- Init Score: 0.311   OptimizedScore 0.290       Time: 30.338 s
+Level 105.2 --- Init Score: 0.308   OptimizedScore 0.286       Time: 54.620 s
+Launching wrapRunOptimizer 137 at time = 213.586 for SCRAM_D3_EGFR/scram_137.json 
+Level 135.1 --- Init Score: 0.148   OptimizedScore 0.139       Time: 2.673 s
+Launching wrapRunOptimizer 138 at time = 213.990 for SCRAM_D3_EGFR/scram_138.json 
+Level 124.2 --- Init Score: 0.345   OptimizedScore 0.293       Time: 19.075 s
+Launching wrapRunOptimizer 139 at time = 214.229 for SCRAM_D3_EGFR/scram_139.json 
+Launching wrapRunOptimizer 140 at time = 214.867 for SCRAM_D3_EGFR/scram_140.json 
+Level 137.1 --- Init Score: 0.154   OptimizedScore 0.145       Time: 1.747 s
+Level 136.1 --- Init Score: 0.155   OptimizedScore 0.147       Time: 3.429 s
+Level 139.1 --- Init Score: 0.158   OptimizedScore 0.139       Time: 2.418 s
+Level 112.2 --- Init Score: 0.328   OptimizedScore 0.292       Time: 50.274 s
+Launching wrapRunOptimizer 141 at time = 218.189 for SCRAM_D3_EGFR/scram_141.json 
+Level 140.1 --- Init Score: 0.152   OptimizedScore 0.138       Time: 3.181 s
+Level 138.1 --- Init Score: 0.154   OptimizedScore 0.138       Time: 4.214 s
+Level 141.1 --- Init Score: 0.141   OptimizedScore 0.139       Time: 2.884 s
+Level 122.2 --- Init Score: 0.303   OptimizedScore 0.290       Time: 32.676 s
+Launching wrapRunOptimizer 142 at time = 222.116 for SCRAM_D3_EGFR/scram_142.json 
+Level 142.1 --- Init Score: 0.149   OptimizedScore 0.140       Time: 2.820 s
+Level 117.2 --- Init Score: 0.317   OptimizedScore 0.293       Time: 43.102 s
+Launching wrapRunOptimizer 143 at time = 226.043 for SCRAM_D3_EGFR/scram_143.json 
+Level 131.2 --- Init Score: 0.308   OptimizedScore 0.288       Time: 21.753 s
+Level 133.2 --- Init Score: 0.315   OptimizedScore 0.292       Time: 15.508 s
+Launching wrapRunOptimizer 144 at time = 226.874 for SCRAM_D3_EGFR/scram_144.json 
+Launching wrapRunOptimizer 145 at time = 226.935 for SCRAM_D3_EGFR/scram_145.json 
+Level 135.2 --- Init Score: 0.357   OptimizedScore 0.297       Time: 13.889 s
+Level 134.2 --- Init Score: 0.408   OptimizedScore 0.298       Time: 15.497 s
+Launching wrapRunOptimizer 146 at time = 228.608 for SCRAM_D3_EGFR/scram_146.json 
+Launching wrapRunOptimizer 147 at time = 228.650 for SCRAM_D3_EGFR/scram_147.json 
+Level 144.1 --- Init Score: 0.152   OptimizedScore 0.143       Time: 1.565 s
+Level 145.1 --- Init Score: 0.151   OptimizedScore 0.143       Time: 2.611 s
+Level 147.1 --- Init Score: 0.159   OptimizedScore 0.136       Time: 1.577 s
+Level 143.1 --- Init Score: 0.175   OptimizedScore 0.140       Time: 4.623 s
+Level 136.2 --- Init Score: 0.337   OptimizedScore 0.293       Time: 15.147 s
+Launching wrapRunOptimizer 148 at time = 232.844 for SCRAM_D3_EGFR/scram_148.json 
+Level 123.2 --- Init Score: 0.316   OptimizedScore 0.287       Time: 39.324 s
+Launching wrapRunOptimizer 149 at time = 234.689 for SCRAM_D3_EGFR/scram_149.json 
+Level 132.2 --- Init Score: 0.304   OptimizedScore 0.291       Time: 29.030 s
+Level 116.2 --- Init Score: 0.309   OptimizedScore 0.289       Time: 55.608 s
+Level 129.2 --- Init Score: 0.359   OptimizedScore 0.290       Time: 32.065 s
+Launching wrapRunOptimizer 150 at time = 235.640 for SCRAM_D3_EGFR/scram_150.json 
+Launching wrapRunOptimizer 151 at time = 235.720 for SCRAM_D3_EGFR/scram_151.json 
+Level 115.2 --- Init Score: 0.309   OptimizedScore 0.289       Time: 55.430 s
+Launching wrapRunOptimizer 152 at time = 236.293 for SCRAM_D3_EGFR/scram_152.json 
+Level 139.2 --- Init Score: 0.329   OptimizedScore 0.289       Time: 19.063 s
+Level 148.1 --- Init Score: 0.151   OptimizedScore 0.143       Time: 3.179 s
+Launching wrapRunOptimizer 153 at time = 236.654 for SCRAM_D3_EGFR/scram_153.json 
+Launching wrapRunOptimizer 154 at time = 237.187 for SCRAM_D3_EGFR/scram_154.json 
+Level 146.1 --- Init Score: 0.220   OptimizedScore 0.136       Time: 9.137 s
+Level 151.1 --- Init Score: 0.148   OptimizedScore 0.142       Time: 2.190 s
+Level 149.1 --- Init Score: 0.147   OptimizedScore 0.139       Time: 3.164 s
+Level 150.1 --- Init Score: 0.157   OptimizedScore 0.140       Time: 2.547 s
+Level 120.2 --- Init Score: 0.314   OptimizedScore 0.287       Time: 54.607 s
+Launching wrapRunOptimizer 155 at time = 239.871 for SCRAM_D3_EGFR/scram_155.json 
+Level 153.1 --- Init Score: 0.146   OptimizedScore 0.142       Time: 2.704 s
+Level 154.1 --- Init Score: 0.161   OptimizedScore 0.145       Time: 2.632 s
+Level 152.1 --- Init Score: 0.143   OptimizedScore 0.138       Time: 3.947 s
+Level 155.1 --- Init Score: 0.151   OptimizedScore 0.140       Time: 1.858 s
+Level 121.2 --- Init Score: 0.305   OptimizedScore 0.288       Time: 54.525 s
+Launching wrapRunOptimizer 156 at time = 243.139 for SCRAM_D3_EGFR/scram_156.json 
+Level 137.2 --- Init Score: 0.326   OptimizedScore 0.292       Time: 27.327 s
+Level 145.2 --- Init Score: 0.306   OptimizedScore 0.294       Time: 13.661 s
+Launching wrapRunOptimizer 157 at time = 244.004 for SCRAM_D3_EGFR/scram_157.json 
+Launching wrapRunOptimizer 158 at time = 244.758 for SCRAM_D3_EGFR/scram_158.json 
+Level 156.1 --- Init Score: 0.138   OptimizedScore 0.138       Time: 2.057 s
+Level 157.1 --- Init Score: 0.160   OptimizedScore 0.142       Time: 2.965 s
+Level 158.1 --- Init Score: 0.166   OptimizedScore 0.148       Time: 2.780 s
+Level 140.2 --- Init Score: 0.298   OptimizedScore 0.290       Time: 29.514 s
+Level 138.2 --- Init Score: 0.313   OptimizedScore 0.291       Time: 29.314 s
+Level 125.2 --- Init Score: 0.310   OptimizedScore 0.287       Time: 54.724 s
+Launching wrapRunOptimizer 159 at time = 248.746 for SCRAM_D3_EGFR/scram_159.json 
+Launching wrapRunOptimizer 160 at time = 249.110 for SCRAM_D3_EGFR/scram_160.json 
+Level 143.2 --- Init Score: 0.306   OptimizedScore 0.291       Time: 18.089 s
+Launching wrapRunOptimizer 161 at time = 249.459 for SCRAM_D3_EGFR/scram_161.json 
+Launching wrapRunOptimizer 162 at time = 250.239 for SCRAM_D3_EGFR/scram_162.json 
+Level 126.2 --- Init Score: 0.305   OptimizedScore 0.287       Time: 54.578 s
+Launching wrapRunOptimizer 163 at time = 251.227 for SCRAM_D3_EGFR/scram_163.json 
+Level 160.1 --- Init Score: 0.156   OptimizedScore 0.146       Time: 1.715 s
+Level 127.2 --- Init Score: 0.301   OptimizedScore 0.289       Time: 52.253 s
+Launching wrapRunOptimizer 164 at time = 252.679 for SCRAM_D3_EGFR/scram_164.json 
+Level 161.1 --- Init Score: 0.157   OptimizedScore 0.140       Time: 2.743 s
+Level 128.2 --- Init Score: 0.328   OptimizedScore 0.290       Time: 52.133 s
+Level 159.1 --- Init Score: 0.153   OptimizedScore 0.143       Time: 3.460 s
+Launching wrapRunOptimizer 165 at time = 253.504 for SCRAM_D3_EGFR/scram_165.json 
+Level 163.1 --- Init Score: 0.144   OptimizedScore 0.143       Time: 1.934 s
+Level 162.1 --- Init Score: 0.160   OptimizedScore 0.142       Time: 3.266 s
+Level 142.2 --- Init Score: 0.306   OptimizedScore 0.289       Time: 29.077 s
+Launching wrapRunOptimizer 166 at time = 255.036 for SCRAM_D3_EGFR/scram_166.json 
+Level 165.1 --- Init Score: 0.145   OptimizedScore 0.141       Time: 2.166 s
+Level 164.1 --- Init Score: 0.193   OptimizedScore 0.145       Time: 3.434 s
+Level 166.1 --- Init Score: 0.151   OptimizedScore 0.141       Time: 2.625 s
+Level 146.2 --- Init Score: 0.318   OptimizedScore 0.292       Time: 20.312 s
+Level 130.2 --- Init Score: 0.336   OptimizedScore 0.294       Time: 54.856 s
+Launching wrapRunOptimizer 167 at time = 259.363 for SCRAM_D3_EGFR/scram_167.json 
+Launching wrapRunOptimizer 168 at time = 259.893 for SCRAM_D3_EGFR/scram_168.json 
+Level 148.2 --- Init Score: 0.336   OptimizedScore 0.291       Time: 23.961 s
+Level 156.2 --- Init Score: 0.319   OptimizedScore 0.300       Time: 15.126 s
+Launching wrapRunOptimizer 169 at time = 261.095 for SCRAM_D3_EGFR/scram_169.json 
+Launching wrapRunOptimizer 170 at time = 261.519 for SCRAM_D3_EGFR/scram_170.json 
+Level 167.1 --- Init Score: 0.146   OptimizedScore 0.143       Time: 2.042 s
+Level 168.1 --- Init Score: 0.158   OptimizedScore 0.146       Time: 3.087 s
+Level 170.1 --- Init Score: 0.156   OptimizedScore 0.138       Time: 2.083 s
+Level 169.1 --- Init Score: 0.160   OptimizedScore 0.140       Time: 2.664 s
+Level 147.2 --- Init Score: 0.299   OptimizedScore 0.287       Time: 37.367 s
+Launching wrapRunOptimizer 171 at time = 268.919 for SCRAM_D3_EGFR/scram_171.json 
+Level 150.2 --- Init Score: 0.321   OptimizedScore 0.290       Time: 30.179 s
+Launching wrapRunOptimizer 172 at time = 269.866 for SCRAM_D3_EGFR/scram_172.json 
+Level 158.2 --- Init Score: 0.341   OptimizedScore 0.293       Time: 22.400 s
+Launching wrapRunOptimizer 173 at time = 270.907 for SCRAM_D3_EGFR/scram_173.json 
+Level 171.1 --- Init Score: 0.144   OptimizedScore 0.139       Time: 2.970 s
+Level 172.1 --- Init Score: 0.152   OptimizedScore 0.142       Time: 2.220 s
+Level 160.2 --- Init Score: 0.320   OptimizedScore 0.291       Time: 21.217 s
+Launching wrapRunOptimizer 174 at time = 273.207 for SCRAM_D3_EGFR/scram_174.json 
+Level 151.2 --- Init Score: 0.311   OptimizedScore 0.290       Time: 34.549 s
+Launching wrapRunOptimizer 175 at time = 273.975 for SCRAM_D3_EGFR/scram_175.json 
+Level 173.1 --- Init Score: 0.162   OptimizedScore 0.137       Time: 2.692 s
+Level 155.2 --- Init Score: 0.304   OptimizedScore 0.292       Time: 32.342 s
+Launching wrapRunOptimizer 176 at time = 275.082 for SCRAM_D3_EGFR/scram_176.json 
+Level 154.2 --- Init Score: 0.304   OptimizedScore 0.290       Time: 34.738 s
+Launching wrapRunOptimizer 177 at time = 275.848 for SCRAM_D3_EGFR/scram_177.json 
+Level 141.2 --- Init Score: 0.322   OptimizedScore 0.293       Time: 54.605 s
+Launching wrapRunOptimizer 178 at time = 276.794 for SCRAM_D3_EGFR/scram_178.json 
+Level 174.1 --- Init Score: 0.143   OptimizedScore 0.139       Time: 3.141 s
+Level 176.1 --- Init Score: 0.153   OptimizedScore 0.140       Time: 2.187 s
+Level 178.1 --- Init Score: 0.141   OptimizedScore 0.139       Time: 1.457 s
+Level 177.1 --- Init Score: 0.162   OptimizedScore 0.140       Time: 2.717 s
+Level 175.1 --- Init Score: 0.180   OptimizedScore 0.139       Time: 4.677 s
+Level 166.2 --- Init Score: 0.313   OptimizedScore 0.295       Time: 21.130 s
+Launching wrapRunOptimizer 179 at time = 279.927 for SCRAM_D3_EGFR/scram_179.json 
+Level 157.2 --- Init Score: 0.327   OptimizedScore 0.292       Time: 33.071 s
+Launching wrapRunOptimizer 180 at time = 281.227 for SCRAM_D3_EGFR/scram_180.json 
+Level 168.2 --- Init Score: 0.305   OptimizedScore 0.292       Time: 19.095 s
+Level 179.1 --- Init Score: 0.163   OptimizedScore 0.139       Time: 2.584 s
+Launching wrapRunOptimizer 181 at time = 283.261 for SCRAM_D3_EGFR/scram_181.json 
+Level 180.1 --- Init Score: 0.140   OptimizedScore 0.137       Time: 2.759 s
+Level 165.2 --- Init Score: 0.328   OptimizedScore 0.293       Time: 28.535 s
+Launching wrapRunOptimizer 182 at time = 285.297 for SCRAM_D3_EGFR/scram_182.json 
+Level 144.2 --- Init Score: 0.318   OptimizedScore 0.288       Time: 56.732 s
+Level 181.1 --- Init Score: 0.153   OptimizedScore 0.143       Time: 2.410 s
+Launching wrapRunOptimizer 183 at time = 286.378 for SCRAM_D3_EGFR/scram_183.json 
+Level 172.2 --- Init Score: 0.298   OptimizedScore 0.293       Time: 14.334 s
+Launching wrapRunOptimizer 184 at time = 287.489 for SCRAM_D3_EGFR/scram_184.json 
+Level 167.2 --- Init Score: 0.362   OptimizedScore 0.292       Time: 25.618 s
+Launching wrapRunOptimizer 185 at time = 288.435 for SCRAM_D3_EGFR/scram_185.json 
+Level 182.1 --- Init Score: 0.150   OptimizedScore 0.141       Time: 3.034 s
+Level 161.2 --- Init Score: 0.313   OptimizedScore 0.290       Time: 36.222 s
+Launching wrapRunOptimizer 186 at time = 289.627 for SCRAM_D3_EGFR/scram_186.json 
+Level 183.1 --- Init Score: 0.177   OptimizedScore 0.143       Time: 3.619 s
+Level 185.1 --- Init Score: 0.151   OptimizedScore 0.141       Time: 1.799 s
+Level 163.2 --- Init Score: 0.349   OptimizedScore 0.292       Time: 37.723 s
+Launching wrapRunOptimizer 187 at time = 291.899 for SCRAM_D3_EGFR/scram_187.json 
+Level 184.1 --- Init Score: 0.161   OptimizedScore 0.139       Time: 4.169 s
+Level 164.2 --- Init Score: 0.320   OptimizedScore 0.292       Time: 35.968 s
+Level 149.2 --- Init Score: 0.307   OptimizedScore 0.291       Time: 54.235 s
+Level 153.2 --- Init Score: 0.305   OptimizedScore 0.288       Time: 52.856 s
+Launching wrapRunOptimizer 188 at time = 293.231 for SCRAM_D3_EGFR/scram_188.json 
+Launching wrapRunOptimizer 189 at time = 293.783 for SCRAM_D3_EGFR/scram_189.json 
+Launching wrapRunOptimizer 190 at time = 293.795 for SCRAM_D3_EGFR/scram_190.json 
+Level 152.2 --- Init Score: 0.331   OptimizedScore 0.291       Time: 55.368 s
+Level 186.1 --- Init Score: 0.188   OptimizedScore 0.137       Time: 6.544 s
+Level 188.1 --- Init Score: 0.141   OptimizedScore 0.137       Time: 2.875 s
+Launching wrapRunOptimizer 191 at time = 297.052 for SCRAM_D3_EGFR/scram_191.json 
+Level 173.2 --- Init Score: 0.370   OptimizedScore 0.295       Time: 23.495 s
+Level 190.1 --- Init Score: 0.185   OptimizedScore 0.147       Time: 3.256 s
+Launching wrapRunOptimizer 192 at time = 298.201 for SCRAM_D3_EGFR/scram_192.json 
+Level 189.1 --- Init Score: 0.162   OptimizedScore 0.142       Time: 3.770 s
+Level 187.1 --- Init Score: 0.190   OptimizedScore 0.141       Time: 6.564 s
+Level 191.1 --- Init Score: 0.155   OptimizedScore 0.146       Time: 2.407 s
+Level 192.1 --- Init Score: 0.149   OptimizedScore 0.143       Time: 3.255 s
+Level 159.2 --- Init Score: 0.316   OptimizedScore 0.291       Time: 56.185 s
+Level 162.2 --- Init Score: 0.301   OptimizedScore 0.289       Time: 55.589 s
+Launching wrapRunOptimizer 193 at time = 309.743 for SCRAM_D3_EGFR/scram_193.json 
+Launching wrapRunOptimizer 194 at time = 310.344 for SCRAM_D3_EGFR/scram_194.json 
+Level 181.2 --- Init Score: 0.315   OptimizedScore 0.291       Time: 24.144 s
+Launching wrapRunOptimizer 195 at time = 310.995 for SCRAM_D3_EGFR/scram_195.json 
+Level 174.2 --- Init Score: 0.334   OptimizedScore 0.292       Time: 35.109 s
+Level 180.2 --- Init Score: 0.306   OptimizedScore 0.292       Time: 28.263 s
+Level 193.1 --- Init Score: 0.149   OptimizedScore 0.144       Time: 2.317 s
+Launching wrapRunOptimizer 196 at time = 312.825 for SCRAM_D3_EGFR/scram_196.json 
+Launching wrapRunOptimizer 197 at time = 313.288 for SCRAM_D3_EGFR/scram_197.json 
+Level 176.2 --- Init Score: 0.298   OptimizedScore 0.289       Time: 35.728 s
+Launching wrapRunOptimizer 198 at time = 314.312 for SCRAM_D3_EGFR/scram_198.json 
+Level 195.1 --- Init Score: 0.162   OptimizedScore 0.142       Time: 3.135 s
+Level 188.2 --- Init Score: 0.305   OptimizedScore 0.291       Time: 18.517 s
+Level 196.1 --- Init Score: 0.171   OptimizedScore 0.141       Time: 2.390 s
+Level 194.1 --- Init Score: 0.154   OptimizedScore 0.136       Time: 4.789 s
+Launching wrapRunOptimizer 199 at time = 316.029 for SCRAM_D3_EGFR/scram_199.json 
+Level 197.1 --- Init Score: 0.146   OptimizedScore 0.142       Time: 2.390 s
+Level 198.1 --- Init Score: 0.161   OptimizedScore 0.140       Time: 2.235 s
+Level 170.2 --- Init Score: 0.310   OptimizedScore 0.289       Time: 53.276 s
+Level 199.1 --- Init Score: 0.157   OptimizedScore 0.141       Time: 1.529 s
+Level 185.2 --- Init Score: 0.341   OptimizedScore 0.291       Time: 28.317 s
+Level 169.2 --- Init Score: 0.306   OptimizedScore 0.290       Time: 54.878 s
+Level 189.2 --- Init Score: 0.318   OptimizedScore 0.288       Time: 25.389 s
+Level 171.2 --- Init Score: 0.308   OptimizedScore 0.287       Time: 54.599 s
+Level 190.2 --- Init Score: 0.308   OptimizedScore 0.292       Time: 32.148 s
+Level 178.2 --- Init Score: 0.302   OptimizedScore 0.286       Time: 53.627 s
+Level 177.2 --- Init Score: 0.341   OptimizedScore 0.286       Time: 53.834 s
+Level 175.2 --- Init Score: 0.328   OptimizedScore 0.288       Time: 53.673 s
+Level 182.2 --- Init Score: 0.305   OptimizedScore 0.288       Time: 45.477 s
+Level 184.2 --- Init Score: 0.307   OptimizedScore 0.288       Time: 42.348 s
+Level 186.2 --- Init Score: 0.310   OptimizedScore 0.288       Time: 38.876 s
+Level 179.2 --- Init Score: 0.325   OptimizedScore 0.289       Time: 52.951 s
+Level 191.2 --- Init Score: 0.361   OptimizedScore 0.290       Time: 37.307 s
+Level 183.2 --- Init Score: 0.314   OptimizedScore 0.293       Time: 51.552 s
+Level 194.2 --- Init Score: 0.317   OptimizedScore 0.291       Time: 28.151 s
+Level 197.2 --- Init Score: 0.304   OptimizedScore 0.291       Time: 32.600 s
+Level 193.2 --- Init Score: 0.312   OptimizedScore 0.287       Time: 36.750 s
+Level 187.2 --- Init Score: 0.302   OptimizedScore 0.288       Time: 50.595 s
+Level 192.2 --- Init Score: 0.300   OptimizedScore 0.289       Time: 51.057 s
+Level 196.2 --- Init Score: 0.318   OptimizedScore 0.287       Time: 47.001 s
+Level 195.2 --- Init Score: 0.337   OptimizedScore 0.290       Time: 49.218 s
+Level 198.2 --- Init Score: 0.338   OptimizedScore 0.286       Time: 48.939 s
+Level 199.2 --- Init Score: 0.417   OptimizedScore 0.290       Time: 48.983 s
+EGFR        0.142   
+MAPK        0.291   
+Final Score for scramIdx 000 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.143   
+MAPK        0.296   
+Final Score for scramIdx 001 in Models/D3_model_MAPK_v7.json = 0.220
+EGFR        0.145   
+MAPK        0.293   
+Final Score for scramIdx 002 in Models/D3_model_MAPK_v7.json = 0.219
+EGFR        0.141   
+MAPK        0.295   
+Final Score for scramIdx 003 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.144   
+MAPK        0.287   
+Final Score for scramIdx 004 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.145   
+MAPK        0.290   
+Final Score for scramIdx 005 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.147   
+MAPK        0.292   
+Final Score for scramIdx 006 in Models/D3_model_MAPK_v7.json = 0.219
+EGFR        0.142   
+MAPK        0.292   
+Final Score for scramIdx 007 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.139   
+MAPK        0.289   
+Final Score for scramIdx 008 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.150   
+MAPK        0.287   
+Final Score for scramIdx 009 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.142   
+MAPK        0.291   
+Final Score for scramIdx 010 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.142   
+MAPK        0.288   
+Final Score for scramIdx 011 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.144   
+MAPK        0.293   
+Final Score for scramIdx 012 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.137   
+MAPK        0.290   
+Final Score for scramIdx 013 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.139   
+MAPK        0.292   
+Final Score for scramIdx 014 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.146   
+MAPK        0.291   
+Final Score for scramIdx 015 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.141   
+MAPK        0.287   
+Final Score for scramIdx 016 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.143   
+MAPK        0.289   
+Final Score for scramIdx 017 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.137   
+MAPK        0.288   
+Final Score for scramIdx 018 in Models/D3_model_MAPK_v7.json = 0.212
+EGFR        0.154   
+MAPK        0.292   
+Final Score for scramIdx 019 in Models/D3_model_MAPK_v7.json = 0.223
+EGFR        0.141   
+MAPK        0.288   
+Final Score for scramIdx 020 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.142   
+MAPK        0.293   
+Final Score for scramIdx 021 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.138   
+MAPK        0.293   
+Final Score for scramIdx 022 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.141   
+MAPK        0.291   
+Final Score for scramIdx 023 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.139   
+MAPK        0.292   
+Final Score for scramIdx 024 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.141   
+MAPK        0.292   
+Final Score for scramIdx 025 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.143   
+MAPK        0.290   
+Final Score for scramIdx 026 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.147   
+MAPK        0.289   
+Final Score for scramIdx 027 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.140   
+MAPK        0.290   
+Final Score for scramIdx 028 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.142   
+MAPK        0.291   
+Final Score for scramIdx 029 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.141   
+MAPK        0.289   
+Final Score for scramIdx 030 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.141   
+MAPK        0.289   
+Final Score for scramIdx 031 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.141   
+MAPK        0.295   
+Final Score for scramIdx 032 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.140   
+MAPK        0.289   
+Final Score for scramIdx 033 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.135   
+MAPK        0.291   
+Final Score for scramIdx 034 in Models/D3_model_MAPK_v7.json = 0.213
+EGFR        0.151   
+MAPK        0.286   
+Final Score for scramIdx 035 in Models/D3_model_MAPK_v7.json = 0.219
+EGFR        0.137   
+MAPK        0.286   
+Final Score for scramIdx 036 in Models/D3_model_MAPK_v7.json = 0.211
+EGFR        0.141   
+MAPK        0.286   
+Final Score for scramIdx 037 in Models/D3_model_MAPK_v7.json = 0.213
+EGFR        0.143   
+MAPK        0.292   
+Final Score for scramIdx 038 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.143   
+MAPK        0.294   
+Final Score for scramIdx 039 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.145   
+MAPK        0.291   
+Final Score for scramIdx 040 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.143   
+MAPK        0.288   
+Final Score for scramIdx 041 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.143   
+MAPK        0.292   
+Final Score for scramIdx 042 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.151   
+MAPK        0.288   
+Final Score for scramIdx 043 in Models/D3_model_MAPK_v7.json = 0.220
+EGFR        0.145   
+MAPK        0.295   
+Final Score for scramIdx 044 in Models/D3_model_MAPK_v7.json = 0.220
+EGFR        0.137   
+MAPK        0.289   
+Final Score for scramIdx 045 in Models/D3_model_MAPK_v7.json = 0.213
+EGFR        0.136   
+MAPK        0.295   
+Final Score for scramIdx 046 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.144   
+MAPK        0.286   
+Final Score for scramIdx 047 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.141   
+MAPK        0.291   
+Final Score for scramIdx 048 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.138   
+MAPK        0.290   
+Final Score for scramIdx 049 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.140   
+MAPK        0.288   
+Final Score for scramIdx 050 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.142   
+MAPK        0.290   
+Final Score for scramIdx 051 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.138   
+MAPK        0.288   
+Final Score for scramIdx 052 in Models/D3_model_MAPK_v7.json = 0.213
+EGFR        0.145   
+MAPK        0.288   
+Final Score for scramIdx 053 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.141   
+MAPK        0.292   
+Final Score for scramIdx 054 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.139   
+MAPK        0.289   
+Final Score for scramIdx 055 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.140   
+MAPK        0.294   
+Final Score for scramIdx 056 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.146   
+MAPK        0.290   
+Final Score for scramIdx 057 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.142   
+MAPK        0.288   
+Final Score for scramIdx 058 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.136   
+MAPK        0.289   
+Final Score for scramIdx 059 in Models/D3_model_MAPK_v7.json = 0.212
+EGFR        0.143   
+MAPK        0.290   
+Final Score for scramIdx 060 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.140   
+MAPK        0.292   
+Final Score for scramIdx 061 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.143   
+MAPK        0.287   
+Final Score for scramIdx 062 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.141   
+MAPK        0.288   
+Final Score for scramIdx 063 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.144   
+MAPK        0.290   
+Final Score for scramIdx 064 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.143   
+MAPK        0.292   
+Final Score for scramIdx 065 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.142   
+MAPK        0.288   
+Final Score for scramIdx 066 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.143   
+MAPK        0.291   
+Final Score for scramIdx 067 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.143   
+MAPK        0.291   
+Final Score for scramIdx 068 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.142   
+MAPK        0.292   
+Final Score for scramIdx 069 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.144   
+MAPK        0.291   
+Final Score for scramIdx 070 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.144   
+MAPK        0.295   
+Final Score for scramIdx 071 in Models/D3_model_MAPK_v7.json = 0.219
+EGFR        0.145   
+MAPK        0.287   
+Final Score for scramIdx 072 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.142   
+MAPK        0.293   
+Final Score for scramIdx 073 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.143   
+MAPK        0.289   
+Final Score for scramIdx 074 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.139   
+MAPK        0.289   
+Final Score for scramIdx 075 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.138   
+MAPK        0.290   
+Final Score for scramIdx 076 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.140   
+MAPK        0.293   
+Final Score for scramIdx 077 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.145   
+MAPK        0.286   
+Final Score for scramIdx 078 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.141   
+MAPK        0.292   
+Final Score for scramIdx 079 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.144   
+MAPK        0.291   
+Final Score for scramIdx 080 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.142   
+MAPK        0.293   
+Final Score for scramIdx 081 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.138   
+MAPK        0.287   
+Final Score for scramIdx 082 in Models/D3_model_MAPK_v7.json = 0.212
+EGFR        0.140   
+MAPK        0.288   
+Final Score for scramIdx 083 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.147   
+MAPK        0.291   
+Final Score for scramIdx 084 in Models/D3_model_MAPK_v7.json = 0.219
+EGFR        0.146   
+MAPK        0.292   
+Final Score for scramIdx 085 in Models/D3_model_MAPK_v7.json = 0.219
+EGFR        0.138   
+MAPK        0.288   
+Final Score for scramIdx 086 in Models/D3_model_MAPK_v7.json = 0.213
+EGFR        0.145   
+MAPK        0.291   
+Final Score for scramIdx 087 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.136   
+MAPK        0.290   
+Final Score for scramIdx 088 in Models/D3_model_MAPK_v7.json = 0.213
+EGFR        0.136   
+MAPK        0.289   
+Final Score for scramIdx 089 in Models/D3_model_MAPK_v7.json = 0.213
+EGFR        0.136   
+MAPK        0.294   
+Final Score for scramIdx 090 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.140   
+MAPK        0.290   
+Final Score for scramIdx 091 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.149   
+MAPK        0.293   
+Final Score for scramIdx 092 in Models/D3_model_MAPK_v7.json = 0.221
+EGFR        0.136   
+MAPK        0.295   
+Final Score for scramIdx 093 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.137   
+MAPK        0.299   
+Final Score for scramIdx 094 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.140   
+MAPK        0.292   
+Final Score for scramIdx 095 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.146   
+MAPK        0.290   
+Final Score for scramIdx 096 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.139   
+MAPK        0.290   
+Final Score for scramIdx 097 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.140   
+MAPK        0.288   
+Final Score for scramIdx 098 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.140   
+MAPK        0.288   
+Final Score for scramIdx 099 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.137   
+MAPK        0.293   
+Final Score for scramIdx 100 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.145   
+MAPK        0.293   
+Final Score for scramIdx 101 in Models/D3_model_MAPK_v7.json = 0.219
+EGFR        0.145   
+MAPK        0.289   
+Final Score for scramIdx 102 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.141   
+MAPK        0.299   
+Final Score for scramIdx 103 in Models/D3_model_MAPK_v7.json = 0.220
+EGFR        0.140   
+MAPK        0.287   
+Final Score for scramIdx 104 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.138   
+MAPK        0.286   
+Final Score for scramIdx 105 in Models/D3_model_MAPK_v7.json = 0.212
+EGFR        0.140   
+MAPK        0.286   
+Final Score for scramIdx 106 in Models/D3_model_MAPK_v7.json = 0.213
+EGFR        0.140   
+MAPK        0.289   
+Final Score for scramIdx 107 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.140   
+MAPK        0.289   
+Final Score for scramIdx 108 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.138   
+MAPK        0.291   
+Final Score for scramIdx 109 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.144   
+MAPK        0.286   
+Final Score for scramIdx 110 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.142   
+MAPK        0.290   
+Final Score for scramIdx 111 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.138   
+MAPK        0.292   
+Final Score for scramIdx 112 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.140   
+MAPK        0.292   
+Final Score for scramIdx 113 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.141   
+MAPK        0.291   
+Final Score for scramIdx 114 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.143   
+MAPK        0.289   
+Final Score for scramIdx 115 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.140   
+MAPK        0.289   
+Final Score for scramIdx 116 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.136   
+MAPK        0.293   
+Final Score for scramIdx 117 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.140   
+MAPK        0.291   
+Final Score for scramIdx 118 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.140   
+MAPK        0.290   
+Final Score for scramIdx 119 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.140   
+MAPK        0.287   
+Final Score for scramIdx 120 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.142   
+MAPK        0.288   
+Final Score for scramIdx 121 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.140   
+MAPK        0.290   
+Final Score for scramIdx 122 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.137   
+MAPK        0.287   
+Final Score for scramIdx 123 in Models/D3_model_MAPK_v7.json = 0.212
+EGFR        0.137   
+MAPK        0.293   
+Final Score for scramIdx 124 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.141   
+MAPK        0.287   
+Final Score for scramIdx 125 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.145   
+MAPK        0.287   
+Final Score for scramIdx 126 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.143   
+MAPK        0.289   
+Final Score for scramIdx 127 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.142   
+MAPK        0.290   
+Final Score for scramIdx 128 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.140   
+MAPK        0.290   
+Final Score for scramIdx 129 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.143   
+MAPK        0.294   
+Final Score for scramIdx 130 in Models/D3_model_MAPK_v7.json = 0.219
+EGFR        0.146   
+MAPK        0.288   
+Final Score for scramIdx 131 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.147   
+MAPK        0.291   
+Final Score for scramIdx 132 in Models/D3_model_MAPK_v7.json = 0.219
+EGFR        0.144   
+MAPK        0.292   
+Final Score for scramIdx 133 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.143   
+MAPK        0.298   
+Final Score for scramIdx 134 in Models/D3_model_MAPK_v7.json = 0.220
+EGFR        0.140   
+MAPK        0.297   
+Final Score for scramIdx 135 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.147   
+MAPK        0.293   
+Final Score for scramIdx 136 in Models/D3_model_MAPK_v7.json = 0.220
+EGFR        0.145   
+MAPK        0.292   
+Final Score for scramIdx 137 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.140   
+MAPK        0.291   
+Final Score for scramIdx 138 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.139   
+MAPK        0.289   
+Final Score for scramIdx 139 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.138   
+MAPK        0.290   
+Final Score for scramIdx 140 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.139   
+MAPK        0.293   
+Final Score for scramIdx 141 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.142   
+MAPK        0.289   
+Final Score for scramIdx 142 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.140   
+MAPK        0.291   
+Final Score for scramIdx 143 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.143   
+MAPK        0.288   
+Final Score for scramIdx 144 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.142   
+MAPK        0.294   
+Final Score for scramIdx 145 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.136   
+MAPK        0.292   
+Final Score for scramIdx 146 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.136   
+MAPK        0.287   
+Final Score for scramIdx 147 in Models/D3_model_MAPK_v7.json = 0.212
+EGFR        0.142   
+MAPK        0.291   
+Final Score for scramIdx 148 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.139   
+MAPK        0.291   
+Final Score for scramIdx 149 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.140   
+MAPK        0.290   
+Final Score for scramIdx 150 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.142   
+MAPK        0.290   
+Final Score for scramIdx 151 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.138   
+MAPK        0.291   
+Final Score for scramIdx 152 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.142   
+MAPK        0.288   
+Final Score for scramIdx 153 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.146   
+MAPK        0.290   
+Final Score for scramIdx 154 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.140   
+MAPK        0.292   
+Final Score for scramIdx 155 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.137   
+MAPK        0.300   
+Final Score for scramIdx 156 in Models/D3_model_MAPK_v7.json = 0.219
+EGFR        0.142   
+MAPK        0.292   
+Final Score for scramIdx 157 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.148   
+MAPK        0.293   
+Final Score for scramIdx 158 in Models/D3_model_MAPK_v7.json = 0.221
+EGFR        0.143   
+MAPK        0.291   
+Final Score for scramIdx 159 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.145   
+MAPK        0.291   
+Final Score for scramIdx 160 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.139   
+MAPK        0.290   
+Final Score for scramIdx 161 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.142   
+MAPK        0.289   
+Final Score for scramIdx 162 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.143   
+MAPK        0.292   
+Final Score for scramIdx 163 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.147   
+MAPK        0.292   
+Final Score for scramIdx 164 in Models/D3_model_MAPK_v7.json = 0.219
+EGFR        0.142   
+MAPK        0.293   
+Final Score for scramIdx 165 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.141   
+MAPK        0.295   
+Final Score for scramIdx 166 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.143   
+MAPK        0.292   
+Final Score for scramIdx 167 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.146   
+MAPK        0.292   
+Final Score for scramIdx 168 in Models/D3_model_MAPK_v7.json = 0.219
+EGFR        0.140   
+MAPK        0.290   
+Final Score for scramIdx 169 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.139   
+MAPK        0.290   
+Final Score for scramIdx 170 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.139   
+MAPK        0.287   
+Final Score for scramIdx 171 in Models/D3_model_MAPK_v7.json = 0.213
+EGFR        0.142   
+MAPK        0.293   
+Final Score for scramIdx 172 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.138   
+MAPK        0.295   
+Final Score for scramIdx 173 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.138   
+MAPK        0.292   
+Final Score for scramIdx 174 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.139   
+MAPK        0.288   
+Final Score for scramIdx 175 in Models/D3_model_MAPK_v7.json = 0.213
+EGFR        0.140   
+MAPK        0.289   
+Final Score for scramIdx 176 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.140   
+MAPK        0.286   
+Final Score for scramIdx 177 in Models/D3_model_MAPK_v7.json = 0.213
+EGFR        0.139   
+MAPK        0.286   
+Final Score for scramIdx 178 in Models/D3_model_MAPK_v7.json = 0.213
+EGFR        0.141   
+MAPK        0.289   
+Final Score for scramIdx 179 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.137   
+MAPK        0.292   
+Final Score for scramIdx 180 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.143   
+MAPK        0.291   
+Final Score for scramIdx 181 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.141   
+MAPK        0.288   
+Final Score for scramIdx 182 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.145   
+MAPK        0.293   
+Final Score for scramIdx 183 in Models/D3_model_MAPK_v7.json = 0.219
+EGFR        0.139   
+MAPK        0.288   
+Final Score for scramIdx 184 in Models/D3_model_MAPK_v7.json = 0.213
+EGFR        0.141   
+MAPK        0.291   
+Final Score for scramIdx 185 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.138   
+MAPK        0.288   
+Final Score for scramIdx 186 in Models/D3_model_MAPK_v7.json = 0.213
+EGFR        0.141   
+MAPK        0.288   
+Final Score for scramIdx 187 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.137   
+MAPK        0.291   
+Final Score for scramIdx 188 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.143   
+MAPK        0.288   
+Final Score for scramIdx 189 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.147   
+MAPK        0.292   
+Final Score for scramIdx 190 in Models/D3_model_MAPK_v7.json = 0.219
+EGFR        0.145   
+MAPK        0.290   
+Final Score for scramIdx 191 in Models/D3_model_MAPK_v7.json = 0.218
+EGFR        0.143   
+MAPK        0.289   
+Final Score for scramIdx 192 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.143   
+MAPK        0.287   
+Final Score for scramIdx 193 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.137   
+MAPK        0.291   
+Final Score for scramIdx 194 in Models/D3_model_MAPK_v7.json = 0.214
+EGFR        0.144   
+MAPK        0.290   
+Final Score for scramIdx 195 in Models/D3_model_MAPK_v7.json = 0.217
+EGFR        0.143   
+MAPK        0.287   
+Final Score for scramIdx 196 in Models/D3_model_MAPK_v7.json = 0.215
+EGFR        0.142   
+MAPK        0.291   
+Final Score for scramIdx 197 in Models/D3_model_MAPK_v7.json = 0.216
+EGFR        0.140   
+MAPK        0.286   
+Final Score for scramIdx 198 in Models/D3_model_MAPK_v7.json = 0.213
+EGFR        0.141   
+MAPK        0.289   
+Final Score for scramIdx 199 in Models/D3_model_MAPK_v7.json = 0.215
+Models/D3_model_MAPK_v7.json: initScramble: Init Score 0.219, Final = 0.211, Time = 367.882s
