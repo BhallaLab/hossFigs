@@ -1,8 +1,10 @@
 import pandas as pd
 import seaborn as sns
+import os
 import re
 import numpy as np
 import matplotlib.pyplot as plt
+import scramParam
 import simdiff
 
 resultDirTail = ["_1.2", "", "_5.0"]
@@ -47,7 +49,7 @@ def plotScramParam( ax, scr = [1.2, 2.0, 5.0] ):
     ax.yaxis.set_tick_params(labelsize=14)
     ax.text( -0.10, 1.05, label, fontsize = 22, weight = "bold", 
             transform=ax.transAxes )
-    ax.legend( title = "Scramble range", frameon = False, fontsize = 16)
+    ax.legend( title = "Scramble range", frameon = False, fontsize = 14)
 
 def plotResultHistos( ax, location, label ):
     # Iterate over each file
@@ -79,7 +81,7 @@ def plotResultHistos( ax, location, label ):
             transform=ax.transAxes )
     
     # Add legend
-    ax.legend( title = "Scramble range", frameon = False, fontsize = 16)
+    ax.legend( title = "Scramble range", frameon = False, fontsize = 14)
     
 
 def plotParamProximity( ax, location, mapfile, label ):
@@ -96,9 +98,6 @@ def plotParamProximity( ax, location, mapfile, label ):
         pds.append( scr.getParamDict()[0] )
         if modelfile != topN[-1]:
             scr.model.clear()
-
-    #scrams = [ simdiff.Scram( modelfile, mapfile ) for modelfile in topN ]
-    #pds = [ ss.getParamDict()[0] for ss in scrams ]
 
     matrix = []
     for p1 in pds:
@@ -346,15 +345,124 @@ def plotHossVsFlatTime( df4, df5, ax ):
     
     # Adding legend
     ax.legend(loc='upper left', title='Optimization Method', frameon = False)
-    
+
+def readBestScore( logFileList ):
+    r0Score = -1
+    iterScore = []
+    for logset in logFileList:
+        optScore = []
+        initScore = []
+        for fname in logset:
+            with open(fname, 'r') as file:
+                lines = file.read().splitlines()
+                lastLine = lines[-1]
+                pattern = re.compile('(.*?): initScramble: Init Score (\d+\.\d+), Final = (\d+\.\d+), Time = (\d+\.\d+)s')
+                match = pattern.search( lastLine )
+                if match:
+                    front, initScore, optimizedScore, time = match.groups()
+                else:
+                    print( "Error: no match for fname ", fname, ", Line: ", lastLine )
+                    quit()
+                    
+            if r0Score == -1:
+                r0Score = float(initScore)
+            optScore.append( float(optimizedScore) )
+        iterScore.append( min( optScore ) )
+    iterScore.insert( 0, r0Score )
+    return iterScore
+
+def plotIteratedScore( ax ):
+    R1D3Logs = [ "LogScr1.2/log_D3_b2AR1.2.txt", 
+            "LogScr2.0/log_D3_b2AR.txt", 
+            "LogScr5.0/log_D3_b2AR5.0.txt"]
+    R2D3Logs = ["Log_R2/log_D3_b2AR_R2_2.0.txt", 
+            "Log_R2/log_D3_b2AR_R2_5.0.txt"]
+    R3D3Logs = ["Log_R3/log_D3_b2AR_R3_1.2.txt", 
+            "Log_R3/log_D3_b2AR_R3_2.0.txt"]
+    R1D4Logs = [ "LogScr1.2/log_D4_b2AR1.2.txt", 
+            "LogScr2.0/log_D4_b2AR.txt", 
+            "LogScr5.0/log_D4_b2AR5.0.txt"]
+    R2D4Logs = ["Log_R2/log_D4_b2AR_R2_2.0.txt", 
+            "Log_R2/log_D4_b2AR_R2_5.0.txt"]
+    R3D4Logs = ["Log_R3/log_D4_b2AR_R3_1.2.txt", 
+            "Log_R3/log_D4_b2AR_R3_2.0.txt"]
+
+    d3scores = readBestScore( [R1D3Logs, R2D3Logs, R3D3Logs] ) 
+    d4scores = readBestScore( [R1D4Logs, R2D4Logs, R3D4Logs] ) 
+    ax.plot( range( len(d3scores) ), d3scores, "*-", label = "D3_b2AR" )
+    ax.plot( range( len(d4scores) ), d4scores, "*-", label = "D4_b2AR" )
+    ax.set_xlabel('# Times through optimization', fontsize = 16)
+    ax.set_ylabel('Score', fontsize = 16)
+    ax.xaxis.set_tick_params(labelsize=14)
+    ax.yaxis.set_tick_params(labelsize=14)
+    ax.set_ylim(0, 0.5)
+    ax.text( -0.10, 1.05, "E", fontsize = 22, weight = "bold", transform=ax.transAxes )
+    ax.legend(loc='upper right', title='Model', frameon = False, fontsize = 14 )
+
+
+
+def estimateDiff( scramRange, origModel, mapfile ):
+    numScramble = 10
+    suffix = os.path.splitext( origModel )[-1]
+    scramFileName = "SCRAM/scram{}".format( suffix )
+    scramParam.generateScrambled( "Models/"+origModel, "Maps/"+mapfile, 
+            scramFileName, numScramble, None, scramRange )
+    scramFiles = [ "SCRAM/scram_{:03d}{}".format( idx, suffix ) for idx in range( numScramble )]
+
+    paramDicts = []
+    for idx in range( numScramble ):
+        scramFileName = "SCRAM/scram_{:03d}{}".format( idx, suffix )
+        scr = simdiff.Scram( scramFileName, "Maps/"+mapfile )
+        paramDicts.append( scr.getParamDict()[0] )
+        if idx != numScramble - 1:
+            scr.model.clear()
+
+    means = []
+    for p1 in paramDicts:
+        row = np.array( [ scr.compare( p1, p2 )[0] for p2 in paramDicts ] )
+        means.append( np.mean( row[row > 0.0] ) )
+    scr.model.clear()
+
+    for ff in scramFiles:
+        os.remove( ff )
+
+    print( ".", end = "", flush = True )
+    return( np.mean( means ) )
+
+def plotModelDifferenceVsScramRange( ax ):
+    models = ["D3_model_b2AR_v5.json", "D3_model_MAPK_v7.json",
+            "b2AR_PKA_v5.g", "D4_model_EGFR_v13b.g"]
+    maps = ["D3_map_b2AR.json", "D3_map_EGFR.json",
+            "D4_map_b2AR.json", "D4_map_EGFR.json"]
+
+    for mod, mmap in zip( models, maps ):
+        x = []
+        y = []
+        for scramRange in [1.05, 1.1, 1.2, 1.5, 2.0, 2.5, 3.0, 4.0, 5.0, 10.0]:
+            diff = estimateDiff( scramRange, mod, mmap )
+            x.append( scramRange )
+            y.append( diff )
+            #print( mmap, scramRange, diff )
+        ax.plot( x, y, label = mmap )
+
+    ax.set_xlabel( "Scramble Range", fontsize = 16 )
+    ax.set_ylabel( "Model difference (NRMS)", fontsize = 16 )
+    ax.xaxis.set_tick_params(labelsize=14)
+    ax.yaxis.set_tick_params(labelsize=14)
+    ax.text( -0.10, 1.05, "F", fontsize = 22, weight = "bold", transform=ax.transAxes )
+    ax.legend( loc = 'lower right', frameon = False )
 
 def main():
-    fig, ax = plt.subplots( nrows = 3, ncols=1, figsize = (8, 15) )
+    fig, ax = plt.subplots( nrows = 3, ncols=2, figsize = (14, 16) )
     # setting font sizeto 30
     plt.rcParams.update({'font.size': 16})
-    plotScramParam( ax[0] )
-    plotResultHistos( ax[1], "OPT_D3_b2AR", "C" )
-    plotResultHistos( ax[2], "OPT_D4_b2AR", "D" )
+    plotScramParam( ax[0][0] )
+    plotResultHistos( ax[0][1], "OPT_D3_b2AR", "C" )
+    plotResultHistos( ax[1][0], "OPT_D4_b2AR", "D" )
+    plotIteratedScore( ax[1][1] )
+    plotModelDifferenceVsScramRange( ax[2][0] )
+    ax[2][1].set_axis_off()
+    plt.tight_layout( pad = 1.0 )
     plotParamProximity( ax[0], "OPT_D3_b2AR", "Maps/D3_map_b2AR.json", "E" )
     plotParamProximity( ax[1], "OPT_D4_b2AR", "Maps/D4_map_b2AR.json", "F" )
     '''
@@ -366,7 +474,6 @@ def main():
     plotHossVsFlatTime(df4, df5, ax[3])
     #plotHossVsFlatTime(d4, d5, ax[3])
     '''
-    plt.tight_layout()
     plt.show()
 
 if __name__ == "__main__":
