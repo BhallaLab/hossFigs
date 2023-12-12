@@ -60,6 +60,7 @@ def main():
     #print(grouped_df)
 
     fig, ax = plt.subplots( nrows = 2, ncols=1, figsize = (8, 8) )
+    plt.rcParams.update({'font.size': 14})
     plotScore( grouped_df, ax[0] )
     plotTime( grouped_df, ax[1] )
     plt.tight_layout()
@@ -103,10 +104,12 @@ def plotScore( df, ax ):
     #ax.set_xticklabels([f"{d}_{t}" for d, t in zip(unique_d_values, unique_targets)])
     ax.set_xticklabels( xticklabels )
     #ax.set_xlabel('')
-    ax.set_ylabel('Optimization score (low is better)')
+    ax.set_ylabel('Optimization score', fontsize = 16)
     #ax.set_yscale( 'log' )
-    ax.set_title('Optimization score')
-    ax.text( -0.10, 1.05, "D", fontsize = 22, weight = "bold", transform=ax.transAxes )
+    #ax.set_title('Optimization score')
+    ax.xaxis.set_tick_params(labelsize=14)
+    ax.yaxis.set_tick_params(labelsize=14)
+    ax.text( -0.10, 1.05, "B", fontsize = 22, weight = "bold", transform=ax.transAxes )
     
     # Adding legend
     #ax.legend(loc='upper left', bbox_to_anchor=(1, 1), title='Optimization Method')
@@ -144,10 +147,12 @@ def plotTime( df, ax ):
     #ax.set_xticklabels([f"{d}_{t}" for d, t in zip(unique_d_values, unique_targets)])
     ax.set_xticklabels( xticklabels )
     #ax.set_xlabel('')
-    ax.set_ylabel('Time Mean (s)')
+    ax.set_ylabel('Wallclock Time (s)', fontsize = 16)
     ax.set_yscale( 'log' )
-    ax.text( -0.10, 1.05, "E", fontsize = 22, weight = "bold", transform=ax.transAxes )
-    ax.set_title('Wallclock time (s)')
+    ax.xaxis.set_tick_params(labelsize=14)
+    ax.yaxis.set_tick_params(labelsize=14)
+    ax.text( -0.10, 1.05, "C", fontsize = 22, weight = "bold", transform=ax.transAxes )
+    #ax.set_title('Wallclock time (s)')
     
     # Adding legend
     #ax.legend(loc='upper left', bbox_to_anchor=(1, 1), title='Optimization Method')

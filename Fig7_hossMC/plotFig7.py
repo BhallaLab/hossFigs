@@ -271,17 +271,15 @@ def plotAllScores( df4, df5, df6, df7, ax ):
     
     # Adding labels and title
     ax.set_xticks(grouped_positions + ((len(unique_targets) - 1) / 2) * (bar_width * len(colors) + space_width))
-    #ax.set_xticklabels([f"{d}_{t}" for d, t in zip(unique_d_values, unique_targets)])
-    ax.set_xticklabels( xticklabels )
-    #ax.set_xlabel('')
-    ax.set_ylabel('Optimization score (low is better)')
-    #ax.set_yscale( 'log' )
-    ax.set_title('Optimization score')
-    ax.text( -0.10, 1.05, "C", fontsize = 22, weight = "bold", transform=ax.transAxes )
+    ax.set_xticklabels( xticklabels, fontsize = 16 )
+    ax.set_ylabel('Optimization score', fontsize = 16)
+    ax.set_ylim( 0, 0.65 )
+    ax.yaxis.set_tick_params(labelsize=14)
+    ax.text( -0.10, 1.05, "B", fontsize = 22, weight = "bold", transform=ax.transAxes )
     
     # Adding legend
-    #ax.legend(loc='upper left', bbox_to_anchor=(1, 1), title='Optimization Method')
-    ax.legend(loc='upper left', title='Optimization Method', frameon = False)
+    #ax.legend(loc='upper left', title='Optimization Method', frameon = False, fontsize = 14)
+    ax.legend(loc='upper left', ncol = 2, frameon = False, fontsize = 14)
     
 
 def plotWallclockTimes( df4, df5, df6, df7, ax ):
@@ -335,15 +333,14 @@ def plotWallclockTimes( df4, df5, df6, df7, ax ):
     
     # Adding labels and title
     ax.set_xticks(grouped_positions + ((len(unique_targets) - 1) / 2) * (bar_width * len(colors) + space_width))
-    #ax.set_xticklabels([f"{d}_{t}" for d, t in zip(unique_d_values, unique_targets)])
-    ax.set_xticklabels( xticklabels )
-    ax.set_ylabel('Optimization Time (s)')
+    ax.set_xticklabels( xticklabels, fontsize = 16 )
+    ax.set_ylabel('Wallclock Time (s)', fontsize = 16)
     ax.set_yscale( 'log' )
-    ax.set_title('Wallclock Time')
-    ax.text( -0.10, 1.05, "D", fontsize = 22, weight = "bold", transform=ax.transAxes )
+    ax.yaxis.set_tick_params(labelsize=14)
+    ax.text( -0.10, 1.05, "C", fontsize = 22, weight = "bold", transform=ax.transAxes )
     
     # Adding legend
-    ax.legend(loc='upper left', title='Optimization Method', frameon = False)
+    #ax.legend(loc='upper left', title='Optimization Method', frameon = False, fontsize = 14)
     
 def plotTotalCpuTimes( df4, df5, df6, df7, ax ):
     numProcesses = 24
@@ -402,12 +399,11 @@ def plotTotalCpuTimes( df4, df5, df6, df7, ax ):
     
     # Adding labels and title
     ax.set_xticks(grouped_positions + ((len(unique_targets) - 1) / 2) * (bar_width * len(colors) + space_width))
-    #ax.set_xticklabels([f"{d}_{t}" for d, t in zip(unique_d_values, unique_targets)])
-    ax.set_xticklabels( xticklabels )
-    ax.set_ylabel('Optimization Time (s)')
+    ax.set_xticklabels( xticklabels, fontsize = 16 )
+    ax.set_ylabel('Total CPU Time (s)', fontsize = 16)
     ax.set_yscale( 'log' )
-    ax.set_title('Total CPU Time')
-    ax.text( -0.10, 1.05, "E", fontsize = 22, weight = "bold", transform=ax.transAxes )
+    ax.yaxis.set_tick_params(labelsize=14)
+    ax.text( -0.10, 1.05, "D", fontsize = 22, weight = "bold", transform=ax.transAxes )
     
     # Not Adding legend. We've already done it.
     #ax.legend(loc='upper left', title='Optimization Method', frameon = False)
@@ -418,7 +414,7 @@ def main():
     df5 = readFig5Data()
     df6 = readFig6Data()
     df7 = readFig7Data()
-    fig, ax = plt.subplots( nrows = 3, ncols=1, figsize = (8, 11) )
+    fig, ax = plt.subplots( nrows = 3, ncols=1, figsize = (10, 9) )
     plotAllScores(df4, df5, df6, df7, ax[0])
     plotWallclockTimes(df4, df5, df6, df7, ax[1])
     plotTotalCpuTimes(df4, df5, df6, df7, ax[2])

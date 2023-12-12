@@ -141,16 +141,17 @@ def plotScore( df, ax ):
     # Adding labels and title
     ax.set_xticks(grouped_positions + ((len(unique_targets) - 1) / 2) * (bar_width * len(unique_methods) + space_width))
     #ax.set_xticklabels([f"{d}_{t}" for d, t in zip(unique_d_values, unique_targets)])
-    ax.set_xticklabels( xticklabels )
+    ax.set_xticklabels( xticklabels, fontsize = 14 )
     #ax.set_xlabel('')
-    ax.set_ylabel('Optimization score (low is better)')
+    ax.yaxis.set_tick_params(labelsize=14)
+    ax.set_ylabel('Optimization score', fontsize = 16)
     #ax.set_yscale( 'log' )
-    ax.set_title('Optimization score')
-    ax.text( -0.10, 1.05, "C", fontsize = 22, weight = "bold", transform=ax.transAxes )
+    #ax.set_title('Optimization score')
+    ax.text( -0.10, 1.05, "B", fontsize = 22, weight = "bold", transform=ax.transAxes )
     
     # Adding legend
     #ax.legend(loc='upper left', bbox_to_anchor=(1, 1), title='Optimization Method')
-    ax.legend(loc='upper left', title='Optimization Method', frameon = False)
+    ax.legend(loc='upper left', title='Algorithm', frameon = False, fontsize = 12)
     
     # Show the plot
     
@@ -182,15 +183,16 @@ def plotTime( df, ax ):
     # Adding labels and title
     ax.set_xticks(grouped_positions + ((len(unique_targets) - 1) / 2) * (bar_width * len(unique_methods) + space_width))
     #ax.set_xticklabels([f"{d}_{t}" for d, t in zip(unique_d_values, unique_targets)])
-    ax.set_xticklabels( xticklabels )
+    ax.set_xticklabels( xticklabels, fontsize = 14 )
     #ax.set_xlabel('')
-    ax.set_ylabel('Time Mean (s)')
+    ax.yaxis.set_tick_params(labelsize=14)
+    ax.set_ylabel('Optimization Time (s)', fontsize = 16)
     ax.set_yscale( 'log' )
-    ax.text( -0.10, 1.05, "D", fontsize = 22, weight = "bold", transform=ax.transAxes )
-    ax.set_title('Wallclock time (s)')
+    ax.text( -0.10, 1.05, "C", fontsize = 22, weight = "bold", transform=ax.transAxes )
+    #ax.set_title('Wallclock time (s)')
     
     # Adding legend
-    ax.legend(loc='upper left', title='Optimization Method', frameon = False)
+    ax.legend(loc='upper left', title='Algorithm', frameon = False)
 
 
 def plotHossVsFlatScore( df4, df5, ax ):
@@ -232,16 +234,17 @@ def plotHossVsFlatScore( df4, df5, ax ):
     # Adding labels and title
     ax.set_xticks(grouped_positions + ((len(unique_targets) - 1) / 2) * (bar_width * len(colors) + space_width))
     #ax.set_xticklabels([f"{d}_{t}" for d, t in zip(unique_d_values, unique_targets)])
-    ax.set_xticklabels( xticklabels )
+    ax.set_xticklabels( xticklabels, fontsize = 14 )
+    ax.yaxis.set_tick_params(labelsize=14)
     #ax.set_xlabel('')
-    ax.set_ylabel('Optimization score (low is better)')
+    ax.set_ylabel('Optimization score', fontsize = 16)
     #ax.set_yscale( 'log' )
-    ax.set_title('Optimization score')
-    ax.text( -0.10, 1.05, "E", fontsize = 22, weight = "bold", transform=ax.transAxes )
+    #ax.set_title('Optimization score')
+    ax.text( -0.10, 1.05, "D", fontsize = 22, weight = "bold", transform=ax.transAxes )
     
     # Adding legend
     #ax.legend(loc='upper left', bbox_to_anchor=(1, 1), title='Optimization Method')
-    ax.legend(loc='upper left', title='Optimization Method', frameon = False)
+    ax.legend(loc='upper left', title='Method', frameon = False)
     
 
 def plotHossVsFlatTime( df4, df5, ax ):
@@ -280,25 +283,26 @@ def plotHossVsFlatTime( df4, df5, ax ):
     # Adding labels and title
     ax.set_xticks(grouped_positions + ((len(unique_targets) - 1) / 2) * (bar_width * len(colors) + space_width))
     #ax.set_xticklabels([f"{d}_{t}" for d, t in zip(unique_d_values, unique_targets)])
-    ax.set_xticklabels( xticklabels )
-    ax.set_ylabel('Optimization Time (s)')
+    ax.set_xticklabels( xticklabels, fontsize = 14 )
+    ax.yaxis.set_tick_params(labelsize=14)
+    ax.set_ylabel('Optimization Time (s)', fontsize = 16)
     #ax.set_yscale( 'log' )
-    ax.set_title('Wallclock Time')
-    ax.text( -0.10, 1.05, "F", fontsize = 22, weight = "bold", transform=ax.transAxes )
+    #ax.set_title('Wallclock Time')
+    ax.text( -0.10, 1.05, "E", fontsize = 22, weight = "bold", transform=ax.transAxes )
     
     # Adding legend
-    ax.legend(loc='upper left', title='Optimization Method', frameon = False)
+    ax.legend(loc='upper left', title='Method', frameon = False)
     
 
 def main():
     df5 = readFig5Data()
     df4 = readFig4Data()
-    fig, ax = plt.subplots( nrows = 4, ncols=1, figsize = (8, 16) )
-    plotScore( df5, ax[0] )
-    plotTime( df5, ax[1] )
-    plotHossVsFlatScore(df4, df5, ax[2])
-    plotHossVsFlatTime(df4, df5, ax[3])
-    #plotHossVsFlatTime(d4, d5, ax[3])
+    plt.rcParams.update({'font.size': 14})
+    fig, ax = plt.subplots( nrows = 2, ncols=2, figsize = (12, 10) )
+    plotScore( df5, ax[0][0] )
+    plotTime( df5, ax[0][1] )
+    plotHossVsFlatScore(df4, df5, ax[1][0])
+    plotHossVsFlatTime(df4, df5, ax[1][1])
     plt.tight_layout()
     plt.show()
 
