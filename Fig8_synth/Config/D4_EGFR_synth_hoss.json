@@ -24,8 +24,8 @@
 				"expt": {
 					"synth_DR_aEGFR_vs_egf.json": {"weight": 200},
 					"synth_TS_aEGFR_vs_egf.json": {"weight": 200},
-					"synth_DR_intEGFR_vs_egf.json": {"weight": 100},
-					"synth_TS_intEGFR_vs_egf.json": {"weight": 100},
+					"synth_DR_intEGFR_vs_egf.json": {"weight": 50},
+					"synth_TS_intEGFR_vs_egf.json": {"weight": 50},
 					"synth_DR_aEGFR_vs_EGFR.json": {"weight": 100},
 					"synth_TS_aEGFR_vs_EGFR.json": {"weight": 100}
 					},
@@ -74,10 +74,10 @@
 			"Sos": {
 				"comment": "Sos shares a block with Ras.",
 				"expt": {
-					"synth_DR_aSos_vs_aSHC.json":{"weight": 100},
-					"synth_TS_aSos_vs_aSHC.json":{"weight": 100},
-					"synth_DR_aSos_vs_aMAPK.json":{"weight": 100},
-					"synth_TS_aSos_vs_aMAPK.json":{"weight": 100},
+					"synth_DR_aSos_vs_aSHC.json":{"weight": 200},
+					"synth_TS_aSos_vs_aSHC.json":{"weight": 200},
+					"synth_DR_aSos_vs_aMAPK.json":{"weight": 1},
+					"synth_TS_aSos_vs_aMAPK.json":{"weight": 1},
 					"synth_B_aSHC_DR_aSos_vs_aMAPK.json":{"weight": 200},
 					"synth_B_aSHC_TS_aSos_vs_aMAPK.json":{"weight": 200},
 					"synth_DR_aSos_vs_Sos.json":{"weight": 100},
@@ -111,10 +111,10 @@
 			"Ras": {
 				"comment": "Ras shares a block with Sos.",
 				"expt": {
-					"synth_DR_aRas_vs_aSos.json":{"weight": 100},
-					"synth_TS_aRas_vs_aSos.json":{"weight": 100},
-					"synth_B_aSHC_DR_aRas_vs_aMAPK.json":{"weight": 200},
-					"synth_B_aSHC_TS_aRas_vs_aMAPK.json":{"weight": 200},
+					"synth_DR_aRas_vs_aSos.json":{"weight": 200},
+					"synth_TS_aRas_vs_aSos.json":{"weight": 200},
+					"synth_B_aSHC_DR_aRas_vs_aMAPK.json":{"weight": 100},
+					"synth_B_aSHC_TS_aRas_vs_aMAPK.json":{"weight": 100},
 					"synth_DR_aRas_vs_egf.json":{"weight": 200},
 					"synth_TS_aRas_vs_egf.json":{"weight": 200},
 					"synth_DR_aRas_vs_Ras.json":{"weight": 100},
@@ -141,10 +141,10 @@
 				"expt": {
 					"synth_DR_acraf1_vs_craf1.json":{"weight": 100},
 					"synth_TS_acraf1_vs_craf1.json":{"weight": 100},
-					"synth_DR_acraf1_vs_aRas.json":{"weight": 100},
-					"synth_TS_acraf1_vs_aRas.json":{"weight": 100},
-					"synth_B_aSHC_DR_acraf1_vs_aMAPK.json":{"weight": 200},
-					"synth_B_aSHC_TS_acraf1_vs_aMAPK.json":{"weight": 200},
+					"synth_DR_acraf1_vs_aRas.json":{"weight": 200},
+					"synth_TS_acraf1_vs_aRas.json":{"weight": 200},
+					"synth_B_aSHC_DR_acraf1_vs_aMAPK.json":{"weight": 50},
+					"synth_B_aSHC_TS_acraf1_vs_aMAPK.json":{"weight": 50},
 					"synth_DR_acraf1_vs_egf.json":{"weight": 200},
 					"synth_TS_acraf1_vs_egf.json":{"weight": 200}
 				},
@@ -169,7 +169,7 @@
 						"synth_TS_aMAPK_vs_acraf1.json":{"weight": 400},
 						"synth_DR_aMAPK_vs_MAPK.json":{"weight": 30},
 						"synth_TS_aMAPK_vs_MAPK.json":{"weight": 30},
-						"synth_DR_aMAPK_vs_egf.json":{"weight": 100},
+						"synth_DR_aMAPK_vs_egf.json":{"weight": 200},
 						"synth_TS_aMAPK_vs_egf.json":{"weight": 400}
 					},
 				"params": [ 
