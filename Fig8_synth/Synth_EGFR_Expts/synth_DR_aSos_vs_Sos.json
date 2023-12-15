@@ -1,0 +1,115 @@
+{
+    "FileType": "FindSim",
+    "Version": "1.0",
+    "Metadata": {
+        "transcriber": "bhalla",
+        "organization": "OpenSource",
+        "source": {
+            "sourceType": "other",
+            "doi": "dummy",
+            "year": 2023
+        }
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "",
+        "cellType": "",
+        "notes": "Generated from mousse.py"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "uM",
+            "entity": "Sos",
+            "field": "conc"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "quantityUnits": "uM",
+        "settleTime": 440.23,
+        "entities": [
+            "aSos"
+        ],
+        "field": "conc",
+        "data": [
+            [
+                0.009077499999999999,
+                0.0015318914060458153,
+                0.0
+            ],
+            [
+                0.018154999999999998,
+                0.0015349422056748804,
+                0.0
+            ],
+            [
+                0.036309999999999995,
+                0.0015411277913193503,
+                0.0
+            ],
+            [
+                0.07261999999999999,
+                0.0015535540110323128,
+                0.0
+            ],
+            [
+                0.14523999999999998,
+                0.0015783658562034037,
+                0.0
+            ],
+            [
+                0.18155,
+                0.0015904647791318638,
+                0.0
+            ],
+            [
+                0.2269375,
+                0.001605720121249491,
+                0.0
+            ],
+            [
+                0.453875,
+                0.0016826622583789507,
+                0.0
+            ],
+            [
+                0.90775,
+                0.001835148863656466,
+                0.0
+            ],
+            [
+                1.8155,
+                0.0021340260753592404,
+                0.0
+            ],
+            [
+                3.631,
+                0.0027029579478348854,
+                0.0
+            ]
+        ]
+    },
+    "Modifications": {
+        "parameterChange": [
+            {
+                "entity": "Sos",
+                "field": "isBuffered",
+                "value": 1,
+                "units": "none"
+            },
+            {
+                "entity": "aMAPK",
+                "field": "isBuffered",
+                "value": 1,
+                "units": "none"
+            },
+            {
+                "entity": "aMAPK",
+                "field": "concInit",
+                "value": 2.18e-06,
+                "units": "mM"
+            }
+        ]
+    }
+}

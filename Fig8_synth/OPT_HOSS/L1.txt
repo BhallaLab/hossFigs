@@ -1,0 +1,19 @@
+-------------------------------------------------------------
+scoreFunc = NRMS, Minimization runtime = 5.007 sec
+Parameter              Initial Value     Final Value          Ratio 
+EGF.concInit                   2e-08       5.494e-08          2.7469
+EGFR.concInit              0.0001083       0.0003426          3.1624
+act_EGFR.Kf                2.674e+04            1161          0.0434
+act_EGFR.Kb                  0.01314         0.03816          2.9040
+EGFR_Internalize.Kf              200           62.51          0.3125
+EGFR_Internalize.Kb            0.005         0.00122          0.2441
+
+File                                       initScore  finalScore      weight
+synth_DR_aEGFR_vs_EGFR.json                  0.36205     0.24535     100.000
+synth_DR_aEGFR_vs_egf.json                   0.27817     0.22322     200.000
+synth_DR_intEGFR_vs_egf.json                 0.24085     0.12912      50.000
+synth_TS_aEGFR_vs_EGFR.json                  0.52430     0.33984     100.000
+synth_TS_aEGFR_vs_egf.json                   0.38395     0.21784     200.000
+synth_TS_intEGFR_vs_egf.json                 0.35982     0.05009      50.000
+
+Init score = 0.3683, final = 0.2329

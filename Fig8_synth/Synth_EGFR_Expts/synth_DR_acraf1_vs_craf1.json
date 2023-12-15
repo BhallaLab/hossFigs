@@ -1,0 +1,115 @@
+{
+    "FileType": "FindSim",
+    "Version": "1.0",
+    "Metadata": {
+        "transcriber": "bhalla",
+        "organization": "OpenSource",
+        "source": {
+            "sourceType": "other",
+            "doi": "dummy",
+            "year": 2023
+        }
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "",
+        "cellType": "",
+        "notes": "Generated from mousse.py"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "uM",
+            "entity": "craf1",
+            "field": "conc"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "quantityUnits": "uM",
+        "settleTime": 440.23,
+        "entities": [
+            "acraf1"
+        ],
+        "field": "conc",
+        "data": [
+            [
+                0.014820000000000002,
+                0.0034301837209305235,
+                0.0
+            ],
+            [
+                0.029640000000000003,
+                0.003466370766835698,
+                0.0
+            ],
+            [
+                0.059280000000000006,
+                0.0035388170745247523,
+                0.0
+            ],
+            [
+                0.11856000000000001,
+                0.0036837149097408003,
+                0.0
+            ],
+            [
+                0.23712000000000003,
+                0.003973185287994759,
+                0.0
+            ],
+            [
+                0.2964,
+                0.004117413673479242,
+                0.0
+            ],
+            [
+                0.3705,
+                0.004297704734001758,
+                0.0
+            ],
+            [
+                0.741,
+                0.005197130315678655,
+                0.0
+            ],
+            [
+                1.482,
+                0.0069774018398790225,
+                0.0
+            ],
+            [
+                2.964,
+                0.010449137303447448,
+                0.0
+            ],
+            [
+                5.928,
+                0.017079171649627967,
+                0.0
+            ]
+        ]
+    },
+    "Modifications": {
+        "parameterChange": [
+            {
+                "entity": "craf1",
+                "field": "isBuffered",
+                "value": 1,
+                "units": "none"
+            },
+            {
+                "entity": "aRas",
+                "field": "isBuffered",
+                "value": 1,
+                "units": "none"
+            },
+            {
+                "entity": "aRas",
+                "field": "concInit",
+                "value": 1.218e-05,
+                "units": "mM"
+            }
+        ]
+    }
+}

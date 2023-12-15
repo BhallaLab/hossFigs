@@ -5,13 +5,13 @@
 	"model": "Models/D4_model_EGFR_v13b.g",
 	"map": "Maps/D4_map_EGFR.json",
 	"exptDir": "./Synth_EGFR_Expts",
-	"outputDir": "./OPT_HOSS",
+	"outputDir": "./OPT_FLAT",
 	"scoreFunc": "NRMS",
 	"tolerance": 0.001,
 	"algorithm": "COBYLA",
 	"comment": "Optimizing D4 EGFR_MAPK model using Synthetic experiments from D3 model.",
 	"hossMethod": {
-		"method": "hoss",
+		"method": "flat",
 		"numProcesses": 1
 	},
 	"HOSS": [

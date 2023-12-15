@@ -1,0 +1,17 @@
+-------------------------------------------------------------
+scoreFunc = NRMS, Minimization runtime = 2.700 sec
+Parameter              Initial Value     Final Value          Ratio 
+SHC.concInit                  0.0005       0.0006326          1.2651
+EGFR_act_SHC.Km              0.00193       0.0006197          0.3210
+EGFR_act_SHC.kcat             0.1905          0.2704          1.4192
+SHCp_deph.Kf                    0.05          0.1051          2.1013
+
+File                                       initScore  finalScore      weight
+synth_DR_aSHC_vs_SHC.json                    0.17921     0.00755     100.000
+synth_DR_aSHC_vs_aEGFR.json                  0.31865     0.13101     100.000
+synth_DR_aSHC_vs_egf.json                    0.23167     0.10022     200.000
+synth_TS_aSHC_vs_SHC.json                    0.28375     0.07864     100.000
+synth_TS_aSHC_vs_aEGFR.json                  0.27802     0.09236     100.000
+synth_TS_aSHC_vs_egf.json                    0.26341     0.08494     200.000
+
+Init score = 0.2592, final = 0.0911

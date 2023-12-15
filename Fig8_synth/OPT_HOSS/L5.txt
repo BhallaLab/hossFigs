@@ -1,0 +1,18 @@
+-------------------------------------------------------------
+scoreFunc = NRMS, Minimization runtime = 2.313 sec
+Parameter              Initial Value     Final Value          Ratio 
+craf1.concInit                0.0002          0.0011          5.4998
+Ras_act_raf.Kf                  6000            2188          0.3647
+Ras_act_raf.Kb                     1           6.316          6.3158
+
+File                                       initScore  finalScore      weight
+synth_B_aSHC_DR_acraf1_vs_aMAPK.json         0.81282     0.67490      50.000
+synth_B_aSHC_TS_acraf1_vs_aMAPK.json         0.73117     0.64148      50.000
+synth_DR_acraf1_vs_aRas.json                 0.39003     0.09238     200.000
+synth_DR_acraf1_vs_craf1.json                0.33333     0.14263     100.000
+synth_DR_acraf1_vs_egf.json                  0.32668     0.20888     400.000
+synth_TS_acraf1_vs_aRas.json                 0.41845     0.03619     200.000
+synth_TS_acraf1_vs_craf1.json                0.54531     0.24488     100.000
+synth_TS_acraf1_vs_egf.json                  0.16699     0.09315     400.000
+
+Init score = 0.3829, final = 0.2225

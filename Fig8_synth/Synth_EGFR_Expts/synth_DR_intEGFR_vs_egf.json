@@ -1,0 +1,103 @@
+{
+    "FileType": "FindSim",
+    "Version": "1.0",
+    "Metadata": {
+        "transcriber": "bhalla",
+        "organization": "OpenSource",
+        "source": {
+            "sourceType": "other",
+            "doi": "dummy",
+            "year": 2023
+        }
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "",
+        "cellType": "",
+        "notes": "Generated from mousse.py"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "uM",
+            "entity": "egf",
+            "field": "conc"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "quantityUnits": "uM",
+        "settleTime": 2000.0,
+        "entities": [
+            "intEGFR"
+        ],
+        "field": "conc",
+        "data": [
+            [
+                5.000000000000001e-05,
+                0.0072896247676750335,
+                0.0
+            ],
+            [
+                0.00010000000000000002,
+                0.00931390307393617,
+                0.0
+            ],
+            [
+                0.00020000000000000004,
+                0.012060718907260126,
+                0.0
+            ],
+            [
+                0.0004000000000000001,
+                0.01618719747619899,
+                0.0
+            ],
+            [
+                0.0008000000000000001,
+                0.022218673596678347,
+                0.0
+            ],
+            [
+                0.0010000000000000002,
+                0.024729080707895444,
+                0.0
+            ],
+            [
+                0.00125,
+                0.02748753014844185,
+                0.0
+            ],
+            [
+                0.0025,
+                0.0382924557232945,
+                0.0
+            ],
+            [
+                0.005,
+                0.05363513661423725,
+                0.0
+            ],
+            [
+                0.01,
+                0.07518967941302898,
+                0.0
+            ],
+            [
+                0.02,
+                0.10530209740337997,
+                0.0
+            ]
+        ]
+    },
+    "Modifications": {
+        "parameterChange": [
+            {
+                "entity": "egf",
+                "field": "isBuffered",
+                "value": 1,
+                "units": "none"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+-------------------------------------------------------------
+scoreFunc = NRMS, Minimization runtime = 27.236 sec
+Parameter              Initial Value     Final Value          Ratio 
+Ras.concInit                  0.0002         0.00147          7.3513
+Sos_Ras_GEF.Km             0.0007097       0.0007187          1.0127
+Sos_Ras_GEF.kcat                2.26          0.5971          0.2642
+Ras_intrinsic_GTPase.Kf         0.04414         0.06809          1.5424
+basal_GEF.Kf                0.002682        0.000713          0.2658
+
+File                                       initScore  finalScore      weight
+synth_B_aSHC_DR_aRas_vs_aMAPK.json           0.50841     0.61681     100.000
+synth_B_aSHC_TS_aRas_vs_aMAPK.json           0.48620     0.60871     100.000
+synth_DR_aRas_vs_Ras.json                    0.29905     0.06944     100.000
+synth_DR_aRas_vs_aSos.json                   0.47099     0.07336     200.000
+synth_DR_aRas_vs_egf.json                    0.39161     0.23470     200.000
+synth_TS_aRas_vs_Ras.json                    0.45936     0.11422     100.000
+synth_TS_aRas_vs_aSos.json                   0.50479     0.08933     200.000
+synth_TS_aRas_vs_egf.json                    0.34270     0.12283     200.000
+
+Init score = 0.4369, final = 0.2793

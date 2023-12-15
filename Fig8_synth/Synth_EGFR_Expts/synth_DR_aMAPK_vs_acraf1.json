@@ -1,0 +1,103 @@
+{
+    "FileType": "FindSim",
+    "Version": "1.0",
+    "Metadata": {
+        "transcriber": "bhalla",
+        "organization": "OpenSource",
+        "source": {
+            "sourceType": "other",
+            "doi": "dummy",
+            "year": 2023
+        }
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "",
+        "cellType": "",
+        "notes": "Generated from mousse.py"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "uM",
+            "entity": "acraf1",
+            "field": "conc"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "quantityUnits": "uM",
+        "settleTime": 440.23,
+        "entities": [
+            "aMAPK"
+        ],
+        "field": "conc",
+        "data": [
+            [
+                0.007885,
+                0.002684570895324199,
+                0.0
+            ],
+            [
+                0.01577,
+                0.0041950198187582985,
+                0.0
+            ],
+            [
+                0.03154,
+                0.01018022869241955,
+                0.0
+            ],
+            [
+                0.06308,
+                0.03325783342005653,
+                0.0
+            ],
+            [
+                0.12616,
+                0.11363184420932251,
+                0.0
+            ],
+            [
+                0.1577,
+                0.1637936186845814,
+                0.0
+            ],
+            [
+                0.19712499999999997,
+                0.22916606568581188,
+                0.0
+            ],
+            [
+                0.39424999999999993,
+                0.4948900984341818,
+                0.0
+            ],
+            [
+                0.7884999999999999,
+                0.6987919917149692,
+                0.0
+            ],
+            [
+                1.5769999999999997,
+                0.7791890030870234,
+                0.0
+            ],
+            [
+                3.1539999999999995,
+                0.802276072886181,
+                0.0
+            ]
+        ]
+    },
+    "Modifications": {
+        "parameterChange": [
+            {
+                "entity": "acraf1",
+                "field": "isBuffered",
+                "value": 1,
+                "units": "none"
+            }
+        ]
+    }
+}
