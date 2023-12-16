@@ -1,0 +1,230 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 16873482,
+            "authors": "Koh G et al.",
+            "journal": "Bioinformatics, ",
+            "year": 2006,
+            "figure": "Table1"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DirectParameter",
+        "species": "",
+        "cellType": "",
+        "notes": "modelling paper"
+    },
+    "Readouts": {
+        "paramdata": [
+            {
+                "entity": "PIP2toPIP3",
+                "field": "Km",
+                "units": "nM",
+                "value": 6170.0,
+                "stderr": 0
+            },
+            {
+                "entity": "PIP3_deph",
+                "field": "Km",
+                "units": "nM",
+                "value": 80.9,
+                "stderr": 0.0
+            },
+            {
+                "entity": "phospho_AKTpS473",
+                "field": "Km",
+                "units": "nM",
+                "value": 80000.0,
+                "stderr": 0
+            },
+            {
+                "entity": "AKTpT308_deph",
+                "field": "Km",
+                "units": "nM",
+                "value": 8800.0,
+                "stderr": 0
+            },
+            {
+                "entity": "AKTpS473_deph",
+                "field": "Km",
+                "units": "nM",
+                "value": 48000.0,
+                "stderr": 0
+            },
+            {
+                "entity": "Rafp_RasGTP1",
+                "field": "Km",
+                "units": "nM",
+                "value": 7200.0,
+                "stderr": 0
+            },
+            {
+                "entity": "Rafp_RasGTP2",
+                "field": "Km",
+                "units": "nM",
+                "value": 7200.0,
+                "stderr": 0
+            },
+            {
+                "entity": "MAPKKp_deph",
+                "field": "Km",
+                "units": "nM",
+                "value": 1250.0,
+                "stderr": 0
+            },
+            {
+                "entity": "MAPKK_deph",
+                "field": "Km",
+                "units": "nM",
+                "value": 4320.0,
+                "stderr": 0
+            },
+            {
+                "entity": "MEKp_phospho",
+                "field": "Km",
+                "units": "nM",
+                "value": 24500.0,
+                "stderr": 0
+            },
+            {
+                "entity": "MEK_phospho",
+                "field": "Km",
+                "units": "nM",
+                "value": 24500.0,
+                "stderr": 0
+            },
+            {
+                "entity": "MAPKKtyr",
+                "field": "Km",
+                "units": "nM",
+                "value": 52000.0,
+                "stderr": 0
+            },
+            {
+                "entity": "MAPKKthr",
+                "field": "Km",
+                "units": "nM",
+                "value": 55000.0,
+                "stderr": 0
+            },
+            {
+                "entity": "PIP2toPIP3",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.05,
+                "stderr": 0
+            },
+            {
+                "entity": "PIP3_deph",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 5.5,
+                "stderr": 0.0
+            },
+            {
+                "entity": "phospho_AKTpS473",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 20.0,
+                "stderr": 0
+            },
+            {
+                "entity": "AKTpT308_deph",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.037,
+                "stderr": 0
+            },
+            {
+                "entity": "AKTpS473_deph",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.04,
+                "stderr": 0
+            },
+            {
+                "entity": "Rafp_RasGTP1",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 5.6,
+                "stderr": 0
+            },
+            {
+                "entity": "Rafp_RasGTP2",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 5.6,
+                "stderr": 0
+            },
+            {
+                "entity": "MAPKKp_deph",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.45,
+                "stderr": 0
+            },
+            {
+                "entity": "MAPKK_deph",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.4,
+                "stderr": 0
+            },
+            {
+                "entity": "MEKp_phospho",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 5.17,
+                "stderr": 0
+            },
+            {
+                "entity": "MEK_phospho",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 5.17,
+                "stderr": 0
+            },
+            {
+                "entity": "MAPKKtyr",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.089,
+                "stderr": 0
+            },
+            {
+                "entity": "MAPKKthr",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.0308,
+                "stderr": 0
+            },
+            {
+                "entity": "PIP3_bind_AKT",
+                "field": "Kf",
+                "units": "1/sec",
+                "value": 0.045,
+                "stderr": 0
+            },
+            {
+                "entity": "PIP3_bind_AKT",
+                "field": "Kb",
+                "units": "1/sec",
+                "value": 0.089,
+                "stderr": 0
+            }
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}

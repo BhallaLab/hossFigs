@@ -1,0 +1,229 @@
+{
+	"FileType": "HOSS",
+	"Version": "2.0",
+	"author": "U.S. Bhalla",
+	"model": "Models/D4_model_EGFR_v13b.g",
+	"map": "Maps/D4_map_EGFR.json",
+	"exptDir": "./Synth_EGFR_Expts",
+	"outputDir": "./OPT_HOSS",
+	"scoreFunc": "NRMS",
+	"tolerance": 0.001,
+	"timeout": 600,
+	"algorithm": "COBYLA",
+	"comment": "Optimizing D4 EGFR_MAPK model using Synthetic experiments from D3 model.",
+	"hossMethod": {
+		"method": "initScram",
+		"numProcesses": 24,
+		"numInitScramble": 200,
+		"scrambleRange": 2.0,
+		"scramDir": "SCRAM"
+	},
+	"HOSS": [
+		{
+			"name": "Receptors", 
+			"hierarchyLevel": 1,
+
+			"EGFR": {
+				"comment": "Only a single block for receptors: EGFR",
+				"expt": {
+					"CapuaniF2015_Fig1C.json": {"weight": 41},
+					"Kholodenko1999_Fig2B_slow.json": {"weight": 400},
+					"Choi2006_Fig7A.json": {"weight": 100 },
+					"Martin2006_Fig1B.json": {"weight": 52},
+					"Mukhin2003_Fig9B_inset.json": {"weight": 200},
+					"Mukhin2003_Fig9B.json": {"weight": 79},
+					"Pinilla-Macua2016_Fig3A_internal.json": {"weight": 70},
+					"Pinilla-Macua2016_Fig3A_surface.json": {"weight": 70},
+					"Saito2004_Fig2C.json": {"weight": 52},
+					"synth_DR_aEGFR_vs_egf.json": {"weight": 200},
+					"synth_TS_aEGFR_vs_egf.json": {"weight": 200},
+					"synth_DR_intEGFR_vs_egf.json": {"weight": 50},
+					"synth_TS_intEGFR_vs_egf.json": {"weight": 50},
+					"synth_DR_aEGFR_vs_EGFR.json": {"weight": 100},
+					"synth_TS_aEGFR_vs_EGFR.json": {"weight": 100}
+					},
+				"params": [ 
+						"EGF.concInit", 
+						"EGFR.concInit", 
+						"act_EGFR.Kf", 
+						"act_EGFR.Kb", 
+						"EGFR_Internalize.Kf", 
+						"EGFR_Internalize.Kb"
+				],
+				"paramBounds": { "EGF.concInit": [1e-8, 5e-7, 0] },
+                "resultFile": "L1.txt",
+                "optModelFile": "L1.g"
+			}
+		},
+
+		{
+			"name": "L2",
+			"hierarchyLevel": 2,
+
+			"SHC": {
+				"comment": "Single block for SHC",
+				"expt": {
+					"Kholodenko1999_Fig3B.json": {"weight": 100},
+					"Tang2015_Fig4C.json":	{"weight":50},
+					"Ung_2008.json":	{"weight":100},
+					"synth_DR_aSHC_vs_egf.json": {"weight": 200},
+					"synth_TS_aSHC_vs_egf.json": {"weight": 200},
+					"synth_DR_aSHC_vs_aEGFR.json": {"weight": 100},
+					"synth_TS_aSHC_vs_aEGFR.json": {"weight": 100},
+					"synth_DR_aSHC_vs_SHC.json": {"weight": 100},
+					"synth_TS_aSHC_vs_SHC.json": {"weight": 100}
+				},
+				"params": [ 
+						"SHC.concInit",
+						"EGFR_act_SHC.Km", 
+						"EGFR_act_SHC.kcat", 
+						"SHCp_deph.Kf" ],
+				"paramBounds": { "SHCp_deph.Kf": [0.005, 0.5, 0] },
+                "resultFile": "L2.txt",
+                "optModelFile": "L2.g"
+			}
+		},
+		{
+			"name": "L3",
+			"hierarchyLevel": 3,
+
+			"Sos": {
+				"comment": "Sos block, real expts very limited.",
+				"expt": {
+					"Ung_2008.json":	{"weight":100},
+					"synth_DR_aSos_vs_aSHC.json":{"weight": 200},
+					"synth_TS_aSos_vs_aSHC.json":{"weight": 200},
+					"synth_DR_aSos_vs_aMAPK.json":{"weight": 1},
+					"synth_TS_aSos_vs_aMAPK.json":{"weight": 1},
+					"synth_B_aSHC_DR_aSos_vs_aMAPK.json":{"weight": 200},
+					"synth_B_aSHC_TS_aSos_vs_aMAPK.json":{"weight": 200},
+					"synth_DR_aSos_vs_Sos.json":{"weight": 100},
+					"synth_TS_aSos_vs_Sos.json":{"weight": 100},
+					"synth_DR_aSos_vs_egf.json":{"weight": 200},
+					"synth_TS_aSos_vs_egf.json":{"weight": 200}
+				},
+				"params": [ 
+						"Sos.concInit",
+						"Grb2.concInit",
+						"SHC_bind_SosGrb2.Kf", 
+						"SHC_bind_SosGrb2.Kb", 
+						"Grb2_bind_Sos.Kf", 
+						"Grb2_bind_Sos.Kb" ,
+						"Sos_deph.Kf", 
+						"MAPK_phosph_Sos.Km", 
+						"MAPK_phosph_Sos.kcat", 
+						"MAPK_phosph_Grb2.Km", 
+						"MAPK_phosph_Grb2.kcat", 
+						"Grb2_bind_Sos_p.Kf",
+						"Grb2_bind_Sos_p.Kb"
+					],
+                "resultFile": "L3.txt",
+                "optModelFile": "L3.g"
+			}
+		},
+		{
+			"name": "L4",
+			"hierarchyLevel": 4,
+			"Ras": {
+				"comment": "Ras pathway.",
+				"expt": {
+					"SynthHennigA2016_Fig1A.json": {"weight": 100},
+					"Orita1993_Table1.json": {"weight": 100},
+					"Santoro1994_Fig6B.json": {"weight": 100},
+					"Yoder-Hill1995_Fig1.json":	{"weight":100},
+					"ZhouY2010_Fig3D.json": {"weight": 100},
+					"synth_DR_aRas_vs_aSos.json":{"weight": 200},
+					"synth_TS_aRas_vs_aSos.json":{"weight": 200},
+					"synth_B_aSHC_DR_aRas_vs_aMAPK.json":{"weight": 100},
+					"synth_B_aSHC_TS_aRas_vs_aMAPK.json":{"weight": 100},
+					"synth_DR_aRas_vs_egf.json":{"weight": 200},
+					"synth_TS_aRas_vs_egf.json":{"weight": 200},
+					"synth_DR_aRas_vs_Ras.json":{"weight": 100},
+					"synth_TS_aRas_vs_Ras.json":{"weight": 100}
+				},
+				"params": [ 
+						"Ras.concInit", 
+						"Sos_Ras_GEF.Km", 
+						"Sos_Ras_GEF.kcat", 
+						"Ras_intrinsic_GTPase.Kf", 
+						"basal_GEF.Kf"
+					],
+                "resultFile": "L4.txt",
+                "optModelFile": "L4.g"
+			}
+		},
+
+		{
+			"name": "L5",
+			"hierarchyLevel": 5,
+
+			"craf": {
+				"comment": "craf has just one real dataset.",
+				"expt": {
+					"Force1994_Fig.json": {"weight": 100},
+					"synth_DR_acraf1_vs_craf1.json":{"weight": 100},
+					"synth_TS_acraf1_vs_craf1.json":{"weight": 100},
+					"synth_DR_acraf1_vs_aRas.json":{"weight": 200},
+					"synth_TS_acraf1_vs_aRas.json":{"weight": 200},
+					"synth_B_aSHC_DR_acraf1_vs_aMAPK.json":{"weight": 50},
+					"synth_B_aSHC_TS_acraf1_vs_aMAPK.json":{"weight": 50},
+					"synth_DR_acraf1_vs_egf.json":{"weight": 400},
+					"synth_TS_acraf1_vs_egf.json":{"weight": 400}
+				},
+				"params": [ 
+						"craf1.concInit", 
+						"Ras_act_raf.Kf", 
+						"Ras_act_raf.Kb"
+					],
+                "resultFile": "L5.txt",
+                "optModelFile": "L5.g"
+			}
+		},
+
+		{
+			"name": "L6",
+			"hierarchyLevel": 6,
+
+			"MAPK": {
+				"comment": "MAPK looks well constrained.",
+				"expt": {
+					"Abe2000_Fig1A.json": {"weight": 200},
+					"Abe2000_Fig1B.json": {"weight": 50}, 
+					"Gu2004_Fig3B.json": {"weight": 70},
+					"Haystead1992_Fig4.json": {"weight": 70},
+					"Koh2006_Table1.json": {"weight": 100},
+					"Queipo2018_Fig2_pkScale.json": {"weight": 100},
+					"Seger1992_Table2.json": {"weight": 100},
+					"Shah2003_Fig1B_pkScale.json": {"weight": 200},
+					"Tang2015_Fig4D.json": {"weight": 50},
+					"Teng1995_Fig9A.json": {"weight": 50},
+					"Tucker1993_Fig7_pkScale.json": {"weight": 100},
+					"Ung_2008.json":	{"weight":100},
+					"ZhouY2010_Fig3C_pkScale.json": {"weight": 200},
+					"synth_DR_aMAPK_vs_acraf1.json":{"weight": 100},
+					"synth_TS_aMAPK_vs_acraf1.json":{"weight": 200},
+					"synth_DR_aMAPK_vs_MAPK.json":{"weight": 10},
+					"synth_TS_aMAPK_vs_MAPK.json":{"weight": 10},
+					"synth_DR_aMAPK_vs_egf.json":{"weight": 100},
+					"synth_TS_aMAPK_vs_egf.json":{"weight": 200}
+				},
+				"params": [ 
+						"MAPKK.concInit",
+						"PP2A.concInit",
+						"Rafp_RasGTP1.Km", "Rafp_RasGTP1.kcat", 
+						"Rafp_RasGTP2.Km", "Rafp_RasGTP2.kcat", 
+						"PP2A_deph_MAPKK1.Km", "PP2A_deph_MAPKK1.kcat", 
+						"PP2A_deph_MAPKK2.Km", "PP2A_deph_MAPKK2.kcat",
+						"MAPK.concInit",
+						"MKP2.concInit",
+						"MAPKKthr.Km", "MAPKKthr.kcat", 
+						"MAPKKtyr.Km", "MAPKKtyr.kcat", 
+						"MKP1_tyr_deph.Km", "MKP1_tyr_deph.kcat", 
+						"MKP1_thr_deph.Km", "MKP1_thr_deph.kcat"
+					],
+                "resultFile": "L6.txt",
+                "optModelFile": "L6.g"
+			}
+		}
+	]
+}

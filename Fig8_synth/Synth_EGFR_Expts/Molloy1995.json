@@ -1,0 +1,56 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 7628625,
+            "authors": "Molloy DP et al.",
+            "journal": "FEBS Lett. ",
+            "year": 1995,
+            "figure": "Table1 and Fig3"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DirectParameter",
+        "species": "in-vitro",
+        "cellType": "peptides comprising residues from human p120-GAP, human N-Ras",
+        "temperature": 23,
+        "notes": ""
+    },
+    "Readouts": {
+        "paramdata": [
+            {
+                "entity": "GAP_inact_Ras",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.000128,
+                "stderr": 9.5e-06
+            },
+            {
+                "entity": "Ras_intrinsic_GTPase",
+                "field": "Kf",
+                "units": "1/sec",
+                "value": 0.00014,
+                "stderr": 1e-05
+            },
+            {
+                "entity": "GAP_inact_Ras",
+                "field": "Km",
+                "units": "uM",
+                "value": 0.86,
+                "stderr": 0.1
+            }
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}

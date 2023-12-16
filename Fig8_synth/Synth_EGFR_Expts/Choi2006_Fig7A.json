@@ -1,0 +1,42 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 16953218,
+            "authors": "Choi SH et al.",
+            "journal": "Oncogene, ",
+            "year": 2006,
+            "figure": "Fig7A"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DirectParameter",
+        "species": "in-vitro",
+        "cellType": "expressed in murine hematopoietic Ba/F3 cell-line",
+        "temperature": 0,
+        "notes": ""
+    },
+    "Readouts": {
+        "paramdata": [
+            {
+                "entity": "EGF_bind_EGFR",
+                "field": "Kd",
+                "units": "nM",
+                "value": 0.45,
+                "stderr": 0
+            }
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}

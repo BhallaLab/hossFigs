@@ -1,0 +1,86 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 10713403,
+            "authors": "Abe K et al.",
+            "journal": "Neuroscience Letters, ",
+            "year": 2000,
+            "figure": "Fig 1A"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DoseResponse",
+        "species": "Rat",
+        "cellType": "primary cultures of hippocampal neurons from p18 Wistar rats",
+        "temperature": 37,
+        "notes": "5ng/ml EGF"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "entity": "EGF",
+            "field": "conc",
+            "quantityUnits": "nM"
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "settleTime": 1800,
+        "quantityUnits": "ratio",
+        "entities": [
+            "aMAPK"
+        ],
+        "field": "conc",
+        "normalization": {
+            "sampling": "dose",
+            "entities": [
+                "aMAPK"
+            ],
+            "dose": 0.001,
+            "time": 1800
+        },
+        "data": [
+            [
+                0.001,
+                1,
+                0
+            ],
+            [
+                0.015625,
+                1.3,
+                0.05
+            ],
+            [
+                0.15625,
+                2.6,
+                0.2
+            ],
+            [
+                1.5625,
+                3.1,
+                0.4
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ],
+        "parameterChange": [
+            {
+                "units": "nM",
+                "field": "concInit",
+                "value": 0.001,
+                "entity": "EGF"
+            }
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan", 
+        "organization": "NCBS", 
+        "email": "nishaav@ncbs.res.in", 
+        "source": {
+            "sourceType": "paper", 
+            "PMID": 15192046, 
+            "authors": "Saito T et al.", 
+            "journal": "Endocrinology, ", 
+            "year": 2004, 
+            "figure": "Fig2C"
+        }, 
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g", 
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    }, 
+    "Experiment": {
+        "design": "TimeSeries", 
+        "species": "cell-line", 
+        "cellType": "Chinese hamster ovary cells expressing EGF and insulin receptor", 
+        "temperature": 37, 
+        "notes": "1.5nM EGF. Deleting the rest of the model for convenience."
+    }, 
+    "Stimuli": [
+        {
+            "timeUnits": "sec", 
+            "quantityUnits": "nM", 
+            "entity": "EGF", 
+            "field": "conc", 
+            "data": [
+                [
+                    0, 
+                    1.5
+                ]
+            ]
+        }
+    ], 
+    "Readouts": {
+        "timeUnits": "sec", 
+        "quantityUnits": "ratio", 
+        "entities": [
+            "aEGFR"
+        ], 
+        "field": "conc", 
+        "normalization": {
+            "sampling": "presetTime", 
+            "entities": [
+                "aEGFR"
+            ], 
+            "time": 900
+        }, 
+        "data": [
+            [
+                0, 
+                0.0, 
+                0.0
+            ], 
+            [
+                120, 
+                0.739, 
+                0.078
+            ], 
+            [
+                300, 
+                0.817, 
+                0.07
+            ], 
+            [
+                900, 
+                1.0, 
+                0.13
+            ]
+        ]
+    }, 
+    "Modifications": {
+        "subset": [
+            "EGFR_g",
+            "Ca_g",
+            "Sos_g",
+            "PLCg_g"
+        ]
+    }
+}

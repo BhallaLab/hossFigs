@@ -1,0 +1,87 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "National Centre for Biological Sciences",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 29375309,
+            "authors": "Queipo MJ et al.",
+            "journal": "Front Mol Neurosci., ",
+            "year": 2018,
+            "figure": "Fig 2"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "TimeSeries",
+        "species": "Rat",
+        "cellType": "primary cultures of cerebellar granule neurons (8-10 DIV) from Wistar rat pups (p7)",
+        "temperature": 37,
+        "notes": "100ng/ml EGF"
+    },
+    "Stimuli": [
+        {
+            "timeUnits": "sec",
+            "quantityUnits": "nM",
+            "entity": "EGF",
+            "field": "conc",
+            "data": [
+                [
+                    4000,
+                    15.625
+                ]
+            ]
+        }
+    ],
+    "Readouts": {
+        "timeUnits": "sec",
+        "quantityUnits": "ratio",
+        "entities": [
+            "aMAPK"
+        ],
+        "field": "conc",
+        "normalization": {
+            "time": 4000,
+            "sampling": "max",
+            "entities": [
+                "aMAPK"
+            ]
+        },
+        "data": [
+            [
+                4000,
+                0.476,
+                0
+            ],
+            [
+                4600,
+                0.99,
+                0.176
+            ],
+            [
+                5800,
+                1.0,
+                0.252
+            ],
+            [
+                7600,
+                0.66,
+                0.086
+            ],
+            [
+                11200,
+                0.581,
+                0.090
+            ]
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 8108400,
+            "authors": "Force T et al.",
+            "journal": "PNAS,",
+            "year": 1994,
+            "figure": "Table2"
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DirectParameter",
+        "species": "in-vitro",
+        "cellType": "cRaf1 purified from Sf9 cells, bovine brain MAPKK",
+        "temperature": 30,
+        "notes": ""
+    },
+    "Readouts": {
+        "paramdata": [
+            {
+                "entity": "Rafp_RasGTP1",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.104,
+                "stderr": 0
+            },
+            {
+                "entity": "Rafp_RasGTP2",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.104,
+                "stderr": 0
+            },
+            {
+                "entity": "Rafp_RasGTP1",
+                "field": "Km",
+                "units": "uM",
+                "value": 0.8,
+                "stderr": 0
+            },
+            {
+                "entity": "Rafp_RasGTP2",
+                "field": "Km",
+                "units": "uM",
+                "value": 0.8,
+                "stderr": 0
+            }
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan", 
+        "organization": "NCBS", 
+        "email": "nishaav@ncbs.res.in", 
+        "source": {
+            "sourceType": "paper", 
+            "PMID": 12604671, 
+            "authors": "Mukhin YV et al.", 
+            "journal": "J Pharmacol Exp Ther.", 
+            "year": 2003, 
+            "figure": "Fig 9B"
+        }, 
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g", 
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    }, 
+    "Experiment": {
+        "design": "BarChart", 
+        "species": "cell-line", 
+        "cellType": "mIMCD-3 cells", 
+        "temperature": 37, 
+        "notes": "10ng/ml EGF"
+    }, 
+    "Stimuli": [
+        {
+            "timeUnits": "sec", 
+            "quantityUnits": "nM", 
+            "label": "EGF_1",
+            "field": "conc", 
+            "value": 0.1, 
+            "entity": "EGF"
+        },
+        {
+            "timeUnits": "sec", 
+            "quantityUnits": "nM", 
+            "label": "EGF_2",
+            "field": "conc", 
+            "value": 1.5625, 
+            "entity": "EGF"
+        }
+    ], 
+    "Readouts": {
+        "timeUnits": "sec", 
+        "settleTime": 300, 
+        "quantityUnits": "ratio", 
+        "entities": [
+            "aEGFR"
+        ], 
+        "field": "conc", 
+        "normalization": {
+            "sampling": "start", 
+            "entities": [
+                "aEGFR"
+            ], 
+			"dose": 0,
+            "time": 300
+        }, 
+        "bardata": [
+            {
+                "stimulus": [ 
+                    "EGF_1"
+                ], 
+                "stderr": 0.11, 
+                "value": 1
+            }, 
+            {
+                "stimulus": [
+                    "EGF_2"
+                ], 
+                "stderr": 0.82, 
+                "value": 4.38
+            }
+        ]
+    }, 
+    "Modifications": {
+        "subset": [
+            "EGFR_g"
+        ], 
+        "parameterChange": [
+            {
+                "units": "none", 
+                "field": "isBuffered", 
+                "value": 1, 
+                "entity": "EGF"
+            }
+        ]
+    }
+}

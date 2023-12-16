@@ -1,0 +1,258 @@
+{
+    "FileType":"FindSim",
+    "Version":"1.0", 
+    "Metadata": {
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
+        "source": {
+            "sourceType": "paper",
+            "PMID": 18505685,
+            "authors": "Uny CY et al.",
+            "journal": "FEBS Letter, ",
+            "year": 2008,
+            "figure": ""
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
+        "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
+    },
+    "Experiment": {
+        "design": "DirectParameter",
+        "species": "in-vitro",
+        "cellType": "",
+        "notes": "Modelling paper"
+    },
+    "Readouts": {
+        "paramdata": [
+            {
+                "entity": "EGFR_act_SHC",
+                "field": "Km",
+                "units": "uM",
+                "value": 0.0132,
+                "stderr": 0
+            },
+            {
+                "entity": "MEK_phospho",
+                "field": "Km",
+                "units": "uM",
+                "value": 0.88,
+                "stderr": 0.0
+            },
+            {
+                "entity": "MEKp_phospho",
+                "field": "Km",
+                "units": "uM",
+                "value": 0.73,
+                "stderr": 0.0
+            },
+            {
+                "entity": "MAPKKtyr",
+                "field": "Km",
+                "units": "uM",
+                "value": 5.34,
+                "stderr": 0.0
+            },
+            {
+                "entity": "MAPKKthr",
+                "field": "Km",
+                "units": "uM",
+                "value": 1.91,
+                "stderr": 0.0
+            },
+            {
+                "entity": "MAPKpp_feedback",
+                "field": "Km",
+                "units": "uM",
+                "value": 0.0167,
+                "stderr": 0.0
+            },
+            {
+                "entity": "MAPKK_deph",
+                "field": "Km",
+                "units": "uM",
+                "value": 0.06,
+                "stderr": 0.0
+            },
+            {
+                "entity": "MAPKKp_deph",
+                "field": "Km",
+                "units": "uM",
+                "value": 2.23,
+                "stderr": 0.0
+            },
+            {
+                "entity": "PIP2_phospho_RasGTP",
+                "field": "Km",
+                "units": "uM",
+                "value": 1.14,
+                "stderr": 0.0
+            },
+            {
+                "entity": "PIP2toPIP3",
+                "field": "Km",
+                "units": "uM",
+                "value": 1.14,
+                "stderr": 0.0
+            },
+            {
+                "entity": "phospho_AKTpT308",
+                "field": "Km",
+                "units": "uM",
+                "value": 1.33,
+                "stderr": 0.0
+            },
+            {
+                "entity": "AKT_inhib_Raf",
+                "field": "Km",
+                "units": "uM",
+                "value": 1.1667,
+                "stderr": 0.0
+            },
+            {
+                "entity": "PIP3_deph",
+                "field": "Km",
+                "units": "uM",
+                "value": 1.1,
+                "stderr": 0.0
+            },
+            {
+                "entity": "EGFR_act_SHC",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.584,
+                "stderr": 0
+            },
+            {
+                "entity": "MEK_phospho",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 3.5,
+                "stderr": 0.0
+            },
+            {
+                "entity": "MEKp_phospho",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 2.9,
+                "stderr": 0.0
+            },
+            {
+                "entity": "MAPKKtyr",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 16.0,
+                "stderr": 0.0
+            },
+            {
+                "entity": "MAPKKthr",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 5.7,
+                "stderr": 0.0
+            },
+            {
+                "entity": "MAPKpp_feedback",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 1.0,
+                "stderr": 0.0
+            },
+            {
+                "entity": "MAPKK_deph",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.058,
+                "stderr": 0.0
+            },
+            {
+                "entity": "MAPKKp_deph",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 0.058,
+                "stderr": 0.0
+            },
+            {
+                "entity": "PIP2_phospho_RasGTP",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 25.0,
+                "stderr": 0.0
+            },
+            {
+                "entity": "PIP2toPIP3",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 25.0,
+                "stderr": 0.0
+            },
+            {
+                "entity": "phospho_AKTpT308",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 3.0,
+                "stderr": 0.0
+            },
+            {
+                "entity": "AKT_inhib_Raf",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 3,
+                "stderr": 0.0
+            },
+            {
+                "entity": "PIP3_deph",
+                "field": "kcat",
+                "units": "1/sec",
+                "value": 5.0,
+                "stderr": 0.0
+            },
+            {
+                "entity": "Grb2_bind_SHC",
+                "field": "Kd",
+                "units": "uM",
+                "value": 0.0333,
+                "stderr": 0.0
+            },
+            {
+                "entity": "Grb2_bind_Sos",
+                "field": "Kd",
+                "units": "uM",
+                "value": 0.015,
+                "stderr": 0
+            },
+            {
+                "entity": "Ras_act_craf",
+                "field": "Kd",
+                "units": "uM",
+                "value": 0.02857142857,
+                "stderr": 0
+            },
+            {
+                "entity": "PIP3_bind_AKT",
+                "field": "Kd",
+                "units": "uM",
+                "value": 0.3333333333,
+                "stderr": 0
+            },
+            {
+                "entity": "Ras_intrinsic_GTPase",
+                "field": "Kf",
+                "units": "uM",
+                "value": 0.000167,
+                "stderr": 0
+            },
+            {
+                "entity": "Sos_deph",
+                "field": "Kf",
+                "units": "uM",
+                "value": 0.002,
+                "stderr": 0
+            }
+        ]
+    },
+    "Modifications": {
+        "subset": [
+            "all"
+        ]
+    }
+}
