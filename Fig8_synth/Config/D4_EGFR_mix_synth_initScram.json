@@ -5,7 +5,7 @@
 	"model": "Models/D4_model_EGFR_v13b.g",
 	"map": "Maps/D4_map_EGFR.json",
 	"exptDir": "./Synth_EGFR_Expts",
-	"outputDir": "./OPT_HOSS",
+	"outputDir": "./OPT_INITSCRAM",
 	"scoreFunc": "NRMS",
 	"tolerance": 0.001,
 	"timeout": 600,
