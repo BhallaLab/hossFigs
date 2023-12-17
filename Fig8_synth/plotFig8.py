@@ -12,7 +12,7 @@ optFiles = ["OPT_FLAT/OPTI_000.g", "OPT_HOSS/OPTI_000.g", "OPT_INITSCRAM/topN_00
 origFile = "Models/D4_model_EGFR_v13b.g"
 origOptFile = "Models/OPTI_000.g"
 d3File = "Models/D3_model_MAPK_v7.json"
-synthConfigFile = "Config/D4_EGFR_synth_hoss.json"
+synthConfigFile = "Config/D4_EGFR_mix_synth_hoss.json"
 dataConfigFile = "Config/D4_EGFR_hoss.json"
 
 class Args( ):
