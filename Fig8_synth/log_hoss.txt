@@ -1,0 +1,13 @@
+Level 1 --- Init Score: 0.310   OptimizedScore 0.297       Time: 34.035 s
+Written to file ./OPT_HOSS/L1.g
+Level 2 --- Init Score: 0.461   OptimizedScore 0.382       Time: 17.636 s
+Written to file ./OPT_HOSS/L2.g
+Level 3 --- Init Score: 0.537   OptimizedScore 0.438       Time: 75.254 s
+Written to file ./OPT_HOSS/L3.g
+Level 4 --- Init Score: 0.458   OptimizedScore 0.348       Time: 23.249 s
+Written to file ./OPT_HOSS/L4.g
+Level 5 --- Init Score: 0.414   OptimizedScore 0.332       Time: 2.502 s
+Written to file ./OPT_HOSS/L5.g
+Level 6 --- Init Score: 0.532   OptimizedScore 0.441       Time: 95.165 s
+Written to file ./OPT_HOSS/L6.g
+./OPT_HOSS/L6.g: hoss: Init Score 0.455, Final = 0.378, Time = 249.386s

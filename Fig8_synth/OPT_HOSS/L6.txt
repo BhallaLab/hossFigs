@@ -1,33 +1,46 @@
 -------------------------------------------------------------
-scoreFunc = NRMS, Minimization runtime = 343.102 sec
+scoreFunc = NRMS, Minimization runtime = 95.165 sec
 Parameter              Initial Value     Final Value          Ratio 
-MAPKK.concInit               0.00018       0.0006485          3.6028
-PP2A.concInit               0.000224       0.0001645          0.7343
-Rafp_RasGTP1.Km            0.0001783       4.762e-05          0.2670
-Rafp_RasGTP1.kcat              0.105          0.1165          1.1094
-Rafp_RasGTP2.Km            0.0001783       0.0002862          1.6049
-Rafp_RasGTP2.kcat              0.105         0.05736          0.5463
-PP2A_deph_MAPKK1.Km          0.01755        0.005343          0.3044
-PP2A_deph_MAPKK1.kcat               6           13.48          2.2462
-PP2A_deph_MAPKK2.Km          0.04242        0.009697          0.2286
-PP2A_deph_MAPKK2.kcat           0.411           0.234          0.5694
-MAPK.concInit                0.00036       0.0005536          1.5379
-MKP2.concInit                2.4e-06       1.482e-06          0.6176
-MAPKKthr.Km                0.0005602       0.0004324          0.7719
-MAPKKthr.kcat                0.09518         0.08456          0.8885
-MAPKKtyr.Km                4.953e-05       2.975e-05          0.6008
-MAPKKtyr.kcat                0.09835          0.1439          1.4636
-MKP1_tyr_deph.Km           8.348e-05       0.0001097          1.3137
-MKP1_tyr_deph.kcat            0.3581          0.1074          0.3000
-MKP1_thr_deph.Km           2.583e-05       3.977e-06          0.1540
-MKP1_thr_deph.kcat            0.3502           1.606          4.5855
+MAPKK.concInit               0.00018        0.001455          8.0854
+PP2A.concInit               0.000224        0.001615          7.2111
+Rafp_RasGTP1.Km            0.0001783       0.0001838          1.0306
+Rafp_RasGTP1.kcat              0.105          0.1207          1.1492
+Rafp_RasGTP2.Km            0.0001783       0.0004962          2.7822
+Rafp_RasGTP2.kcat              0.105          0.2797          2.6636
+PP2A_deph_MAPKK1.Km          0.01755         0.01518          0.8648
+PP2A_deph_MAPKK1.kcat               6           6.619          1.1031
+PP2A_deph_MAPKK2.Km          0.04242         0.04462          1.0518
+PP2A_deph_MAPKK2.kcat           0.411          0.2413          0.5871
+MAPK.concInit                0.00036       0.0005652          1.5700
+MKP2.concInit                2.4e-06       3.209e-06          1.3370
+MAPKKthr.Km                0.0005602       0.0003381          0.6036
+MAPKKthr.kcat                0.09518          0.1132          1.1888
+MAPKKtyr.Km                4.953e-05       7.506e-05          1.5155
+MAPKKtyr.kcat                0.09835         0.09814          0.9979
+MKP1_tyr_deph.Km           8.348e-05       3.669e-05          0.4395
+MKP1_tyr_deph.kcat            0.3581           0.829          2.3152
+MKP1_thr_deph.Km           2.583e-05       2.875e-05          1.1130
+MKP1_thr_deph.kcat            0.3502          0.4024          1.1491
 
 File                                       initScore  finalScore      weight
-synth_DR_aMAPK_vs_MAPK.json                  0.40885     0.34387      10.000
-synth_DR_aMAPK_vs_acraf1.json                0.34007     0.28952     100.000
-synth_DR_aMAPK_vs_egf.json                   0.80168     0.32336     100.000
-synth_TS_aMAPK_vs_MAPK.json                  0.40444     0.36389      10.000
-synth_TS_aMAPK_vs_acraf1.json                0.39120     0.34927     200.000
-synth_TS_aMAPK_vs_egf.json                   0.54005     0.11124     200.000
+Abe2000_Fig1A.json                           0.40439     0.25986     200.000
+Abe2000_Fig1B.json                           0.52667     0.35737      50.000
+Gu2004_Fig3B.json                            0.30394     0.26441      70.000
+Haystead1992_Fig4.json                       0.49308     0.55451      70.000
+Koh2006_Table1.json                          0.87816     0.87145     100.000
+Queipo2018_Fig2_pkScale.json                 0.30154     0.24603     100.000
+Seger1992_Table2.json                        0.12119     0.07872     100.000
+Shah2003_Fig1B_pkScale.json                  0.66991     0.59292     200.000
+Tang2015_Fig4D.json                          0.13276     0.17441      50.000
+Teng1995_Fig9A.json                          0.89120     0.42273      50.000
+Tucker1993_Fig7_pkScale.json                 0.35508     0.29151     100.000
+Ung_2008.json                                0.92376     0.93174     100.000
+ZhouY2010_Fig3C_pkScale.json                 0.57206     0.42180     200.000
+synth_DR_aMAPK_vs_MAPK.json                  0.40936     0.29761      10.000
+synth_DR_aMAPK_vs_acraf1.json                0.33916     0.35566     100.000
+synth_DR_aMAPK_vs_egf.json                   0.73048     0.26110     100.000
+synth_TS_aMAPK_vs_MAPK.json                  0.40136     0.35768      10.000
+synth_TS_aMAPK_vs_acraf1.json                0.38949     0.26356     200.000
+synth_TS_aMAPK_vs_egf.json                   0.30495     0.27499     200.000
 
-Init score = 0.5207, final = 0.2789
+Init score = 0.5319, final = 0.4412

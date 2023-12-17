@@ -50,51 +50,51 @@ simundump group /kinetics/Ras 0 blue green x 0 0 "" defaultfile \
 simundump group /kinetics/EGFR 0 blue green x 0 0 "" defaultfile \
   defaultfile.g 0 0 0 60 114 0
 simundump kpool /kinetics/Sos/Sos_p.Grb2 0 0.0 0 0 0 0.0 0 0 687601.0745118218 0 /kinetics/geometry orange blue 76 105 0
-simundump kpool /kinetics/Sos/Grb2 0 0.0 0 0 0 1343713.8682179735 0 0 687601.0745118218 0 /kinetics/geometry orange blue 73 105 0
+simundump kpool /kinetics/Sos/Grb2 0 0.0 0 0 0 1593984.1193634458 0 0 687601.0745118218 0 /kinetics/geometry orange blue 73 105 0
 simundump kpool /kinetics/Sos/Sos.Grb2 0 0.0 0 0 0 0.0 0 0 687601.0745118218 0 /kinetics/geometry orange blue 70 105 0
 simundump kpool /kinetics/Sos/Sos_p 0 0.0 0 0 0 0.0 0 0 687601.0745118218 0 /kinetics/geometry red blue 74 109 0
-simundump kpool /kinetics/Sos/Sos 0 0.0 0 0 0 610147.3486816874 0 0 687601.0745118218 0 /kinetics/geometry red blue 72 109 0
+simundump kpool /kinetics/Sos/Sos 0 0.0 0 0 0 876598.6878232225 0 0 687601.0745118218 0 /kinetics/geometry red blue 72 109 0
 simundump kpool /kinetics/Sos/Shc_p.Sos.Grb2 0 0.0 0 0 0 0.0 0 0 687601.0745118218 0 /kinetics/geometry brown yellow 68 105 0
-simundump kpool /kinetics/MAPK/craf_1 0 0.0 0 0 0 742526.4354704091 0 0 687601.0745118218 0 /kinetics/geometry pink brown 63 86 0
-simundump kpool /kinetics/MAPK/MAPKK 0 0.0 0 0 0 177684.1479093973 0 0 687601.0745118218 0 /kinetics/geometry pink brown 64 82 0
-simundump kpool /kinetics/MAPK/MAPK 0 0.0 0 0 0 736532.1953770036 0 0 687601.0745118218 0 /kinetics/geometry pink brown 67 78 0
+simundump kpool /kinetics/MAPK/craf_1 0 0.0 0 0 0 728446.0792785008 0 0 687601.0745118218 0 /kinetics/geometry pink brown 63 86 0
+simundump kpool /kinetics/MAPK/MAPKK 0 0.0 0 0 0 892162.8269564973 0 0 687601.0745118218 0 /kinetics/geometry pink brown 64 82 0
+simundump kpool /kinetics/MAPK/MAPK 0 0.0 0 0 0 457720.0439023292 0 0 687601.0745118218 0 /kinetics/geometry pink brown 67 78 0
 simundump kpool /kinetics/MAPK/MAPK_tyr 0 0.0 0 0 0 0.0 0 0 687601.0745118218 0 /kinetics/geometry orange brown 67 76 0
 simundump kpool /kinetics/MAPK/MAPKK_p 0 0.0 0 0 0 0.0 0 0 687601.0745118218 0 /kinetics/geometry pink brown 64 78 0
 simundump kpool /kinetics/MAPK/MAPKK_ser 0 0.0 0 0 0 0.0 0 0 687601.0745118218 0 /kinetics/geometry pink brown 64 80 0
 simundump kpool /kinetics/MAPK/RGR 0 0.0 0 0 0 0.0 0 0 687601.0745118218 0 /kinetics/geometry red brown 62 82 0
-simundump kpool /kinetics/MAPK/MKP_2 0 0.0 0 0 0 9319.77093950797 0 0 687601.0745118218 0 /kinetics/geometry 4 black 70 76 0
-simundump kpool /kinetics/MAPK/PPhosphatase2A 0 0.0 0 0 0 844893.1018370431 0 0 687601.0745118218 0 /kinetics/geometry hotpink yellow 68 80 0
+simundump kpool /kinetics/MAPK/MKP_2 0 0.0 0 0 0 8122.135960132503 0 0 687601.0745118218 0 /kinetics/geometry 4 black 70 76 0
+simundump kpool /kinetics/MAPK/PPhosphatase2A 0 0.0 0 0 0 440952.9575979738 0 0 687601.0745118218 0 /kinetics/geometry hotpink yellow 68 80 0
 simundump kpool /kinetics/MAPK/MAPK_p 0 0.0 0 0 0 0.0 0 0 687601.0745118218 0 /kinetics/geometry orange yellow 67 74 0
 simundump kpool /kinetics/Ras/GTP_Ras 0 0.0 0 0 0 0.0 0 0 687601.0745118218 0 /kinetics/geometry orange blue 64 92 0
-simundump kpool /kinetics/Ras/GDP_Ras 0 0.0 0 0 0 1109278.5959553472 0 0 687601.0745118218 0 /kinetics/geometry pink blue 64 96 0
-simundump kpool /kinetics/EGFR/SHC 0 0.0 0 0 0 468138.63827454776 0 0 687601.0745118218 0 /kinetics/geometry orange yellow 63 109 0
+simundump kpool /kinetics/Ras/GDP_Ras 0 0.0 0 0 0 2498466.0300856875 0 0 687601.0745118218 0 /kinetics/geometry pink blue 64 96 0
+simundump kpool /kinetics/EGFR/SHC 0 0.0 0 0 0 336483.0970056427 0 0 687601.0745118218 0 /kinetics/geometry orange yellow 63 109 0
 simundump kpool /kinetics/EGFR/SHC_p 0 0.0 0 0 0 0.0 0 0 687601.0745118218 0 /kinetics/geometry orange yellow 65 109 0
-simundump kpool /kinetics/EGFR/EGFR 0 0.0 0 0 0 363841.91219648847 0 0 687601.0745118218 0 /kinetics/geometry red yellow 59 113 0
+simundump kpool /kinetics/EGFR/EGFR 0 0.0 0 0 0 86917.90713503177 0 0 687601.0745118218 0 /kinetics/geometry red yellow 59 113 0
 simundump kpool /kinetics/EGFR/Internal_L_EGFR 0 0.0 0 0 0 0.0 0 0 687601.0745118218 0 /kinetics/geometry red yellow 61 113 0
-simundump kpool /kinetics/EGFR/EGF 0 0.0 0 0 0 101.20659932293948 0 0 687601.0745118218 4 /kinetics/geometry red yellow 59 109 0
+simundump kpool /kinetics/EGFR/EGF 0 0.0 0 0 0 17.603296292531343 0 0 687601.0745118218 4 /kinetics/geometry red yellow 59 109 0
 simundump kpool /kinetics/EGFR/L_EGFR 0 0.0 0 0 0 0.0 0 0 687601.0745118218 0 /kinetics/geometry red yellow 61 109 0
-simundump kreac /kinetics/Sos/Shc_bind_Sos.Grb2 0 0.00010044578772602118 18.26646795226419 "" white blue 69 107 0
-simundump kreac /kinetics/Sos/Grb2_bind_Sos_p 0 9.999253377556753e-08 0.022102198876106288 "" white blue 75 107 0
-simundump kreac /kinetics/Sos/dephosph_Sos 0 0.0024268375370708633 0.0 "" white blue 73 107 0
-simundump kreac /kinetics/Sos/Grb2_bind_Sos 0 4.0422632567286293e-07 1.3042644543022732 "" white blue 71 107 0
-simundump kreac /kinetics/Ras/Ras_intrinsic_GTPase 0 0.18943296876740998 0.0 "" white blue 63 94 0
-simundump kreac /kinetics/Ras/Ras_act_unphosph_raf 0 1.908403201150186e-07 0.3684946926663994 "" white black 62 84 0
-simundump kreac /kinetics/Ras/basal_GEF 0 0.0011418150976554105 0.0 "" white blue 67 94 0
-simundump kreac /kinetics/EGFR/dephosph_Shc 0 0.08750734247655306 0.0 "" white yellow 64 107 0
-simundump kreac /kinetics/EGFR/Internalize 0 1.0296422622256028e-07 0.0009415878602490963 "" white yellow 62 111 0
-simundump kreac /kinetics/EGFR/act_EGFR 0 3.5290045459460696e-07 0.02038158908352609 "" white yellow 60 111 0
-simundump kenz /kinetics/Sos/Shc_p.Sos.Grb2/Sos.Ras_GEF 0 0 0 0.0 0 687601.0745118218 1.8369428823664386e-05 1.844604298163047 0.46116127541838137 0 0 "" brown red "" 65 94 0
-simundump kenz /kinetics/MAPK/MAPKK_p/MAPKKtyr 0 0 0 0.0 0 687601.0745118218 0.00038035019316681143 8.920633554245242 2.230147050406357 0 0 "" pink red "" 64 77 0
-simundump kenz /kinetics/MAPK/MAPKK_p/MAPKKthr 0 0 0 0.0 0 687601.0745118218 1.1931299088285525e-05 3.246731054913049 0.8116955558707917 0 0 "" pink red "" 64 75 0
-simundump kenz /kinetics/MAPK/RGR/RGR.1 0 0 0 0.0 0 687601.0745118218 3.348484356864083e-05 1.2506155039895313 0.3126538759973828 0 0 "" red red "" 62 81 0
-simundump kenz /kinetics/MAPK/RGR/RGR.2 0 0 0 0.0 0 687601.0745118218 1.243940434641238e-06 0.42308325326724794 0.10577081331681198 0 0 "" red red "" 62 79 0
-simundump kenz /kinetics/MAPK/MKP_2/MKP2_tyr_deph 0 0 0 0.0 0 687601.0745118218 6.125117037605234e-07 0.21940298559066332 0.054847682965864786 0 0 "" 4 red "" 70 77 0
-simundump kenz /kinetics/MAPK/MKP_2/MKP2_thr_deph 0 0 0 0.0 0 687601.0745118218 0.00040536616598167854 3.0020993857950726 0.7505677152105243 0 0 "" 4 red "" 70 75 0
-simundump kenz /kinetics/MAPK/PPhosphatase2A/MAPKK_deph 0 0 0 0.0 0 687601.0745118218 5.25914209623607e-06 21.943062551859885 5.266335012446372 0 0 "" hotpink red "" 68 79 0
-simundump kenz /kinetics/MAPK/PPhosphatase2A/MAPKK_deph_ser 0 0 0 0.0 0 687601.0745118218 4.697936703176604e-08 0.33943381374516957 0.08146213320357795 0 0 "" hotpink red "" 68 81 0
-simundump kenz /kinetics/MAPK/MAPK_p/MAPK_phosph_Sos 0 0 0 0.0 0 687601.0745118218 3.7291511217953125e-09 0.3912245138531617 0.09780612846329043 0 0 "" orange red "" 73 111 0
-simundump kenz /kinetics/MAPK/MAPK_p/MAPK_phosph_SHC_p_Sos_Grb2 0 0 0 0.0 0 687601.0745118218 1.3112869328832547e-06 4.707309333149644 1.176827333287411 0 0 "" red orange "" 67 102 0
-simundump kenz /kinetics/EGFR/L_EGFR/phosph_Shc 0 0 0 0.0 0 687601.0745118218 2.561760178165258e-06 1.5078619454208266 0.37696548635520666 0 0 "" red red "" 64 111 0
+simundump kreac /kinetics/Sos/Shc_bind_Sos.Grb2 0 5.8942712647833594e-05 26.264999945634898 "" white blue 69 107 0
+simundump kreac /kinetics/Sos/Grb2_bind_Sos_p 0 2.5761633601152714e-08 0.02372523380054235 "" white blue 75 107 0
+simundump kreac /kinetics/Sos/dephosph_Sos 0 0.0017357735182140514 0.0 "" white blue 73 107 0
+simundump kreac /kinetics/Sos/Grb2_bind_Sos 0 2.4937979845343064e-07 0.7852761572765339 "" white blue 71 107 0
+simundump kreac /kinetics/Ras/Ras_intrinsic_GTPase 0 0.04875529838833071 0.0 "" white blue 63 94 0
+simundump kreac /kinetics/Ras/Ras_act_unphosph_raf 0 1.8587830816839854e-07 0.39944525192844776 "" white black 62 84 0
+simundump kreac /kinetics/Ras/basal_GEF 0 0.0012907985352124682 0.0 "" white blue 67 94 0
+simundump kreac /kinetics/EGFR/dephosph_Shc 0 0.09683026233490254 0.0 "" white yellow 64 107 0
+simundump kreac /kinetics/EGFR/Internalize 0 3.850259784372176e-08 0.00034738431727126255 "" white yellow 62 111 0
+simundump kreac /kinetics/EGFR/act_EGFR 0 2.0707036480713422e-05 0.007778301284942201 "" white yellow 60 111 0
+simundump kenz /kinetics/Sos/Shc_p.Sos.Grb2/Sos.Ras_GEF 0 0 0 0.0 0 687601.0745118218 5.141002265399223e-07 0.17968323859003088 0.04492180331684317 0 0 "" brown red "" 65 94 0
+simundump kenz /kinetics/MAPK/MAPKK_p/MAPKKtyr 0 0 0 0.0 0 687601.0745118218 1.6498252517937567e-05 0.4295226675219605 0.10738012095574938 0 0 "" pink red "" 64 77 0
+simundump kenz /kinetics/MAPK/MAPKK_p/MAPKKthr 0 0 0 0.0 0 687601.0745118218 1.3651470080713675e-06 0.40971263483165415 0.10242977297849284 0 0 "" pink red "" 64 75 0
+simundump kenz /kinetics/MAPK/RGR/RGR.1 0 0 0 0.0 0 687601.0745118218 5.864223065623705e-06 1.3451519337393876 0.3362879834348469 0 0 "" red red "" 62 81 0
+simundump kenz /kinetics/MAPK/RGR/RGR.2 0 0 0 0.0 0 687601.0745118218 6.748126634071381e-07 0.4213154621501767 0.10532886553754417 0 0 "" red red "" 62 79 0
+simundump kenz /kinetics/MAPK/MKP_2/MKP2_tyr_deph 0 0 0 0.0 0 687601.0745118218 5.008110943832577e-05 4.814740704892389 1.2036179500194546 0 0 "" 4 red "" 70 77 0
+simundump kenz /kinetics/MAPK/MKP_2/MKP2_thr_deph 0 0 0 0.0 0 687601.0745118218 0.00020611450282718394 1.2019142586640283 0.30049572751419595 0 0 "" 4 red "" 70 75 0
+simundump kenz /kinetics/MAPK/PPhosphatase2A/MAPKK_deph 0 0 0 0.0 0 687601.0745118218 2.819439199240812e-06 9.476617810152927 2.2743882744367023 0 0 "" hotpink red "" 68 79 0
+simundump kenz /kinetics/MAPK/PPhosphatase2A/MAPKK_deph_ser 0 0 0 0.0 0 687601.0745118218 1.7813444289397463e-08 1.1395568080075227 0.2734869795754813 0 0 "" hotpink red "" 68 81 0
+simundump kenz /kinetics/MAPK/MAPK_p/MAPK_phosph_Sos 0 0 0 0.0 0 687601.0745118218 1.4540465616767765e-09 0.051790034443330184 0.012947508610832546 0 0 "" orange red "" 73 111 0
+simundump kenz /kinetics/MAPK/MAPK_p/MAPK_phosph_SHC_p_Sos_Grb2 0 0 0 0.0 0 687601.0745118218 4.96104571699535e-06 3.4060623969820343 0.8515155992455086 0 0 "" red orange "" 67 102 0
+simundump kenz /kinetics/EGFR/L_EGFR/phosph_Shc 0 0 0 0.0 0 687601.0745118218 3.287814064233241e-06 2.2082853603997794 0.5520713400999449 0 0 "" red red "" 64 111 0
 simundump xgraph /graphs/conc1 0 0 99 0.001 0.999 0
 simundump xgraph /graphs/conc2 0 0 100 0 1 0
  simundump xplot /graphs/conc1/MAPK_p.Co 3 524288 \

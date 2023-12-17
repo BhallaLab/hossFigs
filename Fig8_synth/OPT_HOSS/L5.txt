@@ -1,18 +1,19 @@
 -------------------------------------------------------------
-scoreFunc = NRMS, Minimization runtime = 2.313 sec
+scoreFunc = NRMS, Minimization runtime = 2.502 sec
 Parameter              Initial Value     Final Value          Ratio 
-craf1.concInit                0.0002          0.0011          5.4998
-Ras_act_raf.Kf                  6000            2188          0.3647
-Ras_act_raf.Kb                     1           6.316          6.3158
+craf1.concInit                0.0002         0.00105          5.2518
+Ras_act_raf.Kf                  6000            1831          0.3052
+Ras_act_raf.Kb                     1           5.808          5.8078
 
 File                                       initScore  finalScore      weight
-synth_B_aSHC_DR_acraf1_vs_aMAPK.json         0.81282     0.67490      50.000
-synth_B_aSHC_TS_acraf1_vs_aMAPK.json         0.73117     0.64148      50.000
-synth_DR_acraf1_vs_aRas.json                 0.39003     0.09238     200.000
-synth_DR_acraf1_vs_craf1.json                0.33333     0.14263     100.000
-synth_DR_acraf1_vs_egf.json                  0.32668     0.20888     400.000
-synth_TS_acraf1_vs_aRas.json                 0.41845     0.03619     200.000
-synth_TS_acraf1_vs_craf1.json                0.54531     0.24488     100.000
-synth_TS_acraf1_vs_egf.json                  0.16699     0.09315     400.000
+Force1994_Fig.json                           0.55010     0.55010     100.000
+synth_B_aSHC_DR_acraf1_vs_aMAPK.json         0.83576     0.58858      50.000
+synth_B_aSHC_TS_acraf1_vs_aMAPK.json         0.80383     0.57897      50.000
+synth_DR_acraf1_vs_aRas.json                 0.39001     0.10824     200.000
+synth_DR_acraf1_vs_craf1.json                0.33333     0.13948     100.000
+synth_DR_acraf1_vs_egf.json                  0.28925     0.36304     400.000
+synth_TS_acraf1_vs_aRas.json                 0.41845     0.04995     200.000
+synth_TS_acraf1_vs_craf1.json                0.54531     0.25316     100.000
+synth_TS_acraf1_vs_egf.json                  0.30639     0.34765     400.000
 
-Init score = 0.3829, final = 0.2225
+Init score = 0.4144, final = 0.3322

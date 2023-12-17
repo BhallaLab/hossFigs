@@ -1,20 +1,25 @@
 -------------------------------------------------------------
-scoreFunc = NRMS, Minimization runtime = 27.236 sec
+scoreFunc = NRMS, Minimization runtime = 23.249 sec
 Parameter              Initial Value     Final Value          Ratio 
-Ras.concInit                  0.0002         0.00147          7.3513
-Sos_Ras_GEF.Km             0.0007097       0.0007187          1.0127
-Sos_Ras_GEF.kcat                2.26          0.5971          0.2642
-Ras_intrinsic_GTPase.Kf         0.04414         0.06809          1.5424
-basal_GEF.Kf                0.002682        0.000713          0.2658
+Ras.concInit                  0.0002        0.001606          8.0288
+Sos_Ras_GEF.Km             0.0007097        0.000671          0.9454
+Sos_Ras_GEF.kcat                2.26          0.8081          0.3575
+Ras_intrinsic_GTPase.Kf         0.04414          0.2028          4.5934
+basal_GEF.Kf                0.002682        0.003323          1.2388
 
 File                                       initScore  finalScore      weight
-synth_B_aSHC_DR_aRas_vs_aMAPK.json           0.50841     0.61681     100.000
-synth_B_aSHC_TS_aRas_vs_aMAPK.json           0.48620     0.60871     100.000
-synth_DR_aRas_vs_Ras.json                    0.29905     0.06944     100.000
-synth_DR_aRas_vs_aSos.json                   0.47099     0.07336     200.000
-synth_DR_aRas_vs_egf.json                    0.39161     0.23470     200.000
-synth_TS_aRas_vs_Ras.json                    0.45936     0.11422     100.000
-synth_TS_aRas_vs_aSos.json                   0.50479     0.08933     200.000
-synth_TS_aRas_vs_egf.json                    0.34270     0.12283     200.000
+Orita1993_Table1.json                        0.70148     0.68967     100.000
+Santoro1994_Fig6B.json                       0.25706     0.32417     100.000
+SynthHennigA2016_Fig1A.json                  0.49589     0.47175     100.000
+Yoder-Hill1995_Fig1.json                     0.47601     0.47601     100.000
+ZhouY2010_Fig3D.json                         0.52327     0.53360     100.000
+synth_B_aSHC_DR_aRas_vs_aMAPK.json           0.30429     0.07211     100.000
+synth_B_aSHC_TS_aRas_vs_aMAPK.json           0.30171     0.07064     100.000
+synth_DR_aRas_vs_Ras.json                    0.29905     0.04756     100.000
+synth_DR_aRas_vs_aSos.json                   0.47099     0.06306     200.000
+synth_DR_aRas_vs_egf.json                    0.48513     0.44791     200.000
+synth_TS_aRas_vs_Ras.json                    0.45936     0.07500     100.000
+synth_TS_aRas_vs_aSos.json                   0.50479     0.01382     200.000
+synth_TS_aRas_vs_egf.json                    0.41949     0.39782     200.000
 
-Init score = 0.4369, final = 0.2793
+Init score = 0.4579, final = 0.3480

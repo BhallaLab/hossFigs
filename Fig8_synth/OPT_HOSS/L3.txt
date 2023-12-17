@@ -1,30 +1,31 @@
 -------------------------------------------------------------
-scoreFunc = NRMS, Minimization runtime = 26.915 sec
+scoreFunc = NRMS, Minimization runtime = 75.254 sec
 Parameter              Initial Value     Final Value          Ratio 
-Sos.concInit                  0.0001       0.0006295          6.2950
-Grb2.concInit                  0.001         0.00201          2.0095
-SHC_bind_SosGrb2.Kf         1.21e+05       3.046e+04          0.2518
-SHC_bind_SosGrb2.Kb            23.57           12.49          0.5300
-Grb2_bind_Sos.Kf               532.7           470.4          0.8831
-Grb2_bind_Sos.Kb              0.1508          0.3356          2.2255
-Sos_deph.Kf                  0.01538        0.002585          0.1681
-MAPK_phosph_Sos.Km           0.01011        0.009333          0.9230
-MAPK_phosph_Sos.kcat             0.5         0.03861          0.0772
-MAPK_phosph_Grb2.Km          0.01011        0.003162          0.3128
-MAPK_phosph_Grb2.kcat             0.5          0.3888          0.7777
-Grb2_bind_Sos_p.Kf                25           45.64          1.8256
-Grb2_bind_Sos_p.Kb            0.0168         0.01694          1.0083
+Sos.concInit                  0.0001       1.272e-05          0.1272
+Grb2.concInit                  0.001       0.0003245          0.3245
+SHC_bind_SosGrb2.Kf         1.21e+05       3.484e+04          0.2879
+SHC_bind_SosGrb2.Kb            23.57            10.1          0.4286
+Grb2_bind_Sos.Kf               532.7           144.6          0.2715
+Grb2_bind_Sos.Kb              0.1508          0.3427          2.2724
+Sos_deph.Kf                  0.01538         0.01171          0.7616
+MAPK_phosph_Sos.Km           0.01011         0.01094          1.0823
+MAPK_phosph_Sos.kcat             0.5         0.06997          0.1399
+MAPK_phosph_Grb2.Km          0.01011        0.005679          0.5617
+MAPK_phosph_Grb2.kcat             0.5         0.09929          0.1986
+Grb2_bind_Sos_p.Kf                25           6.344          0.2538
+Grb2_bind_Sos_p.Kb            0.0168        0.009227          0.5493
 
 File                                       initScore  finalScore      weight
-synth_B_aSHC_DR_aSos_vs_aMAPK.json           0.73542     0.49671     200.000
-synth_B_aSHC_TS_aSos_vs_aMAPK.json           0.73349     0.57516     200.000
-synth_DR_aSos_vs_Sos.json                    0.36312     0.28621     100.000
-synth_DR_aSos_vs_aMAPK.json                  0.61185     0.08957       1.000
-synth_DR_aSos_vs_aSHC.json                   0.33502     0.09591     200.000
-synth_DR_aSos_vs_egf.json                    0.22822     0.27198     200.000
-synth_TS_aSos_vs_Sos.json                    0.35312     0.35459     100.000
-synth_TS_aSos_vs_aMAPK.json                  0.63262     0.24673       1.000
-synth_TS_aSos_vs_aSHC.json                   0.42544     0.08396     200.000
-synth_TS_aSos_vs_egf.json                    0.22332     0.13268     200.000
+Ung_2008.json                                0.91951     0.92397     100.000
+synth_B_aSHC_DR_aSos_vs_aMAPK.json           0.73542     0.14260     200.000
+synth_B_aSHC_TS_aSos_vs_aMAPK.json           0.73350     0.16547     200.000
+synth_DR_aSos_vs_Sos.json                    0.54624     0.25974     100.000
+synth_DR_aSos_vs_aMAPK.json                  0.48985     0.90010       1.000
+synth_DR_aSos_vs_aSHC.json                   0.33502     0.44679     200.000
+synth_DR_aSos_vs_egf.json                    0.23630     0.45064     200.000
+synth_TS_aSos_vs_Sos.json                    0.44255     0.36777     100.000
+synth_TS_aSos_vs_aMAPK.json                  0.35227     0.89098       1.000
+synth_TS_aSos_vs_aSHC.json                   0.42544     0.55617     200.000
+synth_TS_aSos_vs_egf.json                    0.26070     0.37989     200.000
 
-Init score = 0.4787, final = 0.3356
+Init score = 0.5372, final = 0.4379
