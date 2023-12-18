@@ -37,10 +37,7 @@ def computeScores( configFile, modelFile ):
     args = Args( modelFile, "Maps/D4_map_EGFR.json", configFile )
     return dae.innerMain( args )
 
-def plotEGFR( ax ):
-    #exptFile = "EGFR_Expts/Saito2004_Fig2C.json"
-    #exptFile = "EGFR_Expts/Mukhin2003_Fig9B_inset.json"
-    exptFile = "EGFR_Expts/Pinilla-Macua2016_Fig3A_surface.json"
+def doPlot( ax, exptFile, ylabel, panel, showLegend = False ):
     score, elapsedTime, ret = findSim.innerMain( exptFile, 
             simWrap = "HillTau", ignoreMissingObj = True,
             modelFile = d3File, mapFile = d3mapFile, hidePlot = True )
@@ -58,117 +55,38 @@ def plotEGFR( ax ):
             modelFile = optFiles[3], mapFile = mapFile, hidePlot = True )
     newOptY = ret["sim"]
 
-    ax.plot( ex, ey, "o-", label = "Expt", ms = 10 )
-    ax.plot( ex, synthY, "o:", label = "Synth", ms = 10 )
+    ax.plot( ex, ey, "o-", label = "Expt", ms = 8 )
+    ax.plot( ex, synthY, "o:", label = "Synth", ms = 8 )
     ax.plot( ex, origOptY, "+--", label = "Opt1", ms = 16 )
-    ax.plot( ex, newOptY, "+:", label = "Opt2", ms = 16 )
+    ax.plot( ex, newOptY, "x:", label = "Opt2", ms = 16 )
 
     ax.set_xlabel('Time (s)', fontsize = 16)
-    ax.set_ylabel('[L.EGFR] (ratio)', fontsize = 16)
+    ax.set_ylabel(ylabel , fontsize = 16)
     #ax.set_ylim( 1.0, 3.2 )
     ax.xaxis.set_tick_params(labelsize=14)
     ax.yaxis.set_tick_params(labelsize=14)
-    ax.legend(loc='lower right', ncol = 1, frameon = False, fontsize = 14)
-    ax.text( -0.10, 1.05, "A", fontsize = 22, weight = "bold", transform=ax.transAxes )
+    if showLegend:
+        ax.legend(loc='lower right', ncol = 1, frameon = False, 
+                fontsize = 14)
+    ax.text( -0.10, 1.05, panel, fontsize = 22, weight = "bold", 
+            transform=ax.transAxes )
+
+
+def plotEGFR( ax ):
+    exptFile = "EGFR_Expts/Pinilla-Macua2016_Fig3A_surface.json"
+    doPlot( ax, exptFile, "L.EGFR (ratio)", "A", showLegend = True )
 
 def plotSHC( ax ):
     exptFile = "EGFR_Expts/Kholodenko1999_Fig3B.json"
-    score, elapsedTime, ret = findSim.innerMain( exptFile, 
-            simWrap = "HillTau", ignoreMissingObj = True,
-            modelFile = d3File, mapFile = d3mapFile, hidePlot = True )
-    ex = ret["exptX"]
-    ey = ret["exptY"]
-    synthY = ret["sim"]
-
-    score, elapsedTime, ret = findSim.innerMain( exptFile, 
-            ignoreMissingObj = True,
-            modelFile = origOptFile, mapFile = mapFile, hidePlot = True )
-    origOptY = ret["sim"]
-
-    score, elapsedTime, ret = findSim.innerMain( exptFile, 
-            ignoreMissingObj = True,
-            modelFile = optFiles[3], mapFile = mapFile, hidePlot = True )
-    newOptY = ret["sim"]
-
-    ax.plot( ex, ey, "o-", label = "Expt" )
-    ax.plot( ex, synthY, label = "Synth" )
-    ax.plot( ex, origOptY, label = "Opt1" )
-    ax.plot( ex, newOptY, label = "Opt2" )
-
-    ax.set_xlabel('Time (s)', fontsize = 16)
-    ax.set_ylabel('SHC_p (Fraction of total)', fontsize = 16)
-    #ax.set_ylim( 1.0, 3.2 )
-    ax.xaxis.set_tick_params(labelsize=14)
-    ax.yaxis.set_tick_params(labelsize=14)
-    ax.legend(loc='upper left', ncol = 4, frameon = False, fontsize = 14)
-    ax.text( -0.10, 1.05, "B", fontsize = 22, weight = "bold", transform=ax.transAxes )
-
+    doPlot( ax, exptFile, "SHC_p (Frac of total)", "B" )
 
 def plotRas( ax ):
     exptFile = "EGFR_Expts/ZhouY2010_Fig3D.json"
-    score, elapsedTime, ret = findSim.innerMain( exptFile, 
-            simWrap = "HillTau", ignoreMissingObj = True,
-            modelFile = d3File, mapFile = d3mapFile, hidePlot = True )
-    ex = ret["exptX"]
-    ey = ret["exptY"]
-    synthY = ret["sim"]
-
-    score, elapsedTime, ret = findSim.innerMain( exptFile, 
-            ignoreMissingObj = True,
-            modelFile = origOptFile, mapFile = mapFile, hidePlot = True )
-    origOptY = ret["sim"]
-
-    score, elapsedTime, ret = findSim.innerMain( exptFile, 
-            ignoreMissingObj = True,
-            modelFile = optFiles[3], mapFile = mapFile, hidePlot = True )
-    newOptY = ret["sim"]
-
-    ax.plot( ex, ey, "o-", label = "Expt" )
-    ax.plot( ex, synthY, label = "Synth" )
-    ax.plot( ex, origOptY, label = "Opt1" )
-    ax.plot( ex, newOptY, label = "Opt2" )
-
-    ax.set_xlabel('Time (s)', fontsize = 16)
-    ax.set_ylabel('Active Ras (ratio)', fontsize = 16)
-    #ax.set_ylim( 1.0, 3.2 )
-    ax.xaxis.set_tick_params(labelsize=14)
-    ax.yaxis.set_tick_params(labelsize=14)
-    ax.legend(loc='upper left', ncol = 4, frameon = False, fontsize = 14)
-    ax.text( -0.10, 1.05, "C", fontsize = 22, weight = "bold", transform=ax.transAxes )
+    doPlot( ax, exptFile, "Active Ras (ratio)", "C" )
 
 def plotMAPK( ax ):
-    #exptFile = "EGFR_Expts/Shah2003_Fig1B_pkScale.json"
     exptFile = "EGFR_Expts/Tucker1993_Fig7_pkScale.json"
-    score, elapsedTime, ret = findSim.innerMain( exptFile, 
-            simWrap = "HillTau", ignoreMissingObj = True,
-            modelFile = d3File, mapFile = d3mapFile, hidePlot = True )
-    ex = ret["exptX"]
-    ey = ret["exptY"]
-    synthY = ret["sim"]
-
-    score, elapsedTime, ret = findSim.innerMain( exptFile, 
-            ignoreMissingObj = True,
-            modelFile = origOptFile, mapFile = mapFile, hidePlot = True )
-    origOptY = ret["sim"]
-
-    score, elapsedTime, ret = findSim.innerMain( exptFile, 
-            ignoreMissingObj = True,
-            modelFile = optFiles[3], mapFile = mapFile, hidePlot = True )
-    newOptY = ret["sim"]
-
-    ax.plot( ex, ey, "o-", label = "Expt" )
-    ax.plot( ex, synthY, label = "Synth" )
-    ax.plot( ex, origOptY, label = "Opt1" )
-    ax.plot( ex, newOptY, label = "Opt2" )
-
-    ax.set_xlabel('Time (s)', fontsize = 16)
-    ax.set_ylabel('MAPK_p (ratio to max)', fontsize = 16)
-    #ax.set_ylim( 1.0, 3.2 )
-    ax.xaxis.set_tick_params(labelsize=14)
-    ax.yaxis.set_tick_params(labelsize=14)
-    ax.legend(loc='upper left', ncol = 4, frameon = False, fontsize = 14)
-    ax.text( -0.10, 1.05, "D", fontsize = 22, weight = "bold", transform=ax.transAxes )
-
+    doPlot( ax, exptFile, "MAPK_p (Frac of peak)", "D" )
 
 def plotAllScores( ax ):
     # Here we have to scale the flat scoring scheme to match the 
