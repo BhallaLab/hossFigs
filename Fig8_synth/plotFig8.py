@@ -55,10 +55,10 @@ def doPlot( ax, exptFile, ylabel, panel, showLegend = False ):
             modelFile = optFiles[3], mapFile = mapFile, hidePlot = True )
     newOptY = ret["sim"]
 
-    ax.plot( ex, ey, "o-", label = "Expt", ms = 8 )
-    ax.plot( ex, synthY, "o:", label = "Synth", ms = 8 )
-    ax.plot( ex, origOptY, "+--", label = "Opt1", ms = 16 )
-    ax.plot( ex, newOptY, "x:", label = "Opt2", ms = 16 )
+    ax.plot( ex, ey, "o-", label = "Experiment data", ms = 8 )
+    ax.plot( ex, synthY, "o:", label = "Synthetic data", ms = 8 )
+    ax.plot( ex, origOptY, "+--", label = "Optimize to real data", ms = 16 )
+    ax.plot( ex, newOptY, "x:", label = "Optimize to real&synth", ms = 16 )
 
     ax.set_xlabel('Time (s)', fontsize = 16)
     ax.set_ylabel(ylabel , fontsize = 16)
@@ -74,19 +74,19 @@ def doPlot( ax, exptFile, ylabel, panel, showLegend = False ):
 
 def plotEGFR( ax ):
     exptFile = "EGFR_Expts/Pinilla-Macua2016_Fig3A_surface.json"
-    doPlot( ax, exptFile, "L.EGFR (ratio)", "A", showLegend = True )
+    doPlot( ax, exptFile, "L.EGFR (ratio)", "C", showLegend = True )
 
 def plotSHC( ax ):
     exptFile = "EGFR_Expts/Kholodenko1999_Fig3B.json"
-    doPlot( ax, exptFile, "SHC_p (Frac of total)", "B" )
+    doPlot( ax, exptFile, "SHC_p (Frac of total)", "D" )
 
 def plotRas( ax ):
     exptFile = "EGFR_Expts/ZhouY2010_Fig3D.json"
-    doPlot( ax, exptFile, "Active Ras (ratio)", "C" )
+    doPlot( ax, exptFile, "Active Ras (ratio)", "E" )
 
 def plotMAPK( ax ):
     exptFile = "EGFR_Expts/Tucker1993_Fig7_pkScale.json"
-    doPlot( ax, exptFile, "MAPK_p (Frac of peak)", "D" )
+    doPlot( ax, exptFile, "MAPK_p (Frac of peak)", "F" )
 
 def plotAllScores( ax ):
     # Here we have to scale the flat scoring scheme to match the 
@@ -140,24 +140,35 @@ def plotAllScores( ax ):
                 label='hossMC' if idx == 0 else "")
     
     # Adding labels and title
-    ax.set_xticks(grouped_positions + ((len(categories) - 1) / 2) * (bar_width * len(colors) + space_width))
+    ax.set_xticks(grouped_positions + ((len(categories) - 1.4) / 2) * (bar_width * len(colors) + space_width))
     ax.set_xticklabels( xticklabels, fontsize = 16 )
     ax.set_ylabel('Optimization score', fontsize = 16)
     ax.set_ylim( 0, 0.65 )
     ax.yaxis.set_tick_params(labelsize=14)
-    ax.text( -0.10, 1.05, "E", fontsize = 22, weight = "bold", transform=ax.transAxes )
+    ax.text( -0.04, 1.05, "G", fontsize = 22, weight = "bold", transform=ax.transAxes )
     
     # Adding legend
     #ax.legend(loc='upper left', title='Optimization Method', frameon = False, fontsize = 14)
     ax.legend(loc='upper left', ncol = 2, frameon = False, fontsize = 14)
     
 def main():
-    fig, ax = plt.subplots( nrows = 5, ncols=1, figsize = (8, 16) )
+    #fig, ax = plt.subplots( nrows = 5, ncols=1, figsize = (8, 16) )
+    fig = plt.figure( figsize = (10, 14) )
+    gs = fig.add_gridspec(3,2)
+    plotEGFR( fig.add_subplot( gs[0,0] ) )
+    plotSHC( fig.add_subplot( gs[0,1] ) )
+    plotRas( fig.add_subplot( gs[1,0] ) )
+    plotMAPK( fig.add_subplot( gs[1,1] ) )
+    plotAllScores( fig.add_subplot( gs[2, :] ) )
+
+
+    '''
     plotEGFR( ax[0] )
     plotSHC( ax[1] )
     plotRas( ax[2] )
     plotMAPK( ax[3] )
     #plotAllScores( ax[4])
+    '''
     plt.tight_layout()
     plt.show()
 
