@@ -12,7 +12,7 @@
 	"comment": "Optimizing D4 EGFR_MAPK model using Synthetic experiments from D3 model.",
 	"hossMethod": {
 		"method": "hoss",
-		"numProcess": 1
+		"numProcesses": 1
 	},
 	"HOSS": [
 		{
