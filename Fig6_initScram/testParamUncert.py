@@ -7,9 +7,8 @@ import matplotlib.pyplot as plt
 import scramParam
 import simdiff
 
-def plotParamUncertainty( location, mapfile ):
+def plotParamUncertainty( location, mapfile, ax ):
     # Iterate over each file
-    #sns.set(font_scale=1.4)
     suffix = "json" if mapfile[6] == "3" else "g"
     #optFiles = [ location + "/OPTI_{:03d}.{}".format(ii, suffix ) for ii in range(200) ]
     #rowNames = [ "OPTI_{:03d}".format(ii) for ii in range(10) ]
@@ -54,18 +53,44 @@ def plotParamUncertainty( location, mapfile ):
     worst = max( scores.values() )
     
     dfSorted = df.sort_values( by = 'score' )
-    cutoffScore = (9*optimal + worst)/10
-    dfFiltered = dfSorted[dfSorted['score'] < cutoffScore]
+    dfSorted.drop( columns = ["fileIdx", "score"], inplace = True )
+    #cutoffScore = (9*optimal + worst)/10
+    #dfFiltered = dfSorted[dfSorted['score'] < cutoffScore]
+    dfFiltered = dfSorted.iloc[:len( dfSorted )// 4]
     print( "Num within cutoff = ", len( dfFiltered ) )
-    optimalParams = dfSorted.iloc[0:10,:-1].mean()
+    optimalParams = dfSorted.iloc[0:10].mean()
     paramUncertainty = ( dfFiltered.max()-dfFiltered.min() )/optimalParams
-    pu = paramUncertainty.iloc[:-1]
-    print(pu) 
-    print("Mean = ", pu.mean(), "    Std Dev = ", pu.std())
+    pu = paramUncertainty
+    #print(pu) 
+    #print("Mean = ", pu.mean(), "    Std Dev = ", pu.std())
+
+    ratio = dfFiltered/optimalParams
+    #print( "SH = ", dfFiltered.shape, optimalParams.shape, ratio.shape, dfFiltered.iloc[0,0], optimalParams.iloc[0], ratio.iloc[0,0] )
+    flat = ratio.values.flatten()
+    print("File={}, Mean={:.3f}, std={:.3f}, mean of norm param = {:.3f}, std={:.3f}".format( location, pu.mean(),pu.std(), np.mean( flat ), np.std( flat )) )
+    #plt.hist(ratio.values.flatten(), bins=40, linewidth = 2, color = None, histtype ='step' )
+    bins = np.logspace(np.log10(min(flat)), np.log10(max(flat)), 40)
+    ax.hist( flat, bins = bins, alpha = 0.5, label = location, histtype = "step", linewidth = 2, color = None )
+    ax.set_xscale( 'log' )
+    ax.set_title('Frequency Histogram')
+    ax.set_xlabel('Normalized Param', fontsize = 16)
+    ax.xaxis.set_tick_params(labelsize=14)
+    ax.set_ylabel('Frequency', fontsize = 16)
+    ax.yaxis.set_tick_params(labelsize=14)
     
 def main():
-    plotParamUncertainty( "OPT_D3_b2AR_R4_2.0", "Maps/D3_map_b2AR.json" )
-    plotParamUncertainty( "OPT_D4_b2AR_R4_2.0", "Maps/D4_map_b2AR.json" )
+    fig, ax = plt.subplots( nrows = 2, ncols = 1, figsize = (12,12 ) )
+    plt.rcParams.update({'font.size': 16})
+    plotParamUncertainty( "OPT_D3_b2AR_R4_1.2", "Maps/D3_map_b2AR.json", ax[0] )
+    plotParamUncertainty( "OPT_D3_b2AR_R4_2.0", "Maps/D3_map_b2AR.json", ax[0] )
+    plotParamUncertainty( "OPT_D3_b2AR_R4_5.0", "Maps/D3_map_b2AR.json", ax[0] )
+    ax[0].legend( loc = 'upper right', frameon = False )
+    plotParamUncertainty( "OPT_D4_b2AR_R4_1.2", "Maps/D4_map_b2AR.json", ax[1] )
+    plotParamUncertainty( "OPT_D4_b2AR_R4_2.0", "Maps/D4_map_b2AR.json", ax[1] )
+    plotParamUncertainty( "OPT_D4_b2AR_R4_5.0", "Maps/D4_map_b2AR.json", ax[1] )
+    ax[1].legend( loc = 'upper right', frameon = False )
+    plt.tight_layout( pad = 1.0 )
+    plt.show()
 
 if __name__ == "__main__":
     main()
