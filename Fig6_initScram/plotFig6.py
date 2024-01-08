@@ -396,7 +396,7 @@ def plotIteratedScore( ax ):
     ax.xaxis.set_tick_params(labelsize=14)
     ax.yaxis.set_tick_params(labelsize=14)
     ax.set_ylim(0, 0.5)
-    ax.text( -0.10, 1.05, "E", fontsize = 22, weight = "bold", transform=ax.transAxes )
+    ax.text( -0.10, 1.05, "C", fontsize = 22, weight = "bold", transform=ax.transAxes )
     ax.legend(loc='upper right', title='Model', frameon = False, fontsize = 14 )
 
 
@@ -453,15 +453,17 @@ def plotModelDifferenceVsScramRange( ax ):
     ax.legend( loc = 'lower right', frameon = False )
 
 def main():
-    fig, ax = plt.subplots( nrows = 3, ncols=2, figsize = (14, 16) )
+    fig, ax = plt.subplots( nrows = 4, ncols=2, figsize = (14, 20.5) )
     # setting font sizeto 30
     plt.rcParams.update({'font.size': 16})
     plotScramParam( ax[0][0] )
-    plotResultHistos( ax[0][1], "OPT_D3_b2AR", "C" )
-    plotResultHistos( ax[1][0], "OPT_D4_b2AR", "D" )
-    plotIteratedScore( ax[1][1] )
+    plotIteratedScore( ax[0][1] )
+    plotResultHistos( ax[1][0], "OPT_D3_b2AR", "D" )
+    plotResultHistos( ax[1][1], "OPT_D4_b2AR", "E" )
     plotModelDifferenceVsScramRange( ax[2][0] )
     ax[2][1].set_axis_off()
+    plotResultHistos( ax[3][0], "OPT_D3_b2AR", "H" )
+    plotResultHistos( ax[3][1], "OPT_D4_b2AR", "I" )
     plt.tight_layout( pad = 1.0 )
     plotParamProximity( ax[0], "OPT_D3_b2AR", "Maps/D3_map_b2AR.json", "E" )
     plotParamProximity( ax[1], "OPT_D4_b2AR", "Maps/D4_map_b2AR.json", "F" )
