@@ -8,6 +8,7 @@ import scramParam
 import simdiff
 
 def plotParamUncertainty( location, mapfile, ax ):
+    scramRange = location.split('_')[-1]
     # Iterate over each file
     suffix = "json" if mapfile[6] == "3" else "g"
     #optFiles = [ location + "/OPTI_{:03d}.{}".format(ii, suffix ) for ii in range(200) ]
@@ -70,25 +71,27 @@ def plotParamUncertainty( location, mapfile, ax ):
     print("File={}, Mean={:.3f}, std={:.3f}, mean of norm param = {:.3f}, std={:.3f}".format( location, pu.mean(),pu.std(), np.mean( flat ), np.std( flat )) )
     #plt.hist(ratio.values.flatten(), bins=40, linewidth = 2, color = None, histtype ='step' )
     bins = np.logspace(np.log10(min(flat)), np.log10(max(flat)), 40)
-    ax.hist( flat, bins = bins, alpha = 0.5, label = location, histtype = "step", linewidth = 2, color = None )
+    ax.hist( flat, bins = bins, alpha = 0.5, label = "Range="+scramRange, histtype = "step", linewidth = 2, color = None )
     ax.set_xscale( 'log' )
     ax.set_title('Frequency Histogram')
-    ax.set_xlabel('Normalized Param', fontsize = 16)
+    ax.set_xlabel('Parameter normalized to mean', fontsize = 16)
     ax.xaxis.set_tick_params(labelsize=14)
     ax.set_ylabel('Frequency', fontsize = 16)
     ax.yaxis.set_tick_params(labelsize=14)
     
 def main():
-    fig, ax = plt.subplots( nrows = 2, ncols = 1, figsize = (12,12 ) )
+    fig, ax = plt.subplots( nrows = 2, ncols = 1, figsize = (6,8 ) )
     plt.rcParams.update({'font.size': 16})
     plotParamUncertainty( "OPT_D3_b2AR_R4_1.2", "Maps/D3_map_b2AR.json", ax[0] )
     plotParamUncertainty( "OPT_D3_b2AR_R4_2.0", "Maps/D3_map_b2AR.json", ax[0] )
     plotParamUncertainty( "OPT_D3_b2AR_R4_5.0", "Maps/D3_map_b2AR.json", ax[0] )
-    ax[0].legend( loc = 'upper right', frameon = False )
+    ax[0].set_xlim( 1e-4, 1e2)
+    ax[0].legend( loc = 'upper left', frameon = False )
     plotParamUncertainty( "OPT_D4_b2AR_R4_1.2", "Maps/D4_map_b2AR.json", ax[1] )
     plotParamUncertainty( "OPT_D4_b2AR_R4_2.0", "Maps/D4_map_b2AR.json", ax[1] )
     plotParamUncertainty( "OPT_D4_b2AR_R4_5.0", "Maps/D4_map_b2AR.json", ax[1] )
-    ax[1].legend( loc = 'upper right', frameon = False )
+    ax[1].legend( loc = 'upper left', frameon = False )
+    ax[1].set_xlim( 1e-4, 1e2)
     plt.tight_layout( pad = 1.0 )
     plt.show()
 
