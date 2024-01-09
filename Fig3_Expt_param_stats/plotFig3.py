@@ -68,7 +68,9 @@ def loadConfig( configFile ):
     return config
 
 def plotPanel( label, pl0, pl1, ax, loc ):
+    # pl0 and pl1 are arrays of [pathway, numExpt, numParams]
     allparams = pl0 + pl1
+    allparams = sorted( allparams, key = lambda pp: pp[1], reverse = True )
     x = np.arange(len(allparams))  # the label locations
     width = 0.25  # the width of the bars
     multiplier = 0
@@ -87,7 +89,7 @@ def plotPanel( label, pl0, pl1, ax, loc ):
     #ax.bar_label(rects, padding=3)
     multiplier += 1
 
-    ax.set_xticks( x + width, pathways, rotation = 45 )
+    ax.set_xticks( x + width, pathways, rotation = 60 )
     ax.legend(loc=loc, fontsize = 14, frameon = False )
     #ax.set_xlabel( "", fontsize = 16 )
     ax.set_ylabel( "# Parameters; # Experiments", fontsize = 16 )
@@ -148,7 +150,7 @@ def main():
         pl2.append( pathwayList )
 
     fig, ax = plt.subplots( nrows = 2, ncols=2, figsize = (10, 10) )
-    plotPanel( "A", pl2[0], pl2[1], ax[0][0], 'upper left' )
+    plotPanel( "A", pl2[0], pl2[1], ax[0][0], 'upper right' )
     plotPanel( "B", pl2[2], pl2[3], ax[0][1], 'upper right' )
     exptFiles = ["Mukhin2003_Fig9B_inset", "Saito2004_Fig2C", "Kholodenko1999_Fig2B_slow" ]
     plotExpt( "C", exptFiles, ax[1][0], "EGFR_Expts/" )
