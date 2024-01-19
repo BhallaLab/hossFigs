@@ -1,0 +1,11 @@
+-------------------------------------------------------------
+scoreFunc = NRMS, Minimization runtime = 0.631 sec
+Parameter              Initial Value     Final Value          Ratio 
+craf1.concInit                0.0002          0.0002          1.0000
+Ras_act_raf.Kf                  6000            6000          1.0000
+Ras_act_raf.Kb                     1               1          1.0000
+
+File                                       initScore  finalScore      weight
+Force1994_Fig.json                           0.56466     0.56466     100.000
+
+Init score = 0.5647, final = 0.5647

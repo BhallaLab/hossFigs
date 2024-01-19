@@ -1,0 +1,14 @@
+-------------------------------------------------------------
+scoreFunc = NRMS, Minimization runtime = 4.606 sec
+Parameter              Initial Value     Final Value          Ratio 
+SHC.concInit                0.002891        0.005291          1.8301
+EGFR_act_SHC.Km            1.375e-05       1.324e-05          0.9628
+EGFR_act_SHC.kcat             0.5878          0.5494          0.9347
+SHCp_deph.Kf                  0.0939          0.1304          1.3883
+
+File                                       initScore  finalScore      weight
+Kholodenko1999_Fig3B.json                    0.51671     0.11420     100.000
+Tang2015_Fig4C.json                          0.15984     0.18074      50.000
+Ung_2008.json                                0.81969     0.81979     100.000
+
+Init score = 0.6170, final = 0.5297
