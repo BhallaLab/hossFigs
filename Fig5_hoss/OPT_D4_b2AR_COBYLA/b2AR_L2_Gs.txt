@@ -1,0 +1,13 @@
+-------------------------------------------------------------
+scoreFunc = NRMS, Minimization runtime = 3.268 sec
+Parameter              Initial Value     Final Value          Ratio 
+Act_Gs.Kf                      1.114           1.017          0.9128
+basalAct_Gs.Kf              0.006011        0.005655          0.9408
+Inact_Gs.Kf                   0.1723          0.1928          1.1188
+Trimerize_Gs.Kf                222.5           233.4          1.0489
+
+File                                       initScore  finalScore      weight
+Ransnas1992_Fig1A.json                       0.10771     0.10852      34.000
+Ransnas1992_Fig1B.json                       0.13447     0.13369      34.000
+
+Init score = 0.1218, final = 0.1218

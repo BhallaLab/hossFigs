@@ -1,0 +1,22 @@
+-------------------------------------------------------------
+scoreFunc = NRMS, Minimization runtime = 22.367 sec
+Parameter              Initial Value     Final Value          Ratio 
+EGF.concInit               5.576e-08       1.862e-07          3.3396
+EGFR.concInit               0.000141       0.0003712          2.6319
+act_EGFR.Kf                3.477e+04       1.692e+04          0.4867
+act_EGFR.Kb                  0.01684        0.007192          0.4271
+EGFR_Internalize.Kf               75           48.21          0.6427
+EGFR_Internalize.Kb          0.03062         0.03797          1.2398
+
+File                                       initScore  finalScore      weight
+CapuaniF2015_Fig1C.json                      0.38314     0.17078      41.000
+Choi2006_Fig7A.json                          0.07069     0.05568     100.000
+Kholodenko1999_Fig2B_slow.json               0.51740     0.27969     400.000
+Martin2006_Fig1B.json                        0.06906     0.27372      52.000
+Mukhin2003_Fig9B.json                        0.40577     0.47649      79.000
+Mukhin2003_Fig9B_inset.json                  0.36267     0.31530     200.000
+Pinilla-Macua2016_Fig3A_internal.json        0.05139     0.19320      70.000
+Pinilla-Macua2016_Fig3A_surface.json         0.25244     0.39100      70.000
+Saito2004_Fig2C.json                         0.15757     0.09193      52.000
+
+Init score = 0.3867, final = 0.2880

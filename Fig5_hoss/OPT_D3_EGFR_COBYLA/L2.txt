@@ -1,0 +1,42 @@
+-------------------------------------------------------------
+scoreFunc = NRMS, Minimization runtime = 20.649 sec
+Parameter              Initial Value     Final Value          Ratio 
+MAPK.concInit              0.0004915       0.0004869          0.9906
+Ras.concInit               0.0008324        0.000878          1.0547
+SHC.concInit               0.0006297       0.0006294          0.9994
+Sos.concInit               0.0002089        0.000214          1.0243
+craf1.concInit              0.000135       0.0001338          0.9907
+aSHC.KA                    2.696e-05        2.71e-05          1.0052
+aSHC.tau                       25.14           24.98          0.9936
+aSHC.tau2                      5.451           5.688          1.0435
+aRas.KA                    7.141e-05       7.091e-05          0.9930
+aRas.tau                       27.16           27.39          1.0088
+aRas.baseline                4.5e-06       4.556e-06          1.0124
+aSos.KA                    5.255e-05       5.399e-05          1.0274
+aSos.tau                       19.04           18.87          0.9909
+aSos.Kmod                  2.241e-06       2.199e-06          0.9812
+aSos.Amod                   0.006824          0.0066          0.9673
+aSos.baseline              1.277e-06       1.277e-06          1.0004
+acraf1.KA                   0.000488       0.0004999          1.0244
+acraf1.tau                      38.8            38.9          1.0026
+acraf1.baseline            3.579e-06       3.534e-06          0.9875
+aMAPK.KA                   0.0001099       0.0001122          1.0208
+aMAPK.tau                      31.92            32.2          1.0090
+aMAPK.baseline             1.208e-06       1.214e-06          1.0050
+
+File                                       initScore  finalScore      weight
+Abe2000_Fig1A.json                           0.22674     0.22710     200.000
+Abe2000_Fig1B.json                           0.28207     0.28495      50.000
+Gu2004_Fig3B.json                            0.26956     0.26496      70.000
+Kholodenko1999_Fig3B.json                    0.33823     0.33816      50.000
+Queipo2018_Fig2_pkScale.json                 0.25831     0.25785     100.000
+Shah2003_Fig1B_pkScale.json                  0.09445     0.09680     400.000
+SynthHennigA2016_Fig1A.json                  0.29321     0.29131      50.000
+Tang2015_Fig4C.json                          0.69859     0.69861      50.000
+Tang2015_Fig4D.json                          0.64356     0.64230      50.000
+Teng1995_Fig9A.json                          0.33180     0.33102      64.000
+Tucker1993_Fig7_pkScale.json                 0.28572     0.28326     100.000
+ZhouY2010_Fig3C_pkScale.json                 0.26458     0.26445     400.000
+ZhouY2010_Fig3D.json                         0.35225     0.35250      70.000
+
+Init score = 0.2874, final = 0.2872

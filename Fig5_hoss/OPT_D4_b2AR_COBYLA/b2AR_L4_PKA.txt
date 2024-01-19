@@ -1,0 +1,23 @@
+-------------------------------------------------------------
+scoreFunc = NRMS, Minimization runtime = 83.922 sec
+Parameter              Initial Value     Final Value          Ratio 
+cAMP_bind_site_B1.Kd       1.409e-05       1.027e-05          0.7294
+cAMP_bind_site_B1.tau        0.006828        0.005327          0.7802
+cAMP_bind_site_B2.Kd       4.532e-05       1.659e-05          0.3662
+cAMP_bind_site_B2.tau        0.007022        0.006783          0.9659
+cAMP_bind_site_A1.Kd        0.001104         0.00102          0.9239
+cAMP_bind_site_A1.tau        0.003129        0.003234          1.0337
+cAMP_bind_site_A2.Kd       0.0003009       0.0003715          1.2346
+cAMP_bind_site_A2.tau         0.03521         0.05593          1.5884
+Release_C1.Kd                  111.1           111.9          1.0072
+Release_C1.tau              0.009693         0.01015          1.0468
+Release_C2.Kd                  221.1           249.4          1.1279
+Release_C2.tau              0.005354        0.005356          1.0004
+
+File                                       initScore  finalScore      weight
+Hasler1992_Fig4C.json                        0.10902     0.10882      67.000
+Heubach2004_Table1.json                      0.06169     0.06169      67.000
+Solberg1994_Fig7.json                        0.09478     0.09308      43.000
+Wolter2011_Fig2A.json                        0.04861     0.03936      37.000
+
+Init score = 0.0844, final = 0.0831
