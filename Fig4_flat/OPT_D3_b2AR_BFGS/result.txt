@@ -1,0 +1,54 @@
+-------------------------------------------------------------
+scoreFunc = NRMS, Minimization runtime = 368.833 sec
+Parameter              Initial Value     Final Value          Ratio 
+ab2AR.tau                      599.5           19.84          0.0331
+ab2AR.KA                    0.000139       0.0003394          2.4414
+ab2AR.Kmod                 4.935e-06       2.637e-06          0.5344
+ab2AR.Amod                  0.001998          0.0281         14.0669
+intb2AR.tau                    85.28            27.1          0.3178
+intb2AR.KA                     1.094          0.5844          0.5344
+Gs_alpha.tau                      50           28.99          0.5797
+Gs_alpha.KA                   0.0004        0.001164          2.9094
+aCaM.KA                        0.002        0.001543          0.7716
+AC1.concInit                   2e-05       2.024e-05          1.0118
+AC2.concInit                   2e-05       2.021e-05          1.0105
+CaM_AC1.tau                      2.1             2.1          1.0000
+CaM_AC1.KA                    0.0001       1.036e-05          0.1036
+Gs_AC1.tau                       2.1             2.1          0.9999
+Gs_AC1.KA                     0.0001       2.733e-05          0.2733
+Gs_AC2.tau                       2.1             2.1          0.9999
+Gs_AC2.KA                     0.0001       2.734e-05          0.2734
+cAMP.tau                         2.1           57.38         27.3229
+cAMP.KA                    4.614e-05       4.605e-05          0.9981
+cAMP.gain                         10           10.22          1.0224
+AMP.tau                           20            49.9          2.4951
+AMP.KA                     0.0004295       0.0004302          1.0016
+CaM_PDE1.KA                   0.0001       2.044e-05          0.2044
+PKA_PDE1.tau                     2.1           2.123          1.0109
+PKA_PDE1.KA                   0.0001       9.987e-05          0.9987
+aPKA.tau                          10           16.71          1.6710
+aPKA.KA                        0.005        0.000878          0.1756
+
+File                                       initScore  finalScore      weight
+Crouch1980_Fig1.json                         0.19180     0.22159     100.000
+Feinstein1991_Fig4_AC1.json                  0.23802     0.23603     100.000
+Feinstein1991_Fig5.json                      0.31938     0.24008     100.000
+Hasler1992_Fig4C.json                        0.60212     0.43612      67.000
+Heubach2004_Table1.json                      0.47005     0.51169      67.000
+January1997_Fig1A.json                       0.16975     0.21912     100.000
+Klee1978.json                                0.96000     0.80429      30.000
+Porumb1994_Table3.json                       0.52612     0.52592      30.000
+Sette1994_Fig4BwithInhibitor.json            0.28069     0.26331      45.000
+Sette1994_Fig4BwoInhibitor.json              0.33556     0.31511      45.000
+Sette1996_Fig2B.json                         0.22285     0.22285     100.000
+Shifman2006_Table2.json                      0.53864     0.57271      30.000
+Smigel1986_Fig7_with_bg.json                 0.21222     0.22981     100.000
+Solberg1994_Fig7.json                        0.46158     0.45920      43.000
+Stemmer1994_Table3.json                      0.50249     0.35790      30.000
+Suzuki1991_Fig2.json                         0.09408     0.19326     100.000
+Tang1991_Fig3A.json                          0.21934     0.08408     100.000
+Tang1991_Fig3B.json                          0.31435     0.22497     100.000
+Tran2007_Fig2B.json                          0.28905     0.53732      64.000
+Wolter2011_Fig2A.json                        0.60527     0.48264      37.000
+
+Init score = 0.3556, final = 0.3355
