@@ -1,1 +1,2 @@
-# Nothing to ignore
+# Whitelist OPTI_000.
+!OPTI_000.*
