@@ -1,0 +1,57 @@
+-------------------------------------------------------------
+scoreFunc = NRMS, Minimization runtime = 51.042 sec
+Parameter              Initial Value     Final Value          Ratio 
+aEGFR.KA                    6.47e-06       1.608e-05          2.4853
+aEGFR.tau                      161.1           79.69          0.4947
+aEGFR.Kmod                 1.829e-05       5.845e-06          0.3196
+aEGFR.Amod                 8.135e-08       1.366e-07          1.6796
+aEGFR.baseline             8.985e-07        1.71e-06          1.9037
+intEGFR.KA                   0.02695         0.04805          1.7830
+intEGFR.tau                     2063            5174          2.5081
+MAPK.concInit               0.001057        0.001435          1.3575
+Ras.concInit               0.0003348       0.0005204          1.5544
+SHC.concInit               0.0004855       0.0002186          0.4502
+Sos.concInit               0.0001109       0.0001775          1.6006
+craf1.concInit             0.0001643       0.0001892          1.1514
+aSHC.KA                    9.419e-06       1.043e-05          1.1075
+aSHC.tau                       16.02           26.58          1.6591
+aSHC.tau2                       3.34           5.537          1.6579
+aRas.KA                    0.0003575       0.0003387          0.9475
+aRas.tau                       60.97           34.48          0.5656
+aRas.baseline              2.399e-06       1.526e-06          0.6361
+aSos.KA                    2.187e-05       4.575e-05          2.0918
+aSos.tau                       19.11           7.984          0.4178
+aSos.Kmod                  5.606e-06       1.011e-05          1.8033
+aSos.Amod                    0.01866        0.009439          0.5059
+aSos.baseline               1.29e-06       7.496e-07          0.5811
+acraf1.KA                  0.0001815       8.959e-05          0.4936
+acraf1.tau                     220.2           82.56          0.3749
+acraf1.baseline            8.793e-06       7.017e-06          0.7981
+aMAPK.KA                   4.333e-05       9.205e-05          2.1243
+aMAPK.tau                      43.09           42.21          0.9796
+aMAPK.baseline             2.364e-06       1.231e-06          0.5207
+
+File                                       initScore  finalScore      weight
+Abe2000_Fig1A.json                           0.26427     0.20119     200.000
+Abe2000_Fig1B.json                           0.22695     0.28314      50.000
+CapuaniF2015_Fig1C.json                      0.11164     0.10122      41.000
+Gu2004_Fig3B.json                            0.37638     0.26020      70.000
+Kholodenko1999_Fig2B_slow.json               0.25039     0.11886     400.000
+Kholodenko1999_Fig3B.json                    0.51492     0.45126      50.000
+Martin2006_Fig1B.json                        0.14281     0.20566      52.000
+Mukhin2003_Fig9B.json                        0.06860     0.07826      79.000
+Mukhin2003_Fig9B_inset.json                  0.10995     0.07039     200.000
+Pinilla-Macua2016_Fig3A_internal.json        0.02803     0.03835      70.000
+Pinilla-Macua2016_Fig3A_surface.json         0.12395     0.15769      70.000
+Queipo2018_Fig2_pkScale.json                 0.28870     0.27203     100.000
+Saito2004_Fig2C.json                         0.44317     0.41008      52.000
+Shah2003_Fig1B_pkScale.json                  0.60975     0.12802     400.000
+SynthHennigA2016_Fig1A.json                  0.41126     0.47080      50.000
+Tang2015_Fig4C.json                          0.67625     0.64183      50.000
+Tang2015_Fig4D.json                          0.58989     0.63822      50.000
+Teng1995_Fig9A.json                          0.45639     0.30844      64.000
+Tucker1993_Fig7_pkScale.json                 0.45606     0.24714     100.000
+ZhouY2010_Fig3C_pkScale.json                 0.10292     0.24868     400.000
+ZhouY2010_Fig3D.json                         0.49670     0.26697      70.000
+
+Init score = 0.3614, final = 0.2435
