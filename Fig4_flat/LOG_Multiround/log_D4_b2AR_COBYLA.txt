@@ -1,0 +1,3026 @@
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] [lsoda] 500500500 steps taken before reaching tout steps taken before reaching tout steps taken before reaching tout
+
+
+[lsoda] illegal istate = [lsoda] illegal istate = -1[lsoda] illegal istate = -1
+-1
+
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500500 steps taken before reaching tout steps taken before reaching tout
+
+[lsoda] illegal istate = [lsoda] illegal istate = -1-1
+
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout[lsoda] 
+500[lsoda] illegal istate =  steps taken before reaching tout-1
+
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500 steps taken before reaching tout
+500 steps taken before reaching tout[lsoda] illegal istate = 
+-1
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500500 steps taken before reaching tout steps taken before reaching tout[lsoda] 
+[lsoda] 
+500[lsoda] illegal istate = 500[lsoda] illegal istate =  steps taken before reaching tout-1 steps taken before reaching tout-1
+
+
+
+[lsoda] illegal istate = [lsoda] illegal istate = -1-1
+
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout[lsoda] 
+500[lsoda]  steps taken before reaching tout[lsoda] illegal istate = 
+500-1 steps taken before reaching tout[lsoda] illegal istate = 
+
+-1
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] [lsoda] illegal istate = 500-1 steps taken before reaching tout
+
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500 steps taken before reaching tout500
+ steps taken before reaching tout
+[lsoda] illegal istate = -1[lsoda] illegal istate = 
+-1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500500 steps taken before reaching tout steps taken before reaching tout
+
+[lsoda] illegal istate = [lsoda] illegal istate = -1-1
+
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1[lsoda] 
+500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500500 steps taken before reaching tout steps taken before reaching tout
+
+[lsoda] illegal istate = [lsoda] illegal istate = -1-1
+
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500500 steps taken before reaching tout steps taken before reaching tout
+
+[lsoda] illegal istate = [lsoda] illegal istate = -1-1
+
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+Warning: Score mismatch in processIntermediateResults:  0.257085837146701 0.263647043983029
+Level 1 --- Init Score: 0.317   OptimizedScore 0.264       Time: 357.491 s
+Written to file OPT_D4_b2AR_COBYLA/opt.g
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+OPT_D4_b2AR_COBYLA/opt.g: flat: Init Score 0.317, Final = 0.264, Time = 358.490s
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] [lsoda] 500500500 steps taken before reaching tout steps taken before reaching tout steps taken before reaching tout
+
+[lsoda] illegal istate = 
+-1[lsoda] illegal istate = [lsoda] illegal istate = 
+-1-1
+
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout[lsoda] 
+500 steps taken before reaching tout[lsoda] [lsoda] illegal istate = 
+[lsoda] 500-1[lsoda] illegal istate =  steps taken before reaching tout
+500-1
+ steps taken before reaching tout
+
+[lsoda] illegal istate = -1
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500500 steps taken before reaching tout steps taken before reaching tout
+
+[lsoda] illegal istate = [lsoda] illegal istate = -1-1
+
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500500 steps taken before reaching tout steps taken before reaching tout
+
+[lsoda] illegal istate = [lsoda] illegal istate = -1-1
+
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500500 steps taken before reaching tout steps taken before reaching tout
+
+[lsoda] illegal istate = [lsoda] illegal istate = -1-1
+
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500500 steps taken before reaching tout steps taken before reaching tout
+
+[lsoda] illegal istate = [lsoda] illegal istate = -1-1
+
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500500 steps taken before reaching tout steps taken before reaching tout
+
+[lsoda] illegal istate = [lsoda] illegal istate = -1-1
+
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout[lsoda] 
+500 steps taken before reaching tout
+[lsoda] illegal istate = -1[lsoda] illegal istate = 
+-1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500[lsoda]  steps taken before reaching tout500
+ steps taken before reaching tout[lsoda] illegal istate = 
+-1[lsoda] illegal istate = 
+-1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500500 steps taken before reaching tout steps taken before reaching tout
+
+[lsoda] illegal istate = [lsoda] [lsoda] illegal istate = -1500-1
+ steps taken before reaching tout
+
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+Level 1 --- Init Score: 0.264   OptimizedScore 0.226       Time: 354.533 s
+Written to file OPT_D4_b2AR_COBYLA/opt.g
+OPT_D4_b2AR_COBYLA/opt.g: flat: Init Score 0.264, Final = 0.226, Time = 355.434s
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500[lsoda]  steps taken before reaching tout
+500[lsoda] illegal istate =  steps taken before reaching tout-1
+
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500500 steps taken before reaching tout steps taken before reaching tout
+
+[lsoda] illegal istate = [lsoda] illegal istate = -1-1
+
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] [lsoda] illegal istate = -1
+500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500500 steps taken before reaching tout steps taken before reaching tout
+
+[lsoda] illegal istate = [lsoda] illegal istate = -1-1
+
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] [lsoda] 500500 steps taken before reaching tout steps taken before reaching tout
+
+[lsoda] illegal istate = [lsoda] illegal istate = -1-1
+
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500[lsoda]  steps taken before reaching tout500
+ steps taken before reaching tout
+[lsoda] illegal istate = -1[lsoda] illegal istate = 
+-1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+[lsoda] 500 steps taken before reaching tout
+[lsoda] illegal istate = -1
+Level 1 --- Init Score: 0.226   OptimizedScore 0.222       Time: 355.386 s
+Written to file OPT_D4_b2AR_COBYLA/opt.g
+OPT_D4_b2AR_COBYLA/opt.g: flat: Init Score 0.226, Final = 0.222, Time = 356.385s
