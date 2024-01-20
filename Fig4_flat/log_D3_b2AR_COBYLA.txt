@@ -1,0 +1,6 @@
+Level 1 --- Init Score: 0.229   OptimizedScore 0.217       Time: 38.694 s
+OPT_D3_b2AR_COBYLA/opt.json: flat: Init Score 0.229, Final = 0.217, Time = 39.571s
+Level 1 --- Init Score: 0.217   OptimizedScore 0.214       Time: 33.053 s
+OPT_D3_b2AR_COBYLA/opt.json: flat: Init Score 0.217, Final = 0.214, Time = 33.951s
+Level 1 --- Init Score: 0.214   OptimizedScore 0.205       Time: 28.663 s
+OPT_D3_b2AR_COBYLA/opt.json: flat: Init Score 0.214, Final = 0.205, Time = 29.592s
