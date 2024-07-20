@@ -144,9 +144,9 @@ def plotScore( df, ax ):
     ax.set_xticklabels( xticklabels, fontsize = 14 )
     #ax.set_xlabel('')
     ax.yaxis.set_tick_params(labelsize=14)
-    ax.set_ylabel('Optimization score', fontsize = 16)
+    ax.set_ylabel('Optimization cost', fontsize = 16)
     #ax.set_yscale( 'log' )
-    #ax.set_title('Optimization score')
+    #ax.set_title('Optimization cost')
     ax.text( -0.10, 1.05, "B", fontsize = 22, weight = "bold", transform=ax.transAxes )
     
     # Adding legend
@@ -188,6 +188,7 @@ def plotTime( df, ax ):
     ax.yaxis.set_tick_params(labelsize=14)
     ax.set_ylabel('Optimization Time (s)', fontsize = 16)
     ax.set_yscale( 'log' )
+    ax.set_ylim( 1, 2000 )
     ax.text( -0.10, 1.05, "C", fontsize = 22, weight = "bold", transform=ax.transAxes )
     #ax.set_title('Wallclock time (s)')
     
@@ -237,9 +238,9 @@ def plotHossVsFlatScore( df4, df5, ax ):
     ax.set_xticklabels( xticklabels, fontsize = 14 )
     ax.yaxis.set_tick_params(labelsize=14)
     #ax.set_xlabel('')
-    ax.set_ylabel('Optimization score', fontsize = 16)
+    ax.set_ylabel('Optimization cost', fontsize = 16)
     #ax.set_yscale( 'log' )
-    #ax.set_title('Optimization score')
+    #ax.set_title('Optimization cost')
     ax.text( -0.10, 1.05, "D", fontsize = 22, weight = "bold", transform=ax.transAxes )
     
     # Adding legend
