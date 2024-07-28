@@ -114,7 +114,7 @@ def plotScore( df, ax ):
     
     # Adding legend
     #ax.legend(loc='upper left', bbox_to_anchor=(1, 1), title='Optimization Method')
-    ax.legend(loc='upper left', title='Optimization Method', frameon = False)
+    ax.legend(loc='upper left', title='Algorithm', frameon = False, fontsize = 14)
     
     # Show the plot
     
@@ -158,7 +158,7 @@ def plotTime( df, ax ):
     
     # Adding legend
     #ax.legend(loc='upper left', bbox_to_anchor=(1, 1), title='Optimization Method')
-    ax.legend(loc='upper left', title='Optimization Method', frameon = False)
+    ax.legend(loc='upper left', title='Algorithm', frameon = False, fontsize = 14)
     
     # Show the plot
     
