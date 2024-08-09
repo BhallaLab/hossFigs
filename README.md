@@ -50,14 +50,14 @@ according to Fig<n>\_<description>
 where *n* is the figure number.
 The mapping to the figure numbering in the paper is as follows:
 
-| Paper Figure number | Filename | Generate figure | Plot Figure |
+| Paper Figure number | Sub-directory | Generate figure | Plot Figure |
 |---|---|---|---|
-| 3 | `Fig1_example_expts` | None | fig1.py |
-| 5 | `Fig3_Expt_param_stats` | None | plotFig3.py |
-| 7 | `Fig4_flat` | `run_opt.csh` | plotFig4.py |
-| 8 | `Fig5_hoss` | `run_opt.csh` | plotFig5.py |
-| 9 | `Fig6_initScram` | `run_opt.csh` | plotFig6.py |
-| 10 | `Fig7_hossMC` | `run_opt.csh` | plotFig7.py |
+| 3 | Fig1\_example\_expts | None | fig1.py |
+| 5 | Fig3\_Expt\_param\_stats | None | plotFig3.py |
+| 7 | Fig4\_flat | run\_opt.csh | plotFig4.py |
+| 8 | Fig5\_hoss | run\_opt.csh | plotFig5.py |
+| 9 | Fig6\_initScram | run\_opt.csh | plotFig6.py |
+| 10 | Fig7\_hossMC | run\_opt.csh | plotFig7.py |
 
 For Figure 7 and 8 the figure generation runs on 1 to 16 cores and can be 
 completed in a couple of hours on a laptop.
