@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -27,7 +27,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "M",
-            "entity": "Ca",
+            "entity": {
+                "name": "Ca",
+                "alias": "Ca"
+            },
             "field": "conc"
         }
     ],
@@ -35,15 +38,16 @@
         "timeUnits": "sec",
         "settleTime": 300,
         "quantityUnits": "ratio",
-        "entities": [
-            "tot_Ca_on_CaM"
-        ],
+        "entity": {
+            "name": "tCa_on_CaM",
+            "alias": "tot_Ca_on_CaM"
+        },
         "field": "conc",
         "normalization": {
-            "time": 0,
-            "entities": [
-                "CaM"
-            ],
+            "entity": {
+                "name": "CaM",
+                "alias": "CaM"
+            },
             "dose": 0,
             "sampling": "dose"
         },
@@ -116,22 +120,53 @@
     },
     "Modifications": {
         "subset": [
-            "CaM_g",
-            "Ca_g"
+            {
+                "name": "CaM_g"
+            },
+            {
+                "name": "Ca_g"
+            }
         ],
         "itemsToDelete": [
-            "tCaM_CaN",
-            "CaN_Ca4",
-            "ng_CaM",
-            "ngp",
-            "ng",
-            "CaM_ng_deph",
-            "ng_bind_CaM",
-            "CaMKIII_bind_CaMCa4"
+            {
+                "name": "aCaM_CaN",
+                "alias": "tCaM_CaN"
+            },
+            {
+                "name": "aCaN",
+                "alias": "CaN_Ca4"
+            },
+            {
+                "name": "neurogranin_CaM",
+                "alias": "ng_CaM"
+            },
+            {
+                "name": "neurograninp",
+                "alias": "ngp"
+            },
+            {
+                "name": "neurogranin",
+                "alias": "ng"
+            },
+            {
+                "name": "eCaM+ngp",
+                "alias": "CaM_ng_deph"
+            },
+            {
+                "name": "ng+CaM",
+                "alias": "ng_bind_CaM"
+            },
+            {
+                "name": "CaMCa4+CaMKIII",
+                "alias": "CaMKIII_bind_CaMCa4"
+            }
         ],
         "parameterChange": [
             {
-                "entity": "CaM",
+                "entity": {
+                    "name": "CaM",
+                    "alias": "CaM"
+                },
                 "field": "concInit",
                 "value": 3e-05,
                 "units": "mM"

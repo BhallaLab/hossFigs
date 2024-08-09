@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Surbhit Wagle, Nisha Ann Viswan",
         "organization": "NCBS",
@@ -27,7 +27,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "M",
-            "entity": "cAMP",
+            "entity": {
+                "name": "cAMP",
+                "alias": "cAMP"
+            },
             "field": "conc"
         }
     ],
@@ -35,15 +38,15 @@
         "timeUnits": "min",
         "settleTime": 10,
         "quantityUnits": "ratio",
-        "entities": [
-            "PKA_active"
-        ],
+        "entity": {
+            "name": "aPKA",
+            "alias": "PKA_active"
+        },
         "field": "conc",
         "normalization": {
-            "time": 10,
-            "entities": [
-                "PKA_active"
-            ],
+            "entity": {
+                "name": "aPKA"
+            },
             "dose": 1e-05,
             "sampling": "dose"
         },
@@ -53,22 +56,22 @@
         },
         "data": [
             [
-                3.0e-10,
+                3e-10,
                 0.048,
                 0
             ],
             [
-                1.0e-09,
+                1e-09,
                 0.044,
                 0
             ],
             [
-                3.0e-09,
+                3e-09,
                 0.04,
                 0
             ],
             [
-                1.0e-08,
+                1e-08,
                 0.04,
                 0
             ],
@@ -83,17 +86,17 @@
                 0
             ],
             [
-                5.0e-08,
+                5e-08,
                 0.289,
                 0
             ],
             [
-                7.0e-08,
+                7e-08,
                 0.47,
                 0
             ],
             [
-                1.0e-07,
+                1e-07,
                 0.735,
                 0
             ],
@@ -108,17 +111,17 @@
                 0
             ],
             [
-                1.0e-06,
+                1e-06,
                 1.0,
                 0
             ],
             [
-                3.0e-06,
+                3e-06,
                 1.0,
                 0
             ],
             [
-                5.0e-06,
+                5e-06,
                 1.0,
                 0
             ],
@@ -131,17 +134,25 @@
     },
     "Modifications": {
         "subset": [
-            "all"
+            {
+                "name": "all"
+            }
         ],
         "parameterChange": [
             {
-                "entity": "PKA_inhibitor",
+                "entity": {
+                    "name": "PKA_inhibitor",
+                    "alias": "PKA_inhibitor"
+                },
                 "field": "concInit",
                 "value": 0,
                 "units": "mM"
             },
             {
-                "entity": "R2C2",
+                "entity": {
+                    "name": "R2C2",
+                    "alias": "R2C2"
+                },
                 "field": "concInit",
                 "value": 1e-06,
                 "units": "mM"

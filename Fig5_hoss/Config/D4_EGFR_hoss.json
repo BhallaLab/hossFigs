@@ -2,7 +2,7 @@
 	"FileType": "HOSS",
 	"Version": "2.0",
 	"author": "U.S. Bhalla",
-	"model": "Models/D4_model_EGFR_v13b.g",
+	"model": "Models/D4_model_EGFR_v14.g",
 	"map": "Maps/D4_map_EGFR.json",
 	"exptDir": "./EGFR_Expts",
 	"outputDir": "./OPTIMIZED",
@@ -45,35 +45,16 @@
                 "optModelFile": "L1.g"
 			}
 		},
-
 		{
 			"name": "L2",
 			"hierarchyLevel": 2,
 
-			"SHC": {
-				"comment": "Single block for SHC",
+			"Sos_Ras": {
+				"comment": "SHC, Sos share a block with Ras. Very underconstrained",
 				"expt": {
 					"Kholodenko1999_Fig3B.json": {"weight": 100},
 					"Tang2015_Fig4C.json":	{"weight":50},
-					"Ung_2008.json":	{"weight":100}
-					},
-				"params": [ 
-						"SHC.concInit",
-						"EGFR_act_SHC.Km", 
-						"EGFR_act_SHC.kcat", 
-						"SHCp_deph.Kf" ],
-				"paramBounds": { "SHCp_deph.Kf": [0.005, 0.5, 0] },
-                "resultFile": "L2.txt",
-                "optModelFile": "L2.g"
-			}
-		},
-		{
-			"name": "L3",
-			"hierarchyLevel": 3,
-
-			"Sos_Ras": {
-				"comment": "Sos shares a block with Ras. Very underconstrained",
-				"expt": {
+					"Ung_2008.json":	{"weight":100},
 					"SynthHennigA2016_Fig1A.json": {"weight": 100},
 					"Orita1993_Table1.json": {"weight": 100},
 					"Santoro1994_Fig6B.json": {"weight": 100},
@@ -82,6 +63,10 @@
 					"ZhouY2010_Fig3D.json": {"weight": 100}
 				},
 				"params": [ 
+						"SHC.concInit",
+						"EGFR_act_SHC.Km", 
+						"EGFR_act_SHC.kcat", 
+						"SHCp_deph.Kf",
 						"Sos.concInit",
 						"Grb2.concInit",
 						"SHC_bind_SosGrb2.Kf", 
@@ -101,36 +86,19 @@
 						"Ras_intrinsic_GTPase.Kf", 
 						"basal_GEF.Kf"
 					],
-                "resultFile": "L3.txt",
-                "optModelFile": "L3.g"
+				"paramBounds": { "SHCp_deph.Kf": [0.005, 0.5, 0] },
+                "resultFile": "L2.txt",
+                "optModelFile": "L2.g"
 			}
 		},
 		{
-			"name": "L4",
-			"hierarchyLevel": 4,
-
-			"craf": {
-				"comment": "craf is under constrained.",
-				"expt": {
-					"Force1994_Fig.json": {"weight": 100}
-				},
-				"params": [ 
-						"craf1.concInit", 
-						"Ras_act_raf.Kf", 
-						"Ras_act_raf.Kb"
-					],
-                "resultFile": "L4.txt",
-                "optModelFile": "L4.g"
-			}
-		},
-
-		{
-			"name": "L5",
-			"hierarchyLevel": 5,
+			"name": "L3",
+			"hierarchyLevel": 3,
 
 			"MAPK": {
-				"comment": "MAPK looks very under constrained.",
+				"comment": "craf, MAPK look very under constrained.",
 				"expt": {
+					"Force1994_Fig.json": {"weight": 100},
 					"Abe2000_Fig1A.json": {"weight": 200},
 					"Abe2000_Fig1B.json": {"weight": 50}, 
 					"Gu2004_Fig3B.json": {"weight": 70},
@@ -146,21 +114,24 @@
 					"ZhouY2010_Fig3C_pkScale.json": {"weight": 200}
 					},
 				"params": [ 
+						"craf1.concInit", 
+						"Ras_act_raf.Kf", 
+						"Ras_act_raf.Kb",
 						"MAPKK.concInit",
 						"PP2A.concInit",
-						"Rafp_RasGTP1.Km", "Rafp_RasGTP1.kcat", 
-						"Rafp_RasGTP2.Km", "Rafp_RasGTP2.kcat", 
-						"PP2A_deph_MAPKK1.Km", "PP2A_deph_MAPKK1.kcat", 
-						"PP2A_deph_MAPKK2.Km", "PP2A_deph_MAPKK2.kcat",
+						"eRas+MAPKK1.Km", "eRas+MAPKK1.kcat", 
+						"eRas+MAPKK2.Km", "eRas+MAPKK2.kcat", 
+						"ePP2A+MAPKKp.Km", "ePP2A+MAPKKp.kcat", 
+						"ePP2A+MAPKKpq.Km", "ePP2A+MAPKKpq.kcat",
 						"MAPK.concInit",
 						"MKP2.concInit",
-						"MAPKKthr.Km", "MAPKKthr.kcat", 
-						"MAPKKtyr.Km", "MAPKKtyr.kcat", 
+						"eMAPKK+MAPKp.Km", "eMAPKK+MAPKp.kcat", 
+						"eMAPKK+MAPK.Km", "eMAPKK+MAPK.kcat", 
 						"MKP1_tyr_deph.Km", "MKP1_tyr_deph.kcat", 
 						"MKP1_thr_deph.Km", "MKP1_thr_deph.kcat"
 					],
-                "resultFile": "L5.txt",
-                "optModelFile": "L5.g"
+                "resultFile": "L3.txt",
+                "optModelFile": "L3.g"
 			}
 		}
 	]

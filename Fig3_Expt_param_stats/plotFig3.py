@@ -133,10 +133,10 @@ def plotExpt( label, exptFiles, ax, exptdir ):
 
 def main():
     files = [
-        ["D3_b2AR_hoss.json", "D3_model_b2AR_v5.json", "D3_map_b2AR.json"],
-        ["D3_EGFR_hoss.json", "D3_model_MAPK_v7.json", "D3_map_EGFR.json"],
-        ["D4_b2AR_hoss.json", "b2AR_PKA_v5.g", "D4_map_b2AR.json"],
-        ["D4_EGFR_hoss.json", "D4_model_EGFR_v13b.g", "D4_map_EGFR.json"]
+        ["D3_b2AR_hoss.json", "D3_model_b2AR_v6.json", "D3_map_b2AR.json"],
+        ["D3_EGFR_hoss.json", "D3_model_EGFR_v8.json", "D3_map_EGFR.json"],
+        ["D4_b2AR_hoss.json", "D4_model_b2AR_v6.g", "D4_map_b2AR.json"],
+        ["D4_EGFR_hoss.json", "D4_model_EGFR_v14.g", "D4_map_EGFR.json"]
     ]
 
     pl2 = []

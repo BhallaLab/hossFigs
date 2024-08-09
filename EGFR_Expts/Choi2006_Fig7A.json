@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -26,7 +26,10 @@
     "Readouts": {
         "paramdata": [
             {
-                "entity": "EGF_bind_EGFR",
+                "entity": {
+                    "name": "EGF+EGFR",
+                    "alias": "EGF_bind_EGFR"
+                },
                 "field": "Kd",
                 "units": "nM",
                 "value": 0.45,
@@ -36,7 +39,9 @@
     },
     "Modifications": {
         "subset": [
-            "all"
+            {
+                "name": "all"
+            }
         ]
     }
 }

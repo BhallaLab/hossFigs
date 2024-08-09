@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "National Centre for Biological Sciences",
@@ -27,7 +27,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "nM",
-            "entity": "EGF",
+            "entity": {
+                "name": "EGF",
+                "alias": "EGF"
+            },
             "field": "conc",
             "data": [
                 [
@@ -40,60 +43,64 @@
     "Readouts": {
         "timeUnits": "sec",
         "quantityUnits": "ratio",
-        "entities": [
-            "aMAPK"
-        ],
+        "entity": {
+            "name": "aMAPK",
+            "alias": "aMAPK"
+        },
         "field": "conc",
         "normalization": {
-            "time": 4000,
-            "entities": [
-                "aMAPK"
-            ],
-            "sampling": "start"
+            "entity": {
+                "name": "aMAPK"
+            },
+            "sampling": "max"
         },
         "data": [
             [
                 4000,
-                1,
-                0
+                0.27,
+                0.02
             ],
             [
                 4300,
-                2.4,
-                0.2
+               	0.65,
+               	0.05
             ],
             [
                 4900,
-                3,
-                0.2
+               	0.81,
+              	0.05
             ],
             [
                 5800,
-                3.5,
-                0.6
+                0.95,
+                0.16
             ],
             [
                 7600,
-                3.7,
-                0.4
+                1,
+                0.11
             ],
             [
                 14800,
-                3.4,
-                0.6
+                0.92,
+               	0.16
             ]
         ]
     },
     "Modifications": {
         "subset": [
-            "all"
+            {
+                "name": "all"
+            }
         ],
         "parameterChange": [
             {
-                "units": "nM",
+                "entity": {
+                    "name": "EGF"
+                },
                 "field": "concInit",
                 "value": 0.001,
-                "entity": "EGF"
+                "units": "nM"
             }
         ]
     }

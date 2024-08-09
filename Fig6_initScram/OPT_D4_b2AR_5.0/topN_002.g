@@ -56,88 +56,88 @@ simundump group /kinetics/b2AR 0 blue green x 0 0 "" defaultfile \
 simundump group /kinetics/PDE 0 blue green x 0 0 "" defaultfile \
   defaultfile.g 0 0 0 151 119 0
 simundump kpool /kinetics/CaM/CaM_Ca4 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry blue 10 152 73 0
-simundump kpool /kinetics/CaM/CaM 0 0.0 0 0 0 39602900.70455695 0 0 893138.6430969862 0 /kinetics/geometry pink 10 150 61 0
+simundump kpool /kinetics/CaM/CaM 0 0.0 0 0 0 26737512.21274315 0 0 893138.6430969862 0 /kinetics/geometry pink 10 150 61 0
 simundump kpool /kinetics/CaM/neurogranin_CaM 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry red 10 151 61 0
 simundump kpool /kinetics/CaM/neurogranin_p 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry red 10 151 61 0
-simundump kpool /kinetics/CaM/neurogranin 0 0.0 0 0 0 5682585.418990759 0 0 893138.6430969862 0 /kinetics/geometry red 10 152 61 0
+simundump kpool /kinetics/CaM/neurogranin 0 0.0 0 0 0 10308840.799789593 0 0 893138.6430969862 0 /kinetics/geometry red 10 152 61 0
 simundump kpool /kinetics/CaM/CaM_Ca3 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry hotpink 10 152 61 0
 simundump kpool /kinetics/CaM/CaM_Ca2 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry pink 10 150 77 0
 simundump kpool /kinetics/CaM/CaM_Ca 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry pink 10 151 77 0
 simundump kpool /kinetics/PKA/PKA_active 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry yellow 13 174 82 0
-simundump kpool /kinetics/PKA/R2C2 0 0.0 0 0 0 10575495.603484645 0 0 893138.6430969862 0 /kinetics/geometry 52 13 174 82 0
+simundump kpool /kinetics/PKA/R2C2 0 0.0 0 0 0 331334.9475999637 0 0 893138.6430969862 0 /kinetics/geometry 52 13 174 82 0
 simundump kpool /kinetics/PKA/R2C2_cAMP 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry 49 13 175 82 0
 simundump kpool /kinetics/PKA/R2C2_cAMP2 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry 52 13 175 82 0
 simundump kpool /kinetics/PKA/R2C2_cAMP3 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry 47 13 176 82 0
 simundump kpool /kinetics/PKA/R2C2_cAMP4 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry 23 13 176 82 0
 simundump kpool /kinetics/PKA/R2C_cAMP4 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry 0 13 177 82 0
 simundump kpool /kinetics/PKA/R2_cAMP4 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry 23 13 177 82 0
-simundump kpool /kinetics/PKA/PKA_inhibitor 0 0.0 0 0 0 3377856.844228955 0 0 893138.6430969862 0 /kinetics/geometry cyan 13 178 82 0
+simundump kpool /kinetics/PKA/PKA_inhibitor 0 0.0 0 0 0 2245971.5361515624 0 0 893138.6430969862 0 /kinetics/geometry cyan 13 178 82 0
 simundump kpool /kinetics/PKA/inhibited_PKA 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry cyan 13 176 90 0
 simundump kpool /kinetics/AC/cAMP 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry green 10 187 55 0
-simundump kpool /kinetics/AC/ATP 0 0.0 0 0 0 2887548669.9636984 0 0 893138.6430969862 4 /kinetics/geometry red 10 184 51 0
+simundump kpool /kinetics/AC/ATP 0 0.0 0 0 0 9440606935.801262 0 0 893138.6430969862 4 /kinetics/geometry red 10 184 51 0
 simundump kpool /kinetics/AC/AC1_CaM 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry orange 10 191 47 0
-simundump kpool /kinetics/AC/AC1 0 0.0 0 0 0 18061.6012264447 0 0 893138.6430969862 0 /kinetics/geometry orange 10 183 47 0
+simundump kpool /kinetics/AC/AC1 0 0.0 0 0 0 2794.378174706101 0 0 893138.6430969862 0 /kinetics/geometry orange 10 183 47 0
 simundump kpool /kinetics/AC/AC2p 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry yellow 10 187 47 0
 simundump kpool /kinetics/AC/AC2_Gs 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry yellow 10 189 47 0
-simundump kpool /kinetics/AC/AC2 0 0.0 0 0 0 13546.200919833505 0 0 893138.6430969862 0 /kinetics/geometry yellow 10 184 47 0
+simundump kpool /kinetics/AC/AC2 0 0.0 0 0 0 158413.831506085 0 0 893138.6430969862 0 /kinetics/geometry yellow 10 184 47 0
 simundump kpool /kinetics/AC/AC1_Gs 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry orange 10 190 47 0
 simundump kpool /kinetics/AC/AC2p_Gs 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry green 10 194 47 0
-simundump kpool /kinetics/AC/AMP 0 0.0 0 0 0 2439422067.7148046 0 0 893138.6430969862 0 /kinetics/geometry pink 10 195 61 0
-simundump kpool /kinetics/Ca/Ca 0 0.0 0 0 0 99508.19765024465 0 0 893138.6430969862 4 /kinetics/geometry red 18 155 64 0
+simundump kpool /kinetics/AC/AMP 0 0.0 0 0 0 619762272.4483327 0 0 893138.6430969862 0 /kinetics/geometry pink 10 195 61 0
+simundump kpool /kinetics/Ca/Ca 0 0.0 0 0 0 63106.13056436479 0 0 893138.6430969862 4 /kinetics/geometry red 18 155 64 0
 simundump kpool /kinetics/Gs/Gs_alpha_GTP 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry red 16 201 73 0
-simundump kpool /kinetics/Gs/Gs_GDP 0 0.0 0 0 0 5356696.938531537 0 0 893138.6430969862 0 /kinetics/geometry 23 black 188 91 0
+simundump kpool /kinetics/Gs/Gs_GDP 0 0.0 0 0 0 942131.238111252 0 0 893138.6430969862 0 /kinetics/geometry 23 black 188 91 0
 simundump kpool /kinetics/Gs/Gs_alpha_GDP 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry 25 black 183 91 0
 simundump kpool /kinetics/Gs/BetaGamma 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry 23 blue 195 78 0
 simundump kpool /kinetics/b2AR/Epinephrine 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry 61 black 183 118 0
 simundump kpool /kinetics/b2AR/Isoproterenol 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry 4 black 190 118 0
-simundump kpool /kinetics/b2AR/b2AR 0 0.0 0 0 0 45135.025275693224 0 0 893138.6430969862 0 /kinetics/geometry 0 black 188 118 0
+simundump kpool /kinetics/b2AR/b2AR 0 0.0 0 0 0 1648.380282414806 0 0 893138.6430969862 0 /kinetics/geometry 0 black 188 118 0
 simundump kpool /kinetics/b2AR/L_b2AR 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry 50 black 182 110 0
 simundump kpool /kinetics/b2AR/Lb2AR_GsGDP 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry 1 black 185 110 0
 simundump kpool /kinetics/b2AR/b2AR_GsGDP 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry 23 black 190 110 0
-simundump kpool /kinetics/PDE/PDE1 0 0.0 0 0 0 448820.96953691 0 0 893138.6430969862 0 /kinetics/geometry green 62 192 65 0
+simundump kpool /kinetics/PDE/PDE1 0 0.0 0 0 0 11612481.708924767 0 0 893138.6430969862 0 /kinetics/geometry green 62 192 65 0
 simundump kpool /kinetics/PDE/CaM_PDE1 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry green 62 191 65 0
 simundump kpool /kinetics/PDE/cAMP_PDEp 0 0.0 0 0 0 0.0 0 0 893138.6430969862 0 /kinetics/geometry green 62 188 65 0
-simundump kpool /kinetics/PDE/cAMP_PDE 0 0.0 0 0 0 612262.1664580744 0 0 893138.6430969862 0 /kinetics/geometry green 62 187 65 0
-simundump kreac /kinetics/CaM/CaM_Ca3_bind_Ca 0 8.68863064907805e-09 0.07412223313991234 "" white 10 151 68 0
-simundump kreac /kinetics/CaM/neurogranin_bind_CaM 0 5.1431255263743307e-08 0.21906956058693833 "" white 10 152 68 0
-simundump kreac /kinetics/CaM/dephosph_neurogranin 0 0.015884034727824993 0.0 "" white 10 152 68 0
-simundump kreac /kinetics/CaM/CaM_bind_Ca 0 4.181078974974334e-06 15.937532503244714 "" white 10 152 68 0
-simundump kreac /kinetics/CaM/CaM_Ca2_bind_Ca 0 7.215271287591396e-07 16.202123261849792 "" white 10 153 68 0
-simundump kreac /kinetics/CaM/CaM_Ca_bind_Ca 0 5.610546249397102e-06 6.055596365872399 "" white 10 153 67 0
-simundump kreac /kinetics/PKA/cAMP_bind_site_B1 0 7.816617903731898e-05 4.554227397893662 "" white 13 174 86 0
-simundump kreac /kinetics/PKA/cAMP_bind_site_B2 0 0.0005609566132283979 15.07773955921366 "" white 13 175 86 0
-simundump kreac /kinetics/PKA/cAMP_bind_site_A1 0 3.0352928738437278e-05 85.86310451712109 "" white 13 175 86 0
-simundump kreac /kinetics/PKA/cAMP_bind_site_A2 0 9.743681564831025e-05 13.070920929267048 "" white 13 175 86 0
-simundump kreac /kinetics/PKA/Release_C1 0 84.43716204652446 2.8973098551706974e-07 "" white 13 176 86 0
-simundump kreac /kinetics/PKA/Release_C2 0 354.02106673209664 4.128774523612669e-06 "" white 13 176 86 0
-simundump kreac /kinetics/PKA/inhib_PKA 0 5.7437053876429365e-05 0.17844590591053003 "" white 13 177 86 0
-simundump kreac /kinetics/AC/CaM_bind_AC1 0 7.970786212932445e-05 41.31047752199078 "" white 10 191 55 0
-simundump kreac /kinetics/AC/dephosph_AC2 0 0.1477158866539442 0.0 "" white 10 184 46 0
-simundump kreac /kinetics/AC/Gs_bind_AC2 0 0.00030565627870456536 0.03623025684256574 "" white 10 195 55 0
-simundump kreac /kinetics/AC/Gs_bind_AC1 0 0.0010505114764262223 10.757908784347501 "" white 10 193 56 0
-simundump kreac /kinetics/AC/Gs_bind_AC2p 0 0.0015754583885956078 1.4807812235799989 "" white 10 197 56 0
-simundump kreac /kinetics/Gs/Act_Gs 0 0.10993090362199243 0.0 "" white black 188 82 0
-simundump kreac /kinetics/Gs/basalAct_Gs 0 4.95084159934682e-05 0.0 "" white black 186 82 0
-simundump kreac /kinetics/Gs/Inact_Gs 0 1.582794813829363 0.0 "" white black 185 81 0
-simundump kreac /kinetics/Gs/Trimerize_Gs 0 6.4034840139276155e-06 0.0 "" white black 187 82 0
-simundump kreac /kinetics/b2AR/Epi_bind_b2AR 0 8.103570584690432e-07 0.3115766002160457 "" white black 189 114 0
-simundump kreac /kinetics/b2AR/Iso_bind_b2AR 0 3.855337285248208e-09 0.04816914997734136 "" white black 190 114 0
-simundump kreac /kinetics/b2AR/LR_bind_GsGDP 0 1.8918396809629264e-07 0.5573108106391554 "" white black 185 114 0
-simundump kreac /kinetics/b2AR/R_bind_GsGDP 0 8.166198300024611e-08 3.83149791419888 "" white black 192 114 0
-simundump kreac /kinetics/b2AR/Iso_bind_RGs 0 6.75513807856456e-11 0.004880700994906583 "" white black 184 113 0
-simundump kreac /kinetics/b2AR/Epi_bind_RGs 0 1.5538930807307073e-06 2.007710094823413 "" white black 187 114 0
-simundump kreac /kinetics/PDE/dephosph_PDE 0 0.004356440295124348 0.0 "" white 62 187 67 0
-simundump kreac /kinetics/PDE/CaM_bind_PDE1 0 0.00468722935786601 16.78720672450218 "" white 62 192 67 0
-simundump kenz /kinetics/PKA/PKA_active/phosph_PDE 0 0 0 0.0 0 893138.6430969862 1.2517392258025236e-07 0.19431928129068402 0.048579820322671004 0 0 "" red yellow "" 189 67 0
-simundump kenz /kinetics/AC/AC1_CaM/AC1CaM_form_cAMP 0 0 0 0 0 893138.6430969862 4.475061351569198e-07 3.7123522369858653 0.9280880592464663 0 1 "" red orange "" 182 53 0
-simundump kenz /kinetics/AC/AC2p/AC2p_form_cAMP 0 0 0 0 0 893138.6430969862 8.694654556048739e-07 34.96083839318362 8.740209598295905 0 1 "" red yellow "" 179 53 0
-simundump kenz /kinetics/AC/AC2_Gs/AC2Gs_form_cAMP 0 0 0 0 0 893138.6430969862 2.3309990003697673e-05 202.10622556149377 50.52655639037344 0 1 "" red yellow "" 185 53 0
-simundump kenz /kinetics/AC/AC1_Gs/AC1Gs_form_cAMP 0 0 0 0 0 893138.6430969862 4.643399568841583e-07 9.116987126368231 2.279246781592058 0 1 "" red orange "" 191 53 0
-simundump kenz /kinetics/AC/AC2p_Gs/AC2pGs_form_cAMP 0 0 0 0 0 893138.6430969862 1.5464893595595587e-05 81.20405040501397 20.301012601253493 0 1 "" red green "" 188 53 0
-simundump kenz /kinetics/PDE/PDE1/PDE1 0 0 0 0.0 0 893138.6430969862 8.969067017858631e-07 126.88418631834142 31.711535021390578 0 0 "" red green "" 193 64 0
-simundump kenz /kinetics/PDE/CaM_PDE1/CaM_PDE1 0 0 0 0.0 0 893138.6430969862 7.687763582722624e-07 48.59373868786414 12.148434671966035 0 0 "" red green "" 191 64 0
-simundump kenz /kinetics/PDE/cAMP_PDEp/ePDE_p 0 0 0 0.0 0 893138.6430969862 0.00013311449850828274 207.24321957710106 51.810804894275265 0 0 "" red green "" 189 64 0
-simundump kenz /kinetics/PDE/cAMP_PDE/ePDE 0 0 0 0.0 0 893138.6430969862 7.03496943249585e-05 162.8965797713325 40.72414494283313 0 0 "" red green "" 187 64 0
+simundump kpool /kinetics/PDE/cAMP_PDE 0 0.0 0 0 0 31363.08034122281 0 0 893138.6430969862 0 /kinetics/geometry green 62 187 65 0
+simundump kreac /kinetics/CaM/CaM_Ca3_bind_Ca 0 1.0774760368059418e-08 0.08793874203261744 "" white 10 151 68 0
+simundump kreac /kinetics/CaM/neurogranin_bind_CaM 0 3.5082051098187314e-07 9.912669541004341 "" white 10 152 68 0
+simundump kreac /kinetics/CaM/dephosph_neurogranin 0 0.023501883295312418 0.0 "" white 10 152 68 0
+simundump kreac /kinetics/CaM/CaM_bind_Ca 0 1.6390364410537374e-05 59.06911782898104 "" white 10 152 68 0
+simundump kreac /kinetics/CaM/CaM_Ca2_bind_Ca 0 2.943084812326105e-08 0.6627249537900197 "" white 10 153 68 0
+simundump kreac /kinetics/CaM/CaM_Ca_bind_Ca 0 0.0008625911010303104 2439.3220793526407 "" white 10 153 67 0
+simundump kreac /kinetics/PKA/cAMP_bind_site_B1 0 6.0750920306723616e-05 22.842250075702562 "" white 13 174 86 0
+simundump kreac /kinetics/PKA/cAMP_bind_site_B2 0 5.62554688212006e-05 24.306324065965352 "" white 13 175 86 0
+simundump kreac /kinetics/PKA/cAMP_bind_site_A1 0 0.00012513351266738552 24.372609574097478 "" white 13 175 86 0
+simundump kreac /kinetics/PKA/cAMP_bind_site_A2 0 0.0001364370558725446 55.7687882527859 "" white 13 175 86 0
+simundump kreac /kinetics/PKA/Release_C1 0 136.2987020890776 5.8762745779918084e-05 "" white 13 176 86 0
+simundump kreac /kinetics/PKA/Release_C2 0 23.785584239292422 7.945043277846792e-06 "" white 13 176 86 0
+simundump kreac /kinetics/PKA/inhib_PKA 0 5.4212682989296035e-06 4.319004458148932 "" white 13 177 86 0
+simundump kreac /kinetics/AC/CaM_bind_AC1 0 0.0015172967297950952 6.680495336756809 "" white 10 191 55 0
+simundump kreac /kinetics/AC/dephosph_AC2 0 0.06073426760775797 0.0 "" white 10 184 46 0
+simundump kreac /kinetics/AC/Gs_bind_AC2 0 0.001298589258759019 0.2023802456538661 "" white 10 195 55 0
+simundump kreac /kinetics/AC/Gs_bind_AC1 0 0.02091932920044127 3.5451920147421814 "" white 10 193 56 0
+simundump kreac /kinetics/AC/Gs_bind_AC2p 0 0.0005691211833225666 0.2506563608672477 "" white 10 197 56 0
+simundump kreac /kinetics/Gs/Act_Gs 0 15.717201938889058 0.0 "" white black 188 82 0
+simundump kreac /kinetics/Gs/basalAct_Gs 0 0.0122106649255438 0.0 "" white black 186 82 0
+simundump kreac /kinetics/Gs/Inact_Gs 0 0.024881217443093937 0.0 "" white black 185 81 0
+simundump kreac /kinetics/Gs/Trimerize_Gs 0 0.00017016830915793924 0.0 "" white black 187 82 0
+simundump kreac /kinetics/b2AR/Epi_bind_b2AR 0 9.32490913424695e-08 0.6590725181477798 "" white black 189 114 0
+simundump kreac /kinetics/b2AR/Iso_bind_b2AR 0 2.0412395839825224e-10 0.025195691468451853 "" white black 190 114 0
+simundump kreac /kinetics/b2AR/LR_bind_GsGDP 0 1.2173728338940481e-05 3.248853724073295 "" white black 185 114 0
+simundump kreac /kinetics/b2AR/R_bind_GsGDP 0 2.4851428013700685e-08 20.63669714142093 "" white black 192 114 0
+simundump kreac /kinetics/b2AR/Iso_bind_RGs 0 3.578464622217318e-11 0.002054329913068801 "" white black 184 113 0
+simundump kreac /kinetics/b2AR/Epi_bind_RGs 0 1.079448262654538e-07 3.2247114414728535 "" white black 187 114 0
+simundump kreac /kinetics/PDE/dephosph_PDE 0 0.004832528265305264 0.0 "" white 62 187 67 0
+simundump kreac /kinetics/PDE/CaM_bind_PDE1 0 0.014582688778276237 52.038139734686354 "" white 62 192 67 0
+simundump kenz /kinetics/PKA/PKA_active/phosph_PDE 0 0 0 0.0 0 893138.6430969862 5.121850782277286e-08 0.7309193383487878 0.18272983458719694 0 0 "" red yellow "" 189 67 0
+simundump kenz /kinetics/AC/AC1_CaM/AC1CaM_form_cAMP 0 0 0 0 0 893138.6430969862 1.8965261299733363e-06 64.80440883314664 16.20110220828666 0 1 "" red orange "" 182 53 0
+simundump kenz /kinetics/AC/AC2p/AC2p_form_cAMP 0 0 0 0 0 893138.6430969862 2.879364362284167e-07 10.182633380943203 2.545658345235801 0 1 "" red yellow "" 179 53 0
+simundump kenz /kinetics/AC/AC2_Gs/AC2Gs_form_cAMP 0 0 0 0 0 893138.6430969862 1.5531323280663398e-07 30.120669018115063 7.530167254528766 0 1 "" red yellow "" 185 53 0
+simundump kenz /kinetics/AC/AC1_Gs/AC1Gs_form_cAMP 0 0 0 0 0 893138.6430969862 1.2776168202490329e-08 4.597382096560007 1.1493455241400017 0 1 "" red orange "" 191 53 0
+simundump kenz /kinetics/AC/AC2p_Gs/AC2pGs_form_cAMP 0 0 0 0 0 893138.6430969862 0.00012631932388885338 53.0645415099371 13.266135377484275 0 1 "" red green "" 188 53 0
+simundump kenz /kinetics/PDE/PDE1/PDE1 0 0 0 0.0 0 893138.6430969862 1.1435157612621553e-06 110.73655333010203 27.675837241571227 0 0 "" red green "" 193 64 0
+simundump kenz /kinetics/PDE/CaM_PDE1/CaM_PDE1 0 0 0 0.0 0 893138.6430969862 2.392841960963295e-06 46.0667188854049 11.516679721351226 0 0 "" red green "" 191 64 0
+simundump kenz /kinetics/PDE/cAMP_PDEp/ePDE_p 0 0 0 0.0 0 893138.6430969862 1.839400666879482e-07 0.28356874280333333 0.07089218570083333 0 0 "" red green "" 189 64 0
+simundump kenz /kinetics/PDE/cAMP_PDE/ePDE 0 0 0 0.0 0 893138.6430969862 7.102678773464778e-08 0.17147013446645012 0.04286753361661253 0 0 "" red green "" 187 64 0
 simundump xgraph /graphs/conc1 0 0 99 0.001 0.999 0
 simundump xgraph /graphs/conc2 0 0 100 0 1 0
  simundump xgraph /moregraphs/conc3 0 0 100 0 1 0

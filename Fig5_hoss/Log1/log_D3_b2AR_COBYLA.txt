@@ -1,6 +1,7 @@
-Warning: Score mismatch in processIntermediateResults:  0.7494475811908119 0.7485926280153478
-Level 1 --- Init Score: 0.337   OptimizedScore 0.374       Time: 1.048 s
-Warning: Score mismatch in processIntermediateResults:  0.3851128888102614 0.3844910172819335
-Level 2 --- Init Score: 0.371   OptimizedScore 0.192       Time: 19.369 s
-Level 3 --- Init Score: 0.521   OptimizedScore 0.267       Time: 0.340 s
-OPT_D3_b2AR_COBYLA/b2AR_L3_PKA.json: hoss: Init Score 0.416, Final = 0.278, Time = 21.825s
+Warning: Score mismatch in processIntermediateResults:  0.8261383604395947 0.8253010768563487
+Level 1 --- Init Score: 0.462   OptimizedScore 0.413       Time: 2.168 s
+Level 2 --- Init Score: 0.472   OptimizedScore 0.309       Time: 20.662 s
+Level 3 --- Init Score: 0.538   OptimizedScore 0.459       Time: 0.400 s
+OPT_D3_b2AR_COBYLA/b2AR_L3_PKA.json: hoss: Init Score 0.485, Final = 0.393, Time = 24.338s
+RunDoser ./b2AR_Expts/Solberg1994_Fig7.json: Normalization3 denom=4.73e-17 for {'name': 'aPKA', 'alias': 'PKA_active'}.conc
+RunDoser ./b2AR_Expts/Heubach2004_Table1.json: Normalization3 denom=3.8e-18 for {'name': 'aPKA', 'alias': 'aPKA'}.conc

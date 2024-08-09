@@ -1,5 +1,4 @@
-Level 1 --- Init Score: 0.337   OptimizedScore 0.367       Time: 0.786 s
-Level 2 --- Init Score: 0.372   OptimizedScore 0.201       Time: 12.493 s
-Warning: Score mismatch in processIntermediateResults:  0.38143235923569335 0.38085615757955377
-Level 3 --- Init Score: 0.559   OptimizedScore 0.381       Time: 0.439 s
-OPT_D3_b2AR_SLSQP/b2AR_L3_PKA.json: hoss: Init Score 0.416, Final = 0.316, Time = 14.792s
+Level 1 --- Init Score: 0.462   OptimizedScore 0.409       Time: 1.645 s
+Level 2 --- Init Score: 0.468   OptimizedScore 0.320       Time: 6.508 s
+Level 3 --- Init Score: 0.535   OptimizedScore 0.520       Time: 0.098 s
+OPT_D3_b2AR_SLSQP/b2AR_L3_PKA.json: hoss: Init Score 0.485, Final = 0.415, Time = 9.494s

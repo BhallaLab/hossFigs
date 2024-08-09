@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -27,7 +27,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "uM",
-            "entity": "Isoproterenol",
+            "entity": {
+                "name": "Isoproterenol",
+                "alias": "Isoproterenol"
+            },
             "field": "conc",
             "data": [
                 [
@@ -44,16 +47,17 @@
     "Readouts": {
         "timeUnits": "sec",
         "quantityUnits": "ratio",
-        "entities": [
-            "ab2AR"
-        ],
+        "entity": {
+            "name": "ab2AR",
+            "alias": "ab2AR"
+        },
         "field": "conc",
         "normalization": {
-            "time": 300,
-            "entities": [
-                "ab2AR"
-            ],
-            "sampling": "presetTime"
+            "entity": {
+                "name": "ab2AR"
+            },
+            "sampling": "presetTime",
+            "sampTime": 300
         },
         "data": [
             [
@@ -100,13 +104,21 @@
     },
     "Modifications": {
         "subset": [
-            "Isoproterenol",
-            "b2AR_g",
-            "Gs_g"
+            {
+                "name": "Isoproterenol"
+            },
+            {
+                "name": "b2AR_g"
+            },
+            {
+                "name": "Gs_g"
+            }
         ],
         "parameterChange": [
             {
-                "entity": "Isoproterenol",
+                "entity": {
+                    "name": "Isoproterenol"
+                },
                 "field": "isBuffered",
                 "value": 1.0,
                 "units": "none"

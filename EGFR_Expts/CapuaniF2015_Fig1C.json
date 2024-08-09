@@ -1,13 +1,13 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
         "email": "nishaav@ncbs.res.in",
         "source": {
             "sourceType": "paper",
-            "PMID":  26264748,
+            "PMID": 26264748,
             "authors": "Capuani F et al.",
             "journal": "Nat Commun., ",
             "year": 2015,
@@ -26,7 +26,10 @@
     "Stimuli": [
         {
             "timeUnits": "sec",
-            "entity": "EGF",
+            "entity": {
+                "name": "EGF",
+                "alias": "EGF"
+            },
             "field": "conc",
             "quantityUnits": "nM"
         }
@@ -35,17 +38,17 @@
         "timeUnits": "sec",
         "settleTime": 120,
         "quantityUnits": "ratio",
-        "entities": [
-            "aEGFR"
-        ],
+        "entity": {
+            "name": "aEGFR",
+            "alias": "aEGFR"
+        },
         "field": "conc",
         "normalization": {
             "sampling": "dose",
-            "entities": [
-                "aEGFR"
-            ],
-            "dose": 13.484375,
-            "time": 120
+            "entity": {
+                "name": "aEGFR"
+            },
+            "dose": 13.484375
         },
         "data": [
             [
@@ -77,14 +80,18 @@
     },
     "Modifications": {
         "subset": [
-            "EGFR_g"
+            {
+                "name": "EGFR_g"
+            }
         ],
         "parameterChange": [
             {
-                "units": "nM",
+                "entity": {
+                    "name": "EGF"
+                },
                 "field": "concInit",
                 "value": 0.001,
-                "entity": "EGF"
+                "units": "nM"
             }
         ]
     }

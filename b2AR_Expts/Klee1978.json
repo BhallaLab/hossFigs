@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -26,21 +26,29 @@
     "Readouts": {
         "paramdata": [
             {
-                "entity": "CaM_bind_PDE1",
+                "entity": {
+                    "name": "CaMCa4+PDE1",
+                    "alias": "CaM_bind_PDE1"
+                },
                 "field": "Kd",
                 "units": "nM",
                 "value": 4.0,
                 "stderr": 0
             },
             {
-                "entity": "CaM_PDE1_enz",
+                "entity": {
+                    "name": "CaMCa4+ePDE",
+                    "alias": "CaM_PDE1_enz"
+                },
                 "field": "Km",
                 "units": "nM",
                 "value": 0.5,
                 "stderr": 0
             },
             {
-                "entity": "CaM_PDE1_enz",
+                "entity": {
+                    "name": "CaMCa4+ePDE"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 11.7,
@@ -50,7 +58,9 @@
     },
     "Modifications": {
         "subset": [
-            "all"
+            {
+                "name": "all"
+            }
         ]
     }
 }

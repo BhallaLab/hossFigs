@@ -1,3 +1,3 @@
-Level 1 --- Init Score: 0.142   OptimizedScore 0.141       Time: 1.755 s
-Level 2 --- Init Score: 0.297   OptimizedScore 0.291       Time: 49.622 s
-OPT_D3_EGFR_COBYLA/L2.json: hoss: Init Score 0.219, Final = 0.216, Time = 52.226s
+Level 1 --- Init Score: 0.175   OptimizedScore 0.146       Time: 3.371 s
+Level 2 --- Init Score: 0.321   OptimizedScore 0.284       Time: 16.790 s
+OPT_D3_EGFR_COBYLA/L2.json: hoss: Init Score 0.258, Final = 0.215, Time = 20.906s

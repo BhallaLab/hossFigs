@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -27,7 +27,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "nM",
-            "entity": "RasGTP",
+            "entity": {
+                "name": "RasGTP",
+                "alias": "RasGTP"
+            },
             "field": "conc",
             "data": [
                 [
@@ -40,15 +43,15 @@
     "Readouts": {
         "timeUnits": "sec",
         "quantityUnits": "ratio",
-        "entities": [
-            "RasGDP"
-        ],
+        "entity": {
+            "name": "RasGDP",
+            "alias": "RasGDP"
+        },
         "field": "conc",
         "normalization": {
-            "time": 7200,
-            "entities": [
-                "RasGDP"
-            ],
+            "entity": {
+                "name": "RasGDP"
+            },
             "sampling": "end"
         },
         "data": [
@@ -79,23 +82,32 @@
             ],
             [
                 7200,
-                1.000,
+                1.0,
                 0
             ]
         ]
     },
     "Modifications": {
         "subset": [
-            "RasGDP",
-            "RasGTP",
-            "Ras_intrinsic_GTPase"
-        ], 
+            {
+                "name": "RasGDP"
+            },
+            {
+                "name": "RasGTP"
+            },
+            {
+                "name": "bRasGTP_deph",
+                "alias": "Ras_intrinsic_GTPase"
+            }
+        ],
         "parameterChange": [
             {
-                "units": "mM", 
-                "field": "concInit", 
-                "value": 0.0, 
-                "entity": "RasGDP"
+                "entity": {
+                    "name": "RasGDP"
+                },
+                "field": "concInit",
+                "value": 0.0,
+                "units": "mM"
             }
         ]
     }

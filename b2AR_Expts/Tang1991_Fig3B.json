@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -26,7 +26,10 @@
     "Stimuli": [
         {
             "timeUnits": "sec",
-            "entity": "GsGTP",
+            "entity": {
+                "name": "Gs_alpha_GTP",
+                "alias": "GsGTP"
+            },
             "field": "conc",
             "quantityUnits": "nM"
         }
@@ -35,22 +38,22 @@
         "timeUnits": "sec",
         "settleTime": 600,
         "quantityUnits": "ratio",
-        "entities": [
-            "cAMP"
-        ],
+        "entity": {
+            "name": "cAMP",
+            "alias": "cAMP"
+        },
         "field": "conc",
         "normalization": {
             "sampling": "dose",
-            "entities": [
-                "cAMP"
-            ],
-            "dose": 87.0,
-            "time": 600
+            "entity": {
+                "name": "cAMP"
+            },
+            "dose": 87.0
         },
         "display": {
-            "useXlog": true, 
+            "useXlog": true,
             "useYlog": false
-        }, 
+        },
         "data": [
             [
                 0.0,
@@ -71,7 +74,7 @@
                 2.3,
                 0.374,
                 0.0
-	    ],
+            ],
             [
                 5.5,
                 0.508,
@@ -94,16 +97,22 @@
             ],
             [
                 87.0,
-                1.00,
+                1.0,
                 0.0
             ]
         ]
     },
     "Modifications": {
         "subset": [
-            "Gs_g",
-            "BetaGamma",
-            "AC_g"
+            {
+                "name": "Gs_g"
+            },
+            {
+                "name": "BetaGamma"
+            },
+            {
+                "name": "AC_g"
+            }
         ]
     }
 }

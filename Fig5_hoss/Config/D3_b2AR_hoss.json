@@ -2,7 +2,7 @@
 	"FileType":"Hoss",
 	"Version":"2.0", 
 	"author": "U.S. Bhalla",
-	"model": "./Models/D3_model_b2AR_v5.json",
+	"model": "./Models/D3_model_b2AR_v6.json",
 	"map":"./Maps/D3_map_b2AR.json",
 	"exptDir": "./b2AR_Expts",
 	"outputDir": "./OPTIMIZED",

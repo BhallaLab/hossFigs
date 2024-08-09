@@ -1,6 +1,6 @@
 {
     "FileType": "FindSim",
-    "Version": "1.0",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "bhalla",
         "organization": "OpenSource",
@@ -20,7 +20,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "uM",
-            "entity": "SHC",
+            "entity": {
+                "name": "SHC",
+                "alias": "SHC"
+            },
             "field": "conc"
         }
     ],
@@ -28,9 +31,10 @@
         "timeUnits": "sec",
         "quantityUnits": "uM",
         "settleTime": 380.42,
-        "entities": [
-            "aSHC"
-        ],
+        "entity": {
+            "name": "aSHC",
+            "alias": "aSHC"
+        },
         "field": "conc",
         "data": [
             [
@@ -93,19 +97,26 @@
     "Modifications": {
         "parameterChange": [
             {
-                "entity": "SHC",
+                "entity": {
+                    "name": "SHC"
+                },
                 "field": "isBuffered",
                 "value": 1,
                 "units": "none"
             },
             {
-                "entity": "aEGFR",
+                "entity": {
+                    "name": "aEGFR",
+                    "alias": "aEGFR"
+                },
                 "field": "isBuffered",
                 "value": 1,
                 "units": "none"
             },
             {
-                "entity": "aEGFR",
+                "entity": {
+                    "name": "aEGFR"
+                },
                 "field": "concInit",
                 "value": 1e-06,
                 "units": "mM"

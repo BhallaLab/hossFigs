@@ -2,7 +2,7 @@
 	"FileType": "HOSS",
 	"Version": "2.0",
 	"author": "U.S. Bhalla",
-	"model": "Models/D3_model_MAPK_v7.json",
+	"model": "Models/D3_model_EGFR_v8.json",
 	"map": "Maps/D3_map_EGFR.json",
 	"exptDir": "./EGFR_Expts",
 	"outputDir": "./OPTIMIZED",
@@ -35,7 +35,7 @@
 						"aEGFR.KA", "aEGFR.tau", 
 						"aEGFR.Kmod", "aEGFR.Amod", 
 						"aEGFR.baseline",
-						"intEGFR.KA", "intEGFR.tau"
+						"iEGFR.KA", "iEGFR.tau"
 				],
                 "resultFile": "L1.txt",
                 "optModelFile": "L1.json"

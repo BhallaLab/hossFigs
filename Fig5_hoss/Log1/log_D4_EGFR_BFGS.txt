@@ -1,12 +1,7 @@
-Level 1 --- Init Score: 0.265   OptimizedScore 0.206       Time: 31.889 s
-Written to file OPT_D4_EGFR_BFGS/L1.g
-Level 2 --- Init Score: 0.806   OptimizedScore 0.624       Time: 15.121 s
-Written to file OPT_D4_EGFR_BFGS/L2.g
-Level 3 --- Init Score: 0.584   OptimizedScore 0.564       Time: 280.089 s
-Written to file OPT_D4_EGFR_BFGS/L3.g
-Level 4 --- Init Score: 0.551   OptimizedScore 0.551       Time: 0.096 s
-Written to file OPT_D4_EGFR_BFGS/L4.g
-Warning: Score mismatch in processIntermediateResults:  0.5186723503369117 0.5156366761608623
-Level 5 --- Init Score: 0.583   OptimizedScore 0.516       Time: 56.881 s
-Written to file OPT_D4_EGFR_BFGS/L5.g
-OPT_D4_EGFR_BFGS/L5.g: hoss: Init Score 0.539, Final = 0.527, Time = 385.224s
+Level 1 --- Init Score: 0.321   OptimizedScore 0.321       Time: 28.270 s
+writeKkit: /model, OPT_D4_EGFR_BFGS/L1.g
+Level 2 --- Init Score: 0.622   OptimizedScore 0.562       Time: 189.730 s
+writeKkit: /model, OPT_D4_EGFR_BFGS/L2.g
+Level 3 --- Init Score: 0.575   OptimizedScore 0.571       Time: 225.445 s
+writeKkit: /model, OPT_D4_EGFR_BFGS/L3.g
+OPT_D4_EGFR_BFGS/L3.g: hoss: Init Score 0.488, Final = 0.485, Time = 444.477s

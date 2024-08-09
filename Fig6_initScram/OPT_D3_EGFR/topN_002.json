@@ -1,32 +1,32 @@
 {
     "FileType": "HillTau",
     "Version": "1.0",
-    "Author": "US Bhalla, mapping to D4 model adapted from Nisha Viswan",
-    "Description": "EGF stimulation of MAPK",
+    "Author": "US Bhalla, mapping to D4 model adapted from Nisha Viswan: Programmatic modification by findSim at 2024-05-26 23:32:19: Programmatic modification by findSim at 2024-05-26 23:33:14",
+    "Description": "EGF stimulation of MAPK: Original model modified by findSim for subset calculations.: Original model modified by findSim for subset calculations.",
     "QuantityUnits": "uM",
     "Comment": "Time units are seconds",
     "Groups": {
         "EGFR_g": {
             "Species": {
-                "EGFR": 0.4048,
-                "egf": 7.403e-06,
+                "EGFR": 0.7808,
+                "egf": 5.467e-06,
                 "aEGFR": 0.001
             },
             "Reacs": {
                 "intEGFR": {
-                    "tau": 719.1909068116456,
-                    "KA": 0.009254506720620061,
+                    "tau": 853.2468500012267,
+                    "KA": 0.09963816118316236,
                     "subs": [
                         "aEGFR"
                     ]
                 },
                 "aEGFR": {
-                    "tau": 114.49109894715039,
-                    "KA": 0.01493,
-                    "baseline": 0.001068,
-                    "Kmod": 0.1238,
+                    "tau": 120.6975285321752,
+                    "KA": 0.02682,
+                    "baseline": 0.00108,
+                    "Kmod": 0.008923,
                     "Nmod": 1,
-                    "Amod": 9.157897162688856e-08,
+                    "Amod": 9.554954043254521e-08,
                     "subs": [
                         "EGFR",
                         "intEGFR",
@@ -37,13 +37,13 @@
         },
         "SHC_g": {
             "Species": {
-                "SHC": 1.337
+                "SHC": 0.2663
             },
             "Reacs": {
                 "aSHC": {
-                    "tau2": 2.8511449910120112,
-                    "tau": 6.405350457713643,
-                    "KA": 0.07246,
+                    "tau2": 19.003839476676035,
+                    "tau": 78.38514404579085,
+                    "KA": 0.034,
                     "subs": [
                         "SHC",
                         "aEGFR",
@@ -54,30 +54,30 @@
         },
         "Ras_g": {
             "Species": {
-                "Ras": 0.9563,
-                "Sos": 0.07189,
+                "Ras": 1.302,
+                "Sos": 1.49,
                 "aRas": 0.003596,
                 "aSos": 0.001
             },
             "Reacs": {
                 "aSos": {
-                    "tau": 19.379312262643953,
-                    "KA": 0.0385,
-                    "baseline": 0.0002532,
+                    "tau": 0.784770990686,
+                    "KA": 0.04199,
+                    "baseline": 0.002484,
                     "subs": [
                         "Sos",
                         "aMAPK",
                         "aSHC",
                         "aSHC"
                     ],
-                    "Kmod": 0.0008187,
+                    "Kmod": 0.000864,
                     "Nmod": 2.0,
-                    "Amod": 0.007961985796672576
+                    "Amod": 0.0027818960156350617
                 },
                 "aRas": {
-                    "tau": 26.47568573940022,
-                    "KA": 0.007707,
-                    "baseline": 0.0008384,
+                    "tau": 34.21349278150063,
+                    "KA": 0.1012,
+                    "baseline": 0.003236,
                     "subs": [
                         "Ras",
                         "aSos"
@@ -87,16 +87,16 @@
         },
         "MAPK_g": {
             "Species": {
-                "MAPK": 0.147,
-                "craf1": 0.1103,
+                "MAPK": 0.2285,
+                "craf1": 0.1623,
                 "aMAPK": 0.0013,
                 "acraf1": 0.003545
             },
             "Reacs": {
                 "aMAPK": {
-                    "tau": 35.92109373188035,
-                    "KA": 0.138,
-                    "baseline": 0.0004626,
+                    "tau": 30.54644439690971,
+                    "KA": 0.1366,
+                    "baseline": 0.0005935,
                     "subs": [
                         "MAPK",
                         "acraf1",
@@ -104,9 +104,9 @@
                     ]
                 },
                 "acraf1": {
-                    "tau": 41.29194319519717,
-                    "KA": 0.4025,
-                    "baseline": 0.001215,
+                    "tau": 8.114972698862612,
+                    "KA": 0.5252,
+                    "baseline": 0.002026,
                     "subs": [
                         "craf1",
                         "aRas",

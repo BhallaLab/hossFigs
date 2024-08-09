@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "National Centre for Biological Sciences",
@@ -27,7 +27,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "nM",
-            "entity": "EGF",
+            "entity": {
+                "name": "EGF",
+                "alias": "EGF"
+            },
             "field": "conc",
             "data": [
                 [
@@ -40,16 +43,16 @@
     "Readouts": {
         "timeUnits": "sec",
         "quantityUnits": "ratio",
-        "entities": [
-            "aMAPK"
-        ],
+        "entity": {
+            "name": "aMAPK",
+            "alias": "aMAPK"
+        },
         "field": "conc",
         "normalization": {
-            "time": 4000,
             "sampling": "max",
-            "entities": [
-                "aMAPK"
-            ]
+            "entity": {
+                "name": "aMAPK"
+            }
         },
         "data": [
             [
@@ -75,13 +78,15 @@
             [
                 11200,
                 0.581,
-                0.090
+                0.09
             ]
         ]
     },
     "Modifications": {
         "subset": [
-            "all"
+            {
+                "name": "all"
+            }
         ]
     }
 }

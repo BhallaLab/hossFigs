@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -26,28 +26,38 @@
     "Readouts": {
         "paramdata": [
             {
-                "entity": "Rafp_RasGTP1",
+                "entity": {
+                    "name": "eRas+MAPKK1",
+                    "alias": "Rafp_RasGTP1"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 0.104,
                 "stderr": 0
             },
             {
-                "entity": "Rafp_RasGTP2",
+                "entity": {
+                    "name": "eRas+MAPKK2",
+                    "alias": "Rafp_RasGTP2"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 0.104,
                 "stderr": 0
             },
             {
-                "entity": "Rafp_RasGTP1",
+                "entity": {
+                    "name": "eRas+MAPKK1"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 0.8,
                 "stderr": 0
             },
             {
-                "entity": "Rafp_RasGTP2",
+                "entity": {
+                    "name": "eRas+MAPKK2"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 0.8,
@@ -57,7 +67,9 @@
     },
     "Modifications": {
         "subset": [
-            "all"
+            {
+                "name": "all"
+            }
         ]
     }
 }

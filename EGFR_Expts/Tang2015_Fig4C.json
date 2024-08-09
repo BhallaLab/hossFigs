@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -29,23 +29,26 @@
             "quantityUnits": "nM",
             "field": "conc",
             "value": 7.8125,
-            "entity": "EGF"
+            "entity": {
+                "name": "EGF",
+                "alias": "EGF"
+            }
         }
     ],
     "Readouts": {
         "timeUnits": "sec",
         "settleTime": 1900,
         "quantityUnits": "ratio",
-        "entities": [
-            "aSHC"
-        ],
+        "entity": {
+            "name": "aSHC",
+            "alias": "aSHC"
+        },
         "field": "conc",
         "normalization": {
             "sampling": "start",
-            "entities": [
-                "aSHC"
-            ],
-            "time": 1900
+            "entity": {
+                "name": "aSHC"
+            }
         },
         "bardata": [
             {
@@ -64,21 +67,32 @@
     },
     "Modifications": {
         "subset": [
-            "TrKB_g",
-            "EGFR_g",
-            "Ca",
-            "SHC_g"
-
+            {
+                "name": "TrKB_g"
+            },
+            {
+                "name": "EGFR_g"
+            },
+            {
+                "name": "Ca"
+            },
+            {
+                "name": "SHC_g"
+            }
         ],
         "parameterChange": [
             {
-                "entity": "EGF",
+                "entity": {
+                    "name": "EGF"
+                },
                 "field": "isBuffered",
                 "value": 1,
                 "units": "none"
             },
             {
-                "entity": "EGF",
+                "entity": {
+                    "name": "EGF"
+                },
                 "field": "concInit",
                 "value": 0.02,
                 "units": "nM"

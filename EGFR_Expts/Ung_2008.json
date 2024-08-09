@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -25,224 +25,307 @@
     "Readouts": {
         "paramdata": [
             {
-                "entity": "EGFR_act_SHC",
+                "entity": {
+                    "name": "eEGFR+SHC",
+                    "alias": "EGFR_act_SHC"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 0.0132,
                 "stderr": 0
             },
             {
-                "entity": "MEK_phospho",
+                "entity": {
+                    "name": "ecraf+MAPKK",
+                    "alias": "MEK_phospho"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 0.88,
                 "stderr": 0.0
             },
             {
-                "entity": "MEKp_phospho",
+                "entity": {
+                    "name": "ecraf+MAPKKp",
+                    "alias": "MEKp_phospho"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 0.73,
                 "stderr": 0.0
             },
             {
-                "entity": "MAPKKtyr",
+                "entity": {
+                    "name": "eMAPKK+MAPK",
+                    "alias": "MAPKKtyr"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 5.34,
                 "stderr": 0.0
             },
             {
-                "entity": "MAPKKthr",
+                "entity": {
+                    "name": "eMAPKK+MAPKp",
+                    "alias": "MAPKKthr"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 1.91,
                 "stderr": 0.0
             },
             {
-                "entity": "MAPKpp_feedback",
+                "entity": {
+                    "name": "eMAPK+crafp",
+                    "alias": "MAPKpp_feedback"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 0.0167,
                 "stderr": 0.0
             },
             {
-                "entity": "MAPKK_deph",
+                "entity": {
+                    "name": "ePP2A+MAPKKpq",
+                    "alias": "MAPKK_deph"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 0.06,
                 "stderr": 0.0
             },
             {
-                "entity": "MAPKKp_deph",
+                "entity": {
+                    "name": "ePP2A+MAPKKp",
+                    "alias": "MAPKKp_deph"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 2.23,
                 "stderr": 0.0
             },
             {
-                "entity": "PIP2_phospho_RasGTP",
+                "entity": {
+                    "name": "eRas+PIP2",
+                    "alias": "PIP2_phospho_RasGTP"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 1.14,
                 "stderr": 0.0
             },
             {
-                "entity": "PIP2toPIP3",
+                "entity": {
+                    "name": "ebPI3K+PIP2",
+                    "alias": "PIP2toPIP3"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 1.14,
                 "stderr": 0.0
             },
             {
-                "entity": "phospho_AKTpT308",
+                "entity": {
+                    "name": "ePI3K+AKT",
+                    "alias": "phospho_AKTpT308"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 1.33,
                 "stderr": 0.0
             },
             {
-                "entity": "AKT_inhib_Raf",
+                "entity": {
+                    "name": "eAKT+Raf",
+                    "alias": "AKT_inhib_Raf"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 1.1667,
                 "stderr": 0.0
             },
             {
-                "entity": "PIP3_deph",
+                "entity": {
+                    "name": "ePTEN+PIP3",
+                    "alias": "PIP3_deph"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 1.1,
                 "stderr": 0.0
             },
             {
-                "entity": "EGFR_act_SHC",
+                "entity": {
+                    "name": "eEGFR+SHC"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 0.584,
                 "stderr": 0
             },
             {
-                "entity": "MEK_phospho",
+                "entity": {
+                    "name": "ecraf+MAPKK"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 3.5,
                 "stderr": 0.0
             },
             {
-                "entity": "MEKp_phospho",
+                "entity": {
+                    "name": "ecraf+MAPKKp"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 2.9,
                 "stderr": 0.0
             },
             {
-                "entity": "MAPKKtyr",
+                "entity": {
+                    "name": "eMAPKK+MAPK"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 16.0,
                 "stderr": 0.0
             },
             {
-                "entity": "MAPKKthr",
+                "entity": {
+                    "name": "eMAPKK+MAPKp"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 5.7,
                 "stderr": 0.0
             },
             {
-                "entity": "MAPKpp_feedback",
+                "entity": {
+                    "name": "eMAPK+crafp"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 1.0,
                 "stderr": 0.0
             },
             {
-                "entity": "MAPKK_deph",
+                "entity": {
+                    "name": "ePP2A+MAPKKpq"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 0.058,
                 "stderr": 0.0
             },
             {
-                "entity": "MAPKKp_deph",
+                "entity": {
+                    "name": "ePP2A+MAPKKp"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 0.058,
                 "stderr": 0.0
             },
             {
-                "entity": "PIP2_phospho_RasGTP",
+                "entity": {
+                    "name": "eRas+PIP2"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 25.0,
                 "stderr": 0.0
             },
             {
-                "entity": "PIP2toPIP3",
+                "entity": {
+                    "name": "ebPI3K+PIP2"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 25.0,
                 "stderr": 0.0
             },
             {
-                "entity": "phospho_AKTpT308",
+                "entity": {
+                    "name": "ePI3K+AKT"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 3.0,
                 "stderr": 0.0
             },
             {
-                "entity": "AKT_inhib_Raf",
+                "entity": {
+                    "name": "eAKT+Raf"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 3,
                 "stderr": 0.0
             },
             {
-                "entity": "PIP3_deph",
+                "entity": {
+                    "name": "ePTEN+PIP3"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 5.0,
                 "stderr": 0.0
             },
             {
-                "entity": "Grb2_bind_SHC",
+                "entity": {
+                    "name": "SHCp+Grb2",
+                    "alias": "Grb2_bind_SHC"
+                },
                 "field": "Kd",
                 "units": "uM",
                 "value": 0.0333,
                 "stderr": 0.0
             },
             {
-                "entity": "Grb2_bind_Sos",
+                "entity": {
+                    "name": "Sos+Grb2",
+                    "alias": "Grb2_bind_Sos"
+                },
                 "field": "Kd",
                 "units": "uM",
                 "value": 0.015,
                 "stderr": 0
             },
             {
-                "entity": "Ras_act_craf",
+                "entity": {
+                    "name": "Ras+craf",
+                    "alias": "Ras_act_craf"
+                },
                 "field": "Kd",
                 "units": "uM",
                 "value": 0.02857142857,
                 "stderr": 0
             },
             {
-                "entity": "PIP3_bind_AKT",
+                "entity": {
+                    "name": "PIP3+AKT",
+                    "alias": "PIP3_bind_AKT"
+                },
                 "field": "Kd",
                 "units": "uM",
                 "value": 0.3333333333,
                 "stderr": 0
             },
             {
-                "entity": "Ras_intrinsic_GTPase",
+                "entity": {
+                    "name": "bRasGTP_deph",
+                    "alias": "Ras_intrinsic_GTPase"
+                },
                 "field": "Kf",
                 "units": "uM",
                 "value": 0.000167,
                 "stderr": 0
             },
             {
-                "entity": "Sos_deph",
+                "entity": {
+                    "name": "Sosp_deph",
+                    "alias": "Sos_deph"
+                },
                 "field": "Kf",
                 "units": "uM",
                 "value": 0.002,
@@ -252,7 +335,9 @@
     },
     "Modifications": {
         "subset": [
-            "all"
+            {
+                "name": "all"
+            }
         ]
     }
 }

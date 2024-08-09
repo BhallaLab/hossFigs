@@ -1,89 +1,94 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
-        "transcriber": "Nisha Ann Viswan", 
-        "organization": "National Centre for Biological Sciences", 
-        "email": "nishaav@ncbs.res.in", 
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "National Centre for Biological Sciences",
+        "email": "nishaav@ncbs.res.in",
         "source": {
-            "sourceType": "paper", 
-            "PMID": 7657647, 
-            "authors": "Teng KK et al.", 
-            "journal": "J Biol Chem. ", 
-            "year": 1995, 
+            "sourceType": "paper",
+            "PMID": 7657647,
+            "authors": "Teng KK et al.",
+            "journal": "J Biol Chem. ",
+            "year": 1995,
             "figure": "Fig 9A"
-        }, 
-        "testModel": "Models/synSynth7_FMRP_19Dec2019.g", 
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
         "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
-    }, 
+    },
     "Experiment": {
-        "design": "TimeSeries", 
-        "species": "Cell-line", 
-        "cellType": "rat Pheochromocytoma cell line (PC12)", 
-        "temperature": 25, 
+        "design": "TimeSeries",
+        "species": "Cell-line",
+        "cellType": "rat Pheochromocytoma cell line (PC12)",
+        "temperature": 25,
         "notes": "Here I have scaled the fig 9A ratio data to a reference wrt the total MAPK, assuming peak phosphorylation is 80% of total MAPK."
-    }, 
+    },
     "Stimuli": [
         {
-            "timeUnits": "sec", 
-            "quantityUnits": "nM", 
-            "entity": "EGF", 
-            "field": "conc", 
+            "timeUnits": "sec",
+            "quantityUnits": "nM",
+            "entity": {
+                "name": "EGF",
+                "alias": "EGF"
+            },
+            "field": "conc",
             "data": [
                 [
-                    4000, 
+                    4000,
                     100
                 ]
             ]
         }
-    ], 
+    ],
     "Readouts": {
-        "timeUnits": "sec", 
-        "quantityUnits": "ratio", 
-        "entities": [
-            "aMAPK"
-        ], 
-        "field": "conc", 
+        "timeUnits": "sec",
+        "quantityUnits": "ratio",
+        "entity": {
+            "name": "aMAPK",
+            "alias": "aMAPK"
+        },
+        "field": "conc",
         "normalization": {
-            "sampling": "start", 
-            "entities": [
-                "MAPK"
-            ],
-			"dose": 0,
-			"time": 0
-        }, 
+            "sampling": "start",
+            "entity": {
+                "name": "MAPK",
+                "alias": "MAPK"
+            }
+        },
         "data": [
             [
-                4000, 
-                0.016, 
+                4000,
+                0.016,
                 0.048
-            ], 
+            ],
             [
-                4300, 
-                0.8, 
+                4300,
+                0.8,
                 0
-            ], 
+            ],
             [
-                5800, 
-                0.096, 
+                5800,
+                0.096,
                 0.136
-            ], 
+            ],
             [
-                7600, 
-                0.08, 
+                7600,
+                0.08,
                 0.08
-            ], 
+            ],
             [
-                11200, 
-                0.064, 
+                11200,
+                0.064,
                 0.064
             ]
         ]
-    }, 
+    },
     "Modifications": {
         "subset": [
-            "all"
-        ], 
+            {
+                "name": "all"
+            }
+        ],
         "notes": "Bhalla1999_Fig2B uses this data."
     }
 }

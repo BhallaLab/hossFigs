@@ -1,3 +1,4 @@
-Level 1 --- Init Score: 0.142   OptimizedScore 0.141       Time: 2.270 s
-Level 2 --- Init Score: 0.297   OptimizedScore 0.282       Time: 128.373 s
-OPT_D3_EGFR_BFGS/L2.json: hoss: Init Score 0.219, Final = 0.212, Time = 131.557s
+Level 1 --- Init Score: 0.175   OptimizedScore 0.145       Time: 2.426 s
+Warning: Score mismatch in processIntermediateResults:  0.2820622639945638 0.28131375877699416
+Level 2 --- Init Score: 0.321   OptimizedScore 0.281       Time: 82.938 s
+OPT_D3_EGFR_BFGS/L2.json: hoss: Init Score 0.258, Final = 0.214, Time = 86.242s

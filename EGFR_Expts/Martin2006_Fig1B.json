@@ -1,82 +1,88 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
-        "transcriber": "Nisha Ann Viswan", 
-        "organization": "NCBS", 
-        "email": "nishaav@ncbs.res.in", 
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
         "source": {
-            "sourceType": "paper", 
-            "PMID": 16914641, 
-            "authors": "Martin NP et al.", 
-            "journal": "Molecular Pharmacology, ", 
-            "year": 2006, 
+            "sourceType": "paper",
+            "PMID": 16914641,
+            "authors": "Martin NP et al.",
+            "journal": "Molecular Pharmacology, ",
+            "year": 2006,
             "figure": "Fig 1B"
-        }, 
-        "testModel": "Models/synSynth7_FMRP_19Dec2019.g", 
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
         "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
-    }, 
+    },
     "Experiment": {
-        "design": "TimeSeries", 
-        "species": "cell-line", 
-        "cellType": "COS-1 cells", 
-        "temperature": 37, 
+        "design": "TimeSeries",
+        "species": "cell-line",
+        "cellType": "COS-1 cells",
+        "temperature": 37,
         "notes": "1ng/ml (I-125)EGF together with 100ng/ml unlabelled EGF. Deleting the rest of the model for convenience."
-    }, 
+    },
     "Stimuli": [
         {
-            "timeUnits": "sec", 
-            "quantityUnits": "nM", 
-            "entity": "EGF", 
-            "field": "conc", 
+            "timeUnits": "sec",
+            "quantityUnits": "nM",
+            "entity": {
+                "name": "EGF",
+                "alias": "EGF"
+            },
+            "field": "conc",
             "data": [
                 [
-                   0, 
+                    0,
                     0.15625
                 ]
             ]
         }
-    ], 
+    ],
     "Readouts": {
-        "timeUnits": "sec", 
-        "quantityUnits": "ratio", 
-        "entities": [
-            "EGFR_internal"
-        ], 
-        "field": "conc", 
+        "timeUnits": "sec",
+        "quantityUnits": "ratio",
+        "entity": {
+            "name": "iEGFR",
+            "alias": "EGFR_internal"
+        },
+        "field": "conc",
         "normalization": {
-            "sampling": "presetTime", 
-            "entities": [
-                "EGFR_internal"
-            ], 
-            "time": 900
-        }, 
+            "sampling": "presetTime",
+            "entity": {
+                "name": "iEGFR"
+            },
+            "sampTime": 900
+        },
         "data": [
             [
-                0, 
-                0.1, 
+                0,
+                0.1,
                 0.039
-            ], 
+            ],
             [
-                300, 
-                0.581, 
+                300,
+                0.581,
                 0.118
-            ], 
+            ],
             [
-                900, 
-                1.0, 
+                900,
+                1.0,
                 0.135
-            ], 
+            ],
             [
-                1800, 
-                0.991, 
+                1800,
+                0.991,
                 0.244
             ]
         ]
-    }, 
+    },
     "Modifications": {
         "subset": [
-            "EGFR_g"
+            {
+                "name": "EGFR_g"
+            }
         ]
     }
 }

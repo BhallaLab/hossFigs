@@ -2,22 +2,22 @@
 	"FileType": "HOSS",
 	"Version": "2.0",
 	"author": "U.S. Bhalla",
-	"model": "Models/D3_model_MAPK_v7.json",
+	"model": "Models/D3_model_EGFR_v8.json",
 	"map": "Maps/D3_map_EGFR.json",
 	"exptDir": "./EGFR_Expts",
-	"outputDir": "OPT_D3_EGFR",
+	"outputDir": "./OPT_D3_EGFR",
 	"scoreFunc": "NRMS",
 	"tolerance": 0.001,
 	"timeout": 600,
 	"algorithm": "COBYLA",
-	"comment": "hossMC optimization of HillTau form of EGFR to MAPK model.",
+	"comment": "Optimizing HT EGFR-MAPK model using hossMC method.",
 	"hossMethod": {
 		"method": "hossMC",
 		"numProcesses": 24,
 		"numInitScramble": 200,
+		"scrambleRange": 2.0,
 		"numScramble": 200,
 		"numTopModels": 5,
-		"scrambleRange": 2.0,
 		"scramDir": "SCRAM_D3_EGFR"
 	},
 	"HOSS": [
@@ -41,7 +41,7 @@
 						"aEGFR.KA", "aEGFR.tau", 
 						"aEGFR.Kmod", "aEGFR.Amod", 
 						"aEGFR.baseline",
-						"intEGFR.KA", "intEGFR.tau"
+						"iEGFR.KA", "iEGFR.tau"
 				],
                 "resultFile": "L1.txt",
                 "optModelFile": "L1.json"

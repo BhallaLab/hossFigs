@@ -1,6 +1,6 @@
 {
     "FileType": "FindSim",
-    "Version": "1.0",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "bhalla",
         "organization": "OpenSource",
@@ -20,7 +20,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "uM",
-            "entity": "Ras",
+            "entity": {
+                "name": "Ras",
+                "alias": "Ras"
+            },
             "field": "conc",
             "data": [
                 [
@@ -41,9 +44,10 @@
     "Readouts": {
         "timeUnits": "sec",
         "quantityUnits": "uM",
-        "entities": [
-            "aRas"
-        ],
+        "entity": {
+            "name": "aRas",
+            "alias": "aRas"
+        },
         "field": "conc",
         "data": [
             [
@@ -176,19 +180,26 @@
     "Modifications": {
         "parameterChange": [
             {
-                "entity": "Ras",
+                "entity": {
+                    "name": "Ras"
+                },
                 "field": "isBuffered",
                 "value": 1,
                 "units": "none"
             },
             {
-                "entity": "aSos",
+                "entity": {
+                    "name": "aSos",
+                    "alias": "aSos"
+                },
                 "field": "isBuffered",
                 "value": 1,
                 "units": "none"
             },
             {
-                "entity": "aSos",
+                "entity": {
+                    "name": "aSos"
+                },
                 "field": "concInit",
                 "value": 1e-06,
                 "units": "mM"

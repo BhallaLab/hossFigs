@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -26,7 +26,10 @@
     "Stimuli": [
         {
             "timeUnits": "sec",
-            "entity": "EGF",
+            "entity": {
+                "name": "EGF",
+                "alias": "EGF"
+            },
             "field": "conc",
             "quantityUnits": "nM"
         }
@@ -35,17 +38,17 @@
         "timeUnits": "sec",
         "settleTime": 1800,
         "quantityUnits": "ratio",
-        "entities": [
-            "aMAPK"
-        ],
+        "entity": {
+            "name": "aMAPK",
+            "alias": "aMAPK"
+        },
         "field": "conc",
         "normalization": {
             "sampling": "dose",
-            "entities": [
-                "aMAPK"
-            ],
-            "dose": 0.001,
-            "time": 1800
+            "entity": {
+                "name": "aMAPK"
+            },
+            "dose": 0.001
         },
         "data": [
             [
@@ -72,14 +75,18 @@
     },
     "Modifications": {
         "subset": [
-            "all"
+            {
+                "name": "all"
+            }
         ],
         "parameterChange": [
             {
-                "units": "nM",
+                "entity": {
+                    "name": "EGF"
+                },
                 "field": "concInit",
                 "value": 0.001,
-                "entity": "EGF"
+                "units": "nM"
             }
         ]
     }

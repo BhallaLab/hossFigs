@@ -24,10 +24,10 @@
 					"Tran2007_Fig2B.json": {"weight": 100}
 					},
 				"params": [ 
-						"Iso_bind_b2AR.Kd", "Iso_bind_b2AR.Kd", 
-						"Iso_bind_RGs.tau" , "Iso_bind_RGs.tau",
-						"LR_bind_GsGDP.Kf", "LR_bind_GsGDP.Kb",
-						"R_bind_GsGDP.Kf", "R_bind_GsGDP.Kb"
+						"Iso+b2AR.Kd", "Iso+b2AR.Kd", 
+						"Iso+RGs.tau" , "Iso+RGs.tau",
+						"LR+GsGDP.Kf", "LR+GsGDP.Kb",
+						"R+GsGDP.Kf", "R+GsGDP.Kb"
 				],
 				"resultFile": "b2AR_L1_opt.txt",
 				"optModelFile": "b2AR_L1_opt.g"
@@ -45,12 +45,12 @@
 				"params": [
 						"CaM.concInit",
 						"ng.concInit",
-						"CaM_bind_Ca.Kd", "CaM_bind_Ca.tau",
-						"CaMCa_bind_Ca.Kd", "CaMCa_bind_Ca.tau",
-						"CaMCa2_bind_Ca.Kd", "CaMCa2_bind_Ca.tau",
-						"CaMCa3_bind_Ca.Kd", "CaMCa3_bind_Ca.tau",
+						"CaM+Ca.Kd", "CaM_bind_Ca.tau",
+						"CaMCa+Ca.Kd", "CaMCa_bind_Ca.tau",
+						"CaMCa2+Ca.Kd", "CaMCa2_bind_Ca.tau",
+						"CaMCa3+Ca.Kd", "CaMCa3_bind_Ca.tau",
 						"CaM_ng_deph.Kf",
-						"ng_bind_CaM.Kd", "ng_bind_CaM.tau"
+						"ng+CaM.Kd", "ng+CaM.tau"
 				],
 				"resultFile": "b2AR_L1_CaM.txt",
 				"optModelFile": "b2AR_L1_CaM.g"
@@ -98,10 +98,10 @@
 						"AC2Gs_form_cAMP.Km", "AC2Gs_form_cAMP.kcat", 
 						"AC1Gs_form_cAMP.Km", "AC1Gs_form_cAMP.kcat", 
 						"AC2pGs_form_cAMP.Km", "AC2pGs_form_cAMP.kcat", 
-						"CaM_bind_AC1.Kd", "CaM_bind_AC1.tau",  
-						"Gs_bind_AC2.Kd", "Gs_bind_AC2.tau", 
-						"Gs_bind_AC1.Kd", "Gs_bind_AC1.tau", 
-						"Gs_bind_AC2p.Kd", "Gs_bind_AC2p.tau" ],
+						"CaMCa4+AC1.Kd", "CaMCa4+AC1.tau",  
+						"Gs+AC2.Kd", "Gs+AC2.tau", 
+						"Gs+AC1.Kd", "Gs+AC1.tau", 
+						"Gs+AC2p.Kd", "Gs+AC2p.tau" ],
 				"resultFile": "b2AR_L3_AC.txt",
 				"optModelFile": "b2AR_L3_AC.g"
 			},
@@ -113,7 +113,7 @@
 					"Sette1996_Fig2B.json": {"weight": 100}
 					},
 				"params": [ 
-						"CaM_bind_PDE1.Kd", 
+						"CaMCa4+PDE1.Kd", 
 						"CaM_PDE1_enz.Km", "CaM_PDE1_enz.kcat", 
 						"cAMP_PDE1_enz.Km", "cAMP_PDE1_enz.kcat", 
 						"cAMP_PDE_p_enz.Km", "cAMP_PDE_p_enz.kcat", 

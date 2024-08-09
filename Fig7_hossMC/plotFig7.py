@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 fname4 = "../Fig4_flat/scores.txt"
 fname5 = "../Fig5_hoss/scores.txt"
-fname6 = "../Fig6_initScram/scores.txt"
+fname6 = "scores6.txt"
 fname7 = "scores.txt"
 
 bar_width = 0.35
@@ -119,11 +119,15 @@ def readFig6Data():
     d_values = []
     
     # Define the pattern to extract information from each line
-    pattern = re.compile(r'LogScr(\d+\.\d+)/log_(D[34])_(b2AR|EGFR)(.*?)\.txt:Models\/\w*\.\w*: initScramble: Init Score (\d+\.\d+), Final = (\d+\.\d+), Time = (\d+\.\d+)s')
+    #pattern = re.compile(r'\.\.\/Fig6_initScram\/LogScr(\d+\.\d+)/log_(D[34])_(b2AR|EGFR)(.*?)\.txt:Models\/\w*\.\w*: initScramble: Init Score (\d+\.\d+), Final = (\d+\.\d+), Time = (\d+\.\d+)s')
+    pattern = re.compile(r'\.\.\/Fig6_initScram\/LogScr(\d+\.\d+)\/log_(D[34])_(b2AR|EGFR)(.*?)\.txt\:.*?\: initScramble\: Init Score (\d+\.\d+)\, Final = (\d+\.\d+)\, Time = (\d+\.\d+)s')
+    #pattern = re.compile(r'\.\.\/Fig6_initScram\/LogScr' )
     # Read the file line by line and extract information
     with open( fname6, 'r') as file:
         for line in file:
             match = pattern.search(line)
+            #print( line )
+            print( match )
             if match:
                 sr, d_value, target, sr2, init_score, optimized_score, time = match.groups()
                 d_values.append(d_value)
@@ -173,7 +177,8 @@ def readFig7Data():
     d_values = []
     
     # Define the pattern to extract information from each line
-    pattern = re.compile(r'Log(\d+\.\d+)/log_(D[34])_(b2AR|EGFR)(.*?)\.txt:(.*?): hossMC: Init Score (\d+\.\d+), Final = (\d+\.\d+), Time = (\d+\.\d+)s')
+    pattern = re.compile(r'(R[123])/log_(D[34])_(b2AR|EGFR)(.*?)\.txt:(.*?): hossMC: Init Score (\d+\.\d+), Final = (\d+\.\d+), Time = (\d+\.\d+)s')
+    #pattern = re.compile(r'Log(\d+\.\d+)/log_(D[34])_(b2AR|EGFR)(.*?)\.txt:(.*?): hossMC: Init Score (\d+\.\d+), Final = (\d+\.\d+), Time = (\d+\.\d+)s')
     #pattern = re.compile(r'LogScr\d*\.\d*/log_(D[34])_(b2AR|EGFR)(\d+\.\d+)\.txt:Models\/\w*.\w*: initScramble: Init Score')
     # Read the file line by line and extract information
     with open( fname7, 'r') as file:
@@ -183,7 +188,8 @@ def readFig7Data():
                 sr, d_value, target, sr2, sr3, init_score, optimized_score, time = match.groups()
                 d_values.append(d_value)
                 targets.append(target)
-                scramRange.append(sr)
+                #scramRange.append(sr)
+                scramRange.append(2.0)
                 init_scores.append(float(init_score))
                 optimized_scores.append(float(optimized_score))
                 times.append(float(time))
@@ -272,14 +278,14 @@ def plotAllScores( df4, df5, df6, df7, ax ):
     # Adding labels and title
     ax.set_xticks(grouped_positions + ((len(unique_targets) - 1) / 2) * (bar_width * len(colors) + space_width))
     ax.set_xticklabels( xticklabels, fontsize = 16 )
-    ax.set_ylabel('Optimization score', fontsize = 16)
+    ax.set_ylabel('Optimized cost', fontsize = 16)
     ax.set_ylim( 0, 0.65 )
     ax.yaxis.set_tick_params(labelsize=14)
     ax.text( -0.10, 1.05, "B", fontsize = 22, weight = "bold", transform=ax.transAxes )
     
     # Adding legend
     #ax.legend(loc='upper left', title='Optimization Method', frameon = False, fontsize = 14)
-    ax.legend(loc='upper left', ncol = 2, frameon = False, fontsize = 14)
+    ax.legend(loc='upper left', ncol = 5, frameon = False, fontsize = 14)
     
 
 def plotWallclockTimes( df4, df5, df6, df7, ax ):
@@ -336,6 +342,7 @@ def plotWallclockTimes( df4, df5, df6, df7, ax ):
     ax.set_xticklabels( xticklabels, fontsize = 16 )
     ax.set_ylabel('Wallclock Time (s)', fontsize = 16)
     ax.set_yscale( 'log' )
+    ax.set_ylim( (10, 10000) )
     ax.yaxis.set_tick_params(labelsize=14)
     ax.text( -0.10, 1.05, "C", fontsize = 22, weight = "bold", transform=ax.transAxes )
     
@@ -402,6 +409,7 @@ def plotTotalCpuTimes( df4, df5, df6, df7, ax ):
     ax.set_xticklabels( xticklabels, fontsize = 16 )
     ax.set_ylabel('Total CPU Time (s)', fontsize = 16)
     ax.set_yscale( 'log' )
+    ax.set_ylim( (10, 2e6) )
     ax.yaxis.set_tick_params(labelsize=14)
     ax.text( -0.10, 1.05, "D", fontsize = 22, weight = "bold", transform=ax.transAxes )
     

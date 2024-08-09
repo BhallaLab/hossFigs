@@ -1,6 +1,0 @@
-Level 1 --- Init Score: 0.250   OptimizedScore 0.243       Time: 49.946 s
-OPT_D3_EGFR_COBYLA/opt.json: flat: Init Score 0.250, Final = 0.243, Time = 50.657s
-Level 1 --- Init Score: 0.243   OptimizedScore 0.243       Time: 16.937 s
-OPT_D3_EGFR_COBYLA/opt.json: flat: Init Score 0.243, Final = 0.243, Time = 17.647s
-Level 1 --- Init Score: 0.243   OptimizedScore 0.242       Time: 12.153 s
-OPT_D3_EGFR_COBYLA/opt.json: flat: Init Score 0.243, Final = 0.242, Time = 12.879s

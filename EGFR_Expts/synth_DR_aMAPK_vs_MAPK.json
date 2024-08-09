@@ -1,6 +1,6 @@
 {
     "FileType": "FindSim",
-    "Version": "1.0",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "bhalla",
         "organization": "OpenSource",
@@ -20,7 +20,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "uM",
-            "entity": "MAPK",
+            "entity": {
+                "name": "MAPK",
+                "alias": "MAPK"
+            },
             "field": "conc"
         }
     ],
@@ -28,9 +31,10 @@
         "timeUnits": "sec",
         "quantityUnits": "uM",
         "settleTime": 380.42,
-        "entities": [
-            "aMAPK"
-        ],
+        "entity": {
+            "name": "aMAPK",
+            "alias": "aMAPK"
+        },
         "field": "conc",
         "data": [
             [
@@ -93,19 +97,26 @@
     "Modifications": {
         "parameterChange": [
             {
-                "entity": "MAPK",
+                "entity": {
+                    "name": "MAPK"
+                },
                 "field": "isBuffered",
                 "value": 1,
                 "units": "none"
             },
             {
-                "entity": "acraf1",
+                "entity": {
+                    "name": "acraf1",
+                    "alias": "acraf1"
+                },
                 "field": "isBuffered",
                 "value": 1,
                 "units": "none"
             },
             {
-                "entity": "acraf1",
+                "entity": {
+                    "name": "acraf1"
+                },
                 "field": "concInit",
                 "value": 3.545e-06,
                 "units": "mM"

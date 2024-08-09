@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -26,14 +26,19 @@
     "Readouts": {
         "paramdata": [
             {
-                "entity": "CaN_ng_deph",
+                "entity": {
+                    "name": "eCaMCaN+ngp",
+                    "alias": "CaN_ng_deph"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 13.4,
                 "stderr": 3.1
             },
             {
-                "entity": "CaN_ng_deph",
+                "entity": {
+                    "name": "eCaMCaN+ngp"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 1.73,
@@ -43,7 +48,9 @@
     },
     "Modifications": {
         "subset": [
-            "all"
+            {
+                "name": "all"
+            }
         ]
     }
 }

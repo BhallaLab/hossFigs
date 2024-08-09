@@ -1,14 +1,10 @@
-Level 1 --- Init Score: 0.458   OptimizedScore 0.444       Time: 11.938 s
-Written to file OPT_D4_EGFR_SLSQP/opt.g
-OPT_D4_EGFR_SLSQP/opt.g: flat: Init Score 0.499, Final = 0.444, Time = 12.780s
-runDoser: Normalization2 failed due to zero denominator: 4.835775339872281e-26
-Warning parseAndRun: normalizing to ratioReferenceValue which is zero. Using 1.0e12 instead so we compare expt to a near-zero output
-runDoser: Normalization2 failed due to zero denominator: 5.136942700426674e-30
-runDoser: Normalization2 failed due to zero denominator: 3.8324130911577735e-32
-runDoser: Normalization2 failed due to zero denominator: 1.8999797987559049e-26
-Warning parseAndRun: normalizing to ratioReferenceValue which is zero. Using 1.0e12 instead so we compare expt to a near-zero output
-Warning: runDoser: Normalization3 failed due to zero denominator:  8.248314613157518e-33
-runDoser: Normalization2 failed due to zero denominator: 1.1967082492115406e-26
-Warning: runDoser: Normalization3 failed due to zero denominator:  9.9227050529087e-18
-runDoser: Normalization2 failed due to zero denominator: 5.257713454847681e-26
-Warning: runDoser: Normalization3 failed due to zero denominator:  0.0
+Level 1 --- Init Score: 0.476   OptimizedScore 0.489       Time: 6.648 s
+writeKkit: /model, OPT_D4_EGFR_SLSQP/opt.g
+OPT_D4_EGFR_SLSQP/opt.g: flat: Init Score 0.514, Final = 0.489, Time = 7.609s
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=4.01e-22 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=8.12e-22 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Tang2015_Fig4D.json: Normalization3 denom=8.22e-23 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=7.06e-23 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=4.01e-22 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=7.72e-22 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=8.4e-22 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc

@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Surbhit Wagle, Nisha Ann Viswan",
         "organization": "NCBS",
@@ -20,14 +20,17 @@
         "design": "DoseResponse",
         "species": "Human",
         "cellType": "Membrane fractions of T cell lymphocytes from peripheral blood of healthy donors",
-        "temperature": 37, 
+        "temperature": 37,
         "notes": ""
     },
     "Stimuli": [
         {
             "timeUnits": "sec",
             "quantityUnits": "M",
-            "entity": "cAMP",
+            "entity": {
+                "name": "cAMP",
+                "alias": "cAMP"
+            },
             "field": "conc"
         }
     ],
@@ -35,15 +38,15 @@
         "timeUnits": "min",
         "settleTime": 30,
         "quantityUnits": "ratio",
-        "entities": [
-            "PKA_active"
-        ],
+        "entity": {
+            "name": "aPKA",
+            "alias": "PKA_active"
+        },
         "field": "conc",
         "normalization": {
-            "time": 30,
-            "entities": [
-                "PKA_active"
-            ],
+            "entity": {
+                "name": "aPKA"
+            },
             "dose": 1e-05,
             "sampling": "dose"
         },
@@ -59,12 +62,12 @@
             ],
             [
                 1e-07,
-                0.750,
-                0.080
+                0.75,
+                0.08
             ],
             [
                 1e-06,
-                0.920,
+                0.92,
                 0.089
             ],
             [
@@ -76,11 +79,15 @@
     },
     "Modifications": {
         "subset": [
-            "all"
+            {
+                "name": "all"
+            }
         ],
         "parameterChange": [
             {
-                "entity": "cAMP",
+                "entity": {
+                    "name": "cAMP"
+                },
                 "field": "isBuffered",
                 "value": 1,
                 "units": "none"

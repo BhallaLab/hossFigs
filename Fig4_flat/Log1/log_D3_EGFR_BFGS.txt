@@ -1,2 +1,3 @@
-Level 1 --- Init Score: 0.250   OptimizedScore 0.238       Time: 103.838 s
-OPT_D3_EGFR_BFGS/opt.json: flat: Init Score 0.250, Final = 0.239, Time = 104.562s
+Warning: Score mismatch in processIntermediateResults:  0.23669513005368456 0.23700828426309714
+Level 1 --- Init Score: 0.291   OptimizedScore 0.237       Time: 127.494 s
+OPT_D3_EGFR_BFGS/opt.json: flat: Init Score 0.291, Final = 0.237, Time = 128.150s

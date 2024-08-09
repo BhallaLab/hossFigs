@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -26,7 +26,10 @@
     "Stimuli": [
         {
             "timeUnits": "sec",
-            "entity": "Epinephrine",
+            "entity": {
+                "name": "Epinephrine",
+                "alias": "Epinephrine"
+            },
             "field": "conc",
             "quantityUnits": "uM"
         }
@@ -35,22 +38,22 @@
         "timeUnits": "sec",
         "settleTime": 600,
         "quantityUnits": "ratio",
-        "entities": [
-            "cAMP"
-        ],
+        "entity": {
+            "name": "cAMP",
+            "alias": "cAMP"
+        },
         "field": "conc",
         "normalization": {
             "sampling": "dose",
-            "entities": [
-                "cAMP"
-            ],
-            "dose": 10.0,
-            "time": 600
+            "entity": {
+                "name": "cAMP"
+            },
+            "dose": 10.0
         },
         "display": {
-            "useXlog": true, 
+            "useXlog": true,
             "useYlog": false
-        }, 
+        },
         "data": [
             [
                 0.0,
@@ -71,7 +74,7 @@
                 0.03,
                 0.714,
                 0.0
-	    ],
+            ],
             [
                 0.1,
                 0.859,
@@ -96,14 +99,30 @@
     },
     "Modifications": {
         "subset": [
-            "Epinephrine",
-            "b2AR_g",
-            "Gs_g",
-            "BetaGamma",
-            "AC_g",
-            "Ca_g",
-            "CaM_g",
-            "PKA_g"
+            {
+                "name": "Epinephrine"
+            },
+            {
+                "name": "b2AR_g"
+            },
+            {
+                "name": "Gs_g"
+            },
+            {
+                "name": "BetaGamma"
+            },
+            {
+                "name": "AC_g"
+            },
+            {
+                "name": "Ca_g"
+            },
+            {
+                "name": "CaM_g"
+            },
+            {
+                "name": "PKA_g"
+            }
         ]
     }
 }

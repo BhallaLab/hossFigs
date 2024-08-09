@@ -73,7 +73,7 @@ def plotResultHistos( ax, location, label ):
             print(f"Error reading {file_name}: {e}")
     
     # Set labels and title
-    ax.set_xlabel('Optimized model score', fontsize = 16)
+    ax.set_xlabel('Optimized model cost', fontsize = 16)
     ax.set_ylabel('Frequency', fontsize = 16)
     ax.xaxis.set_tick_params(labelsize=14)
     ax.yaxis.set_tick_params(labelsize=14)
@@ -126,7 +126,8 @@ def readFig6Data():
     d_values = []
     
     # Define the pattern to extract information from scores line
-    pattern = re.compile(r'LogScr(\d+\.\d+)/log_(D[34])_(\w+)_(COBYLA|SLSQP|BFGS).txt:OPT_(D[34])_\w*_\w*\/opt\.\w*: flat: Init Score (\d+\.\d+), Final = (\d+\.\d+), Time = (\d+\.\d+)s')
+    #pattern = re.compile(r'LogScr(\d+\.\d+)/log_(D[34])_(\w+)_(COBYLA|SLSQP|BFGS).txt:OPT_(D[34])_\w*_\w*\/opt\.\w*: flat: Init Score (\d+\.\d+), Final = (\d+\.\d+), Time = (\d+\.\d+)s')
+    pattern = re.compile(r'log_(D[34])_(\w+)_(COBYLA|SLSQP|BFGS).txt:OPT_(D[34])_\w*_\w*\/opt\.\w*: flat: Init Score (\d+\.\d+), Final = (\d+\.\d+), Time = (\d+\.\d+)s')
 
     
     # Read the file line by line and extract information
@@ -200,9 +201,9 @@ def plotScore( df, ax ):
     #ax.set_xticklabels([f"{d}_{t}" for d, t in zip(unique_d_values, unique_targets)])
     ax.set_xticklabels( xticklabels )
     #ax.set_xlabel('')
-    ax.set_ylabel('Optimization score (low is better)')
+    ax.set_ylabel('Optimization cost (low is better)')
     #ax.set_yscale( 'log' )
-    ax.set_title('Optimization score')
+    ax.set_title('Optimization cost')
     ax.text( -0.10, 1.05, "C", fontsize = 22, weight = "bold", transform=ax.transAxes )
     
     # Adding legend
@@ -291,9 +292,9 @@ def plotHossVsFlatScore( df4, df5, ax ):
     #ax.set_xticklabels([f"{d}_{t}" for d, t in zip(unique_d_values, unique_targets)])
     ax.set_xticklabels( xticklabels )
     #ax.set_xlabel('')
-    ax.set_ylabel('Optimization score (low is better)')
+    ax.set_ylabel('Optimization cost (low is better)')
     #ax.set_yscale( 'log' )
-    ax.set_title('Optimization score')
+    ax.set_title('Optimization cost')
     ax.text( -0.10, 1.05, "E", fontsize = 22, weight = "bold", transform=ax.transAxes )
     
     # Adding legend
@@ -392,7 +393,7 @@ def plotIteratedScore( ax ):
     ax.plot( range( len(d3scores) ), d3scores, "*-", label = "D3_b2AR" )
     ax.plot( range( len(d4scores) ), d4scores, "*-", label = "D4_b2AR" )
     ax.set_xlabel('# Times through optimization', fontsize = 16)
-    ax.set_ylabel('Score', fontsize = 16)
+    ax.set_ylabel('Cost', fontsize = 16)
     ax.xaxis.set_tick_params(labelsize=14)
     ax.yaxis.set_tick_params(labelsize=14)
     ax.set_ylim(0, 0.5)
@@ -430,8 +431,8 @@ def estimateDiff( scramRange, origModel, mapfile ):
     return( np.mean( means ) )
 
 def plotModelDifferenceVsScramRange( ax ):
-    models = ["D3_model_b2AR_v5.json", "D3_model_MAPK_v7.json",
-            "b2AR_PKA_v5.g", "D4_model_EGFR_v13b.g"]
+    models = ["D3_model_b2AR_v6.json", "D3_model_EGFR_v8.json",
+            "D4_model_b2AR_v6.g", "D4_model_EGFR_v14.g"]
     maps = ["D3_map_b2AR.json", "D3_map_EGFR.json",
             "D4_map_b2AR.json", "D4_map_EGFR.json"]
 
@@ -490,9 +491,12 @@ def plotParamUncertainty( location, mapfile, ax ):
         matrix.append( row )
 
     colNames = list(pds[0].keys())
+    # Get rid of 'isBuffered' field because it is a bool and not optimized
     colNames.append( "fileIdx" )
     colNames.append( "score" )
+    dropThis = [ nn for nn in colNames if "isBuffered" in nn ]
     df = pd.DataFrame( matrix, columns = colNames )
+    df.drop( columns = dropThis, inplace = True )
     #print( "SHAPE = ", df.shape )
     #print( df )
 
@@ -504,7 +508,7 @@ def plotParamUncertainty( location, mapfile, ax ):
     #cutoffScore = (9*optimal + worst)/10
     #dfFiltered = dfSorted[dfSorted['score'] < cutoffScore]
     dfFiltered = dfSorted.iloc[:len( dfSorted )// 4]
-    print( "Num within cutoff = ", len( dfFiltered ) )
+    print( "Num within cutoff = ", len( dfFiltered ), dfFiltered.shape )
     optimalParams = dfSorted.iloc[0:10].mean()
     paramUncertainty = ( dfFiltered.max()-dfFiltered.min() )/optimalParams
     pu = paramUncertainty
@@ -535,16 +539,16 @@ def main():
     plotModelDifferenceVsScramRange( ax[2][0] )
     ax[2][1].set_axis_off()
 
-    plotParamUncertainty( "OPT_D3_b2AR_R4_1.2", "Maps/D3_map_b2AR.json", ax[3][0] )
-    plotParamUncertainty( "OPT_D3_b2AR_R4_2.0", "Maps/D3_map_b2AR.json", ax[3][0] )
-    plotParamUncertainty( "OPT_D3_b2AR_R4_5.0", "Maps/D3_map_b2AR.json", ax[3][0] )
+    plotParamUncertainty( "OPT_D3_b2AR_1.2", "Maps/D3_map_b2AR.json", ax[3][0] )
+    plotParamUncertainty( "OPT_D3_b2AR_2.0", "Maps/D3_map_b2AR.json", ax[3][0] )
+    plotParamUncertainty( "OPT_D3_b2AR_5.0", "Maps/D3_map_b2AR.json", ax[3][0] )
     ax[3][0].text( -0.10, 1.05, "H", fontsize = 22, weight = "bold", 
             transform=ax[3][0].transAxes )
     ax[3][0].set_xlim( 1e-4, 1e2)
     ax[3][0].legend( title = "Scramble range", loc = 'upper left', frameon = False )
-    plotParamUncertainty( "OPT_D4_b2AR_R4_1.2", "Maps/D4_map_b2AR.json", ax[3][1] )
-    plotParamUncertainty( "OPT_D4_b2AR_R4_2.0", "Maps/D4_map_b2AR.json", ax[3][1] )
-    plotParamUncertainty( "OPT_D4_b2AR_R4_5.0", "Maps/D4_map_b2AR.json", ax[3][1] )
+    plotParamUncertainty( "OPT_D4_b2AR_1.2", "Maps/D4_map_b2AR.json", ax[3][1] )
+    plotParamUncertainty( "OPT_D4_b2AR_2.0", "Maps/D4_map_b2AR.json", ax[3][1] )
+    plotParamUncertainty( "OPT_D4_b2AR_5.0", "Maps/D4_map_b2AR.json", ax[3][1] )
     ax[3][1].text( -0.10, 1.05, "I", fontsize = 22, weight = "bold", 
             transform=ax[3][1].transAxes )
     ax[3][1].legend( title = "Scramble range", loc = 'upper left', frameon = False )

@@ -1,11 +1,11 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
         "email": "nishaav@ncbs.res.in",
-		"notes": "Modified version using absolute readout, assuming scaling to 80% of total.",
+        "notes": "Modified version using absolute readout, assuming scaling to 80% of total.",
         "source": {
             "sourceType": "paper",
             "PMID": 26861207,
@@ -28,7 +28,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "nM",
-            "entity": "EGF",
+            "entity": {
+                "name": "EGF",
+                "alias": "EGF"
+            },
             "field": "conc",
             "data": [
                 [
@@ -41,9 +44,10 @@
     "Readouts": {
         "timeUnits": "sec",
         "quantityUnits": "nM",
-        "entities": [
-            "RasGTP"
-        ],
+        "entity": {
+            "name": "RasGTP",
+            "alias": "RasGTP"
+        },
         "field": "conc",
         "data": [
             [
@@ -120,7 +124,9 @@
     },
     "Modifications": {
         "subset": [
-            "all"
+            {
+                "name": "all"
+            }
         ]
     }
 }

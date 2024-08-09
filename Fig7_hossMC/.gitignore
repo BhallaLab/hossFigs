@@ -1,0 +1,11 @@
+TEST/
+*.png
+*.pdf
+*.tgz
+scram*.g
+scram*.json
+L[123456]_*.g
+L[123456]_*.txt
+OPTI_*.g
+topN_*.json
+topN_*.g

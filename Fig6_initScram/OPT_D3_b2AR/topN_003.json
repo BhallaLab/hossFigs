@@ -2,8 +2,8 @@
     "FileType": "HillTau",
     "Version": "1.0",
     "Comment": "Conc units are uM, time units are seconds, Zhang Q et al., 2011(PMID:22146375), Fig2 seems to show additive effect for AKT activation via BDNF and EGF.",
-    "Description": "Synaptic activity-driven protein synthesis",
-    "Author": "Nisha Ann Viswan, mapping to model by Jain and Bhalla 2009",
+    "Description": "Synaptic activity-driven protein synthesis: Original model modified by findSim for subset calculations.: Original model modified by findSim for subset calculations.: Original model modified by findSim for subset calculations.",
+    "Author": "Nisha Ann Viswan, mapping to model by Jain and Bhalla 2009: Programmatic modification by findSim at 2024-05-26 22:50:37: Programmatic modification by findSim at 2024-05-26 22:51:00: Programmatic modification by findSim at 2024-05-26 22:51:01",
     "QuantityUnits": "uM",
     "Groups": {
         "b2AR_g": {
@@ -11,19 +11,19 @@
                 "EpiGs": "Epi * KEpi + Gs_GDP * KGs"
             },
             "Species": {
-                "b2AR": 0.2387,
-                "Gs_GDP": 0.8857,
-                "Epi": 0.0004323,
+                "b2AR": 0.7397,
+                "Gs_GDP": 1.942,
+                "Epi": 0.003157,
                 "ab2AR": 0.003
             },
             "Reacs": {
                 "ab2AR": {
-                    "tau": 415.7923573305419,
-                    "KA": 0.04405,
-                    "Kmod": 0.005789,
-                    "Amod": 0.022971036401469944,
+                    "tau": 414.7921295518105,
+                    "KA": 0.1527,
+                    "Kmod": 0.006304,
+                    "Amod": 0.020036175293150764,
                     "Nmod": 1.0,
-                    "baseline": 0.002777,
+                    "baseline": 0.00418,
                     "subs": [
                         "b2AR",
                         "intb2AR",
@@ -31,15 +31,15 @@
                     ]
                 },
                 "intb2AR": {
-                    "tau": 46.82292034336915,
-                    "KA": 2.8866108140838063,
+                    "tau": 32.19395182644896,
+                    "KA": 0.952390871961005,
                     "subs": [
                         "ab2AR"
                     ]
                 },
                 "Gs_alpha": {
-                    "tau": 35.40112136590298,
-                    "KA": 0.251,
+                    "tau": 20.036329704762863,
+                    "KA": 0.1567,
                     "subs": [
                         "Gs_GDP",
                         "ab2AR"
@@ -49,16 +49,16 @@
         },
         "CaM_g": {
             "Species": {
-                "CaM": 10.0,
-                "Ca": 0.07513
+                "CaM": 9.724,
+                "Ca": 0.03283
             },
             "Eqns": {
                 "Ca_on_CaM": "4*aCaM"
             },
             "Reacs": {
                 "aCaM": {
-                    "tau": 0.6589,
-                    "KA": 1.55,
+                    "tau": 2.067,
+                    "KA": 6.759,
                     "subs": [
                         "CaM",
                         "Ca",
@@ -74,39 +74,39 @@
                 "aAC": "CaM_AC1 + Gs_AC1 + Gs_AC2"
             },
             "Species": {
-                "AC1": 0.04954,
-                "AC2": 0.03424,
+                "AC1": 0.1926,
+                "AC2": 0.01601,
                 "Dummy": 0.0
             },
             "Reacs": {
                 "CaM_AC1": {
-                    "tau": 12.562486819971902,
-                    "KA": 0.02916,
+                    "tau": 5.67588869792352,
+                    "KA": 0.09842,
                     "subs": [
                         "AC1",
                         "aCaM"
                     ]
                 },
                 "Gs_AC1": {
-                    "tau": 1.6699444403575856,
-                    "KA": 0.3008,
+                    "tau": 0.7962508294863978,
+                    "KA": 0.3868,
                     "subs": [
                         "AC1",
                         "Gs_alpha"
                     ]
                 },
                 "Gs_AC2": {
-                    "tau": 3.7496752019082753,
-                    "KA": 0.01342,
+                    "tau": 0.20729106043272816,
+                    "KA": 0.02438,
                     "subs": [
                         "AC2",
                         "Gs_alpha"
                     ]
                 },
                 "cAMP": {
-                    "tau": 24.352383951970076,
-                    "KA": 0.04096,
-                    "gain": 27.772863471280466,
+                    "tau": 48.035491924739475,
+                    "KA": 0.6003,
+                    "gain": 145.9835372672829,
                     "inhibit": 1,
                     "subs": [
                         "aAC",
@@ -114,8 +114,8 @@
                     ]
                 },
                 "AMP": {
-                    "tau": 200.50739632360614,
-                    "KA": 2.019,
+                    "tau": 60.28494126800471,
+                    "KA": 0.8183,
                     "subs": [
                         "cAMP",
                         "aPDE1"
@@ -128,20 +128,20 @@
                 "aPDE1": "CaM_PDE1 + PKA_PDE1"
             },
             "Species": {
-                "PDE1": 1.077
+                "PDE1": 0.7937
             },
             "Reacs": {
                 "CaM_PDE1": {
-                    "tau": 1.69,
-                    "KA": 0.004802,
+                    "tau": 0.5102,
+                    "KA": 0.003964,
                     "subs": [
                         "PDE1",
                         "aCaM"
                     ]
                 },
                 "PKA_PDE1": {
-                    "tau": 4.256507581404471,
-                    "KA": 0.05621,
+                    "tau": 0.3130802849415177,
+                    "KA": 0.007119,
                     "subs": [
                         "PDE1",
                         "aPKA"
@@ -151,12 +151,12 @@
         },
         "PKA_g": {
             "Species": {
-                "PKA": 0.8271
+                "PKA": 8.165
             },
             "Reacs": {
                 "aPKA": {
-                    "tau": 24.571970199220758,
-                    "KA": 0.0554,
+                    "tau": 162.20701380537793,
+                    "KA": 0.1767,
                     "subs": [
                         "PKA",
                         "cAMP",

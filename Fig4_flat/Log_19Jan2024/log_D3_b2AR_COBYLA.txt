@@ -1,4 +1,0 @@
-Level 1 --- Init Score: 0.356   OptimizedScore 0.344       Time: 48.701 s
-OPT_D3_b2AR_COBYLA/opt.json: flat: Init Score 0.356, Final = 0.344, Time = 49.716s
-Warning: runDoser: Normalization3 failed due to zero denominator:  6.130878539723993e-17
-Warning: runDoser: Normalization3 failed due to zero denominator:  3.007337897643937e-17

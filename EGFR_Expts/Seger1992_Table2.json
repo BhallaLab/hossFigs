@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -26,14 +26,20 @@
     "Readouts": {
         "paramdata": [
             {
-                "entity": "MAPKKthr",
+                "entity": {
+                    "name": "eMAPKK+MAPKp",
+                    "alias": "MAPKKthr"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 0.11,
                 "stderr": 0
             },
             {
-                "entity": "MAPKKtyr",
+                "entity": {
+                    "name": "eMAPKK+MAPK",
+                    "alias": "MAPKKtyr"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 0.11,
@@ -43,7 +49,9 @@
     },
     "Modifications": {
         "subset": [
-            "all"
+            {
+                "name": "all"
+            }
         ]
     }
 }

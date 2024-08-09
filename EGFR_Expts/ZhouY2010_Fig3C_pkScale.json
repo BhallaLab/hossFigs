@@ -1,96 +1,102 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
-        "transcriber": "Nisha Ann Viswan", 
-        "organization": "NCBS", 
-        "email": "nishaav@ncbs.res.in", 
+        "transcriber": "Nisha Ann Viswan",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
         "source": {
-            "sourceType": "paper", 
-            "PMID": 20847549, 
-            "authors": "Zhou Y and Besner GE", 
-            "journal": "Neurosignals, ", 
-            "year": 2010, 
+            "sourceType": "paper",
+            "PMID": 20847549,
+            "authors": "Zhou Y and Besner GE",
+            "journal": "Neurosignals, ",
+            "year": 2010,
             "figure": "Fig 3C"
-        }, 
-        "testModel": "Models/synSynth7_FMRP_19Dec2019.g", 
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
         "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
-    }, 
+    },
     "Experiment": {
-        "design": "TimeSeries", 
-        "species": "cell-lines", 
-        "cellType": "PC12 cells", 
-        "temperature": 37, 
+        "design": "TimeSeries",
+        "species": "cell-lines",
+        "cellType": "PC12 cells",
+        "temperature": 37,
         "notes": "20ng/ml Heparin-bound EGF"
-    }, 
+    },
     "Stimuli": [
         {
-            "timeUnits": "sec", 
-            "quantityUnits": "nM", 
-            "entity": "EGF", 
-            "field": "conc", 
+            "timeUnits": "sec",
+            "quantityUnits": "nM",
+            "entity": {
+                "name": "EGF",
+                "alias": "EGF"
+            },
+            "field": "conc",
             "data": [
                 [
-                    4000, 
-                    1.00
+                    4000,
+                    1.0
                 ]
             ]
         }
-    ], 
+    ],
     "Readouts": {
-        "timeUnits": "sec", 
-        "quantityUnits": "ratio", 
-        "entities": [
-            "aMAPK"
-        ], 
-        "field": "conc", 
+        "timeUnits": "sec",
+        "quantityUnits": "ratio",
+        "entity": {
+            "name": "aMAPK",
+            "alias": "aMAPK"
+        },
+        "field": "conc",
         "normalization": {
-            "sampling": "max", 
-            "entities": [
-                "aMAPK"
-            ]
-        }, 
+            "sampling": "max",
+            "entity": {
+                "name": "aMAPK"
+            }
+        },
         "data": [
             [
-                4000.0, 
-                0.055, 
+                4000.0,
+                0.055,
                 0
-            ], 
+            ],
             [
-                4060.0, 
-                0.082, 
+                4060.0,
+                0.082,
                 0.038
-            ], 
+            ],
             [
-                4300.0, 
-                0.451, 
+                4300.0,
+                0.451,
                 0.027
-            ], 
+            ],
             [
-                4600.0, 
-                1.0, 
+                4600.0,
+                1.0,
                 0.0055
-            ], 
+            ],
             [
-                5800.0, 
-                0.813, 
+                5800.0,
+                0.813,
                 0.011
-            ], 
+            ],
             [
-                7600.0, 
-                0.604, 
+                7600.0,
+                0.604,
                 0.022
-            ], 
+            ],
             [
-                11200.0, 
-                0.33, 
+                11200.0,
+                0.33,
                 0.011
             ]
         ]
-    }, 
+    },
     "Modifications": {
         "subset": [
-            "all"
+            {
+                "name": "all"
+            }
         ]
     }
 }

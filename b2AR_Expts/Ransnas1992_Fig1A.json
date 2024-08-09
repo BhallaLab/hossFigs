@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -27,7 +27,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "uM",
-            "entity": "Isoproterenol",
+            "entity": {
+                "name": "Isoproterenol",
+                "alias": "Isoproterenol"
+            },
             "field": "conc",
             "data": [
                 [
@@ -40,16 +43,17 @@
     "Readouts": {
         "timeUnits": "sec",
         "quantityUnits": "ratio",
-        "entities": [
-            "Gs_alpha_GTP"
-        ],
+        "entity": {
+            "name": "Gs_alpha_GTP",
+            "alias": "Gs_alpha_GTP"
+        },
         "field": "conc",
         "normalization": {
-            "time": 600,
-            "entities": [
-                "Gs_alpha_GTP"
-            ],
-            "sampling": "presetTime"
+            "entity": {
+                "name": "Gs_alpha_GTP"
+            },
+            "sampling": "presetTime",
+            "sampTime": 600
         },
         "data": [
             [
@@ -79,7 +83,7 @@
             ],
             [
                 300.0,
-                0.950,
+                0.95,
                 0.076
             ],
             [
@@ -96,14 +100,30 @@
     },
     "Modifications": {
         "subset": [
-            "Epinephrine",
-            "b2AR_g",
-            "Gs_g",
-            "BetaGamma",
-            "AC_g",
-            "Ca_g",
-            "CaM_g",
-            "PKA_g"
+            {
+                "name": "Epinephrine"
+            },
+            {
+                "name": "b2AR_g"
+            },
+            {
+                "name": "Gs_g"
+            },
+            {
+                "name": "BetaGamma"
+            },
+            {
+                "name": "AC_g"
+            },
+            {
+                "name": "Ca_g"
+            },
+            {
+                "name": "CaM_g"
+            },
+            {
+                "name": "PKA_g"
+            }
         ]
     }
 }

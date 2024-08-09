@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Surbhit Wagle, Nisha Ann Viswan",
         "organization": "NCBS",
@@ -27,7 +27,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "uM",
-            "entity": "PKA_active",
+            "entity": {
+                "name": "aPKA",
+                "alias": "PKA_active"
+            },
             "field": "conc",
             "data": [
                 [
@@ -39,18 +42,18 @@
     ],
     "Readouts": {
         "timeUnits": "min",
-        "settleTime": 14,
         "quantityUnits": "ratio",
-        "entities": [
-            "cAMP_PDEp"
-        ],
+        "entity": {
+            "name": "cAMP_PDEp",
+            "alias": "cAMP_PDEp"
+        },
         "field": "conc",
         "normalization": {
-            "time": 14.0,
-            "entities": [
-                "cAMP_PDEp"
-            ],
-            "sampling": "presetTime"
+            "entity": {
+                "name": "cAMP_PDEp"
+            },
+            "sampling": "presetTime",
+            "sampTime": 14.0
         },
         "data": [
             [
@@ -97,32 +100,52 @@
     },
     "Modifications": {
         "subset": [
-            "b2AR_g",
-            "AC_g",
-            "PDE_g",
-            "PKA_g"
+            {
+                "name": "b2AR_g"
+            },
+            {
+                "name": "AC_g"
+            },
+            {
+                "name": "PDE_g"
+            },
+            {
+                "name": "PKA_g"
+            }
         ],
         "parameterChange": [
             {
-                "entity": "ATP",
+                "entity": {
+                    "name": "ATP",
+                    "alias": "ATP"
+                },
                 "field": "concInit",
                 "value": 0.1,
                 "units": "mM"
             },
             {
-                "entity": "PKA_active",
+                "entity": {
+                    "name": "aPKA",
+                    "alias": "PKA_active"
+                },
                 "field": "isBuffered",
                 "value": 1,
                 "units": "none"
             },
             {
-                "entity": "cAMP",
+                "entity": {
+                    "name": "cAMP",
+                    "alias": "cAMP"
+                },
                 "field": "concInit",
                 "value": 0.001,
                 "units": "mM"
             },
             {
-                "entity": "AMP",
+                "entity": {
+                    "name": "AMP",
+                    "alias": "AMP"
+                },
                 "field": "concInit",
                 "value": 0,
                 "units": "mM"

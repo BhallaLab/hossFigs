@@ -1,11 +1,8 @@
-Level 1 --- Init Score: 0.265   OptimizedScore 0.210       Time: 4.761 s
-Written to file OPT_D4_EGFR_COBYLA/L1.g
-Level 2 --- Init Score: 0.807   OptimizedScore 0.610       Time: 2.997 s
-Written to file OPT_D4_EGFR_COBYLA/L2.g
-Level 3 --- Init Score: 0.594   OptimizedScore 0.553       Time: 43.368 s
-Written to file OPT_D4_EGFR_COBYLA/L3.g
-Level 4 --- Init Score: 0.551   OptimizedScore 0.551       Time: 0.232 s
-Written to file OPT_D4_EGFR_COBYLA/L4.g
-Level 5 --- Init Score: 0.587   OptimizedScore 0.504       Time: 16.866 s
-Written to file OPT_D4_EGFR_COBYLA/L5.g
-OPT_D4_EGFR_COBYLA/L5.g: hoss: Init Score 0.539, Final = 0.525, Time = 69.313s
+Warning: Score mismatch in processIntermediateResults:  0.2138632189293052 0.213531123755345
+Level 1 --- Init Score: 0.321   OptimizedScore 0.214       Time: 2.864 s
+writeKkit: /model, OPT_D4_EGFR_COBYLA/L1.g
+Level 2 --- Init Score: 0.623   OptimizedScore 0.551       Time: 63.620 s
+writeKkit: /model, OPT_D4_EGFR_COBYLA/L2.g
+Level 3 --- Init Score: 0.551   OptimizedScore 0.482       Time: 24.944 s
+writeKkit: /model, OPT_D4_EGFR_COBYLA/L3.g
+OPT_D4_EGFR_COBYLA/L3.g: hoss: Init Score 0.488, Final = 0.415, Time = 92.507s

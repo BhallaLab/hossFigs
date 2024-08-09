@@ -1,103 +1,111 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
-        "transcriber": "Nisha Ann Viswan, Rescaled by Upi Bhalla", 
-        "organization": "NCBS", 
-        "email": "nishaav@ncbs.res.in", 
+        "transcriber": "Nisha Ann Viswan, Rescaled by Upi Bhalla",
+        "organization": "NCBS",
+        "email": "nishaav@ncbs.res.in",
         "source": {
-            "sourceType": "paper", 
-            "PMID": 12642580, 
-            "authors": "Shah BH et al.", 
-            "journal": "J Biol Chem, ", 
-            "year": 2003, 
+            "sourceType": "paper",
+            "PMID": 12642580,
+            "authors": "Shah BH et al.",
+            "journal": "J Biol Chem, ",
+            "year": 2003,
             "figure": "Fig 1B"
-        }, 
-        "testModel": "Models/synSynth7_FMRP_19Dec2019.g", 
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
         "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
-    }, 
+    },
     "Experiment": {
-        "design": "TimeSeries", 
-        "species": "cell-line", 
-        "cellType": "GT1-7 mouse hypothalamic neurons", 
-        "temperature": 37, 
+        "design": "TimeSeries",
+        "species": "cell-line",
+        "cellType": "GT1-7 mouse hypothalamic neurons",
+        "temperature": 37,
         "notes": "50 ng/ml EGF. Plot is in arb units, so rescaled to max."
-    }, 
+    },
     "Stimuli": [
         {
-            "timeUnits": "sec", 
-            "quantityUnits": "nM", 
-            "entity": "EGF", 
-            "field": "conc", 
+            "timeUnits": "sec",
+            "quantityUnits": "nM",
+            "entity": {
+                "name": "EGF",
+                "alias": "EGF"
+            },
+            "field": "conc",
             "data": [
                 [
-                    4000, 
+                    4000,
                     7.8125
                 ]
             ]
         }
-    ], 
+    ],
     "Readouts": {
-        "timeUnits": "sec", 
-        "quantityUnits": "ratio", 
-        "entities": [
-            "aMAPK"
-        ], 
-        "field": "conc", 
+        "timeUnits": "sec",
+        "quantityUnits": "ratio",
+        "entity": {
+            "name": "aMAPK",
+            "alias": "aMAPK"
+        },
+        "field": "conc",
         "normalization": {
-            "sampling": "max", 
-            "entities": [
-                "aMAPK"
-            ]
-        }, 
+            "sampling": "max",
+            "entity": {
+                "name": "aMAPK"
+            }
+        },
         "data": [
             [
-                4000.0, 
-                0.028, 
+                4000.0,
+                0.028,
                 0.0
-            ], 
+            ],
             [
-                4120.0, 
-                0.508, 
+                4120.0,
+                0.508,
                 0.087
-            ], 
+            ],
             [
-                4240.0, 
+                4240.0,
                 1.0,
                 0.117
-            ], 
+            ],
             [
-                4480.0, 
-                0.633, 
+                4480.0,
+                0.633,
                 0.076
-            ], 
+            ],
             [
-                4960.0, 
-                0.271, 
+                4960.0,
+                0.271,
                 0.038
-            ], 
+            ],
             [
-                5920.0, 
-                0.11, 
+                5920.0,
+                0.11,
                 0.033
-            ], 
+            ],
             [
-                7840.0, 
-                0.097, 
+                7840.0,
+                0.097,
                 0.046
             ]
         ]
-    }, 
+    },
     "Modifications": {
         "subset": [
-            "all"
-        ], 
+            {
+                "name": "all"
+            }
+        ],
         "parameterChange": [
             {
-                "units": "none", 
-                "field": "isBuffered", 
-                "value": 1, 
-                "entity": "EGF"
+                "entity": {
+                    "name": "EGF"
+                },
+                "field": "isBuffered",
+                "value": 1,
+                "units": "none"
             }
         ]
     }

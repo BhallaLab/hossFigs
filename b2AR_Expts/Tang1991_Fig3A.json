@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -26,7 +26,10 @@
     "Stimuli": [
         {
             "timeUnits": "sec",
-            "entity": "CaM",
+            "entity": {
+                "name": "CaM",
+                "alias": "CaM"
+            },
             "field": "conc",
             "quantityUnits": "nM"
         }
@@ -35,22 +38,22 @@
         "timeUnits": "sec",
         "settleTime": 600,
         "quantityUnits": "ratio",
-        "entities": [
-            "cAMP"
-        ],
+        "entity": {
+            "name": "cAMP",
+            "alias": "cAMP"
+        },
         "field": "conc",
         "normalization": {
             "sampling": "dose",
-            "entities": [
-                "cAMP"
-            ],
-            "dose": 620.0,
-            "time": 600
+            "entity": {
+                "name": "cAMP"
+            },
+            "dose": 620.0
         },
         "display": {
-            "useXlog": true, 
+            "useXlog": true,
             "useYlog": false
-        }, 
+        },
         "data": [
             [
                 1.0,
@@ -71,7 +74,7 @@
                 23.0,
                 0.559,
                 0.0
-	    ],
+            ],
             [
                 68.5,
                 0.761,
@@ -84,26 +87,37 @@
             ],
             [
                 620.0,
-                1.00,
+                1.0,
                 0.0
             ]
         ]
     },
     "Modifications": {
         "subset": [
-            "AC_g",
-            "Ca_g",
-            "CaM_g"
+            {
+                "name": "AC_g"
+            },
+            {
+                "name": "Ca_g"
+            },
+            {
+                "name": "CaM_g"
+            }
         ],
         "parameterChange": [
             {
-                "entity": "Ca",
+                "entity": {
+                    "name": "Ca",
+                    "alias": "Ca"
+                },
                 "field": "concInit",
                 "value": 100.0,
                 "units": "uM"
             },
             {
-                "entity": "Ca",
+                "entity": {
+                    "name": "Ca"
+                },
                 "field": "isBuffered",
                 "value": 0.0,
                 "units": "none"

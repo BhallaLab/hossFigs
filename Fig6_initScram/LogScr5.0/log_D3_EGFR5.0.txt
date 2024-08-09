@@ -1,1316 +1,1306 @@
-Launching wrapRunOptimizer 3 at time = 0.687 for SCRAM_D3_EGFR/scram_003.json 
-Launching wrapRunOptimizer 4 at time = 0.687 for SCRAM_D3_EGFR/scram_004.json 
-Launching wrapRunOptimizer 1 at time = 0.687 for SCRAM_D3_EGFR/scram_001.json 
-Launching wrapRunOptimizer 0 at time = 0.687 for SCRAM_D3_EGFR/scram_000.json 
-Launching wrapRunOptimizer 2 at time = 0.687 for SCRAM_D3_EGFR/scram_002.json 
-Launching wrapRunOptimizer 5 at time = 0.687 for SCRAM_D3_EGFR/scram_005.json 
-Launching wrapRunOptimizer 6 at time = 0.687 for SCRAM_D3_EGFR/scram_006.json 
-Launching wrapRunOptimizer 8 at time = 0.687 for SCRAM_D3_EGFR/scram_008.json 
-Launching wrapRunOptimizer 7 at time = 0.687 for SCRAM_D3_EGFR/scram_007.json 
-Launching wrapRunOptimizer 9 at time = 0.687 for SCRAM_D3_EGFR/scram_009.json 
-Launching wrapRunOptimizer 11 at time = 0.688 for SCRAM_D3_EGFR/scram_011.json 
-Launching wrapRunOptimizer 10 at time = 0.687 for SCRAM_D3_EGFR/scram_010.json 
-Launching wrapRunOptimizer 12 at time = 0.688 for SCRAM_D3_EGFR/scram_012.json 
-Launching wrapRunOptimizer 14 at time = 0.688 for SCRAM_D3_EGFR/scram_014.json 
-Launching wrapRunOptimizer 17 at time = 0.688 for SCRAM_D3_EGFR/scram_017.json 
-Launching wrapRunOptimizer 15 at time = 0.688 for SCRAM_D3_EGFR/scram_015.json 
-Launching wrapRunOptimizer 13 at time = 0.688 for SCRAM_D3_EGFR/scram_013.json 
-Launching wrapRunOptimizer 16 at time = 0.688 for SCRAM_D3_EGFR/scram_016.json 
-Launching wrapRunOptimizer 18 at time = 0.688 for SCRAM_D3_EGFR/scram_018.json 
-Launching wrapRunOptimizer 19 at time = 0.688 for SCRAM_D3_EGFR/scram_019.json 
-Launching wrapRunOptimizer 23 at time = 0.688 for SCRAM_D3_EGFR/scram_023.json 
-Launching wrapRunOptimizer 20 at time = 0.688 for SCRAM_D3_EGFR/scram_020.json 
-Launching wrapRunOptimizer 21 at time = 0.688 for SCRAM_D3_EGFR/scram_021.json 
-Launching wrapRunOptimizer 22 at time = 0.688 for SCRAM_D3_EGFR/scram_022.json 
-Warning: Score mismatch in processIntermediateResults:  0.15013468768569788 0.14924694803249133
-Level 004.1 --- Init Score: 0.517   OptimizedScore 0.149       Time: 1.266 s
-Level 007.1 --- Init Score: 0.486   OptimizedScore 0.155       Time: 1.318 s
-Level 013.1 --- Init Score: 0.349   OptimizedScore 0.301       Time: 1.399 s
-Level 020.1 --- Init Score: 0.449   OptimizedScore 0.200       Time: 2.281 s
-Level 012.1 --- Init Score: 0.408   OptimizedScore 0.336       Time: 1.650 s
-Warning: Score mismatch in processIntermediateResults:  0.19028571227155947 0.18995527070660825
-Level 014.1 --- Init Score: 0.301   OptimizedScore 0.190       Time: 1.591 s
-Level 009.1 --- Init Score: 0.341   OptimizedScore 0.229       Time: 1.887 s
-Level 022.1 --- Init Score: 0.380   OptimizedScore 0.215       Time: 1.987 s
-Level 006.1 --- Init Score: 0.463   OptimizedScore 0.225       Time: 2.192 s
-Level 021.1 --- Init Score: 0.356   OptimizedScore 0.209       Time: 2.423 s
-Level 008.1 --- Init Score: 0.467   OptimizedScore 0.160       Time: 3.272 s
-Level 016.1 --- Init Score: 0.257   OptimizedScore 0.138       Time: 3.173 s
-Level 019.1 --- Init Score: 0.307   OptimizedScore 0.192       Time: 3.164 s
-Level 010.1 --- Init Score: 0.184   OptimizedScore 0.143       Time: 3.909 s
-Level 023.1 --- Init Score: 0.312   OptimizedScore 0.136       Time: 3.695 s
-Level 002.1 --- Init Score: 0.360   OptimizedScore 0.137       Time: 4.065 s
-Warning: Score mismatch in processIntermediateResults:  0.30494841890524493 0.3045794955703083
-Level 011.1 --- Init Score: 0.365   OptimizedScore 0.305       Time: 4.582 s
-Level 000.1 --- Init Score: 0.338   OptimizedScore 0.219       Time: 4.752 s
-Warning: Score mismatch in processIntermediateResults:  0.17274363894227446 0.17237204417138108
-Level 018.1 --- Init Score: 0.435   OptimizedScore 0.172       Time: 5.058 s
-Level 001.1 --- Init Score: 0.286   OptimizedScore 0.133       Time: 6.385 s
-Level 015.1 --- Init Score: 0.425   OptimizedScore 0.198       Time: 7.011 s
-Level 017.1 --- Init Score: 0.218   OptimizedScore 0.154       Time: 12.085 s
-Warning: Initial value 2.597e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 007.2 --- Init Score: 0.575   OptimizedScore 0.528       Time: 12.014 s
-Launching wrapRunOptimizer 24 at time = 15.963 for SCRAM_D3_EGFR/scram_024.json 
-Level 004.2 --- Init Score: 0.561   OptimizedScore 0.419       Time: 12.601 s
-Launching wrapRunOptimizer 25 at time = 16.559 for SCRAM_D3_EGFR/scram_025.json 
-Warning: Score mismatch in processIntermediateResults:  0.1634323799156073 0.16315871341042912
-Level 005.1 --- Init Score: 0.365   OptimizedScore 0.163       Time: 15.524 s
-Level 012.2 --- Init Score: 0.553   OptimizedScore 0.477       Time: 15.686 s
-Launching wrapRunOptimizer 26 at time = 19.865 for SCRAM_D3_EGFR/scram_026.json 
-Level 025.1 --- Init Score: 0.495   OptimizedScore 0.142       Time: 2.848 s
-Level 019.2 --- Init Score: 0.574   OptimizedScore 0.442       Time: 16.770 s
-Warning: Initial value 0.001737 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 020.2 --- Init Score: 0.569   OptimizedScore 0.541       Time: 18.559 s
-Launching wrapRunOptimizer 27 at time = 22.619 for SCRAM_D3_EGFR/scram_027.json 
-Launching wrapRunOptimizer 28 at time = 22.823 for SCRAM_D3_EGFR/scram_028.json 
-Level 014.2 --- Init Score: 0.565   OptimizedScore 0.542       Time: 19.882 s
-Level 003.1 --- Init Score: 0.394   OptimizedScore 0.142       Time: 22.275 s
-Launching wrapRunOptimizer 29 at time = 24.136 for SCRAM_D3_EGFR/scram_029.json 
-Level 026.1 --- Init Score: 0.334   OptimizedScore 0.147       Time: 4.192 s
-Level 027.1 --- Init Score: 0.360   OptimizedScore 0.142       Time: 2.646 s
-Level 024.1 --- Init Score: 0.412   OptimizedScore 0.142       Time: 9.699 s
-Warning: Initial value 1.998e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 022.2 --- Init Score: 0.574   OptimizedScore 0.413       Time: 22.388 s
-Warning: Initial value 5.978e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 008.2 --- Init Score: 0.465   OptimizedScore 0.300       Time: 21.888 s
-Level 028.1 --- Init Score: 0.239   OptimizedScore 0.196       Time: 3.152 s
-Launching wrapRunOptimizer 30 at time = 27.190 for SCRAM_D3_EGFR/scram_030.json 
-Launching wrapRunOptimizer 31 at time = 27.310 for SCRAM_D3_EGFR/scram_031.json 
-Level 029.1 --- Init Score: 0.351   OptimizedScore 0.188       Time: 3.484 s
-Warning: Initial value 0.003207 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 010.2 --- Init Score: 0.573   OptimizedScore 0.292       Time: 22.567 s
-Launching wrapRunOptimizer 32 at time = 28.810 for SCRAM_D3_EGFR/scram_032.json 
-Warning: Score mismatch in processIntermediateResults:  0.18671344720661034 0.18612153954461327
-Level 030.1 --- Init Score: 0.375   OptimizedScore 0.186       Time: 2.401 s
-Level 031.1 --- Init Score: 0.304   OptimizedScore 0.173       Time: 4.542 s
-Level 013.2 --- Init Score: 0.461   OptimizedScore 0.398       Time: 29.959 s
-Launching wrapRunOptimizer 33 at time = 34.026 for SCRAM_D3_EGFR/scram_033.json 
-Warning: Initial value 2.952e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 002.2 --- Init Score: 0.567   OptimizedScore 0.424       Time: 28.293 s
-Warning: Initial value 1.803e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 021.2 --- Init Score: 0.584   OptimizedScore 0.409       Time: 30.020 s
-Launching wrapRunOptimizer 34 at time = 35.005 for SCRAM_D3_EGFR/scram_034.json 
-Launching wrapRunOptimizer 35 at time = 35.209 for SCRAM_D3_EGFR/scram_035.json 
-Level 025.2 --- Init Score: 0.529   OptimizedScore 0.333       Time: 15.351 s
-Launching wrapRunOptimizer 36 at time = 35.997 for SCRAM_D3_EGFR/scram_036.json 
-Level 033.1 --- Init Score: 0.434   OptimizedScore 0.165       Time: 2.209 s
-Level 001.2 --- Init Score: 0.530   OptimizedScore 0.422       Time: 28.690 s
-Level 018.2 --- Init Score: 0.559   OptimizedScore 0.342       Time: 30.162 s
-Launching wrapRunOptimizer 37 at time = 37.414 for SCRAM_D3_EGFR/scram_037.json 
-Launching wrapRunOptimizer 38 at time = 38.061 for SCRAM_D3_EGFR/scram_038.json 
-Level 035.1 --- Init Score: 0.289   OptimizedScore 0.205       Time: 2.341 s
-Level 005.2 --- Init Score: 0.571   OptimizedScore 0.320       Time: 22.149 s
-Launching wrapRunOptimizer 39 at time = 40.175 for SCRAM_D3_EGFR/scram_039.json 
-Level 034.1 --- Init Score: 0.261   OptimizedScore 0.136       Time: 4.717 s
-Level 037.1 --- Init Score: 0.375   OptimizedScore 0.142       Time: 2.478 s
-Level 038.1 --- Init Score: 0.399   OptimizedScore 0.210       Time: 2.922 s
-Warning: Initial value 0.002052 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 015.2 --- Init Score: 0.521   OptimizedScore 0.419       Time: 34.946 s
-Launching wrapRunOptimizer 40 at time = 44.088 for SCRAM_D3_EGFR/scram_040.json 
-Level 032.1 --- Init Score: 0.278   OptimizedScore 0.150       Time: 15.022 s
-Level 011.2 --- Init Score: 0.535   OptimizedScore 0.411       Time: 39.574 s
-Launching wrapRunOptimizer 41 at time = 46.700 for SCRAM_D3_EGFR/scram_041.json 
-Level 017.2 --- Init Score: 0.557   OptimizedScore 0.293       Time: 32.736 s
-Warning: Initial value 0.007405 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Score mismatch in processIntermediateResults:  0.34259801246641713 0.34220149212299256
-Level 030.2 --- Init Score: 0.545   OptimizedScore 0.342       Time: 17.053 s
-Launching wrapRunOptimizer 42 at time = 47.601 for SCRAM_D3_EGFR/scram_042.json 
-Level 036.1 --- Init Score: 0.362   OptimizedScore 0.150       Time: 11.279 s
-Launching wrapRunOptimizer 43 at time = 48.103 for SCRAM_D3_EGFR/scram_043.json 
-Level 040.1 --- Init Score: 0.440   OptimizedScore 0.176       Time: 3.968 s
-Level 039.1 --- Init Score: 0.321   OptimizedScore 0.251       Time: 7.995 s
-Warning: Initial value 0.001017 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 027.2 --- Init Score: 0.555   OptimizedScore 0.538       Time: 27.436 s
-Launching wrapRunOptimizer 44 at time = 53.713 for SCRAM_D3_EGFR/scram_044.json 
-Level 026.2 --- Init Score: 0.467   OptimizedScore 0.295       Time: 29.815 s
-Level 042.1 --- Init Score: 0.263   OptimizedScore 0.249       Time: 6.481 s
-Launching wrapRunOptimizer 45 at time = 54.927 for SCRAM_D3_EGFR/scram_045.json 
-Warning: Initial value 3.017e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 003.2 --- Init Score: 0.533   OptimizedScore 0.306       Time: 32.164 s
-Launching wrapRunOptimizer 46 at time = 56.360 for SCRAM_D3_EGFR/scram_046.json 
-Warning: Initial value 4.462e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 033.2 --- Init Score: 0.436   OptimizedScore 0.411       Time: 21.731 s
-Level 029.2 --- Init Score: 0.565   OptimizedScore 0.306       Time: 30.579 s
-Launching wrapRunOptimizer 47 at time = 59.132 for SCRAM_D3_EGFR/scram_047.json 
-Launching wrapRunOptimizer 48 at time = 59.299 for SCRAM_D3_EGFR/scram_048.json 
-Warning: Initial value 3.38e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 009.2 --- Init Score: 0.592   OptimizedScore 0.453       Time: 55.649 s
-Launching wrapRunOptimizer 49 at time = 60.360 for SCRAM_D3_EGFR/scram_049.json 
-Level 035.2 --- Init Score: 0.557   OptimizedScore 0.290       Time: 23.499 s
-Level 023.2 --- Init Score: 0.529   OptimizedScore 0.406       Time: 56.195 s
-Launching wrapRunOptimizer 50 at time = 62.304 for SCRAM_D3_EGFR/scram_050.json 
-Launching wrapRunOptimizer 51 at time = 62.587 for SCRAM_D3_EGFR/scram_051.json 
-Level 048.1 --- Init Score: 0.250   OptimizedScore 0.223       Time: 3.421 s
-Level 049.1 --- Init Score: 0.250   OptimizedScore 0.196       Time: 3.095 s
-Level 041.1 --- Init Score: 0.398   OptimizedScore 0.137       Time: 17.025 s
-Level 036.2 --- Init Score: 0.569   OptimizedScore 0.455       Time: 17.106 s
-Launching wrapRunOptimizer 52 at time = 65.410 for SCRAM_D3_EGFR/scram_052.json 
-Level 046.1 --- Init Score: 0.306   OptimizedScore 0.134       Time: 9.233 s
-Level 051.1 --- Init Score: 0.285   OptimizedScore 0.184       Time: 2.879 s
-Level 000.2 --- Init Score: 0.416   OptimizedScore 0.404       Time: 59.521 s
-Level 043.1 --- Init Score: 0.261   OptimizedScore 0.246       Time: 17.957 s
-Launching wrapRunOptimizer 53 at time = 66.883 for SCRAM_D3_EGFR/scram_053.json 
-Warning: Initial value 2.445e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 024.2 --- Init Score: 0.575   OptimizedScore 0.345       Time: 41.543 s
-Launching wrapRunOptimizer 54 at time = 68.287 for SCRAM_D3_EGFR/scram_054.json 
-Level 032.2 --- Init Score: 0.470   OptimizedScore 0.293       Time: 24.776 s
-Level 006.2 --- Init Score: 0.527   OptimizedScore 0.389       Time: 65.046 s
-Launching wrapRunOptimizer 55 at time = 69.600 for SCRAM_D3_EGFR/scram_055.json 
-Launching wrapRunOptimizer 56 at time = 69.797 for SCRAM_D3_EGFR/scram_056.json 
-Level 047.1 --- Init Score: 0.280   OptimizedScore 0.169       Time: 10.179 s
-Level 050.1 --- Init Score: 0.367   OptimizedScore 0.152       Time: 7.492 s
-Level 045.1 --- Init Score: 0.232   OptimizedScore 0.171       Time: 15.331 s
-Level 034.2 --- Init Score: 0.585   OptimizedScore 0.396       Time: 30.822 s
-Launching wrapRunOptimizer 57 at time = 71.696 for SCRAM_D3_EGFR/scram_057.json 
-Level 037.2 --- Init Score: 0.546   OptimizedScore 0.406       Time: 31.320 s
-Launching wrapRunOptimizer 58 at time = 72.529 for SCRAM_D3_EGFR/scram_058.json 
-Level 055.1 --- Init Score: 0.348   OptimizedScore 0.211       Time: 2.679 s
-Level 052.1 --- Init Score: 0.193   OptimizedScore 0.129       Time: 8.134 s
-Level 057.1 --- Init Score: 0.363   OptimizedScore 0.323       Time: 2.317 s
-Level 054.1 --- Init Score: 0.200   OptimizedScore 0.133       Time: 6.397 s
-Warning: Score mismatch in processIntermediateResults:  0.19653408852039653 0.1960543799442633
-Level 058.1 --- Init Score: 0.442   OptimizedScore 0.196       Time: 2.254 s
-Level 040.2 --- Init Score: 0.562   OptimizedScore 0.385       Time: 26.657 s
-Launching wrapRunOptimizer 59 at time = 75.782 for SCRAM_D3_EGFR/scram_059.json 
-Level 056.1 --- Init Score: 0.247   OptimizedScore 0.136       Time: 5.601 s
-Level 053.1 --- Init Score: 0.267   OptimizedScore 0.169       Time: 9.078 s
-Level 044.1 --- Init Score: 0.394   OptimizedScore 0.128       Time: 22.436 s
-Level 059.1 --- Init Score: 0.345   OptimizedScore 0.184       Time: 3.078 s
-Warning: Initial value 0.001006 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 031.2 --- Init Score: 0.390   OptimizedScore 0.287       Time: 47.175 s
-Level 048.2 --- Init Score: 0.554   OptimizedScore 0.407       Time: 16.705 s
-Level 041.2 --- Init Score: 0.581   OptimizedScore 0.387       Time: 15.912 s
-Launching wrapRunOptimizer 60 at time = 80.269 for SCRAM_D3_EGFR/scram_060.json 
-Launching wrapRunOptimizer 61 at time = 81.078 for SCRAM_D3_EGFR/scram_061.json 
-Launching wrapRunOptimizer 62 at time = 81.080 for SCRAM_D3_EGFR/scram_062.json 
-Level 051.2 --- Init Score: 0.534   OptimizedScore 0.399       Time: 15.249 s
-Warning: Initial value 3.382e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 039.2 --- Init Score: 0.500   OptimizedScore 0.417       Time: 32.700 s
-Warning: Initial value 3.74e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 046.2 --- Init Score: 0.546   OptimizedScore 0.303       Time: 15.875 s
-Launching wrapRunOptimizer 63 at time = 82.015 for SCRAM_D3_EGFR/scram_063.json 
-Launching wrapRunOptimizer 64 at time = 82.219 for SCRAM_D3_EGFR/scram_064.json 
-Warning: Initial value 2.425e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 028.2 --- Init Score: 0.457   OptimizedScore 0.415       Time: 55.702 s
-Launching wrapRunOptimizer 65 at time = 82.560 for SCRAM_D3_EGFR/scram_065.json 
-Launching wrapRunOptimizer 66 at time = 83.064 for SCRAM_D3_EGFR/scram_066.json 
-Level 063.1 --- Init Score: 0.455   OptimizedScore 0.258       Time: 1.280 s
-Level 061.1 --- Init Score: 0.327   OptimizedScore 0.202       Time: 2.501 s
-Level 065.1 --- Init Score: 0.401   OptimizedScore 0.221       Time: 2.267 s
-Warning: Initial value 7.129e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 016.2 --- Init Score: 0.563   OptimizedScore 0.294       Time: 80.915 s
-Level 060.1 --- Init Score: 0.250   OptimizedScore 0.211       Time: 5.270 s
-Launching wrapRunOptimizer 67 at time = 86.651 for SCRAM_D3_EGFR/scram_067.json 
-Level 062.1 --- Init Score: 0.339   OptimizedScore 0.128       Time: 5.212 s
-Level 054.2 --- Init Score: 0.561   OptimizedScore 0.552       Time: 11.808 s
-Launching wrapRunOptimizer 68 at time = 87.551 for SCRAM_D3_EGFR/scram_068.json 
-Level 066.1 --- Init Score: 0.313   OptimizedScore 0.151       Time: 4.747 s
-Level 064.1 --- Init Score: 0.228   OptimizedScore 0.139       Time: 5.958 s
-Level 067.1 --- Init Score: 0.457   OptimizedScore 0.129       Time: 2.481 s
-Level 068.1 --- Init Score: 0.220   OptimizedScore 0.202       Time: 6.818 s
-Warning: Initial value 1.863e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 049.2 --- Init Score: 0.561   OptimizedScore 0.366       Time: 31.350 s
-Launching wrapRunOptimizer 69 at time = 95.748 for SCRAM_D3_EGFR/scram_069.json 
-Warning: Initial value 2.617e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 056.2 --- Init Score: 0.557   OptimizedScore 0.298       Time: 20.181 s
-Warning: Initial value 4.079e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 053.2 --- Init Score: 0.546   OptimizedScore 0.396       Time: 19.931 s
-Launching wrapRunOptimizer 70 at time = 97.001 for SCRAM_D3_EGFR/scram_070.json 
-Launching wrapRunOptimizer 71 at time = 97.079 for SCRAM_D3_EGFR/scram_071.json 
-Level 055.2 --- Init Score: 0.540   OptimizedScore 0.394       Time: 24.765 s
-Level 038.2 --- Init Score: 0.420   OptimizedScore 0.290       Time: 56.496 s
-Launching wrapRunOptimizer 72 at time = 98.359 for SCRAM_D3_EGFR/scram_072.json 
-Launching wrapRunOptimizer 73 at time = 98.622 for SCRAM_D3_EGFR/scram_073.json 
-Level 052.2 --- Init Score: 0.552   OptimizedScore 0.395       Time: 25.782 s
-Level 071.1 --- Init Score: 0.458   OptimizedScore 0.397       Time: 2.260 s
-Launching wrapRunOptimizer 74 at time = 100.371 for SCRAM_D3_EGFR/scram_074.json 
-Warning: Score mismatch in processIntermediateResults:  0.20772621036148545 0.20739877558530614
-Level 069.1 --- Init Score: 0.377   OptimizedScore 0.207       Time: 4.078 s
-Level 070.1 --- Init Score: 0.228   OptimizedScore 0.188       Time: 3.920 s
-Level 072.1 --- Init Score: 0.281   OptimizedScore 0.187       Time: 3.172 s
-Level 060.2 --- Init Score: 0.566   OptimizedScore 0.538       Time: 15.808 s
-Launching wrapRunOptimizer 75 at time = 102.553 for SCRAM_D3_EGFR/scram_075.json 
-Level 058.2 --- Init Score: 0.555   OptimizedScore 0.478       Time: 27.761 s
-Level 059.2 --- Init Score: 0.574   OptimizedScore 0.554       Time: 23.918 s
-Launching wrapRunOptimizer 76 at time = 103.654 for SCRAM_D3_EGFR/scram_076.json 
-Level 047.2 --- Init Score: 0.583   OptimizedScore 0.392       Time: 33.796 s
-Level 044.2 --- Init Score: 0.451   OptimizedScore 0.287       Time: 27.128 s
-Warning: Initial value 0.001153 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 045.2 --- Init Score: 0.556   OptimizedScore 0.295       Time: 33.279 s
-Launching wrapRunOptimizer 77 at time = 104.068 for SCRAM_D3_EGFR/scram_077.json 
-Launching wrapRunOptimizer 78 at time = 104.535 for SCRAM_D3_EGFR/scram_078.json 
-Launching wrapRunOptimizer 79 at time = 104.654 for SCRAM_D3_EGFR/scram_079.json 
-Launching wrapRunOptimizer 80 at time = 104.856 for SCRAM_D3_EGFR/scram_080.json 
-Level 075.1 --- Init Score: 0.489   OptimizedScore 0.204       Time: 2.235 s
-Level 077.1 --- Init Score: 0.399   OptimizedScore 0.208       Time: 2.490 s
-Warning: Score mismatch in processIntermediateResults:  0.3224636616684978 0.3221327734869335
-Level 067.2 --- Init Score: 0.559   OptimizedScore 0.322       Time: 18.061 s
-Launching wrapRunOptimizer 81 at time = 108.115 for SCRAM_D3_EGFR/scram_081.json 
-Level 074.1 --- Init Score: 0.181   OptimizedScore 0.133       Time: 7.297 s
-Level 076.1 --- Init Score: 0.303   OptimizedScore 0.139       Time: 4.848 s
-Level 079.1 --- Init Score: 0.194   OptimizedScore 0.136       Time: 5.167 s
-Warning: Initial value 2.641e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 062.2 --- Init Score: 0.562   OptimizedScore 0.334       Time: 24.392 s
-Launching wrapRunOptimizer 82 at time = 111.759 for SCRAM_D3_EGFR/scram_082.json 
-Level 081.1 --- Init Score: 0.206   OptimizedScore 0.169       Time: 3.940 s
-Warning: Initial value 0.001201 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 063.2 --- Init Score: 0.544   OptimizedScore 0.401       Time: 28.659 s
-Level 042.2 --- Init Score: 0.474   OptimizedScore 0.397       Time: 58.094 s
-Launching wrapRunOptimizer 83 at time = 113.127 for SCRAM_D3_EGFR/scram_083.json 
-Launching wrapRunOptimizer 84 at time = 113.618 for SCRAM_D3_EGFR/scram_084.json 
-Level 082.1 --- Init Score: 0.342   OptimizedScore 0.169       Time: 2.386 s
-Level 083.1 --- Init Score: 0.482   OptimizedScore 0.254       Time: 4.242 s
-Warning: Initial value 3.819e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 072.2 --- Init Score: 0.564   OptimizedScore 0.408       Time: 17.071 s
-Launching wrapRunOptimizer 85 at time = 119.729 for SCRAM_D3_EGFR/scram_085.json 
-Level 084.1 --- Init Score: 0.363   OptimizedScore 0.235       Time: 5.815 s
-Warning: Initial value 0.00199 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 068.2 --- Init Score: 0.565   OptimizedScore 0.325       Time: 25.188 s
-Launching wrapRunOptimizer 86 at time = 120.618 for SCRAM_D3_EGFR/scram_086.json 
-Level 073.1 --- Init Score: 0.299   OptimizedScore 0.131       Time: 21.927 s
-Level 070.2 --- Init Score: 0.575   OptimizedScore 0.555       Time: 19.430 s
-Launching wrapRunOptimizer 87 at time = 121.665 for SCRAM_D3_EGFR/scram_087.json 
-Level 080.1 --- Init Score: 0.441   OptimizedScore 0.164       Time: 16.358 s
-Warning: Score mismatch in processIntermediateResults:  0.14898729447722764 0.14872402251297395
-Level 085.1 --- Init Score: 0.386   OptimizedScore 0.149       Time: 2.928 s
-Level 087.1 --- Init Score: 0.281   OptimizedScore 0.206       Time: 2.106 s
-Warning: Initial value 2.16e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 079.2 --- Init Score: 0.573   OptimizedScore 0.446       Time: 14.051 s
-Level 043.2 --- Init Score: 0.578   OptimizedScore 0.412       Time: 58.418 s
-Launching wrapRunOptimizer 88 at time = 125.240 for SCRAM_D3_EGFR/scram_088.json 
-Launching wrapRunOptimizer 89 at time = 126.076 for SCRAM_D3_EGFR/scram_089.json 
-Warning: Score mismatch in processIntermediateResults:  0.2219418173360961 0.2213712095880114
-Level 078.1 --- Init Score: 0.334   OptimizedScore 0.221       Time: 21.814 s
-Warning: Initial value 1.07e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 066.2 --- Init Score: 0.581   OptimizedScore 0.408       Time: 39.285 s
-Level 077.2 --- Init Score: 0.563   OptimizedScore 0.347       Time: 20.690 s
-Launching wrapRunOptimizer 90 at time = 128.144 for SCRAM_D3_EGFR/scram_090.json 
-Launching wrapRunOptimizer 91 at time = 128.830 for SCRAM_D3_EGFR/scram_091.json 
-Level 088.1 --- Init Score: 0.228   OptimizedScore 0.133       Time: 3.708 s
-Level 081.2 --- Init Score: 0.572   OptimizedScore 0.505       Time: 18.068 s
-Launching wrapRunOptimizer 92 at time = 131.042 for SCRAM_D3_EGFR/scram_092.json 
-Warning: Score mismatch in processIntermediateResults:  0.35220898452325566 0.3518492782242485
-Level 091.1 --- Init Score: 0.390   OptimizedScore 0.352       Time: 2.999 s
-Level 086.1 --- Init Score: 0.290   OptimizedScore 0.130       Time: 12.210 s
-Level 090.1 --- Init Score: 0.336   OptimizedScore 0.132       Time: 4.482 s
-Warning: Score mismatch in processIntermediateResults:  0.23446584532463405 0.23327913144664064
-Level 092.1 --- Init Score: 0.502   OptimizedScore 0.233       Time: 2.224 s
-Level 089.1 --- Init Score: 0.339   OptimizedScore 0.313       Time: 7.950 s
-Level 084.2 --- Init Score: 0.562   OptimizedScore 0.424       Time: 16.248 s
-Level 083.2 --- Init Score: 0.582   OptimizedScore 0.459       Time: 18.447 s
-Level 050.2 --- Init Score: 0.558   OptimizedScore 0.401       Time: 66.342 s
-Launching wrapRunOptimizer 93 at time = 136.869 for SCRAM_D3_EGFR/scram_093.json 
-Launching wrapRunOptimizer 94 at time = 137.187 for SCRAM_D3_EGFR/scram_094.json 
-Launching wrapRunOptimizer 95 at time = 137.737 for SCRAM_D3_EGFR/scram_095.json 
-Warning: Initial value 1.558e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 082.2 --- Init Score: 0.553   OptimizedScore 0.312       Time: 26.635 s
-Launching wrapRunOptimizer 96 at time = 141.813 for SCRAM_D3_EGFR/scram_096.json 
-Level 094.1 --- Init Score: 0.395   OptimizedScore 0.327       Time: 4.402 s
-Level 061.2 --- Init Score: 0.533   OptimizedScore 0.405       Time: 58.441 s
-Warning: Initial value 3.36e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 087.2 --- Init Score: 0.560   OptimizedScore 0.419       Time: 18.335 s
-Level 095.1 --- Init Score: 0.409   OptimizedScore 0.330       Time: 4.518 s
-Level 065.2 --- Init Score: 0.397   OptimizedScore 0.309       Time: 57.548 s
-Launching wrapRunOptimizer 97 at time = 143.181 for SCRAM_D3_EGFR/scram_097.json 
-Launching wrapRunOptimizer 98 at time = 143.189 for SCRAM_D3_EGFR/scram_098.json 
-Level 073.2 --- Init Score: 0.580   OptimizedScore 0.548       Time: 22.190 s
-Launching wrapRunOptimizer 99 at time = 143.992 for SCRAM_D3_EGFR/scram_099.json 
-Launching wrapRunOptimizer 100 at time = 144.043 for SCRAM_D3_EGFR/scram_100.json 
-Level 088.2 --- Init Score: 0.576   OptimizedScore 0.335       Time: 15.287 s
-Launching wrapRunOptimizer 101 at time = 145.484 for SCRAM_D3_EGFR/scram_101.json 
-Level 064.2 --- Init Score: 0.433   OptimizedScore 0.349       Time: 56.545 s
-Level 093.1 --- Init Score: 0.258   OptimizedScore 0.140       Time: 8.332 s
-Launching wrapRunOptimizer 102 at time = 146.148 for SCRAM_D3_EGFR/scram_102.json 
-Level 076.2 --- Init Score: 0.444   OptimizedScore 0.413       Time: 37.555 s
-Warning: Initial value 4.494e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 074.2 --- Init Score: 0.554   OptimizedScore 0.321       Time: 38.917 s
-Launching wrapRunOptimizer 103 at time = 147.413 for SCRAM_D3_EGFR/scram_103.json 
-Launching wrapRunOptimizer 104 at time = 147.874 for SCRAM_D3_EGFR/scram_104.json 
-Level 089.2 --- Init Score: 0.572   OptimizedScore 0.437       Time: 13.549 s
-Launching wrapRunOptimizer 105 at time = 148.699 for SCRAM_D3_EGFR/scram_105.json 
-Level 100.1 --- Init Score: 0.485   OptimizedScore 0.143       Time: 4.093 s
-Level 099.1 --- Init Score: 0.297   OptimizedScore 0.151       Time: 5.062 s
-Level 103.1 --- Init Score: 0.329   OptimizedScore 0.187       Time: 2.063 s
-Level 101.1 --- Init Score: 0.183   OptimizedScore 0.153       Time: 5.775 s
-Warning: Initial value 2.368e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 078.2 --- Init Score: 0.547   OptimizedScore 0.338       Time: 26.167 s
-Level 097.1 --- Init Score: 0.233   OptimizedScore 0.223       Time: 9.350 s
-Level 096.1 --- Init Score: 0.334   OptimizedScore 0.148       Time: 11.406 s
-Level 102.1 --- Init Score: 0.396   OptimizedScore 0.323       Time: 7.214 s
-Launching wrapRunOptimizer 106 at time = 153.952 for SCRAM_D3_EGFR/scram_106.json 
-Level 098.1 --- Init Score: 0.206   OptimizedScore 0.137       Time: 9.971 s
-Level 085.2 --- Init Score: 0.579   OptimizedScore 0.390       Time: 33.358 s
-Level 104.1 --- Init Score: 0.309   OptimizedScore 0.217       Time: 8.365 s
-Launching wrapRunOptimizer 107 at time = 157.004 for SCRAM_D3_EGFR/scram_107.json 
-Level 090.2 --- Init Score: 0.370   OptimizedScore 0.305       Time: 23.919 s
-Launching wrapRunOptimizer 108 at time = 157.872 for SCRAM_D3_EGFR/scram_108.json 
-Level 105.1 --- Init Score: 0.397   OptimizedScore 0.190       Time: 8.808 s
-Level 071.2 --- Init Score: 0.573   OptimizedScore 0.298       Time: 58.122 s
-Launching wrapRunOptimizer 109 at time = 158.858 for SCRAM_D3_EGFR/scram_109.json 
-Level 108.1 --- Init Score: 0.503   OptimizedScore 0.168       Time: 2.381 s
-Level 109.1 --- Init Score: 0.434   OptimizedScore 0.330       Time: 2.926 s
-Warning: Initial value 0.001511 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 075.2 --- Init Score: 0.530   OptimizedScore 0.401       Time: 58.935 s
-Launching wrapRunOptimizer 110 at time = 164.718 for SCRAM_D3_EGFR/scram_110.json 
-Level 094.2 --- Init Score: 0.560   OptimizedScore 0.541       Time: 25.367 s
-Launching wrapRunOptimizer 111 at time = 168.149 for SCRAM_D3_EGFR/scram_111.json 
-Level 095.2 --- Init Score: 0.607   OptimizedScore 0.587       Time: 26.142 s
-Level 093.2 --- Init Score: 0.574   OptimizedScore 0.445       Time: 23.053 s
-Launching wrapRunOptimizer 112 at time = 169.678 for SCRAM_D3_EGFR/scram_112.json 
-Launching wrapRunOptimizer 113 at time = 169.794 for SCRAM_D3_EGFR/scram_113.json 
-Warning: Initial value 4.56e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Score mismatch in processIntermediateResults:  0.2991872333044034 0.2988674835254346
-Level 086.2 --- Init Score: 0.562   OptimizedScore 0.299       Time: 36.948 s
-Launching wrapRunOptimizer 114 at time = 170.808 for SCRAM_D3_EGFR/scram_114.json 
-Level 107.1 --- Init Score: 0.380   OptimizedScore 0.141       Time: 13.312 s
-Level 106.1 --- Init Score: 0.328   OptimizedScore 0.170       Time: 16.471 s
-Level 111.1 --- Init Score: 0.221   OptimizedScore 0.148       Time: 3.165 s
-Level 101.2 --- Init Score: 0.575   OptimizedScore 0.395       Time: 20.065 s
-Warning: Score mismatch in processIntermediateResults:  0.25640296783795663 0.2560937420364394
-Level 112.1 --- Init Score: 0.416   OptimizedScore 0.256       Time: 2.077 s
-Launching wrapRunOptimizer 115 at time = 172.528 for SCRAM_D3_EGFR/scram_115.json 
-Warning: Initial value 7.615e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 091.2 --- Init Score: 0.578   OptimizedScore 0.408       Time: 40.161 s
-Launching wrapRunOptimizer 116 at time = 173.312 for SCRAM_D3_EGFR/scram_116.json 
-Level 113.1 --- Init Score: 0.318   OptimizedScore 0.275       Time: 3.226 s
-Level 114.1 --- Init Score: 0.268   OptimizedScore 0.135       Time: 3.477 s
-Warning: Initial value 4.272e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 102.2 --- Init Score: 0.550   OptimizedScore 0.427       Time: 21.701 s
-Level 115.1 --- Init Score: 0.426   OptimizedScore 0.141       Time: 2.476 s
-Launching wrapRunOptimizer 117 at time = 176.142 for SCRAM_D3_EGFR/scram_117.json 
-Level 109.2 --- Init Score: 0.559   OptimizedScore 0.543       Time: 14.722 s
-Launching wrapRunOptimizer 118 at time = 177.546 for SCRAM_D3_EGFR/scram_118.json 
-Level 096.2 --- Init Score: 0.450   OptimizedScore 0.313       Time: 25.123 s
-Launching wrapRunOptimizer 119 at time = 179.317 for SCRAM_D3_EGFR/scram_119.json 
-Level 117.1 --- Init Score: 0.298   OptimizedScore 0.137       Time: 4.216 s
-Level 104.2 --- Init Score: 0.590   OptimizedScore 0.435       Time: 24.192 s
-Launching wrapRunOptimizer 120 at time = 181.557 for SCRAM_D3_EGFR/scram_120.json 
-Level 116.1 --- Init Score: 0.198   OptimizedScore 0.140       Time: 8.634 s
-Level 118.1 --- Init Score: 0.410   OptimizedScore 0.177       Time: 5.281 s
-Level 119.1 --- Init Score: 0.328   OptimizedScore 0.132       Time: 4.672 s
-Warning: Initial value 2.798e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 100.2 --- Init Score: 0.570   OptimizedScore 0.384       Time: 36.007 s
-Level 105.2 --- Init Score: 0.569   OptimizedScore 0.283       Time: 27.210 s
-Launching wrapRunOptimizer 121 at time = 185.267 for SCRAM_D3_EGFR/scram_121.json 
-Warning: Initial value 0.001461 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 103.2 --- Init Score: 0.453   OptimizedScore 0.329       Time: 35.282 s
-Launching wrapRunOptimizer 122 at time = 186.019 for SCRAM_D3_EGFR/scram_122.json 
-Launching wrapRunOptimizer 123 at time = 186.204 for SCRAM_D3_EGFR/scram_123.json 
-Level 110.1 --- Init Score: 0.367   OptimizedScore 0.137       Time: 21.903 s
-Level 111.2 --- Init Score: 0.589   OptimizedScore 0.297       Time: 15.541 s
-Launching wrapRunOptimizer 124 at time = 187.822 for SCRAM_D3_EGFR/scram_124.json 
-Warning: Initial value 0.001298 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 080.2 --- Init Score: 0.573   OptimizedScore 0.482       Time: 67.092 s
-Warning: Initial value 1.248e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 107.2 --- Init Score: 0.576   OptimizedScore 0.296       Time: 18.376 s
-Launching wrapRunOptimizer 125 at time = 189.669 for SCRAM_D3_EGFR/scram_125.json 
-Launching wrapRunOptimizer 126 at time = 189.788 for SCRAM_D3_EGFR/scram_126.json 
-Level 092.2 --- Init Score: 0.567   OptimizedScore 0.396       Time: 57.318 s
-Level 120.1 --- Init Score: 0.245   OptimizedScore 0.174       Time: 9.243 s
-Warning: Score mismatch in processIntermediateResults:  0.1731873028457866 0.17277131981434052
-Level 124.1 --- Init Score: 0.367   OptimizedScore 0.173       Time: 3.049 s
-Launching wrapRunOptimizer 127 at time = 191.576 for SCRAM_D3_EGFR/scram_127.json 
-Level 115.2 --- Init Score: 0.568   OptimizedScore 0.321       Time: 16.790 s
-Warning: Score mismatch in processIntermediateResults:  0.1372804239216612 0.13702314283485242
-Level 126.1 --- Init Score: 0.561   OptimizedScore 0.137       Time: 2.428 s
-Launching wrapRunOptimizer 128 at time = 192.981 for SCRAM_D3_EGFR/scram_128.json 
-Level 125.1 --- Init Score: 0.351   OptimizedScore 0.158       Time: 2.762 s
-Warning: Initial value 4.853e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Score mismatch in processIntermediateResults:  0.3120774297512325 0.31168092090291794
-Level 057.2 --- Init Score: 0.553   OptimizedScore 0.312       Time: 118.652 s
-Warning: Score mismatch in processIntermediateResults:  0.25688832991732685 0.25647351189864354
-Level 121.1 --- Init Score: 0.363   OptimizedScore 0.256       Time: 7.776 s
-Launching wrapRunOptimizer 129 at time = 194.121 for SCRAM_D3_EGFR/scram_129.json 
-Level 127.1 --- Init Score: 0.355   OptimizedScore 0.215       Time: 2.192 s
-Warning: Initial value 4.496e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 098.2 --- Init Score: 0.599   OptimizedScore 0.400       Time: 40.521 s
-Launching wrapRunOptimizer 130 at time = 195.063 for SCRAM_D3_EGFR/scram_130.json 
-Level 112.2 --- Init Score: 0.494   OptimizedScore 0.403       Time: 23.086 s
-Level 123.1 --- Init Score: 0.391   OptimizedScore 0.135       Time: 8.953 s
-Launching wrapRunOptimizer 131 at time = 196.092 for SCRAM_D3_EGFR/scram_131.json 
-Level 122.1 --- Init Score: 0.489   OptimizedScore 0.131       Time: 10.236 s
-Warning: Score mismatch in processIntermediateResults:  0.3818893716669376 0.3814388992892561
-Level 129.1 --- Init Score: 0.444   OptimizedScore 0.381       Time: 2.275 s
-Level 128.1 --- Init Score: 0.382   OptimizedScore 0.327       Time: 6.064 s
-Warning: Initial value 8.564e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Score mismatch in processIntermediateResults:  0.30957489808092997 0.3091444924661255
-Level 106.2 --- Init Score: 0.563   OptimizedScore 0.309       Time: 28.821 s
-Level 117.2 --- Init Score: 0.562   OptimizedScore 0.554       Time: 19.103 s
-Level 130.1 --- Init Score: 0.331   OptimizedScore 0.163       Time: 4.507 s
-Launching wrapRunOptimizer 132 at time = 200.502 for SCRAM_D3_EGFR/scram_132.json 
-Launching wrapRunOptimizer 133 at time = 200.770 for SCRAM_D3_EGFR/scram_133.json 
-Level 131.1 --- Init Score: 0.418   OptimizedScore 0.252       Time: 4.544 s
-Warning: Initial value 2.034e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 116.2 --- Init Score: 0.589   OptimizedScore 0.299       Time: 19.529 s
-Launching wrapRunOptimizer 134 at time = 202.301 for SCRAM_D3_EGFR/scram_134.json 
-Level 133.1 --- Init Score: 0.468   OptimizedScore 0.239       Time: 2.265 s
-Level 120.2 --- Init Score: 0.545   OptimizedScore 0.538       Time: 14.235 s
-Launching wrapRunOptimizer 135 at time = 206.073 for SCRAM_D3_EGFR/scram_135.json 
-Level 099.2 --- Init Score: 0.592   OptimizedScore 0.320       Time: 56.464 s
-Launching wrapRunOptimizer 136 at time = 206.977 for SCRAM_D3_EGFR/scram_136.json 
-Level 134.1 --- Init Score: 0.318   OptimizedScore 0.128       Time: 5.809 s
-Level 135.1 --- Init Score: 0.355   OptimizedScore 0.193       Time: 2.072 s
-Level 132.1 --- Init Score: 0.249   OptimizedScore 0.134       Time: 8.352 s
-Warning: Initial value 0.001546 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 097.2 --- Init Score: 0.566   OptimizedScore 0.410       Time: 57.210 s
-Launching wrapRunOptimizer 137 at time = 211.203 for SCRAM_D3_EGFR/scram_137.json 
-Level 137.1 --- Init Score: 0.446   OptimizedScore 0.205       Time: 1.725 s
-Level 119.2 --- Init Score: 0.576   OptimizedScore 0.320       Time: 29.303 s
-Launching wrapRunOptimizer 138 at time = 214.197 for SCRAM_D3_EGFR/scram_138.json 
-Level 128.2 --- Init Score: 0.569   OptimizedScore 0.541       Time: 16.259 s
-Warning: Initial value 0.00117 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 121.2 --- Init Score: 0.460   OptimizedScore 0.290       Time: 22.642 s
-Launching wrapRunOptimizer 139 at time = 216.618 for SCRAM_D3_EGFR/scram_139.json 
-Level 108.2 --- Init Score: 0.528   OptimizedScore 0.296       Time: 56.136 s
-Launching wrapRunOptimizer 140 at time = 217.133 for SCRAM_D3_EGFR/scram_140.json 
-Level 124.2 --- Init Score: 0.558   OptimizedScore 0.302       Time: 25.884 s
-Launching wrapRunOptimizer 141 at time = 217.717 for SCRAM_D3_EGFR/scram_141.json 
-Warning: Score mismatch in processIntermediateResults:  0.15645526076534425 0.15618235075070144
-Level 136.1 --- Init Score: 0.409   OptimizedScore 0.156       Time: 10.443 s
-Launching wrapRunOptimizer 142 at time = 218.110 for SCRAM_D3_EGFR/scram_142.json 
-Level 139.1 --- Init Score: 0.311   OptimizedScore 0.128       Time: 1.976 s
-Warning: Score mismatch in processIntermediateResults:  0.19381822268262117 0.19352682957993417
-Level 138.1 --- Init Score: 0.469   OptimizedScore 0.194       Time: 4.924 s
-Level 140.1 --- Init Score: 0.371   OptimizedScore 0.135       Time: 2.726 s
-Level 141.1 --- Init Score: 0.389   OptimizedScore 0.239       Time: 3.503 s
-Level 142.1 --- Init Score: 0.282   OptimizedScore 0.152       Time: 3.879 s
-Warning: Initial value 1.264e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 110.2 --- Init Score: 0.566   OptimizedScore 0.299       Time: 36.152 s
-Launching wrapRunOptimizer 143 at time = 223.814 for SCRAM_D3_EGFR/scram_143.json 
-Level 135.2 --- Init Score: 0.578   OptimizedScore 0.404       Time: 15.566 s
-Warning: Initial value 1.78e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 069.2 --- Init Score: 0.552   OptimizedScore 0.401       Time: 124.322 s
-Launching wrapRunOptimizer 144 at time = 224.884 for SCRAM_D3_EGFR/scram_144.json 
-Launching wrapRunOptimizer 145 at time = 225.522 for SCRAM_D3_EGFR/scram_145.json 
-Level 134.2 --- Init Score: 0.497   OptimizedScore 0.311       Time: 18.585 s
-Warning: Score mismatch in processIntermediateResults:  0.18709065089756613 0.1868571858993235
-Level 144.1 --- Init Score: 0.391   OptimizedScore 0.187       Time: 1.921 s
-Level 131.2 --- Init Score: 0.477   OptimizedScore 0.403       Time: 26.526 s
-Warning: Initial value 1.916e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 125.2 --- Init Score: 0.500   OptimizedScore 0.354       Time: 34.660 s
-Launching wrapRunOptimizer 146 at time = 227.842 for SCRAM_D3_EGFR/scram_146.json 
-Launching wrapRunOptimizer 147 at time = 228.389 for SCRAM_D3_EGFR/scram_147.json 
-Launching wrapRunOptimizer 148 at time = 228.481 for SCRAM_D3_EGFR/scram_148.json 
-Level 126.2 --- Init Score: 0.438   OptimizedScore 0.389       Time: 36.213 s
-Launching wrapRunOptimizer 149 at time = 229.534 for SCRAM_D3_EGFR/scram_149.json 
-Level 145.1 --- Init Score: 0.325   OptimizedScore 0.171       Time: 3.757 s
-Level 132.2 --- Init Score: 0.570   OptimizedScore 0.424       Time: 20.855 s
-Launching wrapRunOptimizer 150 at time = 230.819 for SCRAM_D3_EGFR/scram_150.json 
-Level 146.1 --- Init Score: 0.403   OptimizedScore 0.258       Time: 2.355 s
-Level 133.2 --- Init Score: 0.557   OptimizedScore 0.342       Time: 27.571 s
-Launching wrapRunOptimizer 151 at time = 231.927 for SCRAM_D3_EGFR/scram_151.json 
-Level 143.1 --- Init Score: 0.336   OptimizedScore 0.178       Time: 7.704 s
-Level 113.2 --- Init Score: 0.554   OptimizedScore 0.412       Time: 58.555 s
-Warning: Initial value 1.297e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 114.2 --- Init Score: 0.527   OptimizedScore 0.389       Time: 57.868 s
-Launching wrapRunOptimizer 152 at time = 232.900 for SCRAM_D3_EGFR/scram_152.json 
-Warning: Initial value 4.168e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 122.2 --- Init Score: 0.569   OptimizedScore 0.386       Time: 36.173 s
-Level 147.1 --- Init Score: 0.228   OptimizedScore 0.137       Time: 4.277 s
-Launching wrapRunOptimizer 153 at time = 233.512 for SCRAM_D3_EGFR/scram_153.json 
-Launching wrapRunOptimizer 154 at time = 233.758 for SCRAM_D3_EGFR/scram_154.json 
-Level 149.1 --- Init Score: 0.435   OptimizedScore 0.177       Time: 5.365 s
-Warning: Initial value 2.71e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 138.2 --- Init Score: 0.547   OptimizedScore 0.379       Time: 16.379 s
-Level 150.1 --- Init Score: 0.507   OptimizedScore 0.202       Time: 4.687 s
-Launching wrapRunOptimizer 155 at time = 236.647 for SCRAM_D3_EGFR/scram_155.json 
-Warning: Score mismatch in processIntermediateResults:  0.18205250262071368 0.1817896894951865
-Level 153.1 --- Init Score: 0.396   OptimizedScore 0.182       Time: 3.111 s
-Level 152.1 --- Init Score: 0.300   OptimizedScore 0.198       Time: 4.030 s
-Level 118.2 --- Init Score: 0.449   OptimizedScore 0.310       Time: 54.495 s
-Launching wrapRunOptimizer 156 at time = 238.509 for SCRAM_D3_EGFR/scram_156.json 
-Level 154.1 --- Init Score: 0.330   OptimizedScore 0.144       Time: 4.253 s
-Level 151.1 --- Init Score: 0.356   OptimizedScore 0.161       Time: 6.263 s
-Level 155.1 --- Init Score: 0.232   OptimizedScore 0.180       Time: 1.897 s
-Level 148.1 --- Init Score: 0.273   OptimizedScore 0.134       Time: 10.000 s
-Level 130.2 --- Init Score: 0.414   OptimizedScore 0.284       Time: 42.589 s
-Launching wrapRunOptimizer 157 at time = 243.287 for SCRAM_D3_EGFR/scram_157.json 
-Warning: Initial value 5.445e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 137.2 --- Init Score: 0.491   OptimizedScore 0.299       Time: 29.969 s
-Launching wrapRunOptimizer 158 at time = 244.073 for SCRAM_D3_EGFR/scram_158.json 
-Level 157.1 --- Init Score: 0.408   OptimizedScore 0.208       Time: 1.792 s
-Warning: Initial value 4.238e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 141.2 --- Init Score: 0.582   OptimizedScore 0.410       Time: 27.498 s
-Level 156.1 --- Init Score: 0.322   OptimizedScore 0.271       Time: 10.794 s
-Launching wrapRunOptimizer 159 at time = 249.884 for SCRAM_D3_EGFR/scram_159.json 
-Warning: Initial value 3.512e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 143.2 --- Init Score: 0.448   OptimizedScore 0.405       Time: 18.497 s
-Launching wrapRunOptimizer 160 at time = 251.040 for SCRAM_D3_EGFR/scram_160.json 
-Warning: Initial value 0.001674 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 127.2 --- Init Score: 0.553   OptimizedScore 0.407       Time: 58.526 s
-Launching wrapRunOptimizer 161 at time = 253.357 for SCRAM_D3_EGFR/scram_161.json 
-Warning: Initial value 4.283e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 129.2 --- Init Score: 0.498   OptimizedScore 0.444       Time: 56.802 s
-Launching wrapRunOptimizer 162 at time = 254.366 for SCRAM_D3_EGFR/scram_162.json 
-Level 160.1 --- Init Score: 0.325   OptimizedScore 0.142       Time: 3.063 s
-Warning: Initial value 7.048e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 147.2 --- Init Score: 0.515   OptimizedScore 0.407       Time: 23.085 s
-Launching wrapRunOptimizer 163 at time = 256.900 for SCRAM_D3_EGFR/scram_163.json 
-Level 159.1 --- Init Score: 0.356   OptimizedScore 0.142       Time: 6.542 s
-Level 162.1 --- Init Score: 0.335   OptimizedScore 0.187       Time: 1.993 s
-Level 158.1 --- Init Score: 0.473   OptimizedScore 0.128       Time: 12.512 s
-Warning: Initial value 4.793e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 155.2 --- Init Score: 0.558   OptimizedScore 0.540       Time: 18.724 s
-Warning: Initial value 2.757e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 145.2 --- Init Score: 0.563   OptimizedScore 0.393       Time: 28.045 s
-Launching wrapRunOptimizer 164 at time = 258.341 for SCRAM_D3_EGFR/scram_164.json 
-Launching wrapRunOptimizer 165 at time = 258.604 for SCRAM_D3_EGFR/scram_165.json 
-Warning: Initial value 0.002967 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 144.2 --- Init Score: 0.432   OptimizedScore 0.324       Time: 31.203 s
-Warning: Initial value 3.877e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 142.2 --- Init Score: 0.496   OptimizedScore 0.391       Time: 36.959 s
-Launching wrapRunOptimizer 166 at time = 259.535 for SCRAM_D3_EGFR/scram_166.json 
-Launching wrapRunOptimizer 167 at time = 260.261 for SCRAM_D3_EGFR/scram_167.json 
-Level 163.1 --- Init Score: 0.395   OptimizedScore 0.148       Time: 3.020 s
-Warning: Initial value 5.153e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 150.2 --- Init Score: 0.571   OptimizedScore 0.446       Time: 25.253 s
-Warning: Initial value 0.001076 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 136.2 --- Init Score: 0.575   OptimizedScore 0.295       Time: 43.790 s
-Launching wrapRunOptimizer 168 at time = 261.860 for SCRAM_D3_EGFR/scram_168.json 
-Launching wrapRunOptimizer 169 at time = 262.407 for SCRAM_D3_EGFR/scram_169.json 
-Level 161.1 --- Init Score: 0.320   OptimizedScore 0.129       Time: 9.074 s
-Level 167.1 --- Init Score: 0.378   OptimizedScore 0.176       Time: 2.327 s
-Level 164.1 --- Init Score: 0.319   OptimizedScore 0.234       Time: 5.918 s
-Level 165.1 --- Init Score: 0.350   OptimizedScore 0.159       Time: 5.758 s
-Level 166.1 --- Init Score: 0.297   OptimizedScore 0.160       Time: 5.260 s
-Level 168.1 --- Init Score: 0.241   OptimizedScore 0.162       Time: 3.160 s
-Level 169.1 --- Init Score: 0.461   OptimizedScore 0.210       Time: 2.882 s
-Level 156.2 --- Init Score: 0.567   OptimizedScore 0.542       Time: 16.051 s
-Launching wrapRunOptimizer 170 at time = 266.372 for SCRAM_D3_EGFR/scram_170.json 
-Level 148.2 --- Init Score: 0.540   OptimizedScore 0.292       Time: 27.222 s
-Warning: Initial value 2.971e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 157.2 --- Init Score: 0.568   OptimizedScore 0.412       Time: 21.156 s
-Launching wrapRunOptimizer 171 at time = 267.162 for SCRAM_D3_EGFR/scram_171.json 
-Launching wrapRunOptimizer 172 at time = 267.780 for SCRAM_D3_EGFR/scram_172.json 
-Warning: Initial value 0.003652 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 152.2 --- Init Score: 0.569   OptimizedScore 0.412       Time: 30.096 s
-Launching wrapRunOptimizer 173 at time = 268.538 for SCRAM_D3_EGFR/scram_173.json 
-Level 160.2 --- Init Score: 0.575   OptimizedScore 0.311       Time: 15.400 s
-Level 172.1 --- Init Score: 0.431   OptimizedScore 0.397       Time: 1.810 s
-Launching wrapRunOptimizer 174 at time = 270.458 for SCRAM_D3_EGFR/scram_174.json 
-Level 146.2 --- Init Score: 0.583   OptimizedScore 0.412       Time: 40.866 s
-Level 171.1 --- Init Score: 0.186   OptimizedScore 0.150       Time: 4.086 s
-Launching wrapRunOptimizer 175 at time = 272.422 for SCRAM_D3_EGFR/scram_175.json 
-Level 153.2 --- Init Score: 0.468   OptimizedScore 0.340       Time: 35.081 s
-Level 174.1 --- Init Score: 0.434   OptimizedScore 0.180       Time: 2.038 s
-Launching wrapRunOptimizer 176 at time = 273.082 for SCRAM_D3_EGFR/scram_176.json 
-Level 140.2 --- Init Score: 0.591   OptimizedScore 0.326       Time: 56.748 s
-Launching wrapRunOptimizer 177 at time = 277.810 for SCRAM_D3_EGFR/scram_177.json 
-Level 139.2 --- Init Score: 0.498   OptimizedScore 0.284       Time: 58.417 s
-Warning: Score mismatch in processIntermediateResults:  0.15353042277124568 0.15322708476473496
-Level 170.1 --- Init Score: 0.353   OptimizedScore 0.153       Time: 11.087 s
-Launching wrapRunOptimizer 178 at time = 278.646 for SCRAM_D3_EGFR/scram_178.json 
-Level 175.1 --- Init Score: 0.233   OptimizedScore 0.129       Time: 6.643 s
-Level 173.1 --- Init Score: 0.186   OptimizedScore 0.129       Time: 11.283 s
-Level 177.1 --- Init Score: 0.336   OptimizedScore 0.167       Time: 2.728 s
-Level 172.2 --- Init Score: 0.579   OptimizedScore 0.571       Time: 12.506 s
-Launching wrapRunOptimizer 179 at time = 283.353 for SCRAM_D3_EGFR/scram_179.json 
-Level 178.1 --- Init Score: 0.243   OptimizedScore 0.133       Time: 7.077 s
-Level 179.1 --- Init Score: 0.300   OptimizedScore 0.158       Time: 2.515 s
-Level 162.2 --- Init Score: 0.552   OptimizedScore 0.315       Time: 32.881 s
-Warning: Initial value 3.425e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 163.2 --- Init Score: 0.548   OptimizedScore 0.395       Time: 29.481 s
-Level 176.1 --- Init Score: 0.332   OptimizedScore 0.133       Time: 16.519 s
-Launching wrapRunOptimizer 180 at time = 290.555 for SCRAM_D3_EGFR/scram_180.json 
-Launching wrapRunOptimizer 181 at time = 290.776 for SCRAM_D3_EGFR/scram_181.json 
-Level 169.2 --- Init Score: 0.531   OptimizedScore 0.423       Time: 25.488 s
-Level 161.2 --- Init Score: 0.401   OptimizedScore 0.306       Time: 28.380 s
-Launching wrapRunOptimizer 182 at time = 292.034 for SCRAM_D3_EGFR/scram_182.json 
-Launching wrapRunOptimizer 183 at time = 292.170 for SCRAM_D3_EGFR/scram_183.json 
-Warning: Initial value 1.506e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 149.2 --- Init Score: 0.569   OptimizedScore 0.310       Time: 57.041 s
-Launching wrapRunOptimizer 184 at time = 293.111 for SCRAM_D3_EGFR/scram_184.json 
-Warning: Initial value 4.05e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 171.2 --- Init Score: 0.562   OptimizedScore 0.406       Time: 22.265 s
-Launching wrapRunOptimizer 185 at time = 294.749 for SCRAM_D3_EGFR/scram_185.json 
-Warning: Initial value 0.007113 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 164.2 --- Init Score: 0.574   OptimizedScore 0.440       Time: 29.891 s
-Level 182.1 --- Init Score: 0.379   OptimizedScore 0.183       Time: 2.199 s
-Launching wrapRunOptimizer 186 at time = 295.507 for SCRAM_D3_EGFR/scram_186.json 
-Warning: Initial value 3.103e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 166.2 --- Init Score: 0.538   OptimizedScore 0.420       Time: 30.158 s
-Launching wrapRunOptimizer 187 at time = 296.238 for SCRAM_D3_EGFR/scram_187.json 
-Level 154.2 --- Init Score: 0.428   OptimizedScore 0.315       Time: 57.797 s
-Launching wrapRunOptimizer 188 at time = 297.079 for SCRAM_D3_EGFR/scram_188.json 
-Level 183.1 --- Init Score: 0.219   OptimizedScore 0.158       Time: 4.178 s
-Level 151.2 --- Init Score: 0.484   OptimizedScore 0.394       Time: 58.459 s
-Launching wrapRunOptimizer 189 at time = 297.877 for SCRAM_D3_EGFR/scram_189.json 
-Level 185.1 --- Init Score: 0.300   OptimizedScore 0.196       Time: 3.164 s
-Level 180.1 --- Init Score: 0.312   OptimizedScore 0.223       Time: 8.155 s
-Level 175.2 --- Init Score: 0.556   OptimizedScore 0.542       Time: 19.949 s
-Level 187.1 --- Init Score: 0.349   OptimizedScore 0.176       Time: 3.445 s
-Launching wrapRunOptimizer 190 at time = 300.430 for SCRAM_D3_EGFR/scram_190.json 
-Level 189.1 --- Init Score: 0.547   OptimizedScore 0.222       Time: 2.796 s
-Level 178.2 --- Init Score: 0.552   OptimizedScore 0.538       Time: 15.366 s
-Launching wrapRunOptimizer 191 at time = 302.000 for SCRAM_D3_EGFR/scram_191.json 
-Level 179.2 --- Init Score: 0.405   OptimizedScore 0.299       Time: 16.278 s
-Launching wrapRunOptimizer 192 at time = 303.249 for SCRAM_D3_EGFR/scram_192.json 
-Level 190.1 --- Init Score: 0.277   OptimizedScore 0.257       Time: 2.417 s
-Level 191.1 --- Init Score: 0.455   OptimizedScore 0.345       Time: 1.757 s
-Warning: Initial value 2.845e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 174.2 --- Init Score: 0.407   OptimizedScore 0.315       Time: 33.175 s
-Level 165.2 --- Init Score: 0.547   OptimizedScore 0.290       Time: 41.320 s
-Launching wrapRunOptimizer 193 at time = 306.653 for SCRAM_D3_EGFR/scram_193.json 
-Level 192.1 --- Init Score: 0.366   OptimizedScore 0.299       Time: 2.874 s
-Launching wrapRunOptimizer 194 at time = 307.088 for SCRAM_D3_EGFR/scram_194.json 
-Level 184.1 --- Init Score: 0.352   OptimizedScore 0.136       Time: 13.733 s
-Level 176.2 --- Init Score: 0.566   OptimizedScore 0.308       Time: 17.370 s
-Level 167.2 --- Init Score: 0.437   OptimizedScore 0.297       Time: 44.570 s
-Warning: Score mismatch in processIntermediateResults:  0.18343706319085729 0.18285024189702243
-Level 188.1 --- Init Score: 0.487   OptimizedScore 0.183       Time: 10.457 s
-Launching wrapRunOptimizer 195 at time = 308.237 for SCRAM_D3_EGFR/scram_195.json 
-Launching wrapRunOptimizer 196 at time = 308.524 for SCRAM_D3_EGFR/scram_196.json 
-Level 159.2 --- Init Score: 0.560   OptimizedScore 0.316       Time: 52.261 s
-Launching wrapRunOptimizer 197 at time = 309.593 for SCRAM_D3_EGFR/scram_197.json 
-Level 193.1 --- Init Score: 0.218   OptimizedScore 0.156       Time: 3.307 s
-Level 194.1 --- Init Score: 0.365   OptimizedScore 0.315       Time: 3.957 s
-Level 170.2 --- Init Score: 0.500   OptimizedScore 0.401       Time: 36.030 s
-Launching wrapRunOptimizer 198 at time = 314.686 for SCRAM_D3_EGFR/scram_198.json 
-Level 186.1 --- Init Score: 0.276   OptimizedScore 0.132       Time: 19.898 s
-Level 197.1 --- Init Score: 0.354   OptimizedScore 0.132       Time: 6.238 s
-Level 181.1 --- Init Score: 0.413   OptimizedScore 0.140       Time: 25.872 s
-Level 196.1 --- Init Score: 0.191   OptimizedScore 0.127       Time: 9.355 s
-Level 191.2 --- Init Score: 0.575   OptimizedScore 0.571       Time: 14.982 s
-Warning: Initial value 2.233e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 183.2 --- Init Score: 0.585   OptimizedScore 0.462       Time: 22.156 s
-Launching wrapRunOptimizer 199 at time = 319.909 for SCRAM_D3_EGFR/scram_199.json 
-Warning: Initial value 4.767e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 173.2 --- Init Score: 0.592   OptimizedScore 0.462       Time: 39.602 s
-Level 182.2 --- Init Score: 0.508   OptimizedScore 0.323       Time: 26.081 s
-Level 195.1 --- Init Score: 0.450   OptimizedScore 0.129       Time: 12.765 s
-Warning: Initial value 1.6e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 168.2 --- Init Score: 0.591   OptimizedScore 0.302       Time: 56.616 s
-Level 198.1 --- Init Score: 0.285   OptimizedScore 0.254       Time: 7.903 s
-Level 158.2 --- Init Score: 0.567   OptimizedScore 0.393       Time: 67.179 s
-Warning: Initial value 2.504e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 180.2 --- Init Score: 0.567   OptimizedScore 0.408       Time: 25.021 s
-Level 177.2 --- Init Score: 0.399   OptimizedScore 0.294       Time: 46.229 s
-Level 199.1 --- Init Score: 0.307   OptimizedScore 0.131       Time: 9.220 s
-Warning: Initial value 4.535e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 185.2 --- Init Score: 0.560   OptimizedScore 0.401       Time: 31.733 s
-Level 123.2 --- Init Score: 0.557   OptimizedScore 0.392       Time: 134.531 s
-Warning: Initial value 3.93e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 194.2 --- Init Score: 0.568   OptimizedScore 0.544       Time: 20.410 s
-Level 195.2 --- Init Score: 0.544   OptimizedScore 0.538       Time: 10.463 s
-Warning: Initial value 1.638e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 197.2 --- Init Score: 0.463   OptimizedScore 0.316       Time: 16.597 s
-Warning: Initial value 3.254e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Score mismatch in processIntermediateResults:  0.5437819394676864 0.5431807510518913
-Level 189.2 --- Init Score: 0.589   OptimizedScore 0.543       Time: 32.013 s
-Warning: Initial value 2.363e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 184.2 --- Init Score: 0.565   OptimizedScore 0.407       Time: 27.131 s
-Level 188.2 --- Init Score: 0.592   OptimizedScore 0.311       Time: 29.277 s
+Launching wrapRunOptimizer 0 at time = 0.737 for SCRAM_D3_EGFR/scram_000.json 
+Launching wrapRunOptimizer 1 at time = 0.737 for SCRAM_D3_EGFR/scram_001.json 
+Launching wrapRunOptimizer 3 at time = 0.737 for SCRAM_D3_EGFR/scram_003.json 
+Launching wrapRunOptimizer 4 at time = 0.738 for SCRAM_D3_EGFR/scram_004.json 
+Launching wrapRunOptimizer 2 at time = 0.737 for SCRAM_D3_EGFR/scram_002.json 
+Launching wrapRunOptimizer 6 at time = 0.738 for SCRAM_D3_EGFR/scram_006.json 
+Launching wrapRunOptimizer 5 at time = 0.738 for SCRAM_D3_EGFR/scram_005.json 
+Launching wrapRunOptimizer 14 at time = 0.739 for SCRAM_D3_EGFR/scram_014.json 
+Launching wrapRunOptimizer 10 at time = 0.738 for SCRAM_D3_EGFR/scram_010.json 
+Launching wrapRunOptimizer 8 at time = 0.738 for SCRAM_D3_EGFR/scram_008.json 
+Launching wrapRunOptimizer 13 at time = 0.739 for SCRAM_D3_EGFR/scram_013.json 
+Launching wrapRunOptimizer 11 at time = 0.739 for SCRAM_D3_EGFR/scram_011.json 
+Launching wrapRunOptimizer 7 at time = 0.738 for SCRAM_D3_EGFR/scram_007.json 
+Launching wrapRunOptimizer 9 at time = 0.738 for SCRAM_D3_EGFR/scram_009.json 
+Launching wrapRunOptimizer 17 at time = 0.739 for SCRAM_D3_EGFR/scram_017.json 
+Launching wrapRunOptimizer 12 at time = 0.739 for SCRAM_D3_EGFR/scram_012.json 
+Launching wrapRunOptimizer 19 at time = 0.740 for SCRAM_D3_EGFR/scram_019.json 
+Launching wrapRunOptimizer 15 at time = 0.739 for SCRAM_D3_EGFR/scram_015.json 
+Launching wrapRunOptimizer 21 at time = 0.740 for SCRAM_D3_EGFR/scram_021.json 
+Launching wrapRunOptimizer 20 at time = 0.740 for SCRAM_D3_EGFR/scram_020.json 
+Launching wrapRunOptimizer 18 at time = 0.740 for SCRAM_D3_EGFR/scram_018.json 
+Launching wrapRunOptimizer 22 at time = 0.740 for SCRAM_D3_EGFR/scram_022.json 
+Launching wrapRunOptimizer 16 at time = 0.739 for SCRAM_D3_EGFR/scram_016.json 
+Launching wrapRunOptimizer 23 at time = 0.740 for SCRAM_D3_EGFR/scram_023.json 
+Level 008.1 --- Init Score: 0.352   OptimizedScore 0.260       Time: 1.484 s
+Level 016.1 --- Init Score: 0.410   OptimizedScore 0.331       Time: 2.571 s
+Warning: Score mismatch in processIntermediateResults:  0.22092615333043347 0.22062723667328255
+Level 017.1 --- Init Score: 0.347   OptimizedScore 0.221       Time: 2.667 s
+Level 012.1 --- Init Score: 0.355   OptimizedScore 0.256       Time: 2.243 s
+Level 014.1 --- Init Score: 0.396   OptimizedScore 0.232       Time: 2.420 s
+Level 009.1 --- Init Score: 0.392   OptimizedScore 0.320       Time: 2.650 s
+Warning: Score mismatch in processIntermediateResults:  0.15408978779488736 0.15363698927585479
+Level 010.1 --- Init Score: 0.351   OptimizedScore 0.154       Time: 3.242 s
+Level 007.1 --- Init Score: 0.301   OptimizedScore 0.214       Time: 3.421 s
+Level 011.1 --- Init Score: 0.397   OptimizedScore 0.329       Time: 3.445 s
+Level 023.1 --- Init Score: 0.368   OptimizedScore 0.248       Time: 3.699 s
+Level 018.1 --- Init Score: 0.384   OptimizedScore 0.183       Time: 3.586 s
+Level 015.1 --- Init Score: 0.423   OptimizedScore 0.251       Time: 5.031 s
+Level 019.1 --- Init Score: 0.300   OptimizedScore 0.248       Time: 4.607 s
+Level 004.1 --- Init Score: 0.236   OptimizedScore 0.139       Time: 8.257 s
+Level 022.1 --- Init Score: 0.256   OptimizedScore 0.210       Time: 8.586 s
+Level 013.1 --- Init Score: 0.317   OptimizedScore 0.186       Time: 9.091 s
+Level 001.1 --- Init Score: 0.319   OptimizedScore 0.144       Time: 9.355 s
+Level 020.1 --- Init Score: 0.304   OptimizedScore 0.189       Time: 10.106 s
+Level 003.1 --- Init Score: 0.358   OptimizedScore 0.187       Time: 10.345 s
+Level 000.1 --- Init Score: 0.321   OptimizedScore 0.204       Time: 10.961 s
+Level 021.1 --- Init Score: 0.349   OptimizedScore 0.255       Time: 12.312 s
+Level 002.1 --- Init Score: 0.259   OptimizedScore 0.253       Time: 13.119 s
+Level 005.1 --- Init Score: 0.336   OptimizedScore 0.128       Time: 13.906 s
+Level 006.1 --- Init Score: 0.359   OptimizedScore 0.333       Time: 15.767 s
+Level 015.2 --- Init Score: 0.559   OptimizedScore 0.443       Time: 20.738 s
+Launching wrapRunOptimizer 24 at time = 28.597 for SCRAM_D3_EGFR/scram_024.json 
+Level 017.2 --- Init Score: 0.514   OptimizedScore 0.309       Time: 25.014 s
+Launching wrapRunOptimizer 25 at time = 30.480 for SCRAM_D3_EGFR/scram_025.json 
+Level 016.2 --- Init Score: 0.573   OptimizedScore 0.540       Time: 26.007 s
+Level 020.2 --- Init Score: 0.403   OptimizedScore 0.307       Time: 18.020 s
+Launching wrapRunOptimizer 26 at time = 31.693 for SCRAM_D3_EGFR/scram_026.json 
+Launching wrapRunOptimizer 27 at time = 31.921 for SCRAM_D3_EGFR/scram_027.json 
+Level 014.2 --- Init Score: 0.547   OptimizedScore 0.393       Time: 27.202 s
+Launching wrapRunOptimizer 28 at time = 33.310 for SCRAM_D3_EGFR/scram_028.json 
+Warning: Initial value 2.532e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 008.2 --- Init Score: 0.571   OptimizedScore 0.402       Time: 29.150 s
+Launching wrapRunOptimizer 29 at time = 34.200 for SCRAM_D3_EGFR/scram_029.json 
+Level 024.1 --- Init Score: 0.206   OptimizedScore 0.157       Time: 6.622 s
+Level 025.1 --- Init Score: 0.328   OptimizedScore 0.185       Time: 6.696 s
+Level 029.1 --- Init Score: 0.227   OptimizedScore 0.138       Time: 3.612 s
+Level 028.1 --- Init Score: 0.188   OptimizedScore 0.155       Time: 5.181 s
+Warning: Initial value 0.001528 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 010.2 --- Init Score: 0.494   OptimizedScore 0.292       Time: 34.311 s
+Launching wrapRunOptimizer 30 at time = 40.900 for SCRAM_D3_EGFR/scram_030.json 
+Level 026.1 --- Init Score: 0.247   OptimizedScore 0.133       Time: 13.055 s
+Warning: Initial value 4.76e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 019.2 --- Init Score: 0.521   OptimizedScore 0.277       Time: 38.865 s
+Launching wrapRunOptimizer 31 at time = 46.908 for SCRAM_D3_EGFR/scram_031.json 
+Warning: Initial value 4.84e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 021.2 --- Init Score: 0.554   OptimizedScore 0.320       Time: 35.195 s
+Launching wrapRunOptimizer 32 at time = 50.088 for SCRAM_D3_EGFR/scram_032.json 
+Warning: Initial value 0.004137 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 003.2 --- Init Score: 0.514   OptimizedScore 0.349       Time: 37.235 s
+Level 030.1 --- Init Score: 0.376   OptimizedScore 0.140       Time: 8.927 s
+Warning: Initial value 4.958e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 002.2 --- Init Score: 0.553   OptimizedScore 0.279       Time: 35.133 s
+Launching wrapRunOptimizer 33 at time = 51.387 for SCRAM_D3_EGFR/scram_033.json 
+Launching wrapRunOptimizer 34 at time = 51.860 for SCRAM_D3_EGFR/scram_034.json 
+Level 031.1 --- Init Score: 0.278   OptimizedScore 0.133       Time: 5.224 s
+Level 004.2 --- Init Score: 0.577   OptimizedScore 0.409       Time: 42.337 s
+Warning: Initial value 0.001646 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 012.2 --- Init Score: 0.585   OptimizedScore 0.428       Time: 48.818 s
+Launching wrapRunOptimizer 35 at time = 53.851 for SCRAM_D3_EGFR/scram_035.json 
+Level 027.1 --- Init Score: 0.212   OptimizedScore 0.132       Time: 21.470 s
+Launching wrapRunOptimizer 36 at time = 54.472 for SCRAM_D3_EGFR/scram_036.json 
+Level 018.2 --- Init Score: 0.482   OptimizedScore 0.315       Time: 48.413 s
+Level 029.2 --- Init Score: 0.491   OptimizedScore 0.305       Time: 16.327 s
+Level 034.1 --- Init Score: 0.368   OptimizedScore 0.268       Time: 2.842 s
+Launching wrapRunOptimizer 37 at time = 55.630 for SCRAM_D3_EGFR/scram_037.json 
+Level 032.1 --- Init Score: 0.232   OptimizedScore 0.136       Time: 4.709 s
+Launching wrapRunOptimizer 38 at time = 56.057 for SCRAM_D3_EGFR/scram_038.json 
+Level 033.1 --- Init Score: 0.410   OptimizedScore 0.319       Time: 5.683 s
+Warning: Initial value 3.281e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 000.2 --- Init Score: 0.429   OptimizedScore 0.417       Time: 44.498 s
+Launching wrapRunOptimizer 39 at time = 58.719 for SCRAM_D3_EGFR/scram_039.json 
+Level 036.1 --- Init Score: 0.334   OptimizedScore 0.196       Time: 3.729 s
+Level 037.1 --- Init Score: 0.182   OptimizedScore 0.148       Time: 3.125 s
+Level 005.2 --- Init Score: 0.434   OptimizedScore 0.294       Time: 44.521 s
+Launching wrapRunOptimizer 40 at time = 61.383 for SCRAM_D3_EGFR/scram_040.json 
+Warning: Initial value 4.661e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 025.2 --- Init Score: 0.437   OptimizedScore 0.302       Time: 23.151 s
+Level 039.1 --- Init Score: 0.370   OptimizedScore 0.227       Time: 2.227 s
+Level 038.1 --- Init Score: 0.357   OptimizedScore 0.129       Time: 5.172 s
+Launching wrapRunOptimizer 41 at time = 62.641 for SCRAM_D3_EGFR/scram_041.json 
+Warning: Initial value 1.676e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 023.2 --- Init Score: 0.499   OptimizedScore 0.425       Time: 56.675 s
+Level 035.1 --- Init Score: 0.342   OptimizedScore 0.257       Time: 8.909 s
+Launching wrapRunOptimizer 42 at time = 63.853 for SCRAM_D3_EGFR/scram_042.json 
+Level 042.1 --- Init Score: 0.212   OptimizedScore 0.185       Time: 3.930 s
+Level 041.1 --- Init Score: 0.453   OptimizedScore 0.258       Time: 6.369 s
+Warning: Initial value 2.778e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 009.2 --- Init Score: 0.573   OptimizedScore 0.430       Time: 64.657 s
+Launching wrapRunOptimizer 43 at time = 70.697 for SCRAM_D3_EGFR/scram_043.json 
+Warning: Initial value 2.61e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 024.2 --- Init Score: 0.409   OptimizedScore 0.317       Time: 35.104 s
+Warning: Initial value 4.967e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 027.2 --- Init Score: 0.510   OptimizedScore 0.383       Time: 17.169 s
+Launching wrapRunOptimizer 44 at time = 72.107 for SCRAM_D3_EGFR/scram_044.json 
+Level 011.2 --- Init Score: 0.537   OptimizedScore 0.355       Time: 66.546 s
+Launching wrapRunOptimizer 45 at time = 72.763 for SCRAM_D3_EGFR/scram_045.json 
+Launching wrapRunOptimizer 46 at time = 73.645 for SCRAM_D3_EGFR/scram_046.json 
+Level 043.1 --- Init Score: 0.544   OptimizedScore 0.269       Time: 2.927 s
+Warning: Initial value 2.74e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 032.2 --- Init Score: 0.537   OptimizedScore 0.285       Time: 19.711 s
+Level 026.2 --- Init Score: 0.545   OptimizedScore 0.532       Time: 29.757 s
+Level 039.2 --- Init Score: 0.561   OptimizedScore 0.363       Time: 14.064 s
+Launching wrapRunOptimizer 47 at time = 76.233 for SCRAM_D3_EGFR/scram_047.json 
+Launching wrapRunOptimizer 48 at time = 76.290 for SCRAM_D3_EGFR/scram_048.json 
+Level 033.2 --- Init Score: 0.540   OptimizedScore 0.490       Time: 18.477 s
+Level 040.1 --- Init Score: 0.216   OptimizedScore 0.176       Time: 14.189 s
+Launching wrapRunOptimizer 49 at time = 76.545 for SCRAM_D3_EGFR/scram_049.json 
+Level 045.1 --- Init Score: 0.335   OptimizedScore 0.227       Time: 3.025 s
+Level 046.1 --- Init Score: 0.319   OptimizedScore 0.200       Time: 2.932 s
+Level 022.2 --- Init Score: 0.557   OptimizedScore 0.548       Time: 66.559 s
+Launching wrapRunOptimizer 50 at time = 77.785 for SCRAM_D3_EGFR/scram_050.json 
+Level 013.2 --- Init Score: 0.366   OptimizedScore 0.305       Time: 66.318 s
+Level 036.2 --- Init Score: 0.543   OptimizedScore 0.384       Time: 19.388 s
+Level 001.2 --- Init Score: 0.416   OptimizedScore 0.324       Time: 66.252 s
+Launching wrapRunOptimizer 51 at time = 78.797 for SCRAM_D3_EGFR/scram_051.json 
+Launching wrapRunOptimizer 52 at time = 79.208 for SCRAM_D3_EGFR/scram_052.json 
+Launching wrapRunOptimizer 53 at time = 79.304 for SCRAM_D3_EGFR/scram_053.json 
+Launching wrapRunOptimizer 54 at time = 79.456 for SCRAM_D3_EGFR/scram_054.json 
+Level 044.1 --- Init Score: 0.288   OptimizedScore 0.133       Time: 7.054 s
+Level 048.1 --- Init Score: 0.484   OptimizedScore 0.192       Time: 3.257 s
+Level 028.2 --- Init Score: 0.443   OptimizedScore 0.400       Time: 41.897 s
+Level 031.2 --- Init Score: 0.565   OptimizedScore 0.421       Time: 29.044 s
+Launching wrapRunOptimizer 55 at time = 82.284 for SCRAM_D3_EGFR/scram_055.json 
+Launching wrapRunOptimizer 56 at time = 82.731 for SCRAM_D3_EGFR/scram_056.json 
+Level 051.1 --- Init Score: 0.342   OptimizedScore 0.252       Time: 2.863 s
+Level 049.1 --- Init Score: 0.282   OptimizedScore 0.129       Time: 5.184 s
+Warning: Initial value 2.086e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 041.2 --- Init Score: 0.540   OptimizedScore 0.412       Time: 15.168 s
+Warning: Initial value 5.523e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 006.2 --- Init Score: 0.498   OptimizedScore 0.407       Time: 66.702 s
+Launching wrapRunOptimizer 57 at time = 85.898 for SCRAM_D3_EGFR/scram_057.json 
+Launching wrapRunOptimizer 58 at time = 86.123 for SCRAM_D3_EGFR/scram_058.json 
+Level 053.1 --- Init Score: 0.201   OptimizedScore 0.157       Time: 5.896 s
+Level 047.1 --- Init Score: 0.327   OptimizedScore 0.164       Time: 9.656 s
+Level 054.1 --- Init Score: 0.273   OptimizedScore 0.184       Time: 6.703 s
+Level 050.1 --- Init Score: 0.378   OptimizedScore 0.138       Time: 8.970 s
+Warning: Initial value 4.596e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 038.2 --- Init Score: 0.574   OptimizedScore 0.350       Time: 25.768 s
+Level 037.2 --- Init Score: 0.566   OptimizedScore 0.301       Time: 28.287 s
+Launching wrapRunOptimizer 59 at time = 88.869 for SCRAM_D3_EGFR/scram_059.json 
+Launching wrapRunOptimizer 60 at time = 88.993 for SCRAM_D3_EGFR/scram_060.json 
+Level 055.1 --- Init Score: 0.467   OptimizedScore 0.139       Time: 6.016 s
+Level 057.1 --- Init Score: 0.432   OptimizedScore 0.144       Time: 3.026 s
+Level 052.1 --- Init Score: 0.261   OptimizedScore 0.176       Time: 10.918 s
+Level 043.2 --- Init Score: 0.551   OptimizedScore 0.538       Time: 18.124 s
+Warning: Initial value 4.888e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 042.2 --- Init Score: 0.557   OptimizedScore 0.326       Time: 24.724 s
+Launching wrapRunOptimizer 61 at time = 93.333 for SCRAM_D3_EGFR/scram_061.json 
+Launching wrapRunOptimizer 62 at time = 94.135 for SCRAM_D3_EGFR/scram_062.json 
+Level 059.1 --- Init Score: 0.285   OptimizedScore 0.167       Time: 5.493 s
+Level 056.1 --- Init Score: 0.372   OptimizedScore 0.136       Time: 11.665 s
+Level 045.2 --- Init Score: 0.516   OptimizedScore 0.390       Time: 19.693 s
+Launching wrapRunOptimizer 63 at time = 97.325 for SCRAM_D3_EGFR/scram_063.json 
+Level 061.1 --- Init Score: 0.323   OptimizedScore 0.271       Time: 4.078 s
+Level 058.1 --- Init Score: 0.234   OptimizedScore 0.135       Time: 12.154 s
+Level 062.1 --- Init Score: 0.325   OptimizedScore 0.190       Time: 5.612 s
+Warning: Initial value 1.797e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 044.2 --- Init Score: 0.381   OptimizedScore 0.311       Time: 21.071 s
+Launching wrapRunOptimizer 64 at time = 101.773 for SCRAM_D3_EGFR/scram_064.json 
+Level 054.2 --- Init Score: 0.555   OptimizedScore 0.550       Time: 14.864 s
+Launching wrapRunOptimizer 65 at time = 103.188 for SCRAM_D3_EGFR/scram_065.json 
+Warning: Score mismatch in processIntermediateResults:  0.2059621404649435 0.20548315612071105
+Level 060.1 --- Init Score: 0.334   OptimizedScore 0.205       Time: 14.822 s
+Level 064.1 --- Init Score: 0.387   OptimizedScore 0.276       Time: 2.833 s
+Warning: Initial value 4.366e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 053.2 --- Init Score: 0.492   OptimizedScore 0.314       Time: 19.470 s
+Warning: Initial value 3.447e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Launching wrapRunOptimizer 66 at time = 106.321 for SCRAM_D3_EGFR/scram_066.json 
+Level 046.2 --- Init Score: 0.567   OptimizedScore 0.338       Time: 28.951 s
+Launching wrapRunOptimizer 67 at time = 107.550 for SCRAM_D3_EGFR/scram_067.json 
+Warning: Initial value 4.532e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Score mismatch in processIntermediateResults:  0.39514427566484805 0.3946673306597918
+Level 034.2 --- Init Score: 0.406   OptimizedScore 0.395       Time: 52.763 s
+Level 065.1 --- Init Score: 0.332   OptimizedScore 0.176       Time: 5.202 s
+Launching wrapRunOptimizer 68 at time = 109.281 for SCRAM_D3_EGFR/scram_068.json 
+Level 063.1 --- Init Score: 0.345   OptimizedScore 0.167       Time: 12.031 s
+Level 050.2 --- Init Score: 0.547   OptimizedScore 0.420       Time: 22.726 s
+Launching wrapRunOptimizer 69 at time = 111.209 for SCRAM_D3_EGFR/scram_069.json 
+Warning: Initial value 2.012e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 049.2 --- Init Score: 0.558   OptimizedScore 0.353       Time: 29.055 s
+Launching wrapRunOptimizer 70 at time = 112.621 for SCRAM_D3_EGFR/scram_070.json 
+Level 066.1 --- Init Score: 0.374   OptimizedScore 0.139       Time: 5.338 s
+Level 057.2 --- Init Score: 0.523   OptimizedScore 0.326       Time: 24.034 s
+Level 056.2 --- Init Score: 0.574   OptimizedScore 0.312       Time: 19.350 s
+Level 067.1 --- Init Score: 0.285   OptimizedScore 0.193       Time: 6.638 s
+Launching wrapRunOptimizer 71 at time = 114.738 for SCRAM_D3_EGFR/scram_071.json 
+Level 068.1 --- Init Score: 0.261   OptimizedScore 0.181       Time: 5.498 s
+Level 069.1 --- Init Score: 0.183   OptimizedScore 0.152       Time: 3.631 s
+Launching wrapRunOptimizer 72 at time = 115.741 for SCRAM_D3_EGFR/scram_072.json 
+Level 040.2 --- Init Score: 0.453   OptimizedScore 0.275       Time: 39.789 s
+Warning: Initial value 4.563e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 052.2 --- Init Score: 0.571   OptimizedScore 0.368       Time: 25.367 s
+Warning: Initial value 3.014e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 030.2 --- Init Score: 0.570   OptimizedScore 0.397       Time: 66.242 s
+Launching wrapRunOptimizer 73 at time = 117.079 for SCRAM_D3_EGFR/scram_073.json 
+Launching wrapRunOptimizer 74 at time = 118.008 for SCRAM_D3_EGFR/scram_074.json 
+Launching wrapRunOptimizer 75 at time = 118.112 for SCRAM_D3_EGFR/scram_075.json 
+Level 058.2 --- Init Score: 0.561   OptimizedScore 0.554       Time: 21.183 s
+Warning: Score mismatch in processIntermediateResults:  0.16131715308313377 0.16085103246352767
+Level 073.1 --- Init Score: 0.385   OptimizedScore 0.161       Time: 2.652 s
+Launching wrapRunOptimizer 76 at time = 121.202 for SCRAM_D3_EGFR/scram_076.json 
+Level 035.2 --- Init Score: 0.589   OptimizedScore 0.416       Time: 57.888 s
+Warning: Score mismatch in processIntermediateResults:  0.21018125855291592 0.20931532263396518
+Level 075.1 --- Init Score: 0.531   OptimizedScore 0.209       Time: 2.584 s
+Level 048.2 --- Init Score: 0.559   OptimizedScore 0.539       Time: 41.471 s
+Launching wrapRunOptimizer 77 at time = 122.270 for SCRAM_D3_EGFR/scram_077.json 
+Launching wrapRunOptimizer 78 at time = 123.137 for SCRAM_D3_EGFR/scram_078.json 
+Level 070.1 --- Init Score: 0.276   OptimizedScore 0.158       Time: 10.752 s
+Level 072.1 --- Init Score: 0.553   OptimizedScore 0.250       Time: 8.041 s
+Warning: Initial value 2.332e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 007.2 --- Init Score: 0.539   OptimizedScore 0.397       Time: 119.851 s
+Level 076.1 --- Init Score: 0.422   OptimizedScore 0.337       Time: 3.807 s
+Launching wrapRunOptimizer 79 at time = 126.874 for SCRAM_D3_EGFR/scram_079.json 
+Warning: Initial value 2.104e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 047.2 --- Init Score: 0.554   OptimizedScore 0.290       Time: 40.156 s
+Launching wrapRunOptimizer 80 at time = 127.941 for SCRAM_D3_EGFR/scram_080.json 
+Level 061.2 --- Init Score: 0.549   OptimizedScore 0.394       Time: 29.735 s
+Level 059.2 --- Init Score: 0.567   OptimizedScore 0.306       Time: 32.907 s
+Level 071.1 --- Init Score: 0.411   OptimizedScore 0.187       Time: 12.545 s
+Level 078.1 --- Init Score: 0.276   OptimizedScore 0.142       Time: 4.595 s
+Level 074.1 --- Init Score: 0.294   OptimizedScore 0.170       Time: 9.795 s
+Launching wrapRunOptimizer 81 at time = 129.219 for SCRAM_D3_EGFR/scram_081.json 
+Launching wrapRunOptimizer 82 at time = 129.330 for SCRAM_D3_EGFR/scram_082.json 
+Level 077.1 --- Init Score: 0.387   OptimizedScore 0.197       Time: 7.937 s
+Level 066.2 --- Init Score: 0.579   OptimizedScore 0.560       Time: 19.737 s
+Warning: Initial value 2.314e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 055.2 --- Init Score: 0.468   OptimizedScore 0.282       Time: 43.554 s
+Launching wrapRunOptimizer 83 at time = 133.337 for SCRAM_D3_EGFR/scram_083.json 
+Launching wrapRunOptimizer 84 at time = 134.017 for SCRAM_D3_EGFR/scram_084.json 
+Level 060.2 --- Init Score: 0.424   OptimizedScore 0.315       Time: 30.194 s
+Level 081.1 --- Init Score: 0.258   OptimizedScore 0.138       Time: 5.588 s
+Launching wrapRunOptimizer 85 at time = 135.992 for SCRAM_D3_EGFR/scram_085.json 
+Level 079.1 --- Init Score: 0.365   OptimizedScore 0.236       Time: 8.355 s
+Level 080.1 --- Init Score: 0.334   OptimizedScore 0.163       Time: 9.036 s
+Level 063.2 --- Init Score: 0.547   OptimizedScore 0.397       Time: 27.929 s
+Level 083.1 --- Init Score: 0.339   OptimizedScore 0.195       Time: 4.118 s
+Level 082.1 --- Init Score: 0.379   OptimizedScore 0.173       Time: 8.235 s
+Launching wrapRunOptimizer 86 at time = 139.081 for SCRAM_D3_EGFR/scram_086.json 
+Level 085.1 --- Init Score: 0.331   OptimizedScore 0.255       Time: 2.570 s
+Warning: Initial value 3.068e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 064.2 --- Init Score: 0.588   OptimizedScore 0.546       Time: 35.020 s
+Launching wrapRunOptimizer 87 at time = 141.138 for SCRAM_D3_EGFR/scram_087.json 
+Level 069.2 --- Init Score: 0.555   OptimizedScore 0.545       Time: 26.380 s
+Launching wrapRunOptimizer 88 at time = 142.750 for SCRAM_D3_EGFR/scram_088.json 
+Warning: Initial value 5.521e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Score mismatch in processIntermediateResults:  0.4078127564563526 0.4072135121978223
+Level 076.2 --- Init Score: 0.503   OptimizedScore 0.407       Time: 18.850 s
+Level 086.1 --- Init Score: 0.377   OptimizedScore 0.189       Time: 5.180 s
+Launching wrapRunOptimizer 89 at time = 145.646 for SCRAM_D3_EGFR/scram_089.json 
+Level 087.1 --- Init Score: 0.353   OptimizedScore 0.210       Time: 5.199 s
+Warning: Initial value 4.218e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 068.2 --- Init Score: 0.561   OptimizedScore 0.432       Time: 31.757 s
+Level 088.1 --- Init Score: 0.272   OptimizedScore 0.260       Time: 4.099 s
+Launching wrapRunOptimizer 90 at time = 148.005 for SCRAM_D3_EGFR/scram_090.json 
+Level 079.2 --- Init Score: 0.533   OptimizedScore 0.331       Time: 13.045 s
+Level 089.1 --- Init Score: 0.401   OptimizedScore 0.254       Time: 3.303 s
+Level 051.2 --- Init Score: 0.609   OptimizedScore 0.405       Time: 67.102 s
+Launching wrapRunOptimizer 91 at time = 149.959 for SCRAM_D3_EGFR/scram_091.json 
+Launching wrapRunOptimizer 92 at time = 150.756 for SCRAM_D3_EGFR/scram_092.json 
+Warning: Initial value 2.024e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 078.2 --- Init Score: 0.547   OptimizedScore 0.293       Time: 22.601 s
+Level 074.2 --- Init Score: 0.563   OptimizedScore 0.401       Time: 23.129 s
+Launching wrapRunOptimizer 93 at time = 151.871 for SCRAM_D3_EGFR/scram_093.json 
+Level 072.2 --- Init Score: 0.566   OptimizedScore 0.538       Time: 28.235 s
+Launching wrapRunOptimizer 94 at time = 152.996 for SCRAM_D3_EGFR/scram_094.json 
+Level 065.2 --- Init Score: 0.441   OptimizedScore 0.290       Time: 44.270 s
+Launching wrapRunOptimizer 95 at time = 153.946 for SCRAM_D3_EGFR/scram_095.json 
+Launching wrapRunOptimizer 96 at time = 154.355 for SCRAM_D3_EGFR/scram_096.json 
+Warning: Initial value 2.424e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 062.2 --- Init Score: 0.497   OptimizedScore 0.322       Time: 54.605 s
+Launching wrapRunOptimizer 97 at time = 155.841 for SCRAM_D3_EGFR/scram_097.json 
+Level 071.2 --- Init Score: 0.559   OptimizedScore 0.551       Time: 27.650 s
+Launching wrapRunOptimizer 98 at time = 156.755 for SCRAM_D3_EGFR/scram_098.json 
+Level 091.1 --- Init Score: 0.427   OptimizedScore 0.143       Time: 6.131 s
+Level 093.1 --- Init Score: 0.327   OptimizedScore 0.204       Time: 4.701 s
+Level 095.1 --- Init Score: 0.287   OptimizedScore 0.192       Time: 3.007 s
+Level 084.1 --- Init Score: 0.333   OptimizedScore 0.303       Time: 23.161 s
+Warning: Score mismatch in processIntermediateResults:  0.19885117654273143 0.19824205184292754
+Level 094.1 --- Init Score: 0.321   OptimizedScore 0.198       Time: 4.142 s
+Warning: Initial value 7.329e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 083.2 --- Init Score: 0.571   OptimizedScore 0.546       Time: 21.088 s
+Warning: Initial value 4.638e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 085.2 --- Init Score: 0.589   OptimizedScore 0.411       Time: 20.053 s
+Level 081.2 --- Init Score: 0.507   OptimizedScore 0.296       Time: 24.176 s
+Launching wrapRunOptimizer 99 at time = 160.319 for SCRAM_D3_EGFR/scram_099.json 
+Launching wrapRunOptimizer 100 at time = 160.539 for SCRAM_D3_EGFR/scram_100.json 
+Level 092.1 --- Init Score: 0.311   OptimizedScore 0.286       Time: 8.969 s
+Level 070.2 --- Init Score: 0.471   OptimizedScore 0.418       Time: 36.863 s
+Launching wrapRunOptimizer 101 at time = 161.170 for SCRAM_D3_EGFR/scram_101.json 
+Launching wrapRunOptimizer 102 at time = 162.059 for SCRAM_D3_EGFR/scram_102.json 
+Level 077.2 --- Init Score: 0.418   OptimizedScore 0.385       Time: 31.632 s
+Launching wrapRunOptimizer 103 at time = 163.563 for SCRAM_D3_EGFR/scram_103.json 
+Level 099.1 --- Init Score: 0.410   OptimizedScore 0.333       Time: 2.512 s
+Warning: Score mismatch in processIntermediateResults:  0.15495661586998657 0.15452700668232902
+Level 096.1 --- Init Score: 0.289   OptimizedScore 0.155       Time: 10.196 s
+Level 090.1 --- Init Score: 0.245   OptimizedScore 0.146       Time: 16.813 s
+Level 098.1 --- Init Score: 0.280   OptimizedScore 0.210       Time: 8.220 s
+Level 101.1 --- Init Score: 0.503   OptimizedScore 0.198       Time: 3.652 s
+Level 100.1 --- Init Score: 0.388   OptimizedScore 0.327       Time: 4.780 s
+Level 103.1 --- Init Score: 0.315   OptimizedScore 0.130       Time: 3.298 s
+Level 102.1 --- Init Score: 0.323   OptimizedScore 0.131       Time: 7.168 s
+Warning: Initial value 3.057e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 084.2 --- Init Score: 0.509   OptimizedScore 0.446       Time: 13.133 s
+Warning: Initial value 1.058e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 088.2 --- Init Score: 0.587   OptimizedScore 0.301       Time: 23.876 s
+Level 097.1 --- Init Score: 0.351   OptimizedScore 0.129       Time: 14.889 s
+Launching wrapRunOptimizer 104 at time = 172.041 for SCRAM_D3_EGFR/scram_104.json 
+Launching wrapRunOptimizer 105 at time = 172.272 for SCRAM_D3_EGFR/scram_105.json 
+Warning: Initial value 1.3e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 091.2 --- Init Score: 0.571   OptimizedScore 0.425       Time: 18.088 s
+Warning: Initial value 1.792e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 067.2 --- Init Score: 0.554   OptimizedScore 0.406       Time: 60.359 s
+Level 104.1 --- Init Score: 0.406   OptimizedScore 0.262       Time: 2.384 s
+Launching wrapRunOptimizer 106 at time = 175.859 for SCRAM_D3_EGFR/scram_106.json 
+Launching wrapRunOptimizer 107 at time = 176.260 for SCRAM_D3_EGFR/scram_107.json 
+Warning: Initial value 2.047e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 095.2 --- Init Score: 0.568   OptimizedScore 0.538       Time: 18.386 s
+Launching wrapRunOptimizer 108 at time = 177.504 for SCRAM_D3_EGFR/scram_108.json 
+Level 080.2 --- Init Score: 0.567   OptimizedScore 0.296       Time: 40.531 s
+Launching wrapRunOptimizer 109 at time = 178.972 for SCRAM_D3_EGFR/scram_109.json 
+Level 087.2 --- Init Score: 0.556   OptimizedScore 0.398       Time: 32.458 s
+Level 105.1 --- Init Score: 0.370   OptimizedScore 0.202       Time: 6.570 s
+Launching wrapRunOptimizer 110 at time = 180.320 for SCRAM_D3_EGFR/scram_110.json 
+Level 109.1 --- Init Score: 0.214   OptimizedScore 0.190       Time: 2.848 s
+Level 106.1 --- Init Score: 0.301   OptimizedScore 0.170       Time: 7.477 s
+Warning: Initial value 2.762e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 094.2 --- Init Score: 0.583   OptimizedScore 0.412       Time: 27.069 s
+Level 107.1 --- Init Score: 0.293   OptimizedScore 0.144       Time: 8.595 s
+Launching wrapRunOptimizer 111 at time = 186.114 for SCRAM_D3_EGFR/scram_111.json 
+Level 073.2 --- Init Score: 0.449   OptimizedScore 0.404       Time: 66.429 s
+Launching wrapRunOptimizer 112 at time = 188.067 for SCRAM_D3_EGFR/scram_112.json 
+Warning: Initial value 5.215e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 075.2 --- Init Score: 0.548   OptimizedScore 0.395       Time: 66.715 s
+Warning: Initial value 6.187e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 099.2 --- Init Score: 0.564   OptimizedScore 0.539       Time: 24.605 s
+Warning: Initial value 4.836e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 097.2 --- Init Score: 0.532   OptimizedScore 0.287       Time: 17.688 s
+Launching wrapRunOptimizer 113 at time = 189.190 for SCRAM_D3_EGFR/scram_113.json 
+Warning: Initial value 0.001139 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 090.2 --- Init Score: 0.562   OptimizedScore 0.298       Time: 23.585 s
+Launching wrapRunOptimizer 114 at time = 189.678 for SCRAM_D3_EGFR/scram_114.json 
+Level 111.1 --- Init Score: 0.304   OptimizedScore 0.208       Time: 2.823 s
+Level 110.1 --- Init Score: 0.210   OptimizedScore 0.145       Time: 9.125 s
+Launching wrapRunOptimizer 115 at time = 190.405 for SCRAM_D3_EGFR/scram_115.json 
+Launching wrapRunOptimizer 116 at time = 190.481 for SCRAM_D3_EGFR/scram_116.json 
+Warning: Initial value 4.714e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 103.2 --- Init Score: 0.351   OptimizedScore 0.282       Time: 23.302 s
+Launching wrapRunOptimizer 117 at time = 192.117 for SCRAM_D3_EGFR/scram_117.json 
+Warning: Initial value 2.285e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 082.2 --- Init Score: 0.554   OptimizedScore 0.335       Time: 54.021 s
+Launching wrapRunOptimizer 118 at time = 193.598 for SCRAM_D3_EGFR/scram_118.json 
+Warning: Initial value 9.302e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 101.2 --- Init Score: 0.570   OptimizedScore 0.380       Time: 28.545 s
+Launching wrapRunOptimizer 119 at time = 195.208 for SCRAM_D3_EGFR/scram_119.json 
+Level 115.1 --- Init Score: 0.379   OptimizedScore 0.327       Time: 4.947 s
+Level 108.1 --- Init Score: 0.246   OptimizedScore 0.154       Time: 18.480 s
+Level 117.1 --- Init Score: 0.180   OptimizedScore 0.167       Time: 3.882 s
+Level 116.1 --- Init Score: 0.317   OptimizedScore 0.144       Time: 6.573 s
+Level 119.1 --- Init Score: 0.352   OptimizedScore 0.188       Time: 3.954 s
+Level 104.2 --- Init Score: 0.552   OptimizedScore 0.405       Time: 26.902 s
+Launching wrapRunOptimizer 120 at time = 202.856 for SCRAM_D3_EGFR/scram_120.json 
+Level 092.2 --- Init Score: 0.567   OptimizedScore 0.296       Time: 42.548 s
+Level 118.1 --- Init Score: 0.302   OptimizedScore 0.153       Time: 9.147 s
+Launching wrapRunOptimizer 121 at time = 204.188 for SCRAM_D3_EGFR/scram_121.json 
+Level 098.2 --- Init Score: 0.572   OptimizedScore 0.433       Time: 38.535 s
+Launching wrapRunOptimizer 122 at time = 205.376 for SCRAM_D3_EGFR/scram_122.json 
+Level 093.2 --- Init Score: 0.536   OptimizedScore 0.391       Time: 48.055 s
+Launching wrapRunOptimizer 123 at time = 206.588 for SCRAM_D3_EGFR/scram_123.json 
+Level 112.1 --- Init Score: 0.295   OptimizedScore 0.241       Time: 18.125 s
+Level 120.1 --- Init Score: 0.393   OptimizedScore 0.249       Time: 3.937 s
+Level 114.1 --- Init Score: 0.385   OptimizedScore 0.141       Time: 17.053 s
+Level 121.1 --- Init Score: 0.341   OptimizedScore 0.154       Time: 2.807 s
+Level 113.1 --- Init Score: 0.310   OptimizedScore 0.183       Time: 18.258 s
+Level 122.1 --- Init Score: 0.354   OptimizedScore 0.228       Time: 3.593 s
+Warning: Initial value 3.81e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 086.2 --- Init Score: 0.561   OptimizedScore 0.549       Time: 67.313 s
+Launching wrapRunOptimizer 124 at time = 213.114 for SCRAM_D3_EGFR/scram_124.json 
+Level 123.1 --- Init Score: 0.312   OptimizedScore 0.142       Time: 5.791 s
+Warning: Initial value 4.716e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 089.2 --- Init Score: 0.553   OptimizedScore 0.416       Time: 64.961 s
+Warning: Initial value 3.769e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 117.2 --- Init Score: 0.537   OptimizedScore 0.295       Time: 18.397 s
+Launching wrapRunOptimizer 125 at time = 215.363 for SCRAM_D3_EGFR/scram_125.json 
+Launching wrapRunOptimizer 126 at time = 216.204 for SCRAM_D3_EGFR/scram_126.json 
+Level 124.1 --- Init Score: 0.385   OptimizedScore 0.253       Time: 3.900 s
+Level 100.2 --- Init Score: 0.547   OptimizedScore 0.423       Time: 51.654 s
+Launching wrapRunOptimizer 127 at time = 218.821 for SCRAM_D3_EGFR/scram_127.json 
+Level 126.1 --- Init Score: 0.567   OptimizedScore 0.231       Time: 2.854 s
+Level 125.1 --- Init Score: 0.355   OptimizedScore 0.270       Time: 3.957 s
+Level 116.2 --- Init Score: 0.541   OptimizedScore 0.299       Time: 23.477 s
+Launching wrapRunOptimizer 128 at time = 222.292 for SCRAM_D3_EGFR/scram_128.json 
+Level 127.1 --- Init Score: 0.334   OptimizedScore 0.207       Time: 3.547 s
+Level 111.2 --- Init Score: 0.462   OptimizedScore 0.408       Time: 34.898 s
+Level 119.2 --- Init Score: 0.572   OptimizedScore 0.408       Time: 24.904 s
+Launching wrapRunOptimizer 129 at time = 225.409 for SCRAM_D3_EGFR/scram_129.json 
+Launching wrapRunOptimizer 130 at time = 225.739 for SCRAM_D3_EGFR/scram_130.json 
+Level 128.1 --- Init Score: 0.403   OptimizedScore 0.325       Time: 3.788 s
+Level 107.2 --- Init Score: 0.557   OptimizedScore 0.404       Time: 41.047 s
+Launching wrapRunOptimizer 131 at time = 227.904 for SCRAM_D3_EGFR/scram_131.json 
+Level 109.2 --- Init Score: 0.472   OptimizedScore 0.336       Time: 45.952 s
+Launching wrapRunOptimizer 132 at time = 229.053 for SCRAM_D3_EGFR/scram_132.json 
+Level 130.1 --- Init Score: 0.438   OptimizedScore 0.369       Time: 2.948 s
+Level 132.1 --- Init Score: 0.388   OptimizedScore 0.224       Time: 2.614 s
+Level 131.1 --- Init Score: 0.214   OptimizedScore 0.181       Time: 4.539 s
+Level 106.2 --- Init Score: 0.561   OptimizedScore 0.343       Time: 50.056 s
+Launching wrapRunOptimizer 133 at time = 234.999 for SCRAM_D3_EGFR/scram_133.json 
+Level 102.2 --- Init Score: 0.562   OptimizedScore 0.279       Time: 66.390 s
+Launching wrapRunOptimizer 134 at time = 237.199 for SCRAM_D3_EGFR/scram_134.json 
+Level 122.2 --- Init Score: 0.563   OptimizedScore 0.410       Time: 27.789 s
+Launching wrapRunOptimizer 135 at time = 238.529 for SCRAM_D3_EGFR/scram_135.json 
+Level 133.1 --- Init Score: 0.315   OptimizedScore 0.248       Time: 3.072 s
+Level 126.2 --- Init Score: 0.575   OptimizedScore 0.309       Time: 19.987 s
+Level 121.2 --- Init Score: 0.384   OptimizedScore 0.300       Time: 32.207 s
+Launching wrapRunOptimizer 136 at time = 240.843 for SCRAM_D3_EGFR/scram_136.json 
+Launching wrapRunOptimizer 137 at time = 240.917 for SCRAM_D3_EGFR/scram_137.json 
+Level 134.1 --- Init Score: 0.256   OptimizedScore 0.190       Time: 3.232 s
+Level 135.1 --- Init Score: 0.369   OptimizedScore 0.210       Time: 2.607 s
+Warning: Initial value 1.527e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 118.2 --- Init Score: 0.562   OptimizedScore 0.344       Time: 40.887 s
+Launching wrapRunOptimizer 138 at time = 245.117 for SCRAM_D3_EGFR/scram_138.json 
+Level 136.1 --- Init Score: 0.401   OptimizedScore 0.151       Time: 3.399 s
+Level 105.2 --- Init Score: 0.531   OptimizedScore 0.324       Time: 65.706 s
+Launching wrapRunOptimizer 139 at time = 246.643 for SCRAM_D3_EGFR/scram_139.json 
+Warning: Initial value 3.627e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 108.2 --- Init Score: 0.536   OptimizedScore 0.403       Time: 49.864 s
+Launching wrapRunOptimizer 140 at time = 247.720 for SCRAM_D3_EGFR/scram_140.json 
+Warning: Initial value 0.001106 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 125.2 --- Init Score: 0.575   OptimizedScore 0.559       Time: 28.560 s
+Level 128.2 --- Init Score: 0.538   OptimizedScore 0.424       Time: 22.520 s
+Warning: Score mismatch in processIntermediateResults:  0.2634670081289906 0.2631030044417257
+Level 138.1 --- Init Score: 0.575   OptimizedScore 0.263       Time: 3.212 s
+Level 114.2 --- Init Score: 0.439   OptimizedScore 0.294       Time: 41.812 s
+Launching wrapRunOptimizer 141 at time = 250.209 for SCRAM_D3_EGFR/scram_141.json 
+Launching wrapRunOptimizer 142 at time = 250.545 for SCRAM_D3_EGFR/scram_142.json 
+Launching wrapRunOptimizer 143 at time = 250.745 for SCRAM_D3_EGFR/scram_143.json 
+Level 140.1 --- Init Score: 0.316   OptimizedScore 0.134       Time: 3.806 s
+Warning: Initial value 2.298e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 096.2 --- Init Score: 0.480   OptimizedScore 0.405       Time: 87.720 s
+Level 132.2 --- Init Score: 0.568   OptimizedScore 0.411       Time: 21.041 s
+Level 124.2 --- Init Score: 0.545   OptimizedScore 0.406       Time: 35.848 s
+Launching wrapRunOptimizer 144 at time = 254.389 for SCRAM_D3_EGFR/scram_144.json 
+Launching wrapRunOptimizer 145 at time = 254.465 for SCRAM_D3_EGFR/scram_145.json 
+Launching wrapRunOptimizer 146 at time = 254.678 for SCRAM_D3_EGFR/scram_146.json 
+Level 129.1 --- Init Score: 0.324   OptimizedScore 0.142       Time: 28.564 s
+Level 137.1 --- Init Score: 0.313   OptimizedScore 0.287       Time: 13.639 s
+Level 110.2 --- Init Score: 0.536   OptimizedScore 0.396       Time: 67.398 s
+Launching wrapRunOptimizer 147 at time = 258.087 for SCRAM_D3_EGFR/scram_147.json 
+Level 145.1 --- Init Score: 0.516   OptimizedScore 0.234       Time: 2.848 s
+Level 144.1 --- Init Score: 0.328   OptimizedScore 0.202       Time: 3.848 s
+Level 146.1 --- Init Score: 0.292   OptimizedScore 0.153       Time: 3.737 s
+Level 139.1 --- Init Score: 0.281   OptimizedScore 0.173       Time: 12.187 s
+Level 141.1 --- Init Score: 0.393   OptimizedScore 0.149       Time: 12.189 s
+Level 115.2 --- Init Score: 0.559   OptimizedScore 0.423       Time: 69.083 s
+Launching wrapRunOptimizer 148 at time = 265.957 for SCRAM_D3_EGFR/scram_148.json 
+Warning: Initial value 9.427e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 123.2 --- Init Score: 0.564   OptimizedScore 0.291       Time: 56.615 s
+Level 143.1 --- Init Score: 0.327   OptimizedScore 0.216       Time: 17.702 s
+Launching wrapRunOptimizer 149 at time = 270.459 for SCRAM_D3_EGFR/scram_149.json 
+Level 148.1 --- Init Score: 0.369   OptimizedScore 0.158       Time: 5.942 s
+Level 142.1 --- Init Score: 0.192   OptimizedScore 0.137       Time: 21.525 s
+Level 133.2 --- Init Score: 0.544   OptimizedScore 0.329       Time: 37.777 s
+Launching wrapRunOptimizer 150 at time = 277.264 for SCRAM_D3_EGFR/scram_150.json 
+Warning: Initial value 3.426e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 145.2 --- Init Score: 0.393   OptimizedScore 0.336       Time: 19.166 s
+Launching wrapRunOptimizer 151 at time = 278.355 for SCRAM_D3_EGFR/scram_151.json 
+Level 150.1 --- Init Score: 0.339   OptimizedScore 0.257       Time: 2.472 s
+Warning: Initial value 0.004992 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 144.2 --- Init Score: 0.552   OptimizedScore 0.535       Time: 23.930 s
+Launching wrapRunOptimizer 152 at time = 283.845 for SCRAM_D3_EGFR/scram_152.json 
+Level 130.2 --- Init Score: 0.566   OptimizedScore 0.536       Time: 54.541 s
+Warning: Score mismatch in processIntermediateResults:  0.538883814221054 0.5383273421185214
+Level 146.2 --- Init Score: 0.568   OptimizedScore 0.538       Time: 24.655 s
+Warning: Initial value 0.001118 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 135.2 --- Init Score: 0.513   OptimizedScore 0.290       Time: 43.312 s
+Launching wrapRunOptimizer 153 at time = 285.217 for SCRAM_D3_EGFR/scram_153.json 
+Launching wrapRunOptimizer 154 at time = 285.272 for SCRAM_D3_EGFR/scram_154.json 
+Level 151.1 --- Init Score: 0.268   OptimizedScore 0.243       Time: 6.352 s
+Level 149.1 --- Init Score: 0.287   OptimizedScore 0.157       Time: 14.339 s
+Launching wrapRunOptimizer 155 at time = 286.243 for SCRAM_D3_EGFR/scram_155.json 
+Level 147.1 --- Init Score: 0.387   OptimizedScore 0.327       Time: 27.633 s
+Warning: Initial value 1.153e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 142.2 --- Init Score: 0.571   OptimizedScore 0.444       Time: 14.385 s
+Launching wrapRunOptimizer 156 at time = 287.981 for SCRAM_D3_EGFR/scram_156.json 
+Warning: Initial value 4.138e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 136.2 --- Init Score: 0.457   OptimizedScore 0.334       Time: 43.298 s
+Level 127.2 --- Init Score: 0.465   OptimizedScore 0.363       Time: 65.836 s
+Launching wrapRunOptimizer 157 at time = 289.538 for SCRAM_D3_EGFR/scram_157.json 
+Level 153.1 --- Init Score: 0.346   OptimizedScore 0.283       Time: 3.499 s
+Launching wrapRunOptimizer 158 at time = 289.930 for SCRAM_D3_EGFR/scram_158.json 
+Level 152.1 --- Init Score: 0.315   OptimizedScore 0.259       Time: 6.218 s
+Level 134.2 --- Init Score: 0.570   OptimizedScore 0.319       Time: 49.884 s
+Level 155.1 --- Init Score: 0.290   OptimizedScore 0.223       Time: 4.067 s
+Launching wrapRunOptimizer 159 at time = 291.866 for SCRAM_D3_EGFR/scram_159.json 
+Level 154.1 --- Init Score: 0.327   OptimizedScore 0.134       Time: 5.740 s
+Warning: Initial value 4.881e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 148.2 --- Init Score: 0.574   OptimizedScore 0.569       Time: 21.087 s
+Level 158.1 --- Init Score: 0.365   OptimizedScore 0.209       Time: 3.258 s
+Launching wrapRunOptimizer 160 at time = 294.292 for SCRAM_D3_EGFR/scram_160.json 
+Level 157.1 --- Init Score: 0.245   OptimizedScore 0.170       Time: 4.101 s
+Warning: Initial value 0.001349 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 120.2 --- Init Score: 0.564   OptimizedScore 0.411       Time: 89.086 s
+Launching wrapRunOptimizer 161 at time = 297.400 for SCRAM_D3_EGFR/scram_161.json 
+Level 159.1 --- Init Score: 0.373   OptimizedScore 0.137       Time: 5.125 s
+Level 161.1 --- Init Score: 0.448   OptimizedScore 0.258       Time: 2.084 s
+Warning: Initial value 4.463e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 150.2 --- Init Score: 0.537   OptimizedScore 0.445       Time: 19.885 s
+Level 156.1 --- Init Score: 0.310   OptimizedScore 0.188       Time: 12.345 s
+Launching wrapRunOptimizer 162 at time = 301.203 for SCRAM_D3_EGFR/scram_162.json 
+Level 131.2 --- Init Score: 0.558   OptimizedScore 0.409       Time: 68.630 s
+Launching wrapRunOptimizer 163 at time = 302.474 for SCRAM_D3_EGFR/scram_163.json 
+Level 162.1 --- Init Score: 0.333   OptimizedScore 0.253       Time: 3.741 s
+Warning: Score mismatch in processIntermediateResults:  0.3161586027208024 0.31581316353913386
+Level 149.2 --- Init Score: 0.591   OptimizedScore 0.316       Time: 21.859 s
+Level 163.1 --- Init Score: 0.406   OptimizedScore 0.325       Time: 4.230 s
+Warning: Initial value 0.001595 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 129.2 --- Init Score: 0.553   OptimizedScore 0.425       Time: 52.989 s
+Launching wrapRunOptimizer 164 at time = 308.425 for SCRAM_D3_EGFR/scram_164.json 
+Launching wrapRunOptimizer 165 at time = 308.689 for SCRAM_D3_EGFR/scram_165.json 
+Level 160.1 --- Init Score: 0.231   OptimizedScore 0.132       Time: 16.786 s
+Warning: Initial value 2.028e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 137.2 --- Init Score: 0.570   OptimizedScore 0.402       Time: 59.025 s
+Launching wrapRunOptimizer 166 at time = 315.256 for SCRAM_D3_EGFR/scram_166.json 
+Level 164.1 --- Init Score: 0.335   OptimizedScore 0.151       Time: 7.719 s
+Level 165.1 --- Init Score: 0.270   OptimizedScore 0.187       Time: 7.695 s
+Level 151.2 --- Init Score: 0.550   OptimizedScore 0.411       Time: 35.239 s
+Level 155.2 --- Init Score: 0.445   OptimizedScore 0.305       Time: 29.623 s
+Level 166.1 --- Init Score: 0.400   OptimizedScore 0.328       Time: 5.492 s
+Launching wrapRunOptimizer 167 at time = 321.508 for SCRAM_D3_EGFR/scram_167.json 
+Level 154.2 --- Init Score: 0.436   OptimizedScore 0.294       Time: 29.850 s
+Launching wrapRunOptimizer 168 at time = 322.121 for SCRAM_D3_EGFR/scram_168.json 
+Launching wrapRunOptimizer 169 at time = 322.964 for SCRAM_D3_EGFR/scram_169.json 
+Level 139.2 --- Init Score: 0.592   OptimizedScore 0.345       Time: 66.801 s
+Level 167.1 --- Init Score: 0.355   OptimizedScore 0.178       Time: 4.352 s
+Launching wrapRunOptimizer 170 at time = 327.065 for SCRAM_D3_EGFR/scram_170.json 
+Level 168.1 --- Init Score: 0.256   OptimizedScore 0.167       Time: 4.142 s
+Level 160.2 --- Init Score: 0.556   OptimizedScore 0.336       Time: 15.481 s
+Level 152.2 --- Init Score: 0.580   OptimizedScore 0.276       Time: 36.762 s
+Level 156.2 --- Init Score: 0.566   OptimizedScore 0.381       Time: 26.664 s
+Launching wrapRunOptimizer 171 at time = 328.253 for SCRAM_D3_EGFR/scram_171.json 
+Launching wrapRunOptimizer 172 at time = 328.576 for SCRAM_D3_EGFR/scram_172.json 
+Launching wrapRunOptimizer 173 at time = 328.724 for SCRAM_D3_EGFR/scram_173.json 
+Level 157.2 --- Init Score: 0.562   OptimizedScore 0.299       Time: 34.456 s
+Level 158.2 --- Init Score: 0.573   OptimizedScore 0.403       Time: 35.338 s
+Launching wrapRunOptimizer 174 at time = 330.259 for SCRAM_D3_EGFR/scram_174.json 
+Level 163.2 --- Init Score: 0.560   OptimizedScore 0.534       Time: 22.746 s
+Launching wrapRunOptimizer 175 at time = 330.488 for SCRAM_D3_EGFR/scram_175.json 
+Warning: Initial value 9.865e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 141.2 --- Init Score: 0.546   OptimizedScore 0.340       Time: 67.797 s
+Launching wrapRunOptimizer 176 at time = 331.317 for SCRAM_D3_EGFR/scram_176.json 
+Level 169.1 --- Init Score: 0.302   OptimizedScore 0.238       Time: 7.789 s
+Launching wrapRunOptimizer 177 at time = 332.465 for SCRAM_D3_EGFR/scram_177.json 
+Level 170.1 --- Init Score: 0.348   OptimizedScore 0.141       Time: 4.516 s
+Level 172.1 --- Init Score: 0.413   OptimizedScore 0.210       Time: 3.846 s
+Level 171.1 --- Init Score: 0.243   OptimizedScore 0.136       Time: 5.046 s
+Warning: Score mismatch in processIntermediateResults:  0.2576868818576017 0.25712441830000976
+Level 174.1 --- Init Score: 0.341   OptimizedScore 0.257       Time: 2.869 s
+Level 173.1 --- Init Score: 0.172   OptimizedScore 0.139       Time: 4.417 s
+Level 175.1 --- Init Score: 0.206   OptimizedScore 0.134       Time: 3.410 s
+Level 177.1 --- Init Score: 0.436   OptimizedScore 0.204       Time: 2.975 s
+Level 138.2 --- Init Score: 0.438   OptimizedScore 0.424       Time: 88.286 s
+Level 176.1 --- Init Score: 0.299   OptimizedScore 0.141       Time: 6.092 s
+Launching wrapRunOptimizer 178 at time = 338.568 for SCRAM_D3_EGFR/scram_178.json 
+Level 164.2 --- Init Score: 0.551   OptimizedScore 0.316       Time: 22.612 s
+Launching wrapRunOptimizer 179 at time = 340.406 for SCRAM_D3_EGFR/scram_179.json 
+Level 166.2 --- Init Score: 0.553   OptimizedScore 0.542       Time: 19.599 s
+Warning: Initial value 2.039e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 140.2 --- Init Score: 0.428   OptimizedScore 0.288       Time: 88.771 s
+Launching wrapRunOptimizer 180 at time = 342.052 for SCRAM_D3_EGFR/scram_180.json 
+Launching wrapRunOptimizer 181 at time = 342.185 for SCRAM_D3_EGFR/scram_181.json 
+Level 179.1 --- Init Score: 0.277   OptimizedScore 0.204       Time: 3.153 s
+Level 181.1 --- Init Score: 0.383   OptimizedScore 0.324       Time: 2.620 s
+Level 180.1 --- Init Score: 0.348   OptimizedScore 0.252       Time: 3.848 s
+Level 162.2 --- Init Score: 0.488   OptimizedScore 0.387       Time: 41.443 s
+Level 178.1 --- Init Score: 0.382   OptimizedScore 0.190       Time: 7.858 s
+Launching wrapRunOptimizer 182 at time = 347.782 for SCRAM_D3_EGFR/scram_182.json 
+Level 182.1 --- Init Score: 0.219   OptimizedScore 0.185       Time: 2.850 s
+Warning: Initial value 1.671e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 165.2 --- Init Score: 0.585   OptimizedScore 0.320       Time: 35.187 s
+Launching wrapRunOptimizer 183 at time = 353.144 for SCRAM_D3_EGFR/scram_183.json 
+Warning: Initial value 3.472e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 168.2 --- Init Score: 0.531   OptimizedScore 0.290       Time: 28.432 s
+Launching wrapRunOptimizer 184 at time = 356.331 for SCRAM_D3_EGFR/scram_184.json 
+Warning: Initial value 1.104e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 159.2 --- Init Score: 0.581   OptimizedScore 0.388       Time: 58.585 s
+Launching wrapRunOptimizer 185 at time = 357.089 for SCRAM_D3_EGFR/scram_185.json 
+Level 153.2 --- Init Score: 0.571   OptimizedScore 0.393       Time: 67.505 s
+Warning: Initial value 1.237e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 161.2 --- Init Score: 0.549   OptimizedScore 0.410       Time: 57.345 s
+Warning: Initial value 7.708e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 173.2 --- Init Score: 0.571   OptimizedScore 0.550       Time: 23.118 s
+Launching wrapRunOptimizer 186 at time = 358.431 for SCRAM_D3_EGFR/scram_186.json 
+Launching wrapRunOptimizer 187 at time = 358.450 for SCRAM_D3_EGFR/scram_187.json 
+Launching wrapRunOptimizer 188 at time = 358.569 for SCRAM_D3_EGFR/scram_188.json 
+Warning: Initial value 1.895e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 176.2 --- Init Score: 0.390   OptimizedScore 0.323       Time: 20.084 s
+Launching wrapRunOptimizer 189 at time = 359.787 for SCRAM_D3_EGFR/scram_189.json 
+Level 183.1 --- Init Score: 0.246   OptimizedScore 0.134       Time: 6.256 s
+Warning: Initial value 2.532e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 177.2 --- Init Score: 0.553   OptimizedScore 0.302       Time: 23.987 s
+Launching wrapRunOptimizer 190 at time = 360.983 for SCRAM_D3_EGFR/scram_190.json 
+Level 175.2 --- Init Score: 0.560   OptimizedScore 0.549       Time: 25.925 s
+Warning: Initial value 0.001376 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 174.2 --- Init Score: 0.566   OptimizedScore 0.415       Time: 27.084 s
+Warning: Initial value 3.759e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 172.2 --- Init Score: 0.561   OptimizedScore 0.545       Time: 27.951 s
+Level 185.1 --- Init Score: 0.419   OptimizedScore 0.259       Time: 3.652 s
+Launching wrapRunOptimizer 191 at time = 362.076 for SCRAM_D3_EGFR/scram_191.json 
+Launching wrapRunOptimizer 192 at time = 362.443 for SCRAM_D3_EGFR/scram_192.json 
+Launching wrapRunOptimizer 193 at time = 362.617 for SCRAM_D3_EGFR/scram_193.json 
+Level 187.1 --- Init Score: 0.398   OptimizedScore 0.148       Time: 6.054 s
+Level 180.2 --- Init Score: 0.491   OptimizedScore 0.431       Time: 19.001 s
+Launching wrapRunOptimizer 194 at time = 366.289 for SCRAM_D3_EGFR/scram_194.json 
+Level 167.2 --- Init Score: 0.590   OptimizedScore 0.381       Time: 39.713 s
+Level 191.1 --- Init Score: 0.291   OptimizedScore 0.206       Time: 3.920 s
+Launching wrapRunOptimizer 195 at time = 367.561 for SCRAM_D3_EGFR/scram_195.json 
+Level 189.1 --- Init Score: 0.368   OptimizedScore 0.201       Time: 7.453 s
+Level 184.1 --- Init Score: 0.253   OptimizedScore 0.189       Time: 11.434 s
+Level 186.1 --- Init Score: 0.483   OptimizedScore 0.131       Time: 9.811 s
+Level 188.1 --- Init Score: 0.272   OptimizedScore 0.146       Time: 10.396 s
+Level 194.1 --- Init Score: 0.456   OptimizedScore 0.140       Time: 3.697 s
+Level 190.1 --- Init Score: 0.310   OptimizedScore 0.137       Time: 8.843 s
+Warning: Initial value 4.411e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 112.2 --- Init Score: 0.573   OptimizedScore 0.399       Time: 163.886 s
+Level 178.2 --- Init Score: 0.556   OptimizedScore 0.305       Time: 24.599 s
+Launching wrapRunOptimizer 196 at time = 371.954 for SCRAM_D3_EGFR/scram_196.json 
+Launching wrapRunOptimizer 197 at time = 372.616 for SCRAM_D3_EGFR/scram_197.json 
+Level 195.1 --- Init Score: 0.401   OptimizedScore 0.181       Time: 5.150 s
+Level 181.2 --- Init Score: 0.551   OptimizedScore 0.494       Time: 28.322 s
+Launching wrapRunOptimizer 198 at time = 374.794 for SCRAM_D3_EGFR/scram_198.json 
+Warning: Initial value 2.498e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 113.2 --- Init Score: 0.553   OptimizedScore 0.344       Time: 166.939 s
+Level 193.1 --- Init Score: 0.386   OptimizedScore 0.323       Time: 12.863 s
+Level 192.1 --- Init Score: 0.237   OptimizedScore 0.138       Time: 13.037 s
+Launching wrapRunOptimizer 199 at time = 376.754 for SCRAM_D3_EGFR/scram_199.json 
+Level 197.1 --- Init Score: 0.388   OptimizedScore 0.252       Time: 4.205 s
+Level 198.1 --- Init Score: 0.473   OptimizedScore 0.257       Time: 2.783 s
+Level 196.1 --- Init Score: 0.347   OptimizedScore 0.309       Time: 7.642 s
+Warning: Initial value 3.529e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 169.2 --- Init Score: 0.566   OptimizedScore 0.423       Time: 50.398 s
+Level 182.2 --- Init Score: 0.539   OptimizedScore 0.312       Time: 34.107 s
+Warning: Initial value 3.466e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 187.2 --- Init Score: 0.571   OptimizedScore 0.563       Time: 20.862 s
+Warning: Initial value 5.18e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 171.2 --- Init Score: 0.486   OptimizedScore 0.309       Time: 52.716 s
+Level 199.1 --- Init Score: 0.448   OptimizedScore 0.141       Time: 10.760 s
+Warning: Initial value 6.23e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 194.2 --- Init Score: 0.517   OptimizedScore 0.355       Time: 19.173 s
+Warning: Initial value 4.543e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 195.2 --- Init Score: 0.560   OptimizedScore 0.536       Time: 16.509 s
+Level 191.2 --- Init Score: 0.549   OptimizedScore 0.420       Time: 23.986 s
+Warning: Initial value 1.877e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 183.2 --- Init Score: 0.467   OptimizedScore 0.285       Time: 31.904 s
 Warning: Initial value 1.976e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 193.2 --- Init Score: 0.502   OptimizedScore 0.293       Time: 27.194 s
-Level 186.2 --- Init Score: 0.501   OptimizedScore 0.293       Time: 25.659 s
-Level 187.2 --- Init Score: 0.489   OptimizedScore 0.407       Time: 51.819 s
-Level 192.2 --- Init Score: 0.455   OptimizedScore 0.394       Time: 51.589 s
-Warning: Initial value 4.597e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 199.2 --- Init Score: 0.582   OptimizedScore 0.306       Time: 30.557 s
-Warning: Initial value 2.823e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 196.2 --- Init Score: 0.577   OptimizedScore 0.408       Time: 42.725 s
-Level 190.2 --- Init Score: 0.523   OptimizedScore 0.303       Time: 61.978 s
-Warning: Initial value 0.001639 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Level 198.2 --- Init Score: 0.564   OptimizedScore 0.390       Time: 48.777 s
-Level 181.2 --- Init Score: 0.557   OptimizedScore 0.429       Time: 74.714 s
-EGFR        0.219   
-MAPK        0.404   
-Final Score for scramIdx 000 in Models/D3_model_MAPK_v7.json = 0.311
-EGFR        0.133   
-MAPK        0.422   
-Final Score for scramIdx 001 in Models/D3_model_MAPK_v7.json = 0.277
-EGFR        0.137   
-MAPK        0.424   
-Final Score for scramIdx 002 in Models/D3_model_MAPK_v7.json = 0.281
-EGFR        0.142   
-MAPK        0.306   
-Final Score for scramIdx 003 in Models/D3_model_MAPK_v7.json = 0.224
-EGFR        0.149   
-MAPK        0.419   
-Final Score for scramIdx 004 in Models/D3_model_MAPK_v7.json = 0.284
-EGFR        0.163   
-MAPK        0.320   
-Final Score for scramIdx 005 in Models/D3_model_MAPK_v7.json = 0.241
-EGFR        0.225   
-MAPK        0.389   
-Final Score for scramIdx 006 in Models/D3_model_MAPK_v7.json = 0.307
-EGFR        0.155   
-MAPK        0.528   
-Final Score for scramIdx 007 in Models/D3_model_MAPK_v7.json = 0.342
-EGFR        0.159   
-MAPK        0.300   
-Final Score for scramIdx 008 in Models/D3_model_MAPK_v7.json = 0.230
-EGFR        0.229   
-MAPK        0.453   
-Final Score for scramIdx 009 in Models/D3_model_MAPK_v7.json = 0.341
-EGFR        0.143   
-MAPK        0.292   
-Final Score for scramIdx 010 in Models/D3_model_MAPK_v7.json = 0.218
-EGFR        0.305   
-MAPK        0.411   
-Final Score for scramIdx 011 in Models/D3_model_MAPK_v7.json = 0.358
-EGFR        0.336   
-MAPK        0.477   
-Final Score for scramIdx 012 in Models/D3_model_MAPK_v7.json = 0.407
-EGFR        0.301   
-MAPK        0.398   
-Final Score for scramIdx 013 in Models/D3_model_MAPK_v7.json = 0.350
-EGFR        0.190   
-MAPK        0.542   
-Final Score for scramIdx 014 in Models/D3_model_MAPK_v7.json = 0.366
-EGFR        0.198   
-MAPK        0.419   
-Final Score for scramIdx 015 in Models/D3_model_MAPK_v7.json = 0.308
-EGFR        0.138   
-MAPK        0.294   
-Final Score for scramIdx 016 in Models/D3_model_MAPK_v7.json = 0.216
-EGFR        0.153   
-MAPK        0.293   
-Final Score for scramIdx 017 in Models/D3_model_MAPK_v7.json = 0.223
-EGFR        0.173   
-MAPK        0.342   
-Final Score for scramIdx 018 in Models/D3_model_MAPK_v7.json = 0.257
-EGFR        0.192   
-MAPK        0.442   
-Final Score for scramIdx 019 in Models/D3_model_MAPK_v7.json = 0.317
-EGFR        0.200   
-MAPK        0.541   
-Final Score for scramIdx 020 in Models/D3_model_MAPK_v7.json = 0.370
-EGFR        0.209   
-MAPK        0.409   
-Final Score for scramIdx 021 in Models/D3_model_MAPK_v7.json = 0.309
-EGFR        0.215   
-MAPK        0.413   
-Final Score for scramIdx 022 in Models/D3_model_MAPK_v7.json = 0.314
-EGFR        0.136   
-MAPK        0.406   
-Final Score for scramIdx 023 in Models/D3_model_MAPK_v7.json = 0.271
-EGFR        0.142   
-MAPK        0.345   
-Final Score for scramIdx 024 in Models/D3_model_MAPK_v7.json = 0.244
-EGFR        0.142   
-MAPK        0.333   
-Final Score for scramIdx 025 in Models/D3_model_MAPK_v7.json = 0.238
-EGFR        0.147   
-MAPK        0.295   
-Final Score for scramIdx 026 in Models/D3_model_MAPK_v7.json = 0.221
-EGFR        0.142   
-MAPK        0.538   
-Final Score for scramIdx 027 in Models/D3_model_MAPK_v7.json = 0.340
-EGFR        0.196   
-MAPK        0.415   
-Final Score for scramIdx 028 in Models/D3_model_MAPK_v7.json = 0.305
-EGFR        0.188   
-MAPK        0.306   
-Final Score for scramIdx 029 in Models/D3_model_MAPK_v7.json = 0.247
-EGFR        0.186   
-MAPK        0.342   
-Final Score for scramIdx 030 in Models/D3_model_MAPK_v7.json = 0.264
-EGFR        0.173   
-MAPK        0.287   
-Final Score for scramIdx 031 in Models/D3_model_MAPK_v7.json = 0.230
-EGFR        0.150   
-MAPK        0.293   
-Final Score for scramIdx 032 in Models/D3_model_MAPK_v7.json = 0.221
-EGFR        0.165   
-MAPK        0.411   
-Final Score for scramIdx 033 in Models/D3_model_MAPK_v7.json = 0.288
-EGFR        0.134   
-MAPK        0.396   
-Final Score for scramIdx 034 in Models/D3_model_MAPK_v7.json = 0.265
+Level 179.2 --- Init Score: 0.554   OptimizedScore 0.383       Time: 48.251 s
+Level 193.2 --- Init Score: 0.562   OptimizedScore 0.547       Time: 16.765 s
+Level 170.2 --- Init Score: 0.478   OptimizedScore 0.301       Time: 64.401 s
+Warning: Initial value 0.001696 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 185.2 --- Init Score: 0.552   OptimizedScore 0.392       Time: 36.654 s
+Warning: Initial value 3.815e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 186.2 --- Init Score: 0.566   OptimizedScore 0.375       Time: 29.915 s
+Level 190.2 --- Init Score: 0.525   OptimizedScore 0.351       Time: 35.309 s
+Warning: Initial value 1.514e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 184.2 --- Init Score: 0.556   OptimizedScore 0.395       Time: 38.124 s
+Warning: Initial value 3.912e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 198.2 --- Init Score: 0.562   OptimizedScore 0.338       Time: 37.170 s
+Warning: Initial value 7.952e-06 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 197.2 --- Init Score: 0.550   OptimizedScore 0.432       Time: 42.862 s
+Level 199.2 --- Init Score: 0.421   OptimizedScore 0.290       Time: 35.132 s
+Level 188.2 --- Init Score: 0.555   OptimizedScore 0.385       Time: 56.262 s
+Level 196.2 --- Init Score: 0.443   OptimizedScore 0.393       Time: 53.579 s
+Level 192.2 --- Init Score: 0.479   OptimizedScore 0.290       Time: 70.023 s
+Warning: Initial value 2.627e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Level 189.2 --- Init Score: 0.582   OptimizedScore 0.330       Time: 92.945 s
+Level 143.2 --- Init Score: 0.576   OptimizedScore 0.317       Time: 329.455 s
+Level 147.2 --- Init Score: 0.557   OptimizedScore 0.538       Time: 572.580 s
 EGFR        0.204   
-MAPK        0.290   
-Final Score for scramIdx 035 in Models/D3_model_MAPK_v7.json = 0.247
-EGFR        0.152   
-MAPK        0.455   
-Final Score for scramIdx 036 in Models/D3_model_MAPK_v7.json = 0.303
-EGFR        0.144   
-MAPK        0.406   
-Final Score for scramIdx 037 in Models/D3_model_MAPK_v7.json = 0.275
-EGFR        0.210   
-MAPK        0.290   
-Final Score for scramIdx 038 in Models/D3_model_MAPK_v7.json = 0.250
-EGFR        0.251   
 MAPK        0.417   
-Final Score for scramIdx 039 in Models/D3_model_MAPK_v7.json = 0.334
-EGFR        0.176   
-MAPK        0.385   
-Final Score for scramIdx 040 in Models/D3_model_MAPK_v7.json = 0.281
-EGFR        0.138   
-MAPK        0.387   
-Final Score for scramIdx 041 in Models/D3_model_MAPK_v7.json = 0.263
-EGFR        0.249   
-MAPK        0.397   
-Final Score for scramIdx 042 in Models/D3_model_MAPK_v7.json = 0.323
-EGFR        0.246   
-MAPK        0.412   
-Final Score for scramIdx 043 in Models/D3_model_MAPK_v7.json = 0.329
-EGFR        0.128   
-MAPK        0.287   
-Final Score for scramIdx 044 in Models/D3_model_MAPK_v7.json = 0.207
-EGFR        0.171   
-MAPK        0.295   
-Final Score for scramIdx 045 in Models/D3_model_MAPK_v7.json = 0.233
-EGFR        0.134   
-MAPK        0.303   
-Final Score for scramIdx 046 in Models/D3_model_MAPK_v7.json = 0.219
-EGFR        0.169   
-MAPK        0.392   
-Final Score for scramIdx 047 in Models/D3_model_MAPK_v7.json = 0.281
-EGFR        0.223   
-MAPK        0.407   
-Final Score for scramIdx 048 in Models/D3_model_MAPK_v7.json = 0.315
-EGFR        0.196   
-MAPK        0.366   
-Final Score for scramIdx 049 in Models/D3_model_MAPK_v7.json = 0.281
-EGFR        0.152   
-MAPK        0.401   
-Final Score for scramIdx 050 in Models/D3_model_MAPK_v7.json = 0.276
-EGFR        0.184   
-MAPK        0.399   
-Final Score for scramIdx 051 in Models/D3_model_MAPK_v7.json = 0.292
-EGFR        0.129   
-MAPK        0.395   
-Final Score for scramIdx 052 in Models/D3_model_MAPK_v7.json = 0.262
-EGFR        0.168   
-MAPK        0.396   
-Final Score for scramIdx 053 in Models/D3_model_MAPK_v7.json = 0.282
-EGFR        0.134   
-MAPK        0.552   
-Final Score for scramIdx 054 in Models/D3_model_MAPK_v7.json = 0.343
-EGFR        0.211   
-MAPK        0.394   
-Final Score for scramIdx 055 in Models/D3_model_MAPK_v7.json = 0.303
-EGFR        0.136   
-MAPK        0.298   
-Final Score for scramIdx 056 in Models/D3_model_MAPK_v7.json = 0.217
-EGFR        0.323   
-MAPK        0.312   
-Final Score for scramIdx 057 in Models/D3_model_MAPK_v7.json = 0.317
-EGFR        0.196   
-MAPK        0.478   
-Final Score for scramIdx 058 in Models/D3_model_MAPK_v7.json = 0.337
-EGFR        0.184   
-MAPK        0.554   
-Final Score for scramIdx 059 in Models/D3_model_MAPK_v7.json = 0.369
-EGFR        0.211   
-MAPK        0.538   
-Final Score for scramIdx 060 in Models/D3_model_MAPK_v7.json = 0.374
-EGFR        0.203   
-MAPK        0.405   
-Final Score for scramIdx 061 in Models/D3_model_MAPK_v7.json = 0.304
-EGFR        0.128   
-MAPK        0.334   
-Final Score for scramIdx 062 in Models/D3_model_MAPK_v7.json = 0.231
-EGFR        0.258   
-MAPK        0.401   
-Final Score for scramIdx 063 in Models/D3_model_MAPK_v7.json = 0.330
-EGFR        0.139   
+Final Score for scramIdx 000 in Models/D3_model_EGFR_v8.json = 0.310
+EGFR        0.143   
+MAPK        0.324   
+Final Score for scramIdx 001 in Models/D3_model_EGFR_v8.json = 0.233
+EGFR        0.253   
+MAPK        0.279   
+Final Score for scramIdx 002 in Models/D3_model_EGFR_v8.json = 0.266
+EGFR        0.187   
 MAPK        0.349   
-Final Score for scramIdx 064 in Models/D3_model_MAPK_v7.json = 0.244
+Final Score for scramIdx 003 in Models/D3_model_EGFR_v8.json = 0.268
+EGFR        0.139   
+MAPK        0.409   
+Final Score for scramIdx 004 in Models/D3_model_EGFR_v8.json = 0.274
+EGFR        0.128   
+MAPK        0.294   
+Final Score for scramIdx 005 in Models/D3_model_EGFR_v8.json = 0.211
+EGFR        0.333   
+MAPK        0.407   
+Final Score for scramIdx 006 in Models/D3_model_EGFR_v8.json = 0.370
+EGFR        0.214   
+MAPK        0.397   
+Final Score for scramIdx 007 in Models/D3_model_EGFR_v8.json = 0.306
+EGFR        0.260   
+MAPK        0.402   
+Final Score for scramIdx 008 in Models/D3_model_EGFR_v8.json = 0.331
+EGFR        0.320   
+MAPK        0.430   
+Final Score for scramIdx 009 in Models/D3_model_EGFR_v8.json = 0.375
+EGFR        0.154   
+MAPK        0.292   
+Final Score for scramIdx 010 in Models/D3_model_EGFR_v8.json = 0.223
+EGFR        0.329   
+MAPK        0.355   
+Final Score for scramIdx 011 in Models/D3_model_EGFR_v8.json = 0.342
+EGFR        0.257   
+MAPK        0.428   
+Final Score for scramIdx 012 in Models/D3_model_EGFR_v8.json = 0.342
+EGFR        0.186   
+MAPK        0.305   
+Final Score for scramIdx 013 in Models/D3_model_EGFR_v8.json = 0.245
+EGFR        0.232   
+MAPK        0.393   
+Final Score for scramIdx 014 in Models/D3_model_EGFR_v8.json = 0.312
+EGFR        0.251   
+MAPK        0.443   
+Final Score for scramIdx 015 in Models/D3_model_EGFR_v8.json = 0.347
+EGFR        0.331   
+MAPK        0.540   
+Final Score for scramIdx 016 in Models/D3_model_EGFR_v8.json = 0.435
 EGFR        0.221   
 MAPK        0.309   
-Final Score for scramIdx 065 in Models/D3_model_MAPK_v7.json = 0.265
-EGFR        0.151   
-MAPK        0.408   
-Final Score for scramIdx 066 in Models/D3_model_MAPK_v7.json = 0.280
-EGFR        0.129   
-MAPK        0.322   
-Final Score for scramIdx 067 in Models/D3_model_MAPK_v7.json = 0.225
-EGFR        0.202   
-MAPK        0.325   
-Final Score for scramIdx 068 in Models/D3_model_MAPK_v7.json = 0.263
-EGFR        0.207   
-MAPK        0.401   
-Final Score for scramIdx 069 in Models/D3_model_MAPK_v7.json = 0.304
-EGFR        0.188   
-MAPK        0.555   
-Final Score for scramIdx 070 in Models/D3_model_MAPK_v7.json = 0.372
-EGFR        0.397   
-MAPK        0.298   
-Final Score for scramIdx 071 in Models/D3_model_MAPK_v7.json = 0.348
-EGFR        0.187   
-MAPK        0.408   
-Final Score for scramIdx 072 in Models/D3_model_MAPK_v7.json = 0.297
-EGFR        0.131   
+Final Score for scramIdx 017 in Models/D3_model_EGFR_v8.json = 0.265
+EGFR        0.183   
+MAPK        0.315   
+Final Score for scramIdx 018 in Models/D3_model_EGFR_v8.json = 0.249
+EGFR        0.248   
+MAPK        0.277   
+Final Score for scramIdx 019 in Models/D3_model_EGFR_v8.json = 0.263
+EGFR        0.189   
+MAPK        0.307   
+Final Score for scramIdx 020 in Models/D3_model_EGFR_v8.json = 0.248
+EGFR        0.255   
+MAPK        0.320   
+Final Score for scramIdx 021 in Models/D3_model_EGFR_v8.json = 0.287
+EGFR        0.210   
 MAPK        0.548   
-Final Score for scramIdx 073 in Models/D3_model_MAPK_v7.json = 0.340
-EGFR        0.133   
-MAPK        0.321   
-Final Score for scramIdx 074 in Models/D3_model_MAPK_v7.json = 0.227
-EGFR        0.204   
-MAPK        0.401   
-Final Score for scramIdx 075 in Models/D3_model_MAPK_v7.json = 0.302
-EGFR        0.139   
-MAPK        0.413   
-Final Score for scramIdx 076 in Models/D3_model_MAPK_v7.json = 0.276
-EGFR        0.208   
-MAPK        0.347   
-Final Score for scramIdx 077 in Models/D3_model_MAPK_v7.json = 0.277
-EGFR        0.220   
-MAPK        0.338   
-Final Score for scramIdx 078 in Models/D3_model_MAPK_v7.json = 0.279
-EGFR        0.135   
-MAPK        0.446   
-Final Score for scramIdx 079 in Models/D3_model_MAPK_v7.json = 0.291
-EGFR        0.164   
-MAPK        0.482   
-Final Score for scramIdx 080 in Models/D3_model_MAPK_v7.json = 0.323
-EGFR        0.169   
-MAPK        0.505   
-Final Score for scramIdx 081 in Models/D3_model_MAPK_v7.json = 0.337
-EGFR        0.169   
-MAPK        0.312   
-Final Score for scramIdx 082 in Models/D3_model_MAPK_v7.json = 0.240
-EGFR        0.254   
-MAPK        0.459   
-Final Score for scramIdx 083 in Models/D3_model_MAPK_v7.json = 0.356
-EGFR        0.235   
-MAPK        0.424   
-Final Score for scramIdx 084 in Models/D3_model_MAPK_v7.json = 0.329
-EGFR        0.149   
-MAPK        0.390   
-Final Score for scramIdx 085 in Models/D3_model_MAPK_v7.json = 0.270
-EGFR        0.130   
-MAPK        0.299   
-Final Score for scramIdx 086 in Models/D3_model_MAPK_v7.json = 0.214
-EGFR        0.206   
-MAPK        0.419   
-Final Score for scramIdx 087 in Models/D3_model_MAPK_v7.json = 0.312
-EGFR        0.133   
-MAPK        0.335   
-Final Score for scramIdx 088 in Models/D3_model_MAPK_v7.json = 0.234
-EGFR        0.313   
-MAPK        0.437   
-Final Score for scramIdx 089 in Models/D3_model_MAPK_v7.json = 0.375
-EGFR        0.132   
-MAPK        0.305   
-Final Score for scramIdx 090 in Models/D3_model_MAPK_v7.json = 0.218
-EGFR        0.352   
-MAPK        0.408   
-Final Score for scramIdx 091 in Models/D3_model_MAPK_v7.json = 0.380
-EGFR        0.233   
-MAPK        0.396   
-Final Score for scramIdx 092 in Models/D3_model_MAPK_v7.json = 0.315
-EGFR        0.139   
-MAPK        0.445   
-Final Score for scramIdx 093 in Models/D3_model_MAPK_v7.json = 0.292
-EGFR        0.327   
-MAPK        0.541   
-Final Score for scramIdx 094 in Models/D3_model_MAPK_v7.json = 0.434
-EGFR        0.330   
-MAPK        0.587   
-Final Score for scramIdx 095 in Models/D3_model_MAPK_v7.json = 0.459
-EGFR        0.148   
-MAPK        0.313   
-Final Score for scramIdx 096 in Models/D3_model_MAPK_v7.json = 0.230
-EGFR        0.223   
-MAPK        0.410   
-Final Score for scramIdx 097 in Models/D3_model_MAPK_v7.json = 0.316
-EGFR        0.136   
-MAPK        0.400   
-Final Score for scramIdx 098 in Models/D3_model_MAPK_v7.json = 0.268
-EGFR        0.151   
-MAPK        0.320   
-Final Score for scramIdx 099 in Models/D3_model_MAPK_v7.json = 0.236
-EGFR        0.143   
-MAPK        0.384   
-Final Score for scramIdx 100 in Models/D3_model_MAPK_v7.json = 0.264
-EGFR        0.153   
-MAPK        0.395   
-Final Score for scramIdx 101 in Models/D3_model_MAPK_v7.json = 0.274
-EGFR        0.323   
-MAPK        0.427   
-Final Score for scramIdx 102 in Models/D3_model_MAPK_v7.json = 0.375
-EGFR        0.187   
-MAPK        0.329   
-Final Score for scramIdx 103 in Models/D3_model_MAPK_v7.json = 0.258
-EGFR        0.217   
-MAPK        0.435   
-Final Score for scramIdx 104 in Models/D3_model_MAPK_v7.json = 0.326
-EGFR        0.190   
-MAPK        0.283   
-Final Score for scramIdx 105 in Models/D3_model_MAPK_v7.json = 0.237
-EGFR        0.170   
-MAPK        0.309   
-Final Score for scramIdx 106 in Models/D3_model_MAPK_v7.json = 0.239
-EGFR        0.141   
-MAPK        0.296   
-Final Score for scramIdx 107 in Models/D3_model_MAPK_v7.json = 0.219
-EGFR        0.168   
-MAPK        0.296   
-Final Score for scramIdx 108 in Models/D3_model_MAPK_v7.json = 0.232
-EGFR        0.330   
-MAPK        0.543   
-Final Score for scramIdx 109 in Models/D3_model_MAPK_v7.json = 0.436
-EGFR        0.137   
-MAPK        0.299   
-Final Score for scramIdx 110 in Models/D3_model_MAPK_v7.json = 0.218
-EGFR        0.147   
-MAPK        0.297   
-Final Score for scramIdx 111 in Models/D3_model_MAPK_v7.json = 0.222
-EGFR        0.256   
-MAPK        0.403   
-Final Score for scramIdx 112 in Models/D3_model_MAPK_v7.json = 0.329
-EGFR        0.275   
-MAPK        0.412   
-Final Score for scramIdx 113 in Models/D3_model_MAPK_v7.json = 0.343
-EGFR        0.135   
-MAPK        0.389   
-Final Score for scramIdx 114 in Models/D3_model_MAPK_v7.json = 0.262
-EGFR        0.141   
-MAPK        0.321   
-Final Score for scramIdx 115 in Models/D3_model_MAPK_v7.json = 0.231
-EGFR        0.140   
-MAPK        0.299   
-Final Score for scramIdx 116 in Models/D3_model_MAPK_v7.json = 0.219
-EGFR        0.137   
-MAPK        0.554   
-Final Score for scramIdx 117 in Models/D3_model_MAPK_v7.json = 0.346
-EGFR        0.177   
-MAPK        0.310   
-Final Score for scramIdx 118 in Models/D3_model_MAPK_v7.json = 0.243
-EGFR        0.133   
-MAPK        0.320   
-Final Score for scramIdx 119 in Models/D3_model_MAPK_v7.json = 0.227
-EGFR        0.174   
-MAPK        0.538   
-Final Score for scramIdx 120 in Models/D3_model_MAPK_v7.json = 0.356
-EGFR        0.256   
-MAPK        0.290   
-Final Score for scramIdx 121 in Models/D3_model_MAPK_v7.json = 0.273
-EGFR        0.131   
-MAPK        0.386   
-Final Score for scramIdx 122 in Models/D3_model_MAPK_v7.json = 0.258
-EGFR        0.135   
-MAPK        0.392   
-Final Score for scramIdx 123 in Models/D3_model_MAPK_v7.json = 0.264
-EGFR        0.172   
+Final Score for scramIdx 022 in Models/D3_model_EGFR_v8.json = 0.379
+EGFR        0.248   
+MAPK        0.425   
+Final Score for scramIdx 023 in Models/D3_model_EGFR_v8.json = 0.337
+EGFR        0.157   
+MAPK        0.317   
+Final Score for scramIdx 024 in Models/D3_model_EGFR_v8.json = 0.237
+EGFR        0.185   
 MAPK        0.302   
-Final Score for scramIdx 124 in Models/D3_model_MAPK_v7.json = 0.237
-EGFR        0.158   
-MAPK        0.354   
-Final Score for scramIdx 125 in Models/D3_model_MAPK_v7.json = 0.256
-EGFR        0.137   
-MAPK        0.389   
-Final Score for scramIdx 126 in Models/D3_model_MAPK_v7.json = 0.263
-EGFR        0.215   
-MAPK        0.407   
-Final Score for scramIdx 127 in Models/D3_model_MAPK_v7.json = 0.311
-EGFR        0.327   
-MAPK        0.541   
-Final Score for scramIdx 128 in Models/D3_model_MAPK_v7.json = 0.434
-EGFR        0.381   
-MAPK        0.444   
-Final Score for scramIdx 129 in Models/D3_model_MAPK_v7.json = 0.413
-EGFR        0.163   
-MAPK        0.284   
-Final Score for scramIdx 130 in Models/D3_model_MAPK_v7.json = 0.224
-EGFR        0.252   
-MAPK        0.403   
-Final Score for scramIdx 131 in Models/D3_model_MAPK_v7.json = 0.328
-EGFR        0.134   
-MAPK        0.424   
-Final Score for scramIdx 132 in Models/D3_model_MAPK_v7.json = 0.279
-EGFR        0.239   
-MAPK        0.342   
-Final Score for scramIdx 133 in Models/D3_model_MAPK_v7.json = 0.290
-EGFR        0.129   
-MAPK        0.311   
-Final Score for scramIdx 134 in Models/D3_model_MAPK_v7.json = 0.220
-EGFR        0.193   
-MAPK        0.404   
-Final Score for scramIdx 135 in Models/D3_model_MAPK_v7.json = 0.298
+Final Score for scramIdx 025 in Models/D3_model_EGFR_v8.json = 0.243
+EGFR        0.133   
+MAPK        0.532   
+Final Score for scramIdx 026 in Models/D3_model_EGFR_v8.json = 0.333
+EGFR        0.132   
+MAPK        0.383   
+Final Score for scramIdx 027 in Models/D3_model_EGFR_v8.json = 0.258
 EGFR        0.156   
-MAPK        0.295   
-Final Score for scramIdx 136 in Models/D3_model_MAPK_v7.json = 0.225
-EGFR        0.205   
-MAPK        0.299   
-Final Score for scramIdx 137 in Models/D3_model_MAPK_v7.json = 0.252
-EGFR        0.194   
-MAPK        0.379   
-Final Score for scramIdx 138 in Models/D3_model_MAPK_v7.json = 0.286
+MAPK        0.400   
+Final Score for scramIdx 028 in Models/D3_model_EGFR_v8.json = 0.278
+EGFR        0.138   
+MAPK        0.305   
+Final Score for scramIdx 029 in Models/D3_model_EGFR_v8.json = 0.221
+EGFR        0.139   
+MAPK        0.397   
+Final Score for scramIdx 030 in Models/D3_model_EGFR_v8.json = 0.268
+EGFR        0.133   
+MAPK        0.421   
+Final Score for scramIdx 031 in Models/D3_model_EGFR_v8.json = 0.277
+EGFR        0.136   
+MAPK        0.285   
+Final Score for scramIdx 032 in Models/D3_model_EGFR_v8.json = 0.210
+EGFR        0.319   
+MAPK        0.490   
+Final Score for scramIdx 033 in Models/D3_model_EGFR_v8.json = 0.405
+EGFR        0.268   
+MAPK        0.395   
+Final Score for scramIdx 034 in Models/D3_model_EGFR_v8.json = 0.331
+EGFR        0.257   
+MAPK        0.416   
+Final Score for scramIdx 035 in Models/D3_model_EGFR_v8.json = 0.336
+EGFR        0.196   
+MAPK        0.384   
+Final Score for scramIdx 036 in Models/D3_model_EGFR_v8.json = 0.290
+EGFR        0.147   
+MAPK        0.301   
+Final Score for scramIdx 037 in Models/D3_model_EGFR_v8.json = 0.224
 EGFR        0.129   
-MAPK        0.284   
-Final Score for scramIdx 139 in Models/D3_model_MAPK_v7.json = 0.206
-EGFR        0.135   
-MAPK        0.326   
-Final Score for scramIdx 140 in Models/D3_model_MAPK_v7.json = 0.230
-EGFR        0.239   
-MAPK        0.410   
-Final Score for scramIdx 141 in Models/D3_model_MAPK_v7.json = 0.324
-EGFR        0.152   
-MAPK        0.391   
-Final Score for scramIdx 142 in Models/D3_model_MAPK_v7.json = 0.272
-EGFR        0.178   
-MAPK        0.405   
-Final Score for scramIdx 143 in Models/D3_model_MAPK_v7.json = 0.292
-EGFR        0.187   
-MAPK        0.324   
-Final Score for scramIdx 144 in Models/D3_model_MAPK_v7.json = 0.255
-EGFR        0.171   
-MAPK        0.393   
-Final Score for scramIdx 145 in Models/D3_model_MAPK_v7.json = 0.282
+MAPK        0.350   
+Final Score for scramIdx 038 in Models/D3_model_EGFR_v8.json = 0.240
+EGFR        0.227   
+MAPK        0.363   
+Final Score for scramIdx 039 in Models/D3_model_EGFR_v8.json = 0.295
+EGFR        0.175   
+MAPK        0.275   
+Final Score for scramIdx 040 in Models/D3_model_EGFR_v8.json = 0.225
 EGFR        0.258   
 MAPK        0.412   
-Final Score for scramIdx 146 in Models/D3_model_MAPK_v7.json = 0.335
-EGFR        0.137   
-MAPK        0.407   
-Final Score for scramIdx 147 in Models/D3_model_MAPK_v7.json = 0.272
-EGFR        0.134   
-MAPK        0.292   
-Final Score for scramIdx 148 in Models/D3_model_MAPK_v7.json = 0.213
-EGFR        0.177   
-MAPK        0.310   
-Final Score for scramIdx 149 in Models/D3_model_MAPK_v7.json = 0.243
-EGFR        0.202   
-MAPK        0.446   
-Final Score for scramIdx 150 in Models/D3_model_MAPK_v7.json = 0.324
-EGFR        0.160   
+Final Score for scramIdx 041 in Models/D3_model_EGFR_v8.json = 0.335
+EGFR        0.185   
+MAPK        0.326   
+Final Score for scramIdx 042 in Models/D3_model_EGFR_v8.json = 0.255
+EGFR        0.269   
+MAPK        0.538   
+Final Score for scramIdx 043 in Models/D3_model_EGFR_v8.json = 0.404
+EGFR        0.133   
+MAPK        0.311   
+Final Score for scramIdx 044 in Models/D3_model_EGFR_v8.json = 0.222
+EGFR        0.227   
+MAPK        0.390   
+Final Score for scramIdx 045 in Models/D3_model_EGFR_v8.json = 0.309
+EGFR        0.200   
+MAPK        0.338   
+Final Score for scramIdx 046 in Models/D3_model_EGFR_v8.json = 0.269
+EGFR        0.163   
+MAPK        0.290   
+Final Score for scramIdx 047 in Models/D3_model_EGFR_v8.json = 0.227
+EGFR        0.192   
+MAPK        0.539   
+Final Score for scramIdx 048 in Models/D3_model_EGFR_v8.json = 0.366
+EGFR        0.129   
+MAPK        0.353   
+Final Score for scramIdx 049 in Models/D3_model_EGFR_v8.json = 0.241
+EGFR        0.138   
+MAPK        0.420   
+Final Score for scramIdx 050 in Models/D3_model_EGFR_v8.json = 0.279
+EGFR        0.252   
+MAPK        0.405   
+Final Score for scramIdx 051 in Models/D3_model_EGFR_v8.json = 0.329
+EGFR        0.176   
+MAPK        0.368   
+Final Score for scramIdx 052 in Models/D3_model_EGFR_v8.json = 0.272
+EGFR        0.157   
+MAPK        0.314   
+Final Score for scramIdx 053 in Models/D3_model_EGFR_v8.json = 0.235
+EGFR        0.184   
+MAPK        0.550   
+Final Score for scramIdx 054 in Models/D3_model_EGFR_v8.json = 0.367
+EGFR        0.139   
+MAPK        0.282   
+Final Score for scramIdx 055 in Models/D3_model_EGFR_v8.json = 0.211
+EGFR        0.136   
+MAPK        0.312   
+Final Score for scramIdx 056 in Models/D3_model_EGFR_v8.json = 0.224
+EGFR        0.144   
+MAPK        0.326   
+Final Score for scramIdx 057 in Models/D3_model_EGFR_v8.json = 0.235
+EGFR        0.135   
+MAPK        0.554   
+Final Score for scramIdx 058 in Models/D3_model_EGFR_v8.json = 0.345
+EGFR        0.166   
+MAPK        0.306   
+Final Score for scramIdx 059 in Models/D3_model_EGFR_v8.json = 0.236
+EGFR        0.206   
+MAPK        0.315   
+Final Score for scramIdx 060 in Models/D3_model_EGFR_v8.json = 0.260
+EGFR        0.271   
 MAPK        0.394   
-Final Score for scramIdx 151 in Models/D3_model_MAPK_v7.json = 0.277
+Final Score for scramIdx 061 in Models/D3_model_EGFR_v8.json = 0.332
+EGFR        0.190   
+MAPK        0.322   
+Final Score for scramIdx 062 in Models/D3_model_EGFR_v8.json = 0.256
+EGFR        0.167   
+MAPK        0.397   
+Final Score for scramIdx 063 in Models/D3_model_EGFR_v8.json = 0.282
+EGFR        0.276   
+MAPK        0.546   
+Final Score for scramIdx 064 in Models/D3_model_EGFR_v8.json = 0.411
+EGFR        0.176   
+MAPK        0.290   
+Final Score for scramIdx 065 in Models/D3_model_EGFR_v8.json = 0.233
+EGFR        0.139   
+MAPK        0.560   
+Final Score for scramIdx 066 in Models/D3_model_EGFR_v8.json = 0.350
+EGFR        0.193   
+MAPK        0.406   
+Final Score for scramIdx 067 in Models/D3_model_EGFR_v8.json = 0.300
+EGFR        0.182   
+MAPK        0.432   
+Final Score for scramIdx 068 in Models/D3_model_EGFR_v8.json = 0.307
+EGFR        0.151   
+MAPK        0.545   
+Final Score for scramIdx 069 in Models/D3_model_EGFR_v8.json = 0.348
+EGFR        0.159   
+MAPK        0.418   
+Final Score for scramIdx 070 in Models/D3_model_EGFR_v8.json = 0.288
+EGFR        0.187   
+MAPK        0.551   
+Final Score for scramIdx 071 in Models/D3_model_EGFR_v8.json = 0.369
+EGFR        0.250   
+MAPK        0.538   
+Final Score for scramIdx 072 in Models/D3_model_EGFR_v8.json = 0.394
+EGFR        0.161   
+MAPK        0.404   
+Final Score for scramIdx 073 in Models/D3_model_EGFR_v8.json = 0.283
+EGFR        0.170   
+MAPK        0.401   
+Final Score for scramIdx 074 in Models/D3_model_EGFR_v8.json = 0.285
+EGFR        0.211   
+MAPK        0.395   
+Final Score for scramIdx 075 in Models/D3_model_EGFR_v8.json = 0.303
+EGFR        0.337   
+MAPK        0.407   
+Final Score for scramIdx 076 in Models/D3_model_EGFR_v8.json = 0.372
+EGFR        0.197   
+MAPK        0.385   
+Final Score for scramIdx 077 in Models/D3_model_EGFR_v8.json = 0.291
+EGFR        0.142   
+MAPK        0.293   
+Final Score for scramIdx 078 in Models/D3_model_EGFR_v8.json = 0.217
+EGFR        0.236   
+MAPK        0.332   
+Final Score for scramIdx 079 in Models/D3_model_EGFR_v8.json = 0.284
+EGFR        0.163   
+MAPK        0.296   
+Final Score for scramIdx 080 in Models/D3_model_EGFR_v8.json = 0.230
+EGFR        0.139   
+MAPK        0.296   
+Final Score for scramIdx 081 in Models/D3_model_EGFR_v8.json = 0.218
+EGFR        0.173   
+MAPK        0.335   
+Final Score for scramIdx 082 in Models/D3_model_EGFR_v8.json = 0.254
+EGFR        0.195   
+MAPK        0.546   
+Final Score for scramIdx 083 in Models/D3_model_EGFR_v8.json = 0.370
+EGFR        0.303   
+MAPK        0.446   
+Final Score for scramIdx 084 in Models/D3_model_EGFR_v8.json = 0.375
+EGFR        0.255   
+MAPK        0.411   
+Final Score for scramIdx 085 in Models/D3_model_EGFR_v8.json = 0.333
+EGFR        0.189   
+MAPK        0.549   
+Final Score for scramIdx 086 in Models/D3_model_EGFR_v8.json = 0.369
+EGFR        0.210   
+MAPK        0.398   
+Final Score for scramIdx 087 in Models/D3_model_EGFR_v8.json = 0.304
+EGFR        0.260   
+MAPK        0.301   
+Final Score for scramIdx 088 in Models/D3_model_EGFR_v8.json = 0.280
+EGFR        0.254   
+MAPK        0.416   
+Final Score for scramIdx 089 in Models/D3_model_EGFR_v8.json = 0.335
+EGFR        0.146   
+MAPK        0.298   
+Final Score for scramIdx 090 in Models/D3_model_EGFR_v8.json = 0.222
+EGFR        0.143   
+MAPK        0.425   
+Final Score for scramIdx 091 in Models/D3_model_EGFR_v8.json = 0.284
+EGFR        0.286   
+MAPK        0.296   
+Final Score for scramIdx 092 in Models/D3_model_EGFR_v8.json = 0.291
+EGFR        0.204   
+MAPK        0.391   
+Final Score for scramIdx 093 in Models/D3_model_EGFR_v8.json = 0.298
 EGFR        0.198   
 MAPK        0.412   
-Final Score for scramIdx 152 in Models/D3_model_MAPK_v7.json = 0.305
-EGFR        0.182   
-MAPK        0.340   
-Final Score for scramIdx 153 in Models/D3_model_MAPK_v7.json = 0.261
-EGFR        0.144   
-MAPK        0.315   
-Final Score for scramIdx 154 in Models/D3_model_MAPK_v7.json = 0.230
-EGFR        0.180   
-MAPK        0.540   
-Final Score for scramIdx 155 in Models/D3_model_MAPK_v7.json = 0.360
-EGFR        0.271   
-MAPK        0.542   
-Final Score for scramIdx 156 in Models/D3_model_MAPK_v7.json = 0.407
-EGFR        0.208   
-MAPK        0.412   
-Final Score for scramIdx 157 in Models/D3_model_MAPK_v7.json = 0.310
-EGFR        0.128   
-MAPK        0.393   
-Final Score for scramIdx 158 in Models/D3_model_MAPK_v7.json = 0.261
-EGFR        0.142   
-MAPK        0.316   
-Final Score for scramIdx 159 in Models/D3_model_MAPK_v7.json = 0.229
-EGFR        0.143   
-MAPK        0.311   
-Final Score for scramIdx 160 in Models/D3_model_MAPK_v7.json = 0.227
+Final Score for scramIdx 094 in Models/D3_model_EGFR_v8.json = 0.305
+EGFR        0.192   
+MAPK        0.538   
+Final Score for scramIdx 095 in Models/D3_model_EGFR_v8.json = 0.365
+EGFR        0.155   
+MAPK        0.405   
+Final Score for scramIdx 096 in Models/D3_model_EGFR_v8.json = 0.280
 EGFR        0.129   
-MAPK        0.306   
-Final Score for scramIdx 161 in Models/D3_model_MAPK_v7.json = 0.218
-EGFR        0.187   
-MAPK        0.315   
-Final Score for scramIdx 162 in Models/D3_model_MAPK_v7.json = 0.251
-EGFR        0.148   
-MAPK        0.395   
-Final Score for scramIdx 163 in Models/D3_model_MAPK_v7.json = 0.272
-EGFR        0.234   
-MAPK        0.440   
-Final Score for scramIdx 164 in Models/D3_model_MAPK_v7.json = 0.337
-EGFR        0.159   
-MAPK        0.290   
-Final Score for scramIdx 165 in Models/D3_model_MAPK_v7.json = 0.225
-EGFR        0.160   
-MAPK        0.420   
-Final Score for scramIdx 166 in Models/D3_model_MAPK_v7.json = 0.290
-EGFR        0.176   
-MAPK        0.297   
-Final Score for scramIdx 167 in Models/D3_model_MAPK_v7.json = 0.236
-EGFR        0.162   
-MAPK        0.302   
-Final Score for scramIdx 168 in Models/D3_model_MAPK_v7.json = 0.232
+MAPK        0.287   
+Final Score for scramIdx 097 in Models/D3_model_EGFR_v8.json = 0.208
 EGFR        0.210   
+MAPK        0.433   
+Final Score for scramIdx 098 in Models/D3_model_EGFR_v8.json = 0.321
+EGFR        0.333   
+MAPK        0.539   
+Final Score for scramIdx 099 in Models/D3_model_EGFR_v8.json = 0.436
+EGFR        0.327   
 MAPK        0.423   
-Final Score for scramIdx 169 in Models/D3_model_MAPK_v7.json = 0.317
-EGFR        0.153   
-MAPK        0.401   
-Final Score for scramIdx 170 in Models/D3_model_MAPK_v7.json = 0.277
-EGFR        0.150   
-MAPK        0.406   
-Final Score for scramIdx 171 in Models/D3_model_MAPK_v7.json = 0.278
-EGFR        0.397   
-MAPK        0.571   
-Final Score for scramIdx 172 in Models/D3_model_MAPK_v7.json = 0.484
-EGFR        0.129   
-MAPK        0.462   
-Final Score for scramIdx 173 in Models/D3_model_MAPK_v7.json = 0.296
-EGFR        0.180   
-MAPK        0.315   
-Final Score for scramIdx 174 in Models/D3_model_MAPK_v7.json = 0.247
-EGFR        0.129   
-MAPK        0.542   
-Final Score for scramIdx 175 in Models/D3_model_MAPK_v7.json = 0.336
-EGFR        0.133   
-MAPK        0.308   
-Final Score for scramIdx 176 in Models/D3_model_MAPK_v7.json = 0.221
-EGFR        0.167   
-MAPK        0.294   
-Final Score for scramIdx 177 in Models/D3_model_MAPK_v7.json = 0.231
-EGFR        0.134   
-MAPK        0.538   
-Final Score for scramIdx 178 in Models/D3_model_MAPK_v7.json = 0.336
-EGFR        0.158   
-MAPK        0.299   
-Final Score for scramIdx 179 in Models/D3_model_MAPK_v7.json = 0.228
-EGFR        0.223   
-MAPK        0.408   
-Final Score for scramIdx 180 in Models/D3_model_MAPK_v7.json = 0.315
-EGFR        0.140   
-MAPK        0.429   
-Final Score for scramIdx 181 in Models/D3_model_MAPK_v7.json = 0.285
-EGFR        0.180   
-MAPK        0.323   
-Final Score for scramIdx 182 in Models/D3_model_MAPK_v7.json = 0.252
-EGFR        0.158   
-MAPK        0.462   
-Final Score for scramIdx 183 in Models/D3_model_MAPK_v7.json = 0.310
-EGFR        0.136   
-MAPK        0.407   
-Final Score for scramIdx 184 in Models/D3_model_MAPK_v7.json = 0.271
-EGFR        0.196   
-MAPK        0.401   
-Final Score for scramIdx 185 in Models/D3_model_MAPK_v7.json = 0.299
+Final Score for scramIdx 100 in Models/D3_model_EGFR_v8.json = 0.375
+EGFR        0.198   
+MAPK        0.380   
+Final Score for scramIdx 101 in Models/D3_model_EGFR_v8.json = 0.289
 EGFR        0.131   
-MAPK        0.293   
-Final Score for scramIdx 186 in Models/D3_model_MAPK_v7.json = 0.212
-EGFR        0.176   
-MAPK        0.407   
-Final Score for scramIdx 187 in Models/D3_model_MAPK_v7.json = 0.291
+MAPK        0.279   
+Final Score for scramIdx 102 in Models/D3_model_EGFR_v8.json = 0.205
+EGFR        0.130   
+MAPK        0.282   
+Final Score for scramIdx 103 in Models/D3_model_EGFR_v8.json = 0.206
+EGFR        0.262   
+MAPK        0.405   
+Final Score for scramIdx 104 in Models/D3_model_EGFR_v8.json = 0.333
+EGFR        0.202   
+MAPK        0.324   
+Final Score for scramIdx 105 in Models/D3_model_EGFR_v8.json = 0.263
+EGFR        0.170   
+MAPK        0.343   
+Final Score for scramIdx 106 in Models/D3_model_EGFR_v8.json = 0.256
+EGFR        0.144   
+MAPK        0.404   
+Final Score for scramIdx 107 in Models/D3_model_EGFR_v8.json = 0.274
+EGFR        0.154   
+MAPK        0.403   
+Final Score for scramIdx 108 in Models/D3_model_EGFR_v8.json = 0.279
+EGFR        0.190   
+MAPK        0.336   
+Final Score for scramIdx 109 in Models/D3_model_EGFR_v8.json = 0.263
+EGFR        0.145   
+MAPK        0.396   
+Final Score for scramIdx 110 in Models/D3_model_EGFR_v8.json = 0.271
+EGFR        0.208   
+MAPK        0.408   
+Final Score for scramIdx 111 in Models/D3_model_EGFR_v8.json = 0.308
+EGFR        0.241   
+MAPK        0.399   
+Final Score for scramIdx 112 in Models/D3_model_EGFR_v8.json = 0.320
 EGFR        0.183   
-MAPK        0.311   
-Final Score for scramIdx 188 in Models/D3_model_MAPK_v7.json = 0.247
-EGFR        0.222   
-MAPK        0.543   
-Final Score for scramIdx 189 in Models/D3_model_MAPK_v7.json = 0.383
-EGFR        0.257   
-MAPK        0.303   
-Final Score for scramIdx 190 in Models/D3_model_MAPK_v7.json = 0.280
-EGFR        0.345   
-MAPK        0.571   
-Final Score for scramIdx 191 in Models/D3_model_MAPK_v7.json = 0.458
-EGFR        0.299   
-MAPK        0.394   
-Final Score for scramIdx 192 in Models/D3_model_MAPK_v7.json = 0.347
-EGFR        0.156   
-MAPK        0.293   
-Final Score for scramIdx 193 in Models/D3_model_MAPK_v7.json = 0.224
-EGFR        0.315   
-MAPK        0.544   
-Final Score for scramIdx 194 in Models/D3_model_MAPK_v7.json = 0.430
-EGFR        0.129   
-MAPK        0.538   
-Final Score for scramIdx 195 in Models/D3_model_MAPK_v7.json = 0.334
-EGFR        0.127   
+MAPK        0.344   
+Final Score for scramIdx 113 in Models/D3_model_EGFR_v8.json = 0.263
+EGFR        0.141   
+MAPK        0.294   
+Final Score for scramIdx 114 in Models/D3_model_EGFR_v8.json = 0.218
+EGFR        0.327   
+MAPK        0.423   
+Final Score for scramIdx 115 in Models/D3_model_EGFR_v8.json = 0.375
+EGFR        0.144   
+MAPK        0.299   
+Final Score for scramIdx 116 in Models/D3_model_EGFR_v8.json = 0.222
+EGFR        0.168   
+MAPK        0.295   
+Final Score for scramIdx 117 in Models/D3_model_EGFR_v8.json = 0.231
+EGFR        0.153   
+MAPK        0.344   
+Final Score for scramIdx 118 in Models/D3_model_EGFR_v8.json = 0.248
+EGFR        0.188   
 MAPK        0.408   
-Final Score for scramIdx 196 in Models/D3_model_MAPK_v7.json = 0.267
-EGFR        0.132   
-MAPK        0.316   
-Final Score for scramIdx 197 in Models/D3_model_MAPK_v7.json = 0.224
+Final Score for scramIdx 119 in Models/D3_model_EGFR_v8.json = 0.298
+EGFR        0.249   
+MAPK        0.411   
+Final Score for scramIdx 120 in Models/D3_model_EGFR_v8.json = 0.330
+EGFR        0.154   
+MAPK        0.300   
+Final Score for scramIdx 121 in Models/D3_model_EGFR_v8.json = 0.227
+EGFR        0.228   
+MAPK        0.410   
+Final Score for scramIdx 122 in Models/D3_model_EGFR_v8.json = 0.319
+EGFR        0.142   
+MAPK        0.291   
+Final Score for scramIdx 123 in Models/D3_model_EGFR_v8.json = 0.216
 EGFR        0.254   
-MAPK        0.390   
-Final Score for scramIdx 198 in Models/D3_model_MAPK_v7.json = 0.322
+MAPK        0.406   
+Final Score for scramIdx 124 in Models/D3_model_EGFR_v8.json = 0.330
+EGFR        0.270   
+MAPK        0.559   
+Final Score for scramIdx 125 in Models/D3_model_EGFR_v8.json = 0.414
+EGFR        0.231   
+MAPK        0.309   
+Final Score for scramIdx 126 in Models/D3_model_EGFR_v8.json = 0.270
+EGFR        0.207   
+MAPK        0.363   
+Final Score for scramIdx 127 in Models/D3_model_EGFR_v8.json = 0.285
+EGFR        0.325   
+MAPK        0.424   
+Final Score for scramIdx 128 in Models/D3_model_EGFR_v8.json = 0.375
+EGFR        0.141   
+MAPK        0.425   
+Final Score for scramIdx 129 in Models/D3_model_EGFR_v8.json = 0.283
+EGFR        0.369   
+MAPK        0.536   
+Final Score for scramIdx 130 in Models/D3_model_EGFR_v8.json = 0.452
+EGFR        0.181   
+MAPK        0.409   
+Final Score for scramIdx 131 in Models/D3_model_EGFR_v8.json = 0.295
+EGFR        0.224   
+MAPK        0.411   
+Final Score for scramIdx 132 in Models/D3_model_EGFR_v8.json = 0.318
+EGFR        0.248   
+MAPK        0.329   
+Final Score for scramIdx 133 in Models/D3_model_EGFR_v8.json = 0.289
+EGFR        0.190   
+MAPK        0.319   
+Final Score for scramIdx 134 in Models/D3_model_EGFR_v8.json = 0.255
+EGFR        0.209   
+MAPK        0.290   
+Final Score for scramIdx 135 in Models/D3_model_EGFR_v8.json = 0.250
+EGFR        0.151   
+MAPK        0.334   
+Final Score for scramIdx 136 in Models/D3_model_EGFR_v8.json = 0.242
+EGFR        0.287   
+MAPK        0.402   
+Final Score for scramIdx 137 in Models/D3_model_EGFR_v8.json = 0.344
+EGFR        0.263   
+MAPK        0.424   
+Final Score for scramIdx 138 in Models/D3_model_EGFR_v8.json = 0.344
+EGFR        0.173   
+MAPK        0.345   
+Final Score for scramIdx 139 in Models/D3_model_EGFR_v8.json = 0.259
+EGFR        0.134   
+MAPK        0.288   
+Final Score for scramIdx 140 in Models/D3_model_EGFR_v8.json = 0.211
+EGFR        0.149   
+MAPK        0.340   
+Final Score for scramIdx 141 in Models/D3_model_EGFR_v8.json = 0.244
+EGFR        0.137   
+MAPK        0.444   
+Final Score for scramIdx 142 in Models/D3_model_EGFR_v8.json = 0.291
+EGFR        0.216   
+MAPK        0.317   
+Final Score for scramIdx 143 in Models/D3_model_EGFR_v8.json = 0.267
+EGFR        0.202   
+MAPK        0.535   
+Final Score for scramIdx 144 in Models/D3_model_EGFR_v8.json = 0.368
+EGFR        0.234   
+MAPK        0.336   
+Final Score for scramIdx 145 in Models/D3_model_EGFR_v8.json = 0.285
+EGFR        0.153   
+MAPK        0.538   
+Final Score for scramIdx 146 in Models/D3_model_EGFR_v8.json = 0.346
+EGFR        0.327   
+MAPK        0.538   
+Final Score for scramIdx 147 in Models/D3_model_EGFR_v8.json = 0.433
+EGFR        0.158   
+MAPK        0.569   
+Final Score for scramIdx 148 in Models/D3_model_EGFR_v8.json = 0.363
+EGFR        0.157   
+MAPK        0.316   
+Final Score for scramIdx 149 in Models/D3_model_EGFR_v8.json = 0.236
+EGFR        0.257   
+MAPK        0.445   
+Final Score for scramIdx 150 in Models/D3_model_EGFR_v8.json = 0.351
+EGFR        0.243   
+MAPK        0.411   
+Final Score for scramIdx 151 in Models/D3_model_EGFR_v8.json = 0.327
+EGFR        0.259   
+MAPK        0.276   
+Final Score for scramIdx 152 in Models/D3_model_EGFR_v8.json = 0.267
+EGFR        0.283   
+MAPK        0.393   
+Final Score for scramIdx 153 in Models/D3_model_EGFR_v8.json = 0.338
+EGFR        0.134   
+MAPK        0.294   
+Final Score for scramIdx 154 in Models/D3_model_EGFR_v8.json = 0.214
+EGFR        0.223   
+MAPK        0.305   
+Final Score for scramIdx 155 in Models/D3_model_EGFR_v8.json = 0.264
+EGFR        0.189   
+MAPK        0.381   
+Final Score for scramIdx 156 in Models/D3_model_EGFR_v8.json = 0.285
+EGFR        0.170   
+MAPK        0.299   
+Final Score for scramIdx 157 in Models/D3_model_EGFR_v8.json = 0.235
+EGFR        0.209   
+MAPK        0.403   
+Final Score for scramIdx 158 in Models/D3_model_EGFR_v8.json = 0.306
+EGFR        0.137   
+MAPK        0.388   
+Final Score for scramIdx 159 in Models/D3_model_EGFR_v8.json = 0.262
+EGFR        0.132   
+MAPK        0.336   
+Final Score for scramIdx 160 in Models/D3_model_EGFR_v8.json = 0.234
+EGFR        0.258   
+MAPK        0.410   
+Final Score for scramIdx 161 in Models/D3_model_EGFR_v8.json = 0.334
+EGFR        0.253   
+MAPK        0.387   
+Final Score for scramIdx 162 in Models/D3_model_EGFR_v8.json = 0.320
+EGFR        0.325   
+MAPK        0.534   
+Final Score for scramIdx 163 in Models/D3_model_EGFR_v8.json = 0.430
+EGFR        0.151   
+MAPK        0.316   
+Final Score for scramIdx 164 in Models/D3_model_EGFR_v8.json = 0.233
+EGFR        0.186   
+MAPK        0.320   
+Final Score for scramIdx 165 in Models/D3_model_EGFR_v8.json = 0.253
+EGFR        0.328   
+MAPK        0.542   
+Final Score for scramIdx 166 in Models/D3_model_EGFR_v8.json = 0.435
+EGFR        0.178   
+MAPK        0.381   
+Final Score for scramIdx 167 in Models/D3_model_EGFR_v8.json = 0.279
+EGFR        0.167   
+MAPK        0.290   
+Final Score for scramIdx 168 in Models/D3_model_EGFR_v8.json = 0.229
+EGFR        0.238   
+MAPK        0.423   
+Final Score for scramIdx 169 in Models/D3_model_EGFR_v8.json = 0.330
+EGFR        0.141   
+MAPK        0.301   
+Final Score for scramIdx 170 in Models/D3_model_EGFR_v8.json = 0.221
+EGFR        0.136   
+MAPK        0.309   
+Final Score for scramIdx 171 in Models/D3_model_EGFR_v8.json = 0.223
+EGFR        0.209   
+MAPK        0.545   
+Final Score for scramIdx 172 in Models/D3_model_EGFR_v8.json = 0.377
+EGFR        0.139   
+MAPK        0.550   
+Final Score for scramIdx 173 in Models/D3_model_EGFR_v8.json = 0.345
+EGFR        0.257   
+MAPK        0.415   
+Final Score for scramIdx 174 in Models/D3_model_EGFR_v8.json = 0.336
+EGFR        0.134   
+MAPK        0.549   
+Final Score for scramIdx 175 in Models/D3_model_EGFR_v8.json = 0.341
+EGFR        0.141   
+MAPK        0.323   
+Final Score for scramIdx 176 in Models/D3_model_EGFR_v8.json = 0.232
+EGFR        0.204   
+MAPK        0.302   
+Final Score for scramIdx 177 in Models/D3_model_EGFR_v8.json = 0.253
+EGFR        0.190   
+MAPK        0.305   
+Final Score for scramIdx 178 in Models/D3_model_EGFR_v8.json = 0.248
+EGFR        0.203   
+MAPK        0.383   
+Final Score for scramIdx 179 in Models/D3_model_EGFR_v8.json = 0.293
+EGFR        0.252   
+MAPK        0.431   
+Final Score for scramIdx 180 in Models/D3_model_EGFR_v8.json = 0.342
+EGFR        0.324   
+MAPK        0.494   
+Final Score for scramIdx 181 in Models/D3_model_EGFR_v8.json = 0.409
+EGFR        0.186   
+MAPK        0.312   
+Final Score for scramIdx 182 in Models/D3_model_EGFR_v8.json = 0.249
+EGFR        0.134   
+MAPK        0.285   
+Final Score for scramIdx 183 in Models/D3_model_EGFR_v8.json = 0.209
+EGFR        0.189   
+MAPK        0.395   
+Final Score for scramIdx 184 in Models/D3_model_EGFR_v8.json = 0.292
+EGFR        0.259   
+MAPK        0.392   
+Final Score for scramIdx 185 in Models/D3_model_EGFR_v8.json = 0.326
 EGFR        0.131   
-MAPK        0.306   
-Final Score for scramIdx 199 in Models/D3_model_MAPK_v7.json = 0.218
-Models/D3_model_MAPK_v7.json: initScramble: Init Score 0.219, Final = 0.206, Time = 392.787s
+MAPK        0.375   
+Final Score for scramIdx 186 in Models/D3_model_EGFR_v8.json = 0.253
+EGFR        0.148   
+MAPK        0.563   
+Final Score for scramIdx 187 in Models/D3_model_EGFR_v8.json = 0.355
+EGFR        0.147   
+MAPK        0.385   
+Final Score for scramIdx 188 in Models/D3_model_EGFR_v8.json = 0.266
+EGFR        0.201   
+MAPK        0.330   
+Final Score for scramIdx 189 in Models/D3_model_EGFR_v8.json = 0.265
+EGFR        0.137   
+MAPK        0.351   
+Final Score for scramIdx 190 in Models/D3_model_EGFR_v8.json = 0.244
+EGFR        0.206   
+MAPK        0.420   
+Final Score for scramIdx 191 in Models/D3_model_EGFR_v8.json = 0.313
+EGFR        0.138   
+MAPK        0.290   
+Final Score for scramIdx 192 in Models/D3_model_EGFR_v8.json = 0.214
+EGFR        0.323   
+MAPK        0.547   
+Final Score for scramIdx 193 in Models/D3_model_EGFR_v8.json = 0.435
+EGFR        0.140   
+MAPK        0.355   
+Final Score for scramIdx 194 in Models/D3_model_EGFR_v8.json = 0.248
+EGFR        0.182   
+MAPK        0.536   
+Final Score for scramIdx 195 in Models/D3_model_EGFR_v8.json = 0.359
+EGFR        0.309   
+MAPK        0.393   
+Final Score for scramIdx 196 in Models/D3_model_EGFR_v8.json = 0.351
+EGFR        0.252   
+MAPK        0.432   
+Final Score for scramIdx 197 in Models/D3_model_EGFR_v8.json = 0.342
+EGFR        0.257   
+MAPK        0.338   
+Final Score for scramIdx 198 in Models/D3_model_EGFR_v8.json = 0.298
+EGFR        0.141   
+MAPK        0.290   
+Final Score for scramIdx 199 in Models/D3_model_EGFR_v8.json = 0.215
+Models/D3_model_EGFR_v8.json: initScramble: Init Score 0.258, Final = 0.205, Time = 860.783s

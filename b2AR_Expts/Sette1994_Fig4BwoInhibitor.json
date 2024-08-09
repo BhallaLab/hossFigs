@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Surbhit Wagle",
         "organization": "NCBS",
@@ -18,16 +18,19 @@
     },
     "Experiment": {
         "design": "TimeSeries",
-        "species": "in-vitro", 
-        "cellType": "Soluble extracts from MA-10 cells transfected with rat PDE cDNAs.", 
-        "temperature": 34, 
+        "species": "in-vitro",
+        "cellType": "Soluble extracts from MA-10 cells transfected with rat PDE cDNAs.",
+        "temperature": 34,
         "notes": ""
     },
     "Stimuli": [
         {
             "timeUnits": "min",
             "quantityUnits": "uM",
-            "entity": "PKA_active",
+            "entity": {
+                "name": "aPKA",
+                "alias": "PKA_active"
+            },
             "field": "conc",
             "data": [
                 [
@@ -39,18 +42,18 @@
     ],
     "Readouts": {
         "timeUnits": "min",
-        "settleTime": 16,
         "quantityUnits": "ratio",
-        "entities": [
-            "AMP"
-        ],
+        "entity": {
+            "name": "AMP",
+            "alias": "AMP"
+        },
         "field": "conc",
         "normalization": {
-            "time": 16,
-            "entities": [
-                "AMP"
-            ],
-            "sampling": "presetTime"
+            "entity": {
+                "name": "AMP"
+            },
+            "sampling": "presetTime",
+            "sampTime": 16
         },
         "data": [
             [
@@ -102,44 +105,68 @@
     },
     "Modifications": {
         "subset": [
-            "PKA_g",
-            "b2AR_g",
-            "PDE_g",
-            "AC_g"
+            {
+                "name": "PKA_g"
+            },
+            {
+                "name": "b2AR_g"
+            },
+            {
+                "name": "PDE_g"
+            },
+            {
+                "name": "AC_g"
+            }
         ],
         "parameterChange": [
             {
-                "entity": "ATP",
+                "entity": {
+                    "name": "ATP",
+                    "alias": "ATP"
+                },
                 "field": "concInit",
                 "value": 0.2,
                 "units": "mM"
             },
             {
-                "entity": "AMP",
+                "entity": {
+                    "name": "AMP"
+                },
                 "field": "concInit",
                 "value": 0,
                 "units": "mM"
             },
             {
-                "entity": "PKA_active",
+                "entity": {
+                    "name": "aPKA",
+                    "alias": "PKA_active"
+                },
                 "field": "isBuffered",
                 "value": 1,
                 "units": "none"
             },
             {
-                "entity": "cAMP",
+                "entity": {
+                    "name": "cAMP",
+                    "alias": "cAMP"
+                },
                 "field": "isBuffered",
                 "value": 1,
                 "units": "none"
             },
             {
-                "entity": "cAMP",
+                "entity": {
+                    "name": "cAMP"
+                },
                 "field": "concInit",
                 "value": 0.001,
                 "units": "mM"
             },
             {
-                "entity": "PKA_inhibitor",
+                "entity": {
+                    "name": "PKA_inhibitor",
+                    "alias": "PKA_inhibitor"
+                },
                 "field": "concInit",
                 "value": 0,
                 "units": "mM"

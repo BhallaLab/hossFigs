@@ -9,7 +9,7 @@ def main():
     ax.text( -0.20, 1.05, "D", fontsize = 22, weight = "bold", 
             transform=ax.transAxes )
     findSim.innerMain( "../EGFR_Expts/Mukhin2003_Fig9B.json", 
-            modelFile = "../Models/D3_model_MAPK_v7.json", 
+            modelFile = "../Models/D3_model_EGFR_v8.json", 
             mapFile = "../Maps/D3_map_EGFR.json",
             bigFont = True, labelPos = "upper left", deferPlot = True )
     plt.title("")
@@ -19,7 +19,7 @@ def main():
     ax.text( -0.20, 1.05, "E", fontsize = 22, weight = "bold", 
             transform=ax.transAxes )
     findSim.innerMain( "../EGFR_Expts/CapuaniF2015_Fig1C.json", 
-            modelFile = "../Models/D3_model_MAPK_v7.json", 
+            modelFile = "../Models/D3_model_EGFR_v8.json", 
             mapFile = "../Maps/D3_map_EGFR.json",
             bigFont = True, labelPos = "lower right", deferPlot = True )
     ax.set_xlabel( "EGF (nM)" )
@@ -30,7 +30,7 @@ def main():
     ax.text( -0.20, 1.05, "F", fontsize = 22, weight = "bold", 
             transform=ax.transAxes )
     findSim.innerMain( "../EGFR_Expts/Shah2003_Fig1B_pkScale.json", 
-            modelFile = "../Models/D3_model_MAPK_v7.json", 
+            modelFile = "../Models/D3_model_EGFR_v8.json", 
             mapFile = "../Maps/D3_map_EGFR.json",
             bigFont = True, labelPos = "upper left", deferPlot = True )
     plt.title("")

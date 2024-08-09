@@ -1,2037 +1,1027 @@
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_000.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_001.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_002.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_003.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_004.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_005.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_006.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_007.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_008.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_009.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_010.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_011.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_012.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_013.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_014.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_015.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_016.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_017.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_018.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_019.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_020.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_021.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_022.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_023.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_024.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_025.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_026.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_027.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_028.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_029.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_030.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_031.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_032.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_033.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_034.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_035.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_036.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_037.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_038.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_039.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_040.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_041.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_042.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_043.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_044.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_045.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_046.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_047.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_048.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_049.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_050.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_051.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_052.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_053.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_054.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_055.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_056.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_057.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_058.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_059.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_060.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_061.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_062.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_063.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_064.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_065.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_066.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_067.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_068.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_069.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_070.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_071.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_072.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_073.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_074.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_075.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_076.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_077.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_078.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_079.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_080.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_081.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_082.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_083.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_084.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_085.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_086.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_087.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_088.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_089.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_090.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_091.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_092.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_093.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_094.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_095.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_096.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_097.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_098.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_099.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_100.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_101.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_102.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_103.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_104.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_105.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_106.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_107.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_108.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_109.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_110.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_111.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_112.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_113.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_114.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_115.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_116.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_117.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_118.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_119.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_120.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_121.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_122.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_123.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_124.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_125.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_126.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_127.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_128.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_129.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_130.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_131.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_132.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_133.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_134.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_135.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_136.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_137.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_138.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_139.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_140.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_141.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_142.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_143.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_144.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_145.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_146.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_147.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_148.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_149.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_150.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_151.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_152.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_153.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_154.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_155.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_156.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_157.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_158.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_159.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_160.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_161.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_162.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_163.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_164.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_165.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_166.g
-Warning: Initial value 7.443023632711986e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 5.288373307522448e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 6.455012304554805e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 8.63144617277435e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_167.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_168.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_169.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_170.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_171.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_172.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_173.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_174.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_175.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_176.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_177.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_178.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_179.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_180.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_181.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_182.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_183.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_184.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_185.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_186.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_187.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_188.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_189.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_190.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_191.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_192.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_193.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_194.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_195.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_196.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_197.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_198.g
-Written to file SCRAM_D4_EGFR/scram_EGFR_0_199.g
-Written to file OPT_D4_EGFR/scram_EGFR_0_000.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_001.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_002.g
-.Warning: Initial value 9.152163997820597e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Written to file OPT_D4_EGFR/scram_EGFR_0_003.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_004.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_005.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_006.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_007.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_008.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_009.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_010.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_011.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_012.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_013.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_014.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_015.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_016.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_017.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_018.g
-.Warning: Initial value 4.787267758745842e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 7.0616817803811256e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 9.442197446718833e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 7.712597210148229e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 8.790562799821263e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Written to file OPT_D4_EGFR/scram_EGFR_0_019.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_020.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_021.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_022.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_023.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_024.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_025.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_026.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_027.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_028.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_029.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_030.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_031.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_032.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_033.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_034.g
-.Warning: Initial value 9.201718516645676e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Written to file OPT_D4_EGFR/scram_EGFR_0_035.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_036.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_037.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_038.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_039.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_040.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_041.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_042.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_043.g
-.Warning: Initial value 8.121022609986721e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Written to file OPT_D4_EGFR/scram_EGFR_0_044.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_045.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_046.g
-.Warning: Initial value 6.4964656430800074e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 7.088797471208498e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 7.079567243218544e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 8.159015553757256e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 9.760137772976408e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Written to file OPT_D4_EGFR/scram_EGFR_0_047.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_048.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_049.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_050.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_051.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_052.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_053.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_054.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_055.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_056.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_057.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_058.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_059.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_060.g
-.Warning: Initial value 7.317184080947327e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 8.975704344051875e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 6.695487885846445e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 6.504005543931864e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 7.328940862162522e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 7.799015388141674e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 7.390186164339068e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 7.861010136674057e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 6.5402355948365575e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 7.036905311223546e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Written to file OPT_D4_EGFR/scram_EGFR_0_061.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_062.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_063.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_064.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_065.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_066.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_067.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_068.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_069.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_070.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_071.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_072.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_073.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_074.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_075.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_076.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_077.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_078.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_079.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_080.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_081.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_082.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_083.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_084.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_085.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_086.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_087.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_088.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_089.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_090.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_091.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_092.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_093.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_094.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_095.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_096.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_097.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_098.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_099.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_100.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_101.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_102.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_103.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_104.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_105.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_106.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_107.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_108.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_109.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_110.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_111.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_112.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_113.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_114.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_115.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_116.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_117.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_118.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_119.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_120.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_121.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_122.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_123.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_124.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_125.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_126.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_127.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_128.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_129.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_130.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_131.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_132.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_133.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_134.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_135.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_136.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_137.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_138.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_139.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_140.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_141.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_142.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_143.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_144.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_145.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_146.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_147.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_148.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_149.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_150.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_151.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_152.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_153.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_154.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_155.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_156.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_157.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_158.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_159.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_160.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_161.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_162.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_163.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_164.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_165.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_166.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_167.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_168.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_169.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_170.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_171.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_172.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_173.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_174.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_175.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_176.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_177.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_178.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_179.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_180.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_181.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_182.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_183.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_184.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_185.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_186.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_187.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_188.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_189.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_190.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_191.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_192.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_193.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_194.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_195.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_196.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_197.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_198.g
-.Written to file OPT_D4_EGFR/scram_EGFR_0_199.g
-.Warning: Initial value 5.662692955517713e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 8.404831307177447e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Warning: Initial value 9.362797586699147e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
-Written to file SCRAM_D4_EGFR/scram_SHC_0_000.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_001.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_002.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_003.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_004.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_005.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_006.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_007.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_008.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_009.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_010.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_011.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_012.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_013.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_014.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_015.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_016.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_017.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_018.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_019.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_020.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_021.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_022.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_023.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_024.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_025.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_026.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_027.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_028.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_029.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_030.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_031.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_032.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_033.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_034.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_035.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_036.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_037.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_038.g
-Written to file SCRAM_D4_EGFR/scram_SHC_0_039.g
-Written to file OPT_D4_EGFR/scram_SHC_0_000.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_001.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_002.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_003.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_004.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_005.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_006.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_007.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_008.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_009.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_010.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_011.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_012.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_013.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_014.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_015.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_016.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_017.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_018.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_019.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_020.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_021.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_022.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_023.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_024.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_025.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_026.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_027.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_028.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_029.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_030.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_031.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_032.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_033.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_034.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_035.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_036.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_037.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_038.g
-.Written to file OPT_D4_EGFR/scram_SHC_0_039.g
-.Written to file SCRAM_D4_EGFR/scram_SHC_1_000.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_001.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_002.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_003.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_004.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_005.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_006.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_007.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_008.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_009.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_010.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_011.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_012.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_013.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_014.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_015.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_016.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_017.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_018.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_019.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_020.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_021.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_022.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_023.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_024.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_025.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_026.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_027.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_028.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_029.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_030.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_031.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_032.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_033.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_034.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_035.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_036.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_037.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_038.g
-Written to file SCRAM_D4_EGFR/scram_SHC_1_039.g
-Written to file OPT_D4_EGFR/scram_SHC_1_000.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_001.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_002.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_003.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_004.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_005.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_006.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_007.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_008.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_009.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_010.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_011.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_012.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_013.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_014.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_015.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_016.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_017.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_018.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_019.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_020.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_021.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_022.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_023.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_024.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_025.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_026.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_027.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_028.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_029.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_030.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_031.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_032.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_033.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_034.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_035.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_036.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_037.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_038.g
-.Written to file OPT_D4_EGFR/scram_SHC_1_039.g
-.Written to file SCRAM_D4_EGFR/scram_SHC_2_000.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_001.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_002.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_003.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_004.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_005.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_006.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_007.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_008.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_009.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_010.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_011.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_012.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_013.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_014.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_015.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_016.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_017.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_018.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_019.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_020.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_021.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_022.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_023.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_024.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_025.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_026.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_027.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_028.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_029.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_030.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_031.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_032.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_033.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_034.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_035.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_036.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_037.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_038.g
-Written to file SCRAM_D4_EGFR/scram_SHC_2_039.g
-Written to file OPT_D4_EGFR/scram_SHC_2_000.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_001.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_002.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_003.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_004.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_005.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_006.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_007.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_008.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_009.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_010.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_011.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_012.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_013.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_014.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_015.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_016.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_017.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_018.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_019.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_020.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_021.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_022.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_023.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_024.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_025.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_026.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_027.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_028.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_029.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_030.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_031.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_032.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_033.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_034.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_035.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_036.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_037.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_038.g
-.Written to file OPT_D4_EGFR/scram_SHC_2_039.g
-.Written to file SCRAM_D4_EGFR/scram_SHC_3_000.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_001.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_002.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_003.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_004.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_005.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_006.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_007.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_008.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_009.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_010.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_011.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_012.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_013.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_014.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_015.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_016.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_017.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_018.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_019.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_020.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_021.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_022.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_023.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_024.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_025.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_026.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_027.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_028.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_029.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_030.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_031.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_032.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_033.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_034.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_035.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_036.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_037.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_038.g
-Written to file SCRAM_D4_EGFR/scram_SHC_3_039.g
-Written to file OPT_D4_EGFR/scram_SHC_3_000.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_001.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_002.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_003.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_004.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_005.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_006.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_007.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_008.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_009.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_010.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_011.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_012.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_013.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_014.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_015.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_016.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_017.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_018.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_019.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_020.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_021.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_022.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_023.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_024.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_025.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_026.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_027.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_028.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_029.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_030.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_031.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_032.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_033.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_034.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_035.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_036.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_037.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_038.g
-.Written to file OPT_D4_EGFR/scram_SHC_3_039.g
-.Written to file SCRAM_D4_EGFR/scram_SHC_4_000.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_001.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_002.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_003.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_004.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_005.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_006.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_007.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_008.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_009.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_010.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_011.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_012.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_013.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_014.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_015.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_016.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_017.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_018.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_019.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_020.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_021.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_022.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_023.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_024.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_025.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_026.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_027.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_028.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_029.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_030.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_031.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_032.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_033.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_034.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_035.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_036.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_037.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_038.g
-Written to file SCRAM_D4_EGFR/scram_SHC_4_039.g
-Written to file OPT_D4_EGFR/scram_SHC_4_000.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_001.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_002.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_003.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_004.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_005.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_006.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_007.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_008.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_009.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_010.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_011.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_012.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_013.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_014.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_015.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_016.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_017.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_018.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_019.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_020.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_021.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_022.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_023.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_024.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_025.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_026.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_027.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_028.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_029.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_030.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_031.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_032.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_033.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_034.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_035.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_036.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_037.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_038.g
-.Written to file OPT_D4_EGFR/scram_SHC_4_039.g
-.Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_000.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_001.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_002.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_003.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_004.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_005.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_006.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_007.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_008.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_009.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_010.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_011.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_012.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_013.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_014.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_015.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_016.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_017.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_018.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_019.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_020.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_021.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_022.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_023.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_024.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_025.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_026.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_027.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_028.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_029.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_030.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_031.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_032.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_033.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_034.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_035.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_036.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_037.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_038.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_0_039.g
-Written to file OPT_D4_EGFR/scram_Sos_Ras_0_000.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_001.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_002.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_003.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_004.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_005.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_006.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_007.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_008.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_009.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_010.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_011.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_012.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_013.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_014.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_015.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_016.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_017.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_018.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_019.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_020.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_021.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_022.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_023.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_024.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_025.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_026.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_027.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_028.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_029.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_030.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_031.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_032.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_033.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_034.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_035.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_036.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_037.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_038.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_0_039.g
-.Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_000.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_001.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_002.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_003.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_004.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_005.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_006.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_007.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_008.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_009.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_010.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_011.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_012.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_013.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_014.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_015.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_016.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_017.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_018.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_019.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_020.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_021.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_022.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_023.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_024.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_025.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_026.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_027.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_028.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_029.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_030.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_031.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_032.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_033.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_034.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_035.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_036.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_037.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_038.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_1_039.g
-Written to file OPT_D4_EGFR/scram_Sos_Ras_1_000.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_001.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_002.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_003.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_004.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_005.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_006.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_007.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_008.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_009.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_010.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_011.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_012.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_013.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_014.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_015.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_016.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_017.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_018.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_019.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_020.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_021.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_022.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_023.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_024.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_025.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_026.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_027.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_028.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_029.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_030.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_031.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_032.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_033.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_034.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_035.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_036.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_037.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_038.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_1_039.g
-.Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_000.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_001.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_002.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_003.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_004.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_005.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_006.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_007.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_008.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_009.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_010.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_011.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_012.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_013.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_014.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_015.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_016.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_017.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_018.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_019.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_020.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_021.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_022.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_023.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_024.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_025.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_026.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_027.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_028.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_029.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_030.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_031.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_032.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_033.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_034.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_035.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_036.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_037.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_038.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_2_039.g
-Written to file OPT_D4_EGFR/scram_Sos_Ras_2_000.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_001.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_002.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_003.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_004.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_005.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_006.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_007.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_008.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_009.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_010.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_011.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_012.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_013.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_014.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_015.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_016.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_017.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_018.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_019.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_020.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_021.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_022.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_023.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_024.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_025.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_026.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_027.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_028.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_029.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_030.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_031.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_032.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_033.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_034.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_035.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_036.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_037.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_038.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_2_039.g
-.Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_000.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_001.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_002.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_003.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_004.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_005.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_006.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_007.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_008.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_009.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_010.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_011.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_012.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_013.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_014.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_015.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_016.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_017.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_018.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_019.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_020.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_021.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_022.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_023.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_024.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_025.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_026.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_027.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_028.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_029.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_030.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_031.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_032.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_033.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_034.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_035.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_036.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_037.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_038.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_3_039.g
-Written to file OPT_D4_EGFR/scram_Sos_Ras_3_000.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_001.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_002.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_003.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_004.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_005.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_006.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_007.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_008.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_009.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_010.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_011.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_012.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_013.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_014.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_015.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_016.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_017.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_018.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_019.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_020.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_021.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_022.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_023.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_024.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_025.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_026.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_027.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_028.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_029.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_030.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_031.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_032.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_033.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_034.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_035.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_036.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_037.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_038.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_3_039.g
-.Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_000.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_001.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_002.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_003.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_004.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_005.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_006.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_007.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_008.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_009.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_010.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_011.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_012.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_013.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_014.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_015.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_016.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_017.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_018.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_019.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_020.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_021.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_022.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_023.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_024.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_025.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_026.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_027.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_028.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_029.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_030.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_031.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_032.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_033.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_034.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_035.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_036.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_037.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_038.g
-Written to file SCRAM_D4_EGFR/scram_Sos_Ras_4_039.g
-Written to file OPT_D4_EGFR/scram_Sos_Ras_4_000.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_001.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_002.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_003.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_004.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_005.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_006.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_007.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_008.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_009.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_010.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_011.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_012.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_013.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_014.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_015.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_016.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_017.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_018.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_019.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_020.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_021.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_022.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_023.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_024.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_025.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_026.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_027.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_028.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_029.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_030.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_031.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_032.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_033.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_034.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_035.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_036.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_037.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_038.g
-.Written to file OPT_D4_EGFR/scram_Sos_Ras_4_039.g
-.Written to file SCRAM_D4_EGFR/scram_craf_0_000.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_001.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_002.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_003.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_004.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_005.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_006.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_007.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_008.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_009.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_010.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_011.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_012.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_013.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_014.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_015.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_016.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_017.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_018.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_019.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_020.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_021.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_022.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_023.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_024.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_025.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_026.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_027.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_028.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_029.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_030.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_031.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_032.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_033.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_034.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_035.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_036.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_037.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_038.g
-Written to file SCRAM_D4_EGFR/scram_craf_0_039.g
-Written to file OPT_D4_EGFR/scram_craf_0_000.g
-.Written to file OPT_D4_EGFR/scram_craf_0_001.g
-.Written to file OPT_D4_EGFR/scram_craf_0_002.g
-.Written to file OPT_D4_EGFR/scram_craf_0_003.g
-.Written to file OPT_D4_EGFR/scram_craf_0_004.g
-.Written to file OPT_D4_EGFR/scram_craf_0_005.g
-.Written to file OPT_D4_EGFR/scram_craf_0_006.g
-.Written to file OPT_D4_EGFR/scram_craf_0_007.g
-.Written to file OPT_D4_EGFR/scram_craf_0_008.g
-.Written to file OPT_D4_EGFR/scram_craf_0_009.g
-.Written to file OPT_D4_EGFR/scram_craf_0_010.g
-.Written to file OPT_D4_EGFR/scram_craf_0_011.g
-.Written to file OPT_D4_EGFR/scram_craf_0_012.g
-.Written to file OPT_D4_EGFR/scram_craf_0_013.g
-.Written to file OPT_D4_EGFR/scram_craf_0_014.g
-.Written to file OPT_D4_EGFR/scram_craf_0_015.g
-.Written to file OPT_D4_EGFR/scram_craf_0_016.g
-.Written to file OPT_D4_EGFR/scram_craf_0_017.g
-.Written to file OPT_D4_EGFR/scram_craf_0_018.g
-.Written to file OPT_D4_EGFR/scram_craf_0_019.g
-.Written to file OPT_D4_EGFR/scram_craf_0_020.g
-.Written to file OPT_D4_EGFR/scram_craf_0_021.g
-.Written to file OPT_D4_EGFR/scram_craf_0_022.g
-.Written to file OPT_D4_EGFR/scram_craf_0_023.g
-.Written to file OPT_D4_EGFR/scram_craf_0_024.g
-.Written to file OPT_D4_EGFR/scram_craf_0_025.g
-.Written to file OPT_D4_EGFR/scram_craf_0_026.g
-.Written to file OPT_D4_EGFR/scram_craf_0_027.g
-.Written to file OPT_D4_EGFR/scram_craf_0_028.g
-.Written to file OPT_D4_EGFR/scram_craf_0_029.g
-.Written to file OPT_D4_EGFR/scram_craf_0_030.g
-.Written to file OPT_D4_EGFR/scram_craf_0_031.g
-.Written to file OPT_D4_EGFR/scram_craf_0_032.g
-.Written to file OPT_D4_EGFR/scram_craf_0_033.g
-.Written to file OPT_D4_EGFR/scram_craf_0_034.g
-.Written to file OPT_D4_EGFR/scram_craf_0_035.g
-.Written to file OPT_D4_EGFR/scram_craf_0_036.g
-.Written to file OPT_D4_EGFR/scram_craf_0_037.g
-.Written to file OPT_D4_EGFR/scram_craf_0_038.g
-.Written to file OPT_D4_EGFR/scram_craf_0_039.g
-.Written to file SCRAM_D4_EGFR/scram_craf_1_000.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_001.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_002.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_003.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_004.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_005.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_006.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_007.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_008.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_009.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_010.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_011.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_012.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_013.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_014.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_015.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_016.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_017.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_018.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_019.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_020.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_021.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_022.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_023.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_024.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_025.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_026.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_027.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_028.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_029.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_030.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_031.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_032.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_033.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_034.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_035.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_036.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_037.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_038.g
-Written to file SCRAM_D4_EGFR/scram_craf_1_039.g
-Written to file OPT_D4_EGFR/scram_craf_1_000.g
-.Written to file OPT_D4_EGFR/scram_craf_1_001.g
-.Written to file OPT_D4_EGFR/scram_craf_1_002.g
-.Written to file OPT_D4_EGFR/scram_craf_1_003.g
-.Written to file OPT_D4_EGFR/scram_craf_1_004.g
-.Written to file OPT_D4_EGFR/scram_craf_1_005.g
-.Written to file OPT_D4_EGFR/scram_craf_1_006.g
-.Written to file OPT_D4_EGFR/scram_craf_1_007.g
-.Written to file OPT_D4_EGFR/scram_craf_1_008.g
-.Written to file OPT_D4_EGFR/scram_craf_1_009.g
-.Written to file OPT_D4_EGFR/scram_craf_1_010.g
-.Written to file OPT_D4_EGFR/scram_craf_1_011.g
-.Written to file OPT_D4_EGFR/scram_craf_1_012.g
-.Written to file OPT_D4_EGFR/scram_craf_1_013.g
-.Written to file OPT_D4_EGFR/scram_craf_1_014.g
-.Written to file OPT_D4_EGFR/scram_craf_1_015.g
-.Written to file OPT_D4_EGFR/scram_craf_1_016.g
-.Written to file OPT_D4_EGFR/scram_craf_1_017.g
-.Written to file OPT_D4_EGFR/scram_craf_1_018.g
-.Written to file OPT_D4_EGFR/scram_craf_1_019.g
-.Written to file OPT_D4_EGFR/scram_craf_1_020.g
-.Written to file OPT_D4_EGFR/scram_craf_1_021.g
-.Written to file OPT_D4_EGFR/scram_craf_1_022.g
-.Written to file OPT_D4_EGFR/scram_craf_1_023.g
-.Written to file OPT_D4_EGFR/scram_craf_1_024.g
-.Written to file OPT_D4_EGFR/scram_craf_1_025.g
-.Written to file OPT_D4_EGFR/scram_craf_1_026.g
-.Written to file OPT_D4_EGFR/scram_craf_1_027.g
-.Written to file OPT_D4_EGFR/scram_craf_1_028.g
-.Written to file OPT_D4_EGFR/scram_craf_1_029.g
-.Written to file OPT_D4_EGFR/scram_craf_1_030.g
-.Written to file OPT_D4_EGFR/scram_craf_1_031.g
-.Written to file OPT_D4_EGFR/scram_craf_1_032.g
-.Written to file OPT_D4_EGFR/scram_craf_1_033.g
-.Written to file OPT_D4_EGFR/scram_craf_1_034.g
-.Written to file OPT_D4_EGFR/scram_craf_1_035.g
-.Written to file OPT_D4_EGFR/scram_craf_1_036.g
-.Written to file OPT_D4_EGFR/scram_craf_1_037.g
-.Written to file OPT_D4_EGFR/scram_craf_1_038.g
-.Written to file OPT_D4_EGFR/scram_craf_1_039.g
-.Written to file SCRAM_D4_EGFR/scram_craf_2_000.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_001.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_002.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_003.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_004.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_005.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_006.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_007.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_008.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_009.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_010.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_011.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_012.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_013.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_014.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_015.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_016.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_017.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_018.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_019.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_020.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_021.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_022.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_023.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_024.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_025.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_026.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_027.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_028.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_029.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_030.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_031.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_032.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_033.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_034.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_035.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_036.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_037.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_038.g
-Written to file SCRAM_D4_EGFR/scram_craf_2_039.g
-Written to file OPT_D4_EGFR/scram_craf_2_000.g
-.Written to file OPT_D4_EGFR/scram_craf_2_001.g
-.Written to file OPT_D4_EGFR/scram_craf_2_002.g
-.Written to file OPT_D4_EGFR/scram_craf_2_003.g
-.Written to file OPT_D4_EGFR/scram_craf_2_004.g
-.Written to file OPT_D4_EGFR/scram_craf_2_005.g
-.Written to file OPT_D4_EGFR/scram_craf_2_006.g
-.Written to file OPT_D4_EGFR/scram_craf_2_007.g
-.Written to file OPT_D4_EGFR/scram_craf_2_008.g
-.Written to file OPT_D4_EGFR/scram_craf_2_009.g
-.Written to file OPT_D4_EGFR/scram_craf_2_010.g
-.Written to file OPT_D4_EGFR/scram_craf_2_011.g
-.Written to file OPT_D4_EGFR/scram_craf_2_012.g
-.Written to file OPT_D4_EGFR/scram_craf_2_013.g
-.Written to file OPT_D4_EGFR/scram_craf_2_014.g
-.Written to file OPT_D4_EGFR/scram_craf_2_015.g
-.Written to file OPT_D4_EGFR/scram_craf_2_016.g
-.Written to file OPT_D4_EGFR/scram_craf_2_017.g
-.Written to file OPT_D4_EGFR/scram_craf_2_018.g
-.Written to file OPT_D4_EGFR/scram_craf_2_019.g
-.Written to file OPT_D4_EGFR/scram_craf_2_020.g
-.Written to file OPT_D4_EGFR/scram_craf_2_021.g
-.Written to file OPT_D4_EGFR/scram_craf_2_022.g
-.Written to file OPT_D4_EGFR/scram_craf_2_023.g
-.Written to file OPT_D4_EGFR/scram_craf_2_024.g
-.Written to file OPT_D4_EGFR/scram_craf_2_025.g
-.Written to file OPT_D4_EGFR/scram_craf_2_026.g
-.Written to file OPT_D4_EGFR/scram_craf_2_027.g
-.Written to file OPT_D4_EGFR/scram_craf_2_028.g
-.Written to file OPT_D4_EGFR/scram_craf_2_029.g
-.Written to file OPT_D4_EGFR/scram_craf_2_030.g
-.Written to file OPT_D4_EGFR/scram_craf_2_031.g
-.Written to file OPT_D4_EGFR/scram_craf_2_032.g
-.Written to file OPT_D4_EGFR/scram_craf_2_033.g
-.Written to file OPT_D4_EGFR/scram_craf_2_034.g
-.Written to file OPT_D4_EGFR/scram_craf_2_035.g
-.Written to file OPT_D4_EGFR/scram_craf_2_036.g
-.Written to file OPT_D4_EGFR/scram_craf_2_037.g
-.Written to file OPT_D4_EGFR/scram_craf_2_038.g
-.Written to file OPT_D4_EGFR/scram_craf_2_039.g
-.Written to file SCRAM_D4_EGFR/scram_craf_3_000.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_001.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_002.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_003.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_004.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_005.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_006.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_007.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_008.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_009.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_010.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_011.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_012.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_013.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_014.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_015.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_016.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_017.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_018.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_019.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_020.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_021.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_022.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_023.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_024.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_025.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_026.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_027.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_028.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_029.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_030.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_031.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_032.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_033.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_034.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_035.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_036.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_037.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_038.g
-Written to file SCRAM_D4_EGFR/scram_craf_3_039.g
-Written to file OPT_D4_EGFR/scram_craf_3_000.g
-.Written to file OPT_D4_EGFR/scram_craf_3_001.g
-.Written to file OPT_D4_EGFR/scram_craf_3_002.g
-.Written to file OPT_D4_EGFR/scram_craf_3_003.g
-.Written to file OPT_D4_EGFR/scram_craf_3_004.g
-.Written to file OPT_D4_EGFR/scram_craf_3_005.g
-.Written to file OPT_D4_EGFR/scram_craf_3_006.g
-.Written to file OPT_D4_EGFR/scram_craf_3_007.g
-.Written to file OPT_D4_EGFR/scram_craf_3_008.g
-.Written to file OPT_D4_EGFR/scram_craf_3_009.g
-.Written to file OPT_D4_EGFR/scram_craf_3_010.g
-.Written to file OPT_D4_EGFR/scram_craf_3_011.g
-.Written to file OPT_D4_EGFR/scram_craf_3_012.g
-.Written to file OPT_D4_EGFR/scram_craf_3_013.g
-.Written to file OPT_D4_EGFR/scram_craf_3_014.g
-.Written to file OPT_D4_EGFR/scram_craf_3_015.g
-.Written to file OPT_D4_EGFR/scram_craf_3_016.g
-.Written to file OPT_D4_EGFR/scram_craf_3_017.g
-.Written to file OPT_D4_EGFR/scram_craf_3_018.g
-.Written to file OPT_D4_EGFR/scram_craf_3_019.g
-.Written to file OPT_D4_EGFR/scram_craf_3_020.g
-.Written to file OPT_D4_EGFR/scram_craf_3_021.g
-.Written to file OPT_D4_EGFR/scram_craf_3_022.g
-.Written to file OPT_D4_EGFR/scram_craf_3_023.g
-.Written to file OPT_D4_EGFR/scram_craf_3_024.g
-.Written to file OPT_D4_EGFR/scram_craf_3_025.g
-.Written to file OPT_D4_EGFR/scram_craf_3_026.g
-.Written to file OPT_D4_EGFR/scram_craf_3_027.g
-.Written to file OPT_D4_EGFR/scram_craf_3_028.g
-.Written to file OPT_D4_EGFR/scram_craf_3_029.g
-.Written to file OPT_D4_EGFR/scram_craf_3_030.g
-.Written to file OPT_D4_EGFR/scram_craf_3_031.g
-.Written to file OPT_D4_EGFR/scram_craf_3_032.g
-.Written to file OPT_D4_EGFR/scram_craf_3_033.g
-.Written to file OPT_D4_EGFR/scram_craf_3_034.g
-.Written to file OPT_D4_EGFR/scram_craf_3_035.g
-.Written to file OPT_D4_EGFR/scram_craf_3_036.g
-.Written to file OPT_D4_EGFR/scram_craf_3_037.g
-.Written to file OPT_D4_EGFR/scram_craf_3_038.g
-.Written to file OPT_D4_EGFR/scram_craf_3_039.g
-.Written to file SCRAM_D4_EGFR/scram_craf_4_000.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_001.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_002.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_003.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_004.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_005.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_006.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_007.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_008.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_009.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_010.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_011.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_012.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_013.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_014.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_015.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_016.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_017.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_018.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_019.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_020.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_021.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_022.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_023.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_024.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_025.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_026.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_027.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_028.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_029.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_030.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_031.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_032.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_033.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_034.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_035.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_036.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_037.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_038.g
-Written to file SCRAM_D4_EGFR/scram_craf_4_039.g
-Written to file OPT_D4_EGFR/scram_craf_4_000.g
-.Written to file OPT_D4_EGFR/scram_craf_4_001.g
-.Written to file OPT_D4_EGFR/scram_craf_4_002.g
-.Written to file OPT_D4_EGFR/scram_craf_4_003.g
-.Written to file OPT_D4_EGFR/scram_craf_4_004.g
-.Written to file OPT_D4_EGFR/scram_craf_4_005.g
-.Written to file OPT_D4_EGFR/scram_craf_4_006.g
-.Written to file OPT_D4_EGFR/scram_craf_4_007.g
-.Written to file OPT_D4_EGFR/scram_craf_4_008.g
-.Written to file OPT_D4_EGFR/scram_craf_4_009.g
-.Written to file OPT_D4_EGFR/scram_craf_4_010.g
-.Written to file OPT_D4_EGFR/scram_craf_4_011.g
-.Written to file OPT_D4_EGFR/scram_craf_4_012.g
-.Written to file OPT_D4_EGFR/scram_craf_4_013.g
-.Written to file OPT_D4_EGFR/scram_craf_4_014.g
-.Written to file OPT_D4_EGFR/scram_craf_4_015.g
-.Written to file OPT_D4_EGFR/scram_craf_4_016.g
-.Written to file OPT_D4_EGFR/scram_craf_4_017.g
-.Written to file OPT_D4_EGFR/scram_craf_4_018.g
-.Written to file OPT_D4_EGFR/scram_craf_4_019.g
-.Written to file OPT_D4_EGFR/scram_craf_4_020.g
-.Written to file OPT_D4_EGFR/scram_craf_4_021.g
-.Written to file OPT_D4_EGFR/scram_craf_4_022.g
-.Written to file OPT_D4_EGFR/scram_craf_4_023.g
-.Written to file OPT_D4_EGFR/scram_craf_4_024.g
-.Written to file OPT_D4_EGFR/scram_craf_4_025.g
-.Written to file OPT_D4_EGFR/scram_craf_4_026.g
-.Written to file OPT_D4_EGFR/scram_craf_4_027.g
-.Written to file OPT_D4_EGFR/scram_craf_4_028.g
-.Written to file OPT_D4_EGFR/scram_craf_4_029.g
-.Written to file OPT_D4_EGFR/scram_craf_4_030.g
-.Written to file OPT_D4_EGFR/scram_craf_4_031.g
-.Written to file OPT_D4_EGFR/scram_craf_4_032.g
-.Written to file OPT_D4_EGFR/scram_craf_4_033.g
-.Written to file OPT_D4_EGFR/scram_craf_4_034.g
-.Written to file OPT_D4_EGFR/scram_craf_4_035.g
-.Written to file OPT_D4_EGFR/scram_craf_4_036.g
-.Written to file OPT_D4_EGFR/scram_craf_4_037.g
-.Written to file OPT_D4_EGFR/scram_craf_4_038.g
-.Written to file OPT_D4_EGFR/scram_craf_4_039.g
-.Written to file SCRAM_D4_EGFR/scram_MAPK_0_000.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_001.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_002.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_003.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_004.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_005.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_006.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_007.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_008.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_009.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_010.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_011.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_012.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_013.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_014.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_015.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_016.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_017.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_018.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_019.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_020.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_021.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_022.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_023.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_024.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_025.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_026.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_027.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_028.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_029.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_030.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_031.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_032.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_033.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_034.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_035.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_036.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_037.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_038.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_0_039.g
-Written to file OPT_D4_EGFR/scram_MAPK_0_000.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_001.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_002.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_003.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_004.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_005.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_006.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_007.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_008.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_009.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_010.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_011.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_012.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_013.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_014.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_015.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_016.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_017.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_018.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_019.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_020.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_021.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_022.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_023.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_024.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_025.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_026.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_027.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_028.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_029.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_030.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_031.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_032.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_033.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_034.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_035.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_036.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_037.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_038.g
-.Written to file OPT_D4_EGFR/scram_MAPK_0_039.g
-.Written to file SCRAM_D4_EGFR/scram_MAPK_1_000.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_001.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_002.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_003.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_004.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_005.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_006.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_007.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_008.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_009.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_010.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_011.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_012.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_013.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_014.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_015.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_016.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_017.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_018.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_019.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_020.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_021.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_022.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_023.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_024.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_025.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_026.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_027.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_028.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_029.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_030.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_031.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_032.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_033.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_034.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_035.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_036.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_037.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_038.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_1_039.g
-Written to file OPT_D4_EGFR/scram_MAPK_1_000.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_001.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_002.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_003.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_004.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_005.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_006.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_007.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_008.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_009.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_010.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_011.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_012.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_013.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_014.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_015.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_016.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_017.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_018.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_019.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_020.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_021.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_022.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_023.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_024.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_025.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_026.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_027.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_028.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_029.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_030.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_031.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_032.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_033.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_034.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_035.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_036.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_037.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_038.g
-.Written to file OPT_D4_EGFR/scram_MAPK_1_039.g
-.Written to file SCRAM_D4_EGFR/scram_MAPK_2_000.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_001.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_002.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_003.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_004.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_005.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_006.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_007.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_008.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_009.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_010.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_011.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_012.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_013.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_014.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_015.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_016.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_017.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_018.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_019.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_020.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_021.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_022.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_023.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_024.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_025.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_026.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_027.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_028.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_029.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_030.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_031.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_032.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_033.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_034.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_035.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_036.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_037.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_038.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_2_039.g
-Written to file OPT_D4_EGFR/scram_MAPK_2_000.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_001.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_002.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_003.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_004.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_005.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_006.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_007.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_008.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_009.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_010.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_011.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_012.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_013.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_014.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_015.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_016.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_017.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_018.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_019.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_020.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_021.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_022.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_023.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_024.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_025.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_026.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_027.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_028.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_029.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_030.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_031.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_032.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_033.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_034.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_035.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_036.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_037.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_038.g
-.Written to file OPT_D4_EGFR/scram_MAPK_2_039.g
-.Written to file SCRAM_D4_EGFR/scram_MAPK_3_000.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_001.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_002.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_003.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_004.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_005.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_006.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_007.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_008.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_009.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_010.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_011.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_012.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_013.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_014.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_015.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_016.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_017.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_018.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_019.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_020.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_021.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_022.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_023.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_024.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_025.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_026.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_027.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_028.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_029.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_030.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_031.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_032.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_033.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_034.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_035.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_036.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_037.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_038.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_3_039.g
-Written to file OPT_D4_EGFR/scram_MAPK_3_000.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_001.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_002.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_003.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_004.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_005.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_006.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_007.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_008.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_009.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_010.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_011.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_012.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_013.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_014.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_015.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_016.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_017.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_018.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_019.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_020.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_021.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_022.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_023.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_024.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_025.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_026.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_027.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_028.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_029.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_030.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_031.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_032.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_033.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_034.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_035.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_036.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_037.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_038.g
-.Written to file OPT_D4_EGFR/scram_MAPK_3_039.g
-.Written to file SCRAM_D4_EGFR/scram_MAPK_4_000.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_001.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_002.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_003.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_004.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_005.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_006.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_007.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_008.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_009.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_010.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_011.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_012.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_013.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_014.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_015.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_016.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_017.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_018.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_019.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_020.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_021.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_022.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_023.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_024.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_025.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_026.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_027.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_028.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_029.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_030.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_031.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_032.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_033.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_034.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_035.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_036.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_037.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_038.g
-Written to file SCRAM_D4_EGFR/scram_MAPK_4_039.g
-Written to file OPT_D4_EGFR/scram_MAPK_4_000.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_001.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_002.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_003.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_004.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_005.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_006.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_007.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_008.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_009.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_010.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_011.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_012.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_013.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_014.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_015.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_016.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_017.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_018.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_019.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_020.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_021.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_022.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_023.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_024.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_025.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_026.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_027.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_028.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_029.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_030.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_031.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_032.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_033.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_034.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_035.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_036.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_037.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_038.g
-.Written to file OPT_D4_EGFR/scram_MAPK_4_039.g
+writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_000.g
+.Warning: Initial value 8.2184960366424e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 6.0422239957879424e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 7.946759724295613e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 6.707624978405939e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 5.946161260998815e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 8.671286680997571e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 5.832162595066907e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 5.075364131967724e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 5.677488823750126e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 6.43074156038891e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_001.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_002.g
+.Warning: Initial value 3.090917196517534e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 2.373225919013902e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 9.787852152586967e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 7.888532628954622e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 8.971490782430057e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 6.997144505647711e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 9.501723800793954e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 7.264259677562196e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 4.733330571852219e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 6.6905326423362635e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_003.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_004.g
+.Warning: Initial value 4.961559403020901e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 6.240267920991348e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 4.161345512113529e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 8.264503295078258e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 8.460952523249547e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 4.532089832626673e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 5.837417609117567e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 6.6108071209746585e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 4.3289928267248544e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 5.787305308603109e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 4.973896029411199e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 9.989153858433637e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 4.8867739029584024e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 6.8483000549222954e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_005.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_006.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_007.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_008.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_009.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_010.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_011.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_012.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_013.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_014.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_015.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_016.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_017.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_018.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_019.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_020.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_021.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_022.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_023.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_024.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_025.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_026.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_027.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_028.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_029.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_030.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_031.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_032.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_033.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_034.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_035.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_036.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_037.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_038.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_039.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_040.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_041.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_042.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_043.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_044.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_045.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_046.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_047.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_048.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_049.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_050.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_051.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_052.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_053.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_054.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_055.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_056.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_057.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_058.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_059.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_060.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_061.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_062.g
+.Warning: Initial value 8.6182667809642e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_063.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_064.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_065.g
+.Warning: Initial value 5.0858613664831285e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 5.6263072713199026e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 8.994048546783365e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 4.840634942329165e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 7.433474032151296e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 5.513184070896023e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 1.7841240135094524e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 9.730703810469385e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 6.140214736481829e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_066.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_067.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_068.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_069.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_070.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_071.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_072.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_073.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_074.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_075.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_076.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_077.g
+.Warning: Initial value 7.86633436393466e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_078.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_079.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_080.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_081.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_082.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_083.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_084.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_085.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_086.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_087.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_088.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_089.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_090.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_091.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_092.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_093.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_094.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_095.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_096.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_097.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_098.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_099.g
+.Warning: Initial value 7.519680578256965e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_100.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_101.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_102.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_103.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_104.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_105.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_106.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_107.g
+.Warning: Initial value 9.029045103953717e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_108.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_109.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_110.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_111.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_112.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_113.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_114.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_115.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_116.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_117.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_118.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_119.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_120.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_121.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_122.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_123.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_124.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_125.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_126.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_127.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_128.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_129.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_130.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_131.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_132.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_133.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_134.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_135.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_136.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_137.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_138.g
+.Warning: Initial value 7.144592603313293e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 4.3475829620635165e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 6.717253542473439e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 6.949641012178391e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 5.229458213648763e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 8.36058744039133e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 6.812429438128465e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_139.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_140.g
+.Warning: Initial value 9.428241789117947e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_141.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_142.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_143.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_144.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_145.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_146.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_147.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_148.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_149.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_150.g
+.Warning: Initial value 5.006192405274684e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_151.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_152.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_153.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_154.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_155.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_156.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_157.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_158.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_159.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_160.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_161.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_162.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_163.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_164.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_165.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_166.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_167.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_168.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_169.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_170.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_171.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_172.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_173.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_174.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_175.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_176.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_177.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_178.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_179.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_180.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_181.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_182.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_183.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_184.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_185.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_186.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_187.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_188.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_189.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_190.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_191.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_192.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_193.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_194.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_195.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_196.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_197.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_198.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_EGFR_0_199.g
+.Warning: Initial value 5.4209927689130334e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+Warning: Initial value 8.583205820011148e-09 of parameter EGF.concInit is outside specified bounds 1e-08 to 5e-07
+writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_000.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_001.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_002.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_003.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_004.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_005.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_006.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_007.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_008.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_009.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_010.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_011.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_012.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_013.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_014.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_015.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_016.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_017.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_018.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_019.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_020.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_021.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_022.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_023.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_024.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_025.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_026.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_027.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_028.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_029.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_030.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_031.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_032.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_033.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_034.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_035.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_036.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_037.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_038.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_0_039.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_000.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_001.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_002.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_003.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_004.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_005.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_006.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_007.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_008.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_009.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_010.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_011.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_012.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_013.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_014.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_015.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_016.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_017.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_018.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_019.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_020.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_021.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_022.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_023.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_024.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_025.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_026.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_027.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_028.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_029.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_030.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_031.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_032.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_033.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_034.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_035.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_036.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_037.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_038.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_1_039.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_000.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_001.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_002.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_003.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_004.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_005.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_006.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_007.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_008.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_009.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_010.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_011.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_012.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_013.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_014.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_015.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_016.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_017.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_018.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_019.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_020.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_021.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_022.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_023.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_024.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_025.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_026.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_027.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_028.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_029.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_030.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_031.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_032.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_033.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_034.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_035.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_036.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_037.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_038.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_2_039.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_000.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_001.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_002.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_003.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_004.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_005.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_006.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_007.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_008.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_009.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_010.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_011.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_012.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_013.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_014.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_015.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_016.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_017.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_018.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_019.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_020.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_021.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_022.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_023.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_024.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_025.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_026.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_027.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_028.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_029.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_030.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_031.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_032.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_033.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_034.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_035.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_036.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_037.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_038.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_3_039.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_000.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_001.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_002.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_003.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_004.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_005.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_006.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_007.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_008.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_009.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_010.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_011.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_012.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_013.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_014.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_015.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_016.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_017.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_018.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_019.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_020.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_021.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_022.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_023.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_024.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_025.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_026.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_027.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_028.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_029.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_030.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_031.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_032.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_033.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_034.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_035.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_036.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_037.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_038.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_Sos_Ras_4_039.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_000.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_001.g
+.parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=3.66e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=3.8e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=4.43e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=4.35e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=4e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=5.46e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=3.74e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_002.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_003.g
+.parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=1.7e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=2.03e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=1.7e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=2.02e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=1.97e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_004.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_005.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_006.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_007.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_008.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_009.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_010.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_011.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_012.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_013.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_014.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_015.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_016.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_017.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_018.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_019.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_020.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_021.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_022.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_023.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_024.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_025.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_026.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_027.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_028.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_029.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_030.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_031.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_032.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_033.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_034.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_035.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_036.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_037.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_038.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_0_039.g
+.parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=8.93e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=1.5e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=5.99e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=5.94e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=5.62e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=5.41e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=5.17e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Tang2015_Fig4D.json: Normalization3 denom=3.62e-19 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=5.52e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=5.05e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=5.27e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=5.17e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=1.76e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=6.54e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=6e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=5.93e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=1.12e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=1.58e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=1.04e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=1.29e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=5.57e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=9.42e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=1.66e-19 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=9.37e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=1.54e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=6.01e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=4.86e-19 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=5.03e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Tang2015_Fig4D.json: Normalization3 denom=1.31e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=6.48e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=8.9e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=5.7e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=5.39e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=9.88e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=6.3e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=6.52e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=3.89e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=4.96e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=6.66e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=8.2e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=9.15e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=8.63e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=5.68e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=4.81e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=3e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=6.52e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=6.61e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=3.53e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=7.25e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=8.61e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=9.46e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=7.49e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=9.41e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=8.8e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=6.57e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=9.69e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=9.58e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=6.49e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=6.92e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=3.3e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=3.43e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=5.11e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=7.03e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=6.37e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=4.56e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=5.91e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=5.68e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=3.28e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=3.01e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=4.44e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=9.78e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=9.04e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=8.76e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=3.56e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=4.01e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=9.13e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=3.15e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=3.06e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=5.51e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Tang2015_Fig4D.json: Normalization3 denom=9.31e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=9.97e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=8.09e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=9.79e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=7.18e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=4.85e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=3.13e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=6.48e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=2.27e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=3.23e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=9.88e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=9.6e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=6.98e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=7.81e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=7.65e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=4.13e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=6.07e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=2.25e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=4.91e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=8.84e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=6.97e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=9.76e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=7e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=9.48e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=6.07e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Tang2015_Fig4D.json: Normalization3 denom=1.02e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=3e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=4.06e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=5.6e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=8.53e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=8.97e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=4.74e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=3.29e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=6.43e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=2.08e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=3.29e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=8.99e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=4.47e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=3.11e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=7.74e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=6.66e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=7.01e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=2.89e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=9.2e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=2.14e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=7.76e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=9.71e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=6.3e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=4.78e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=9.64e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=6.17e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=3.26e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=9.23e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=4.34e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=3.36e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=5.48e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=7.64e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=8.51e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=8.99e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=9.87e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=1.07e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=9.74e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=9.64e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=9.99e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=9.66e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=8.59e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Tang2015_Fig4D.json: Normalization3 denom=1.21e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=6.77e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=8.31e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=4.05e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=9.89e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=1.03e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=8.9e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=8.38e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=7.49e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=9.62e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=8.86e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=7.91e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_000.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_001.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_002.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_003.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_004.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_005.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_006.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_007.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_008.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_009.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_010.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_011.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_012.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_013.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_014.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_015.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_016.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_017.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_018.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_019.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_020.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_021.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_022.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_023.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_024.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_025.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_026.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_027.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_028.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_029.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_030.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_031.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_032.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_033.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_034.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_035.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_036.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_037.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_038.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_1_039.g
+.parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=7.1e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=1.12e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=6.92e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=6.19e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=6.96e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=6.59e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=7.86e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=1.11e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=1.19e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=1.37e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=1.82e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=2.06e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=1.88e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=1.96e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=2.08e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Tang2015_Fig4D.json: Normalization3 denom=3.44e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=2.08e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=2.21e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=1.9e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=8.3e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=1.74e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=7.14e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=8.57e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=4.55e-19 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=1.97e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=1.59e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=9.4e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=1.89e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=2e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=1.79e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=8.45e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=4.8e-19 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=1.75e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=9.28e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=9.2e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=4.17e-19 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=4e-19 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+[lsoda] 500 steps taken before reaching tout
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=1.11e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=1.17e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=1.18e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=1.19e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=1.27e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=8.96e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=1.29e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=7.62e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=4.17e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=6.57e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=7.45e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=4.03e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Tang2015_Fig4D.json: Normalization3 denom=9.84e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=7.44e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=4.47e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=3.94e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=2.56e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=4.02e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_000.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_001.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_002.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_003.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_004.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_005.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_006.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_007.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_008.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_009.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_010.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_011.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_012.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_013.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_014.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_015.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_016.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_017.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_018.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_019.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_020.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_021.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_022.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_023.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_024.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_025.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_026.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_027.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_028.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_029.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_030.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_031.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_032.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_033.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_034.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_035.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_036.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_037.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_038.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_2_039.g
+.RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=2.05e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=1.41e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=1.36e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=1.58e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=3.52e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=3.46e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=3.57e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=3.5e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=3.5e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=1.58e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=9.46e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=1.77e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=6.21e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=1.6e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=3.27e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=3.25e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=7.83e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=2.08e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=3.83e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=7.63e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=7.87e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=6.68e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Tang2015_Fig4D.json: Normalization3 denom=1.7e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=5.29e-19 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=8.92e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=7.5e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=9.79e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=7.9e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=6.91e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_000.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_001.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_002.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_003.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_004.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_005.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_006.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_007.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_008.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_009.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_010.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_011.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_012.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_013.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_014.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_015.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_016.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_017.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_018.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_019.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_020.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_021.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_022.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_023.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_024.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_025.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_026.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_027.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_028.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_029.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_030.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_031.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_032.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_033.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_034.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_035.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_036.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_037.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_038.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_3_039.g
+.parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=1.03e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=7.44e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=9.61e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=6.69e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=7.65e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=7.51e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=4.25e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=2.18e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=8.64e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=1.07e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=7e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=8.15e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=8.85e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=3.38e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=8.49e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=9.31e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=7.32e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=3.53e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=3.78e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=7.04e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=4.43e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=1.88e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=3.1e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=9.87e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=8.98e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=7.3e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=8.4e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=4.66e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=1.92e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=8.08e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=6.58e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=4.4e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=2.94e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=8.1e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=5.2e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=9.76e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=7.5e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=1.1e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=5.25e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=6.88e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=2.76e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=6.83e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=9.74e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=9.38e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=6.29e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=7.57e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=6.83e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=7.02e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=5.34e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=2.22e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=6.86e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=7.43e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=3.21e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=3.42e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=8.79e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=7.84e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=5.26e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=5.23e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=1.98e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=7.08e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=9.83e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=5.57e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=7.68e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=4.32e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=5.72e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=8.43e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=1.02e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=3.59e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=9.74e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=7.9e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=1.77e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=3.38e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=8.46e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=4.53e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=9.79e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=8.4e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=7.85e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=6.36e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=5.29e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=7.11e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=8.98e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=5.79e-18 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=2.62e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=3.8e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=2.65e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=4.26e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=2.44e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=4.34e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=4.41e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=2.16e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=4.82e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=2.38e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=8.81e-19 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=6.16e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=4.95e-16 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=4.37e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=6.52e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=4.79e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=6.4e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=1.59e-17 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=4.74e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=3.88e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=4.8e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=6.64e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=6.53e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=4.8e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=6.55e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=6.67e-15 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_000.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_001.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_002.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_003.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_004.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_005.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_006.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_007.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_008.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_009.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_010.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_011.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_012.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_013.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_014.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_015.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_016.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_017.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_018.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_019.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_020.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_021.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_022.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_023.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_024.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_025.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_026.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_027.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_028.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_029.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_030.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_031.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_032.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_033.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_034.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_035.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_036.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_037.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_038.g
+.writeKkit: /model, ./OPT_D4_EGFR/scram_MAPK_4_039.g
 .
-final Score for topN000 = 0.536
-final Score for topN001 = 0.528
-final Score for topN002 = 0.462
-final Score for topN003 = 0.505
-final Score for topN004 = 0.486
-L5.g: hossMC: Init Score 0.539, Final = 0.536, Time = 2398.997s
+final Score for topN000 = 0.357
+final Score for topN001 = 0.354
+final Score for topN002 = 0.354
+final Score for topN003 = 0.357
+final Score for topN004 = 0.370
+L3.g: hossMC: Init Score 0.488, Final = 0.357, Time = 2613.396s

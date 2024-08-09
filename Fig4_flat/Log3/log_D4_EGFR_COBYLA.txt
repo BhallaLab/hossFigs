@@ -1,3 +1,3 @@
-Level 1 --- Init Score: 0.458   OptimizedScore 0.389       Time: 215.889 s
-Written to file OPT_D4_EGFR_COBYLA/opt.g
-OPT_D4_EGFR_COBYLA/opt.g: flat: Init Score 0.499, Final = 0.389, Time = 216.727s
+Level 1 --- Init Score: 0.476   OptimizedScore 0.388       Time: 137.379 s
+writeKkit: /model, OPT_D4_EGFR_COBYLA/opt.g
+OPT_D4_EGFR_COBYLA/opt.g: flat: Init Score 0.514, Final = 0.388, Time = 138.413s

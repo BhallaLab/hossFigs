@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -26,7 +26,10 @@
     "Stimuli": [
         {
             "timeUnits": "sec",
-            "entity": "Ca",
+            "entity": {
+                "name": "Ca",
+                "alias": "Ca"
+            },
             "field": "conc",
             "quantityUnits": "mM"
         }
@@ -35,25 +38,25 @@
         "timeUnits": "sec",
         "settleTime": 1800,
         "quantityUnits": "ratio",
-        "entities": [
-            "cAMP"
-        ],
+        "entity": {
+            "name": "cAMP",
+            "alias": "cAMP"
+        },
         "field": "conc",
         "normalization": {
             "sampling": "dose",
-            "entities": [
-                "cAMP"
-            ],
-            "dose": 0.01,
-            "time": 1800
+            "entity": {
+                "name": "cAMP"
+            },
+            "dose": 0.01
         },
         "display": {
-            "useXlog": true, 
+            "useXlog": true,
             "useYlog": false
-        }, 
+        },
         "data": [
             [
-                0.00001,
+                1e-05,
                 0.0973,
                 0.0
             ],
@@ -76,13 +79,22 @@
     },
     "Modifications": {
         "subset": [
-            "AC_g",
-            "Ca_g",
-            "CaM_g"
+            {
+                "name": "AC_g"
+            },
+            {
+                "name": "Ca_g"
+            },
+            {
+                "name": "CaM_g"
+            }
         ],
         "parameterChange": [
             {
-                "entity": "CaM",
+                "entity": {
+                    "name": "CaM",
+                    "alias": "CaM"
+                },
                 "field": "concInit",
                 "value": 3.0,
                 "units": "uM"

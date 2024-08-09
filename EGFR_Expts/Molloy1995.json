@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -26,21 +26,29 @@
     "Readouts": {
         "paramdata": [
             {
-                "entity": "GAP_inact_Ras",
+                "entity": {
+                    "name": "GAP_inact_Ras",
+                    "alias": "GAP_inact_Ras"
+                },
                 "field": "kcat",
                 "units": "1/sec",
                 "value": 0.000128,
                 "stderr": 9.5e-06
             },
             {
-                "entity": "Ras_intrinsic_GTPase",
+                "entity": {
+                    "name": "bRasGTP_deph",
+                    "alias": "Ras_intrinsic_GTPase"
+                },
                 "field": "Kf",
                 "units": "1/sec",
                 "value": 0.00014,
                 "stderr": 1e-05
             },
             {
-                "entity": "GAP_inact_Ras",
+                "entity": {
+                    "name": "GAP_inact_Ras"
+                },
                 "field": "Km",
                 "units": "uM",
                 "value": 0.86,
@@ -50,7 +58,9 @@
     },
     "Modifications": {
         "subset": [
-            "all"
+            {
+                "name": "all"
+            }
         ]
     }
 }

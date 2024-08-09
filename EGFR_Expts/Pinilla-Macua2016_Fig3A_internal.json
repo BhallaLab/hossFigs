@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -27,7 +27,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "nM",
-            "entity": "EGF",
+            "entity": {
+                "name": "EGF",
+                "alias": "EGF"
+            },
             "field": "conc",
             "data": [
                 [
@@ -40,16 +43,17 @@
     "Readouts": {
         "timeUnits": "sec",
         "quantityUnits": "ratio",
-        "entities": [
-            "EGFR_internal"
-        ],
+        "entity": {
+            "name": "iEGFR",
+            "alias": "EGFR_internal"
+        },
         "field": "conc",
         "normalization": {
             "sampling": "presetTime",
-            "entities": [
-                "EGFR_internal"
-            ],
-            "time": 360
+            "entity": {
+                "name": "iEGFR"
+            },
+            "sampTime": 360
         },
         "data": [
             [
@@ -86,7 +90,9 @@
     },
     "Modifications": {
         "subset": [
-            "EGFR_g"
+            {
+                "name": "EGFR_g"
+            }
         ]
     }
 }

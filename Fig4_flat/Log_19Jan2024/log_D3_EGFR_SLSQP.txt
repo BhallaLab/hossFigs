@@ -1,2 +1,0 @@
-Level 1 --- Init Score: 0.250   OptimizedScore 0.250       Time: 1.966 s
-OPT_D3_EGFR_SLSQP/opt.json: flat: Init Score 0.250, Final = 0.250, Time = 2.682s

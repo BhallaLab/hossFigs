@@ -1,6 +1,6 @@
 {
     "FileType": "FindSim",
-    "Version": "1.0",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "bhalla",
         "organization": "OpenSource",
@@ -20,7 +20,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "uM",
-            "entity": "aRas",
+            "entity": {
+                "name": "aRas",
+                "alias": "aRas"
+            },
             "field": "conc",
             "data": [
                 [
@@ -41,9 +44,10 @@
     "Readouts": {
         "timeUnits": "sec",
         "quantityUnits": "uM",
-        "entities": [
-            "acraf1"
-        ],
+        "entity": {
+            "name": "acraf1",
+            "alias": "acraf1"
+        },
         "field": "conc",
         "data": [
             [
@@ -176,7 +180,9 @@
     "Modifications": {
         "parameterChange": [
             {
-                "entity": "aRas",
+                "entity": {
+                    "name": "aRas"
+                },
                 "field": "isBuffered",
                 "value": 1,
                 "units": "none"

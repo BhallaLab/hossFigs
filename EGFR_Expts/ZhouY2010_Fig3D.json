@@ -1,6 +1,6 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Nisha Ann Viswan",
         "organization": "NCBS",
@@ -27,7 +27,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "nM",
-            "entity": "EGF",
+            "entity": {
+                "name": "EGF",
+                "alias": "EGF"
+            },
             "field": "conc",
             "data": [
                 [
@@ -40,15 +43,15 @@
     "Readouts": {
         "timeUnits": "sec",
         "quantityUnits": "ratio",
-        "entities": [
-            "RasGTP"
-        ],
+        "entity": {
+            "name": "RasGTP",
+            "alias": "RasGTP"
+        },
         "field": "conc",
         "normalization": {
-            "time": 1800,
-            "entities": [
-                "RasGTP"
-            ],
+            "entity": {
+                "name": "RasGTP"
+            },
             "sampling": "start"
         },
         "data": [
@@ -86,7 +89,9 @@
     },
     "Modifications": {
         "subset": [
-            "all"
+            {
+                "name": "all"
+            }
         ]
     }
 }

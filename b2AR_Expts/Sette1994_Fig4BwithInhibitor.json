@@ -1,148 +1,174 @@
 {
-    "FileType":"FindSim",
-    "Version":"1.0", 
+    "FileType": "FindSim",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "Surbhit Wagle, Nisha Ann Viswan",
-        "organization": "NCBS", 
+        "organization": "NCBS",
         "email": "surbhitw@instem.res.in, nishaav@ncbs.res.in",
         "source": {
-            "sourceType": "paper", 
-            "PMID": 8034568, 
-            "authors": "Sette C., Vicini E. & Conti M.", 
-            "journal": "J Biol Chem, ", 
-            "year": 1994, 
+            "sourceType": "paper",
+            "PMID": 8034568,
+            "authors": "Sette C., Vicini E. & Conti M.",
+            "journal": "J Biol Chem, ",
+            "year": 1994,
             "figure": ""
-        }, 
-        "testModel": "Models/synSynth7_FMRP_19Dec2019.g", 
+        },
+        "testModel": "Models/synSynth7_FMRP_19Dec2019.g",
         "testMap": "Models/synSynth7_FMRP_20Dec2019.json"
-    }, 
+    },
     "Experiment": {
-        "design": "TimeSeries", 
-        "species": "in-vitro", 
-        "cellType": "Soluble extracts from MA-10 cells transfected with rat PDE cDNAs.", 
-        "temperature": 34, 
+        "design": "TimeSeries",
+        "species": "in-vitro",
+        "cellType": "Soluble extracts from MA-10 cells transfected with rat PDE cDNAs.",
+        "temperature": 34,
         "notes": "1ug/ml of PKA inhibitor"
-    }, 
+    },
     "Stimuli": [
         {
-            "timeUnits": "min", 
-            "quantityUnits": "uM", 
-            "entity": "aPKA", 
-            "field": "conc", 
+            "timeUnits": "min",
+            "quantityUnits": "uM",
+            "entity": {
+                "name": "aPKA",
+                "alias": "aPKA"
+            },
+            "field": "conc",
             "data": [
                 [
-                    6, 
+                    6,
                     0.01
                 ]
             ]
         }
-    ], 
+    ],
     "Readouts": {
-        "timeUnits": "min", 
-        "settleTime": 16, 
-        "quantityUnits": "ratio", 
-        "entities": [
-            "AMP"
-        ], 
-        "field": "conc", 
+        "timeUnits": "min",
+        "quantityUnits": "ratio",
+        "entity": {
+            "name": "AMP",
+            "alias": "AMP"
+        },
+        "field": "conc",
         "normalization": {
-            "sampling": "presetTime", 
-            "entities": [
-                "AMP"
-            ], 
-            "time": 16
-        }, 
+            "sampling": "presetTime",
+            "entity": {
+                "name": "AMP"
+            },
+            "sampTime": 16
+        },
         "data": [
             [
-                0, 
-                0, 
+                0,
+                0,
                 0
-            ], 
+            ],
             [
-                2, 
-                0.162, 
+                2,
+                0.162,
                 0
-            ], 
+            ],
             [
-                4, 
-                0.294, 
+                4,
+                0.294,
                 0
-            ], 
+            ],
             [
-                6, 
-                0.406, 
+                6,
+                0.406,
                 0
-            ], 
+            ],
             [
-                8, 
-                0.519, 
+                8,
+                0.519,
                 0
-            ], 
+            ],
             [
-                10, 
-                0.638, 
+                10,
+                0.638,
                 0
-            ], 
+            ],
             [
-                12, 
-                0.763, 
+                12,
+                0.763,
                 0
-            ], 
+            ],
             [
-                14, 
-                0.875, 
+                14,
+                0.875,
                 0
-            ], 
+            ],
             [
-                16, 
-                1, 
+                16,
+                1,
                 0
             ]
         ]
-    }, 
+    },
     "Modifications": {
         "subset": [
-            "PKA_g", 
-            "b2AR_g", 
-            "PDE_g", 
-            "AC_g"
-        ], 
+            {
+                "name": "PKA_g"
+            },
+            {
+                "name": "b2AR_g"
+            },
+            {
+                "name": "PDE_g"
+            },
+            {
+                "name": "AC_g"
+            }
+        ],
         "parameterChange": [
             {
-                "units": "mM", 
-                "field": "concInit", 
-                "value": 0.2, 
-                "entity": "ATP"
-            }, 
+                "entity": {
+                    "name": "ATP",
+                    "alias": "ATP"
+                },
+                "field": "concInit",
+                "value": 0.2,
+                "units": "mM"
+            },
             {
-                "units": "mM", 
-                "field": "concInit", 
-                "value": 0.0, 
-                "entity": "AMP"
-            }, 
+                "entity": {
+                    "name": "AMP"
+                },
+                "field": "concInit",
+                "value": 0.0,
+                "units": "mM"
+            },
             {
-                "entity": "aPKA",
-                "field": "isBuffered", 
-                "value": 1, 
+                "entity": {
+                    "name": "aPKA"
+                },
+                "field": "isBuffered",
+                "value": 1,
                 "units": "none"
-            }, 
+            },
             {
-                "entity": "cAMP",
-                "field": "isBuffered", 
-                "value": 1, 
+                "entity": {
+                    "name": "cAMP",
+                    "alias": "cAMP"
+                },
+                "field": "isBuffered",
+                "value": 1,
                 "units": "none"
-            }, 
+            },
             {
-                "units": "mM", 
-                "field": "concInit", 
-                "value": 0.001, 
-                "entity": "cAMP"
-            }, 
+                "entity": {
+                    "name": "cAMP"
+                },
+                "field": "concInit",
+                "value": 0.001,
+                "units": "mM"
+            },
             {
-                "units": "mM", 
-                "field": "concInit", 
-                "value": 0.0042, 
-                "entity": "PKA_inhibitor"
+                "entity": {
+                    "name": "PKA_inhibitor",
+                    "alias": "PKA_inhibitor"
+                },
+                "field": "concInit",
+                "value": 0.0042,
+                "units": "mM"
             }
         ]
     }

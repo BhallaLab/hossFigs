@@ -1,4 +1,11 @@
-Level 1 --- Init Score: 0.458   OptimizedScore 0.444       Time: 12.198 s
-Written to file OPT_D4_EGFR_SLSQP/opt.g
-OPT_D4_EGFR_SLSQP/opt.g: flat: Init Score 0.499, Final = 0.444, Time = 13.058s
-Warning: runDoser: Normalization3 failed due to zero denominator:  8.248314613157518e-33
+Level 1 --- Init Score: 0.476   OptimizedScore 0.489       Time: 6.676 s
+writeKkit: /model, OPT_D4_EGFR_SLSQP/opt.g
+OPT_D4_EGFR_SLSQP/opt.g: flat: Init Score 0.514, Final = 0.489, Time = 7.626s
+parseAndRun ./EGFR_Expts/Tucker1993_Fig7_pkScale.json: Normalization2 denom=8.4e-22 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Queipo2018_Fig2_pkScale.json: Normalization2 denom=8.12e-22 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Tang2015_Fig4D.json: Normalization3 denom=8.22e-23 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+RunDoser ./EGFR_Expts/Abe2000_Fig1A.json: Normalization3 denom=7.06e-23 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Gu2004_Fig3B.json: Normalization2 denom=4.01e-22 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Abe2000_Fig1B.json: Normalization2 denom=4.01e-22 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/Shah2003_Fig1B_pkScale.json: Normalization2 denom=7.72e-22 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc
+parseAndRun ./EGFR_Expts/ZhouY2010_Fig3C_pkScale.json: Normalization2 denom=4.54e-22 for {'name': 'aMAPK', 'alias': 'aMAPK'}.conc

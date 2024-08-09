@@ -1,9 +1,0 @@
-Level 1 --- Init Score: 0.337   OptimizedScore 0.332       Time: 219.813 s
-Written to file OPT_D4_EGFR_COBYLA/opt.g
-OPT_D4_EGFR_COBYLA/opt.g: flat: Init Score 0.395, Final = 0.331, Time = 220.613s
-Level 1 --- Init Score: 0.331   OptimizedScore 0.331       Time: 69.631 s
-Written to file OPT_D4_EGFR_COBYLA/opt.g
-OPT_D4_EGFR_COBYLA/opt.g: flat: Init Score 0.391, Final = 0.331, Time = 70.384s
-Level 1 --- Init Score: 0.331   OptimizedScore 0.330       Time: 165.204 s
-Written to file OPT_D4_EGFR_COBYLA/opt.g
-OPT_D4_EGFR_COBYLA/opt.g: flat: Init Score 0.390, Final = 0.330, Time = 166.033s

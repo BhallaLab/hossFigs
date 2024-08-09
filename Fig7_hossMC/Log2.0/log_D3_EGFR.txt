@@ -1,35 +1,53 @@
-........................................................................................................................................................................................................Warning: Initial value 4.438e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-..Warning: Initial value 3.984e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 4.411e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-......................................Warning: Initial value 4.673e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 3.208e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 1.446e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-.Warning: Initial value 2.414e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 4.663e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-.......................................Warning: Initial value 1.822e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 4.694e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 3.687e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 4.213e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-.Warning: Initial value 3.414e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 4.163e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-.......................................Warning: Initial value 4.905e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 4.435e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 3.416e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 4.446e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 3.444e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 3.65e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-.Warning: Initial value 4.779e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 4.703e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-.......................................Warning: Initial value 4.675e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 4.408e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 3.296e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 4.587e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 4.893e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-Warning: Initial value 4.899e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
-........................................
-final Score for topN000 = 0.200
-final Score for topN001 = 0.201
-final Score for topN002 = 0.208
+........................................................................................................................................................................................................Warning: Initial value 3.122e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 2.371e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 3.573e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 2.439e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.247e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 1.641e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.321e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.266e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+........................................Warning: Initial value 4.547e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 2.083e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 3.274e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 1.431e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.252e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 2.157e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 3.231e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.908e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+..Warning: Initial value 3.784e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.666e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+......................................Warning: Initial value 2.395e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.146e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.016e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 3.138e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 2.282e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 2.881e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.744e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.027e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.211e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+........................................Warning: Initial value 4.544e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 3.523e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 3.815e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.9e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.233e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 3.697e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 3.775e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+........................................Warning: Initial value 2.753e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.452e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.36e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 3.71e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 1.338e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 3.144e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.621e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 3.353e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 3.931e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 3.171e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+Warning: Initial value 4.748e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+..Warning: Initial value 2.994e-05 of parameter aMAPK.KA is outside specified bounds 5e-05 to 0.001
+......................................
+final Score for topN000 = 0.208
+final Score for topN001 = 0.210
+final Score for topN002 = 0.212
 final Score for topN003 = 0.212
 final Score for topN004 = 0.212
-L2.json: hossMC: Init Score 0.219, Final = 0.200, Time = 502.936s
+L2.json: hossMC: Init Score 0.258, Final = 0.208, Time = 510.197s

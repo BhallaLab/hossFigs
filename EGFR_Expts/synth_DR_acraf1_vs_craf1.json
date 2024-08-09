@@ -1,6 +1,6 @@
 {
     "FileType": "FindSim",
-    "Version": "1.0",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "bhalla",
         "organization": "OpenSource",
@@ -20,7 +20,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "uM",
-            "entity": "craf1",
+            "entity": {
+                "name": "craf1",
+                "alias": "craf1"
+            },
             "field": "conc"
         }
     ],
@@ -28,9 +31,10 @@
         "timeUnits": "sec",
         "quantityUnits": "uM",
         "settleTime": 380.42,
-        "entities": [
-            "acraf1"
-        ],
+        "entity": {
+            "name": "acraf1",
+            "alias": "acraf1"
+        },
         "field": "conc",
         "data": [
             [
@@ -93,19 +97,26 @@
     "Modifications": {
         "parameterChange": [
             {
-                "entity": "craf1",
+                "entity": {
+                    "name": "craf1"
+                },
                 "field": "isBuffered",
                 "value": 1,
                 "units": "none"
             },
             {
-                "entity": "aRas",
+                "entity": {
+                    "name": "aRas",
+                    "alias": "aRas"
+                },
                 "field": "isBuffered",
                 "value": 1,
                 "units": "none"
             },
             {
-                "entity": "aRas",
+                "entity": {
+                    "name": "aRas"
+                },
                 "field": "concInit",
                 "value": 3.596e-06,
                 "units": "mM"

@@ -2,7 +2,7 @@
 	"FileType": "Hoss",
 	"Version": "2.0",
 	"author": "Nisha Ann Viswan",
-	"model": "Models/b2AR_PKA_v5.g",
+	"model": "Models/D4_model_b2AR_v6.g",
 	"map": "Maps/D4_map_b2AR.json",
 	"exptDir": "./b2AR_Expts",
 	"outputDir": "./OPTIMIZED",
@@ -24,10 +24,10 @@
 					"Tran2007_Fig2B.json": {"weight": 100}
 					},
 				"params": [ 
-						"Iso_bind_b2AR.Kd", "Iso_bind_b2AR.Kd", 
-						"Iso_bind_RGs.tau" , "Iso_bind_RGs.tau",
-						"LR_bind_GsGDP.Kf", "LR_bind_GsGDP.Kb",
-						"R_bind_GsGDP.Kf", "R_bind_GsGDP.Kb"
+						"Iso+b2AR.Kd", "Iso+b2AR.Kd", 
+						"Iso+RGs.tau" , "Iso+RGs.tau",
+						"LR+GsGDP.Kf", "LR+GsGDP.Kb",
+						"R+GsGDP.Kf", "R+GsGDP.Kb"
 				],
 				"resultFile": "b2AR_L1_opt.txt",
 				"optModelFile": "b2AR_L1_opt.g"
@@ -45,12 +45,12 @@
 				"params": [
 						"CaM.concInit",
 						"ng.concInit",
-						"CaM_bind_Ca.Kd", "CaM_bind_Ca.tau",
-						"CaMCa_bind_Ca.Kd", "CaMCa_bind_Ca.tau",
-						"CaMCa2_bind_Ca.Kd", "CaMCa2_bind_Ca.tau",
-						"CaMCa3_bind_Ca.Kd", "CaMCa3_bind_Ca.tau",
+						"CaM+Ca.Kd", "CaM+Ca.tau",
+						"CaMCa+Ca.Kd", "CaMCa+Ca.tau",
+						"CaMCa2+Ca.Kd", "CaMCa2+Ca.tau",
+						"CaMCa3+Ca.Kd", "CaMCa3+Ca.tau",
 						"CaM_ng_deph.Kf",
-						"ng_bind_CaM.Kd", "ng_bind_CaM.tau"
+						"ng+CaM.Kd", "ng+CaM.tau"
 				],
 				"resultFile": "b2AR_L1_CaM.txt",
 				"optModelFile": "b2AR_L1_CaM.g"
@@ -98,10 +98,10 @@
 						"AC2Gs_form_cAMP.Km", "AC2Gs_form_cAMP.kcat", 
 						"AC1Gs_form_cAMP.Km", "AC1Gs_form_cAMP.kcat", 
 						"AC2pGs_form_cAMP.Km", "AC2pGs_form_cAMP.kcat", 
-						"CaM_bind_AC1.Kd", "CaM_bind_AC1.tau",  
-						"Gs_bind_AC2.Kd", "Gs_bind_AC2.tau", 
-						"Gs_bind_AC1.Kd", "Gs_bind_AC1.tau", 
-						"Gs_bind_AC2p.Kd", "Gs_bind_AC2p.tau" ],
+						"CaMCa4+AC1.Kd", "CaMCa4+AC1.tau",  
+						"Gs+AC2.Kd", "Gs+AC2.tau", 
+						"Gs+AC1.Kd", "Gs+AC1.tau", 
+						"Gs+AC2p.Kd", "Gs+AC2p.tau" ],
 				"resultFile": "b2AR_L3_AC.txt",
 				"optModelFile": "b2AR_L3_AC.g"
 			},
@@ -113,10 +113,10 @@
 					"Sette1996_Fig2B.json": {"weight": 100}
 					},
 				"params": [ 
-						"CaM_bind_PDE1.Kd", 
-						"CaM_PDE1_enz.Km", "CaM_PDE1_enz.kcat", 
-						"cAMP_PDE1_enz.Km", "cAMP_PDE1_enz.kcat", 
-						"cAMP_PDE_p_enz.Km", "cAMP_PDE_p_enz.kcat", 
+						"CaMCa4+PDE1.Kd", 
+						"CaMCa4+ePDE.Km", "CaMCa4+ePDE.kcat", 
+						"ePDE+cAMP.Km", "ePDE+cAMP.kcat", 
+						"ePDEp+cAMP.Km", "ePDEp+cAMP.kcat", 
 						"phosph_PDE.Km", "phosph_PDE.kcat",
 						"dephosph_PDE.Kf"
 						],
@@ -138,10 +138,10 @@
 					"Wolter2011_Fig2A.json": {"weight": 37}
 				},
 				"params": [
-						"cAMP_bind_site_B1.Kd", "cAMP_bind_site_B1.tau", 
-						"cAMP_bind_site_B2.Kd", "cAMP_bind_site_B2.tau", 
-						"cAMP_bind_site_A1.Kd", "cAMP_bind_site_A1.tau", 
-						"cAMP_bind_site_A2.Kd", "cAMP_bind_site_A2.tau", 
+						"R2C2+cAMP.Kd", "R2C2+cAMP.tau", 
+						"R2C2cAMP+cAMP.Kd", "R2C2cAMP+cAMP.tau", 
+						"R2C2cAMP2+cAMP.Kd", "R2C2cAMP2+cAMP.tau", 
+						"R2C2cAMP3+cAMP.Kd", "R2C2cAMP2+cAMP.tau", 
 						"Release_C1.Kd", "Release_C1.tau", 
 						"Release_C2.Kd", "Release_C2.tau"],
 				"resultFile": "b2AR_L4_PKA.txt",

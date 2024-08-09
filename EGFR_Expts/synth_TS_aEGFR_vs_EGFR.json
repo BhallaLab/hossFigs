@@ -1,6 +1,6 @@
 {
     "FileType": "FindSim",
-    "Version": "1.0",
+    "Version": "2.0",
     "Metadata": {
         "transcriber": "bhalla",
         "organization": "OpenSource",
@@ -20,7 +20,10 @@
         {
             "timeUnits": "sec",
             "quantityUnits": "uM",
-            "entity": "EGFR",
+            "entity": {
+                "name": "EGFR",
+                "alias": "EGFR"
+            },
             "field": "conc",
             "data": [
                 [
@@ -41,9 +44,10 @@
     "Readouts": {
         "timeUnits": "sec",
         "quantityUnits": "uM",
-        "entities": [
-            "aEGFR"
-        ],
+        "entity": {
+            "name": "aEGFR",
+            "alias": "aEGFR"
+        },
         "field": "conc",
         "data": [
             [
@@ -176,7 +180,9 @@
     "Modifications": {
         "parameterChange": [
             {
-                "entity": "EGFR",
+                "entity": {
+                    "name": "EGFR"
+                },
                 "field": "isBuffered",
                 "value": 1,
                 "units": "none"
