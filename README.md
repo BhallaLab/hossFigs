@@ -3,7 +3,7 @@
 Code to generate data for and to plot figures for the paper 
 "Hierarchical optimization of biochemical networks"
 
-by Viswan, Tribut, Gasparian, Radulescu and Bhalla.
+by Viswan, Tribut, Gasparyan, Radulescu and Bhalla.
 
 It is on bioRxiv at doi: https://doi.org/10.1101/2024.08.06.606818
 
