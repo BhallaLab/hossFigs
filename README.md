@@ -5,7 +5,8 @@ Code to generate data for and to plot figures for the paper
 
 by Viswan, Tribut, Gasparyan, Radulescu and Bhalla.
 
-It is on bioRxiv at doi: https://doi.org/10.1101/2024.08.06.606818
+It is on bioRxiv at doi: 
+[https://doi.org/10.1101/2024.08.06.606818](https://doi.org/10.1101/2024.08.06.606818)
 
 while it goes through the review process.
 
